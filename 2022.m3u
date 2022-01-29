@@ -3585,19 +3585,7 @@ https://v2.tustreaming.cl/vozdepoder/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png group-title="RELIGIOSOS", XTO TV | BO
 https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0,-PELICULAS-
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2991/2991552.png" group-title="PELICULAS" ,•●★-- PELICULAS --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41TmpCJLugL.png" group-title="PELICULAS",EL OYO
-https://www.dropbox.com/s/raw/uzbxcuix97l912n/El_hoyo.ts
-#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41TmpCJLugL.png" group-title="PELICULAS",SIN NOMBRE
-https://www.dropbox.com/s/raw/y6bi237any971bm/9C2908CBDE1642EA98DD782808083C1D_media.ts
-#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41TmpCJLugL.png" group-title="PELICULAS",IMPUDICA
-https://www.dropbox.com/s/raw/5z8wfsh36pw1gqh/Imp%C3%BAdica.mp4
-#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41TmpCJLugL.png" group-title="PELICULAS",MATRIX
-https://vod-normal-global-cdn-z02.afreecatv.com/v101/afflv14/_definst_/mp4:save/afreeca/station/2021/1222/22/1640181389989970.mp4/playlist.m3u8
 
 
 
