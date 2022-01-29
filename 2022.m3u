@@ -1606,8 +1606,6 @@ https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://www.m3u.cl/logo/37_Canal_38.png"  group-title="ENTRETENIMIENTO" , Canal 38 | CR
 https://rtmp.info/canal38/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png"  group-title="ENTRETENIMIENTO" , Carolina TV | CL
-https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png"  group-title="ENTRETENIMIENTO" , Conecta TV | MX
 https://stream8.mexiserver.com:443/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://www.m3u.cl/logo/18_Corazon_Llanero.png"  group-title="ENTRETENIMIENTO" , Corazon Llanero | VE
@@ -1678,8 +1676,6 @@ https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8
 https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8
 #EXTINF:-1 tvg-id="954" tvg-name="MCRT Top Hits" tvg-logo="https://www.m3u.cl/logo/954_MCRT_Top_Hits.png"  group-title="ENTRETENIMIENTO" , MCRT Top Hits | CA
 https://stmv.negotv.com/top2021/top2021/playlist.m3u8
-#EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://www.m3u.cl/logo/387_Zona_Play_Radio.jpg"  group-title="ENTRETENIMIENTO" , Zona Play Radio | CL
-https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://www.m3u.cl/logo/786_Tributo_Valentina.png"  group-title="ENTRETENIMIENTO" , Tributo Valentina | CL
 https://vdohd.cl:1936/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-id="964" tvg-name="Tierras Blancas TV" tvg-logo="https://www.m3u.cl/logo/964_Tierras_Blancas_TV.png"  group-title="ENTRETENIMIENTO" , Tierras Blancas TV | CL
@@ -3071,7 +3067,10 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 
 #EXTINF:-1 tvg-logo="https://images.emojiterra.com/google/android-11/512px/1f4fb.png" group-title="RADIOS" ,•●★-- RADIOS --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
+#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png"  group-title="RADIOS" , Carolina TV | CL
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://www.m3u.cl/logo/387_Zona_Play_Radio.jpg"  group-title="RADIOS" , Zona Play Radio | CL
+https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="974" tvg-name="Patagonia Radio TV" tvg-logo="https://www.m3u.cl/logo/974_Patagonia_Radio_TV.png"  group-title="RADIOS" , Patagonia Radio TV | CL
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="RADIOS" , Conecta2 TV | CL
