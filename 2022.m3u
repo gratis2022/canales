@@ -1527,6 +1527,8 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="ENTRETENIMIENTO" , G Vision | CL
 https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
+#EXTINF:-1 tvg-id="415" tvg-name="Pura Noticia" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png"  group-title="ENTRETENIMIENTO" , Pura Noticia | CL
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="ENTRETENIMIENTO" , Wapp | CL
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="Arab TV" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png"  group-title="ENTRETENIMIENTO" , Arab TV | CL
@@ -3134,8 +3136,6 @@ https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8
 https://paneltv.online:1936/8096/8096/playlist.m3u8
 #EXTINF:-1 tvg-id="393" tvg-name="Radio Actitud" tvg-logo="https://www.m3u.cl/logo/393_Radio_Actitud.png"  group-title="RADIOS" , Radio Actitud | CL
 https://593b04c4c5670.streamlock.net/8020/8020/playlist.m3u8
-#EXTINF:-1 tvg-id="415" tvg-name="Pura Noticia" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png"  group-title="RADIOS" , Pura Noticia | CL
-https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="407" tvg-name="Preludio TV" tvg-logo="https://www.m3u.cl/logo/407_Preludio_TV.png"  group-title="RADIOS" , Preludio TV | CL
 https://5eff35271151c.streamlock.net:1936/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-id="402" tvg-name="Orocoipo" tvg-logo="https://www.m3u.cl/logo/402_Orocoipo.png"  group-title="RADIOS" , Orocoipo | CL
@@ -3204,10 +3204,6 @@ https://unlimited1-cl-isp.dps.live/nctv/nctv.smil/playlist.m3u8
 http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
 #EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://www.m3u.cl/logo/173_Escuchame_Radio.png"  group-title="RADIOS" , Escuchame Radio | CL
 https://stmv1.voxtvhd.com.br/escuchame/escuchame/playlist.m3u8
-#EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://www.m3u.cl/logo/159_Canal_ISB.png"  group-title="RADIOS" , Canal ISB | CL
-https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="157" tvg-name="Canal 33" tvg-logo="https://www.m3u.cl/logo/157_Canal_33.png"  group-title="RADIOS" , Canal 33 | CL
-https://5eae379fb77bb.streamlock.net:443/eduardo555/eduardo555/playlist.m3u8
 #EXTINF:-1 tvg-id="899" tvg-name="Volvamos a Dios TV" tvg-logo="https://www.m3u.cl/logo/899_Volvamos_a_Dios_TV."  group-title="RADIOS" , Volvamos a Dios TV | CL
 https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8
 #EXTINF:-1 tvg-id="1008" tvg-name="Cloud FM" tvg-logo="https://www.m3u.cl/logo/1008_Cloud_FM.png"  group-title="RADIOS" , Cloud FM | CL
@@ -3396,6 +3392,10 @@ https://v2.tustreaming.cl/canalsurvision/index.m3u8
 http://mediacpstreamchile.com:1935/canal10artv/canal10artv/playlist.m3u8
 #EXTINF:-1 tvg-id="364" tvg-name="Canal 5 Puerto Montt" tvg-logo="https://www.m3u.cl/logo/364_Canal_5_Puerto_Montt.png"  group-title="REGIONALES" , Canal 5 Puerto Montt | CL
 https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://www.m3u.cl/logo/159_Canal_ISB.png"  group-title="REGIONALES" , Canal ISB | CL
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="Canal 33" tvg-logo="https://www.m3u.cl/logo/157_Canal_33.png"  group-title="REGIONALES" , Canal 33 | CL
+https://5eae379fb77bb.streamlock.net:443/eduardo555/eduardo555/playlist.m3u8
 #EXTINF:-1 tvg-id="365" tvg-name="Canal Chilote" tvg-logo="https://www.m3u.cl/logo/365_Canal_Chilote.png"  group-title="REGIONALES" , Canal Chilote | CL
 https://5eae379fb77bb.streamlock.net:443/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-id="856" tvg-name="Hito Cero TV" tvg-logo="https://www.m3u.cl/logo/856_Hito_Cero_TV.png"  group-title="REGIONALES" , Hito Cero TV | CL
