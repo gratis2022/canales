@@ -1519,10 +1519,6 @@ https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8?PlaylistM3UCL
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1010" tvg-name="UNaM Transmedia" tvg-logo="https://www.m3u.cl/logo/1010_UNaM_Transmedia.png" group-title="ARGENTINA", UNaM Transmedia * | AR
 http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="ARGENTINA", Mundo de la Musica TV * | CL
-https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="ARGENTINA", Retro Plus TV * | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="ARGENTINA", Anime Zone TV | AR
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png" group-title="ARGENTINA", Locomotion | AR
@@ -1772,13 +1768,12 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="PERU" ,•●★-- PERU --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:-1 tvg-id="978" tvg-name="DMJ" tvg-logo="https://www.m3u.cl/logo/978_DMJ.png group-title="PERU", DMJ * | PE
-https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png group-title="PERU", ATV | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://www.m3u.cl/logo/1066_ATV_.png group-title="PERU", ATV+ | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="978" tvg-name="DMJ" tvg-logo="https://www.m3u.cl/logo/978_DMJ.png group-title="PERU", DMJ * | PE
+https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png group-title="PERU", Best Cable Sports | PE
 https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png group-title="PERU", Canal IPE | PE
