@@ -3569,8 +3569,6 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 #EXTINF:-1 tvg-logo="http://www.logo.com.py/imagenes_db/GAL-6828621010_1390810510.jpg" group-title="REGIONALES" ,•●★-- REGIONALES --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
-#EXTINF:-1 tvg-id="1069" tvg-name="Radio Magallanes" tvg-logo="https://www.m3u.cl/logo/1069_Radio_Magallanes.png"  group-title="REGIONALES" , Radio Magallanes 
-https://tv.livestation.stream:1936/magallanes/magallanes/playlist.m3u8
 #EXTINF:-1 tvg-id="1037" tvg-name="Canal SCÑ - San Carlos Ñuble" tvg-logo="https://www.m3u.cl/logo/1037_Canal_SCN___San_Carlos_Nuble.png"  group-title="REGIONALES" , Canal SCÑ - San Carlos Ñuble 
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 #EXTINF:-1 tvg-id="948" tvg-name="San Pedro Conecta" tvg-logo="https://www.m3u.cl/logo/948_San_Pedro_Conecta.png"  group-title="REGIONALES" , San Pedro Conecta 
@@ -3761,6 +3759,8 @@ https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="371" tvg-name="EvaVisión" tvg-logo="https://www.m3u.cl/logo/371_EvaVision.png"  group-title="REGIONALES" , EvaVisión | CL
 https://stmv.panel.mivideo.pro/evatelevision/evatelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="1069" tvg-name="Radio Magallanes" tvg-logo="https://www.m3u.cl/logo/1069_Radio_Magallanes.png"  group-title="REGIONALES" , Radio Magallanes 
+https://tv.livestation.stream:1936/magallanes/magallanes/playlist.m3u8
 #EXTINF:-1 tvg-id="372" tvg-name="Canal Sur Patagonia" tvg-logo="https://www.m3u.cl/logo/372_Canal_Sur_Patagonia.png"  group-title="REGIONALES" , Canal Sur Patagonia | CL
 https://v2.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 #EXTINF:-1 tvg-id="373" tvg-name="PinguinoTV" tvg-logo="https://www.m3u.cl/logo/373_PinguinoTV.png"  group-title="REGIONALES" , PinguinoTV | CL
