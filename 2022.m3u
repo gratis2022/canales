@@ -17,155 +17,7 @@ http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Unimas
 http://162.212.179.22:9981/stream/channelid/358793691?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
 
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESPN
-https://marine2.miplay.cl/espn/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESPN 2
-https://marine2.miplay.cl/espn2/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESPN 3
-https://marine2.miplay.cl/espn3/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESPN EXTRA
-https://marine2.miplay.cl/espnextra/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",24 HORAS
-https://marine2.miplay.cl/24horas/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ANIMAL PLANET
-https://marine2.miplay.cl/animalplanet/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ARIRANG
-https://marine2.miplay.cl/arirang/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",BABY TV
-https://marine2.miplay.cl/babytv/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",BBC WORLD NEWS
-https://marine2.miplay.cl/bbcworldnews/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",CANAL 13
-https://marine2.miplay.cl/canal13/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",CHILEVISION
-https://marine2.miplay.cl/chilevision/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",CINECANAL
-https://marine2.miplay.cl/cinecanal/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",COMEDY CENTRAL
-https://marine2.miplay.cl/comedycentral/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY
-https://marine2.miplay.cl/discovery/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY KIDS
-https://marine2.miplay.cl/discoverykids/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY SCIENCE
-https://marine2.miplay.cl/science/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY TURBO
-https://marine2.miplay.cl/turbo/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISNEY
-https://marine2.miplay.cl/disney/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISNEY JUNIOR
-https://marine2.miplay.cl/disneyjunior/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISNEY XD
-https://marine2.miplay.cl/disneyxd/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FOOD NETWORK
-https://marine2.miplay.cl/foodnetwork/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FRANCE 24
-https://marine2.miplay.cl/france24/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FX MOVIES
-https://marine2.miplay.cl/fxmovies/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HGTV
-https://marine2.miplay.cl/hgtv/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",H&H
-https://marine2.miplay.cl/homeandhealth/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",INVERTIGATION DISCOVERY
-https://marine2.miplay.cl/investigation/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ITV
-https://marine2.miplay.cl/itv/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",KANAL D
-https://marine2.miplay.cl/kanald/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",LA RED
-https://marine2.miplay.cl/lared/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MEGA
-https://marine2.miplay.cl/mega/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MEGA PLUS
-https://marine2.miplay.cl/megaplus/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MTV
-https://marine2.miplay.cl/mtv/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NATGEO
-https://marine2.miplay.cl/natgeo/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NATGEO KIDS
-https://marine2.miplay.cl/natgeokids/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NATGEO KIDS
-https://marine2.miplay.cl/natgeowild/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NHK
-https://marine2.miplay.cl/nhk/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NICKELODEON
-https://marine2.miplay.cl/nickelodeon/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NICK JR
-https://marine2.miplay.cl/nickjr/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NTV
-https://marine2.miplay.cl/ntv/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",PARAMOUNT
-https://marine2.miplay.cl/paramount/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",REC TV
-https://marine2.miplay.cl/rec/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",STARLIFE
-https://marine2.miplay.cl/starlife/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TELEFE
-https://marine2.miplay.cl/telefe/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TLC
-https://marine2.miplay.cl/tlc/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TRACE LATINA
-https://marine2.miplay.cl/tracelatina/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TRACE URBAN
-https://marine2.miplay.cl/traceurban/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TVN
-https://marine2.miplay.cl/tvn/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TVR
-https://marine2.miplay.cl/tvr/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",UCV3
-https://marine2.miplay.cl/ucv3/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ZOOMOO
-https://marine2.miplay.cl/zoomoo/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="PREMIUM",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
@@ -175,50 +27,6 @@ http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 #EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/1144605579245211653/TcPUMMM__200x200.png" group-title="PREMIUM", MTV
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_200x200.jpg" group-title="PREMIUM",DW Español
-http://54.39.49.162:8081/DW/USA%7CDW/playlist.m3u8
-#EXTINF:-1 tvg-name="ES:SOMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="PREMIUM",SOMOS
-http://185.41.244.69/somos/video.m3u8
-#EXTINF:-1 tvg-name="ES:SOMOS" tvg-logo="http://www.panoramaaudiovisual.com/en/wp-content/uploads/2013/01/Cosmopolitan-Tv.png" group-title="PREMIUM",COSMO HD
-http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="PREMIUM",Iberalia
-http://185.41.244.69/iberalia/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="PREMIUM",IBERALIA CAZA
-http://185.41.244.69/iberaliacaza/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="PREMIUM",IBERALIA PESCA
-http://185.41.244.69/iberaliapesca/video.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="PREMIUM",8 MADRID
-http://185.41.244.69/8madrid/video.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="PREMIUM",8MEDITERRÁNEO
-https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0227/playlist.m3u8
-#EXTINF:-1 tvg-name="ES:Blaze" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="PREMIUM",Blaze
-http://185.41.244.69/blaze/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png" group-title="PREMIUM",GLOBAL TELENOVELAS
-http://185.41.244.69/globaltelenovelas/video.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="CERTV.do" tvg-name="Canal 4RD" tvg-logo="https://i.imgur.com/R5PT7yt.png" group-title="PREMIUM",Canal 4RD
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="TELEMICROCanal5.do" tvg-name="Telemicro Canal 5 SD" tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="PREMIUM",Telemicro Canal 5 SD
-http://stream2.grupotelemicro.com:8081/live/55/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="TELEMICROCanal5.do" tvg-name="Telemicro Canal 5 SD" tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="PREMIUM",Telemicro Canal 5 HD
-http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecentro HD (RD)" tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="PREMIUM",Telecentro HD (RD)
-http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432742130.png" group-title="PREMIUM",ESTUDIO-UNIVERSAL
-http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1619656722185.jpg" group-title="PREMIUM", STAR-CINEMA
-http://51.79.18.128:8081/LATINO%7CFOXCINEMA/LATINO%7CFOXCINEMA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602293222276.png" group-title="PREMIUM", CINECANAL
-http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602324109426.jpg" group-title="PREMIUM", GOLDENPLUS
-http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432840128.png" group-title="PREMIUM", SONY-CHANNEL
-http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-id="Cine TV: A&E Full HD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="PREMIUM",A&E
-http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="PREMIUM", CNN EN ESPAÑOL
 https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
@@ -546,6 +354,199 @@ http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_Science/SA_SAGEMCOM/Dis
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MTV
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#EXTINF:-1 tvg-name="ES:Blaze" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="PREMIUM",Blaze
+http://185.41.244.69/blaze/video.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_200x200.jpg" group-title="PREMIUM",DW Español
+http://54.39.49.162:8081/DW/USA%7CDW/playlist.m3u8
+#EXTINF:-1 tvg-name="ES:SOMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="PREMIUM",SOMOS
+http://185.41.244.69/somos/video.m3u8
+#EXTINF:-1 tvg-name="ES:SOMOS" tvg-logo="http://www.panoramaaudiovisual.com/en/wp-content/uploads/2013/01/Cosmopolitan-Tv.png" group-title="PREMIUM",COSMO HD
+http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="PREMIUM",Iberalia
+http://185.41.244.69/iberalia/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="PREMIUM",IBERALIA CAZA
+http://185.41.244.69/iberaliacaza/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="PREMIUM",IBERALIA PESCA
+http://185.41.244.69/iberaliapesca/video.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="PREMIUM",8 MADRID
+http://185.41.244.69/8madrid/video.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="PREMIUM",8MEDITERRÁNEO
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0227/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png" group-title="PREMIUM",GLOBAL TELENOVELAS
+http://185.41.244.69/globaltelenovelas/video.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="CERTV.do" tvg-name="Canal 4RD" tvg-logo="https://i.imgur.com/R5PT7yt.png" group-title="PREMIUM",Canal 4RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="TELEMICROCanal5.do" tvg-name="Telemicro Canal 5 SD" tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="PREMIUM",Telemicro Canal 5 SD
+http://stream2.grupotelemicro.com:8081/live/55/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="TELEMICROCanal5.do" tvg-name="Telemicro Canal 5 SD" tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="PREMIUM",Telemicro Canal 5 HD
+http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro HD (RD)" tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="PREMIUM",Telecentro HD (RD)
+http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432742130.png" group-title="PREMIUM",ESTUDIO-UNIVERSAL
+http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1619656722185.jpg" group-title="PREMIUM", STAR-CINEMA
+http://51.79.18.128:8081/LATINO%7CFOXCINEMA/LATINO%7CFOXCINEMA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602293222276.png" group-title="PREMIUM", CINECANAL
+http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602324109426.jpg" group-title="PREMIUM", GOLDENPLUS
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432840128.png" group-title="PREMIUM", SONY-CHANNEL
+http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine TV: A&E Full HD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="PREMIUM",A&E
+http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESPN
+https://marine2.miplay.cl/espn/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESPN 2
+https://marine2.miplay.cl/espn2/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESPN 3
+https://marine2.miplay.cl/espn3/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESPN EXTRA
+https://marine2.miplay.cl/espnextra/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",24 HORAS
+https://marine2.miplay.cl/24horas/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ANIMAL PLANET
+https://marine2.miplay.cl/animalplanet/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ARIRANG
+https://marine2.miplay.cl/arirang/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",BABY TV
+https://marine2.miplay.cl/babytv/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",BBC WORLD NEWS
+https://marine2.miplay.cl/bbcworldnews/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",CANAL 13
+https://marine2.miplay.cl/canal13/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",CHILEVISION
+https://marine2.miplay.cl/chilevision/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",CINECANAL
+https://marine2.miplay.cl/cinecanal/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",COMEDY CENTRAL
+https://marine2.miplay.cl/comedycentral/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY
+https://marine2.miplay.cl/discovery/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY KIDS
+https://marine2.miplay.cl/discoverykids/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY SCIENCE
+https://marine2.miplay.cl/science/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY TURBO
+https://marine2.miplay.cl/turbo/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISNEY
+https://marine2.miplay.cl/disney/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISNEY JUNIOR
+https://marine2.miplay.cl/disneyjunior/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISNEY XD
+https://marine2.miplay.cl/disneyxd/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FOOD NETWORK
+https://marine2.miplay.cl/foodnetwork/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FRANCE 24
+https://marine2.miplay.cl/france24/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FX MOVIES
+https://marine2.miplay.cl/fxmovies/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HGTV
+https://marine2.miplay.cl/hgtv/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",H&H
+https://marine2.miplay.cl/homeandhealth/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",INVERTIGATION DISCOVERY
+https://marine2.miplay.cl/investigation/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ITV
+https://marine2.miplay.cl/itv/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",KANAL D
+https://marine2.miplay.cl/kanald/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",LA RED
+https://marine2.miplay.cl/lared/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MEGA
+https://marine2.miplay.cl/mega/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MEGA PLUS
+https://marine2.miplay.cl/megaplus/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MTV
+https://marine2.miplay.cl/mtv/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NATGEO
+https://marine2.miplay.cl/natgeo/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NATGEO KIDS
+https://marine2.miplay.cl/natgeokids/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NATGEO KIDS
+https://marine2.miplay.cl/natgeowild/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NHK
+https://marine2.miplay.cl/nhk/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NICKELODEON
+https://marine2.miplay.cl/nickelodeon/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NICK JR
+https://marine2.miplay.cl/nickjr/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NTV
+https://marine2.miplay.cl/ntv/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",PARAMOUNT
+https://marine2.miplay.cl/paramount/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",REC TV
+https://marine2.miplay.cl/rec/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",STARLIFE
+https://marine2.miplay.cl/starlife/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TELEFE
+https://marine2.miplay.cl/telefe/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TLC
+https://marine2.miplay.cl/tlc/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TRACE LATINA
+https://marine2.miplay.cl/tracelatina/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TRACE URBAN
+https://marine2.miplay.cl/traceurban/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TVN
+https://marine2.miplay.cl/tvn/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TVR
+https://marine2.miplay.cl/tvr/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",UCV3
+https://marine2.miplay.cl/ucv3/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ZOOMOO
+https://marine2.miplay.cl/zoomoo/mono.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",STARLIFE sd
 http://45.161.188.242:88/starlife/mono.m3u8
