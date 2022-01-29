@@ -25,8 +25,6 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="PREMIUM", NATGEO
 http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/1144605579245211653/TcPUMMM__200x200.png" group-title="PREMIUM", MTV
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="PREMIUM", CNN EN ESPAÑOL
 https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
@@ -354,6 +352,9 @@ http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_Science/SA_SAGEMCOM/Dis
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MTV
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/1144605579245211653/TcPUMMM__200x200.png" group-title="PREMIUM", MTV
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-name="ES:Blaze" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="PREMIUM",Blaze
 http://185.41.244.69/blaze/video.m3u8
