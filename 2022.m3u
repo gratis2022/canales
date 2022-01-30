@@ -3395,7 +3395,7 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 
 #EXTINF:0,-RELIGIOSOS-
 
-#EXTINF:-1 tvg-logo="http://www.logo.com.py/imagenes_db/GAL-6828621010_1390810510.jpg" group-title="RELIGIOSOS" ,•●★-- RELIGIOSOS --★●•
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2367/2367921.png" group-title="RELIGIOSOS" ,•●★-- RELIGIOSOS --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="805" tvg-name="Radio Unido Al Cielo" tvg-logo="https://www.m3u.cl/logo/805_Radio_Unido_Al_Cielo.webp group-title="RELIGIOSOS", Radio Unido Al Cielo * | CL
