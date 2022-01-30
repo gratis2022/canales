@@ -2029,7 +2029,7 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8?PlaylistM3
 
 #EXTINF:0,-PERU-
 
-#EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="PERU" ,•●★-- PERU --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/270px-Flag_of_Peru_%28state%29.svg.png" group-title="PERU" ,•●★-- PERU --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png group-title="PERU", ATV | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
@@ -2102,7 +2102,7 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 
 #EXTINF:0,-COLOMBIA-
 
-#EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="COLOMBIA" ,•●★-- COLOMBIA --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/200px-Flag_of_Colombia.svg.png" group-title="COLOMBIA" ,•●★-- COLOMBIA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="766" tvg-name="HD Latam" tvg-logo="https://www.m3u.cl/logo/766_HD_Latam.jpg  group-title="COLOMBIA", HD Latam * | CO
@@ -2180,7 +2180,7 @@ http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-ECUADOR-
 
-#EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ECUADOR" ,•●★-- ECUADOR --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Ecuador_%281900%E2%80%932009%29.svg/300px-Flag_of_Ecuador_%281900%E2%80%932009%29.svg.png" group-title="ECUADOR" ,•●★-- ECUADOR --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="1036" tvg-name="Red TVE Ventana" tvg-logo="https://www.m3u.cl/logo/1036_Red_TVE_Ventana.png  group-title="ECUADOR", Red TVE Ventana * | EC
@@ -2214,7 +2214,7 @@ https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-BOLIVIA-
 
-#EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="BOLIVIA" ,•●★-- BOLIVIA --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/264px-Bandera_de_Bolivia_%28Estado%29.svg.png" group-title="BOLIVIA" ,•●★-- BOLIVIA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="88" tvg-name="ATB" tvg-logo="https://www.m3u.cl/logo/88_ATB.png  group-title="BOLIVIA", ATB | BO
@@ -2237,7 +2237,7 @@ https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-VENEZUELA-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="VENEZUELA" ,•●★-- VENEZUELA --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/200px-Flag_of_Venezuela.svg.png" group-title="VENEZUELA" ,•●★-- VENEZUELA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png group-title="VENEZUELA", Nubeh TV * | VE
@@ -2288,7 +2288,7 @@ https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist
 
 #EXTINF:0,-PARAGUAY-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="PARAGUAY" ,•●★-- PARAGUAY --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/328px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY" ,•●★-- PARAGUAY --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://www.m3u.cl/logo/807_LIM_TV.jpg group-title="PARAGUAY", LIM TV * | PY
@@ -2332,7 +2332,7 @@ https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?Playlis
 
 #EXTINF:0,-MEXICO-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="MEXICO" ,•●★-- MEXICO --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="MEXICO" ,•●★-- MEXICO --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png group-title="MEXICO", Conecta TV * | MX
@@ -2432,7 +2432,7 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 
 #EXTINF:0,-REPUBLICA DOMINICANA-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="REPUBLICA DOMINICANA" ,•●★-- REPUBLICA DOMINICANA --★●•
+#EXTINF:-1 tvg-logo="https://images.visitarepublicadominicana.org/bandera-de-republica-dominicana.jpg" group-title="REPUBLICA DOMINICANA" ,•●★-- REPUBLICA DOMINICANA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="781" tvg-name="Elias Piña TV" tvg-logo="https://www.m3u.cl/logo/781_Elias_Pina_TV.png group-title="REPUBLICA DOMINICANA", Elias Piña TV * | DO
@@ -2582,7 +2582,7 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-COSTA RICA-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="COSTA RICA" ,•●★-- COSTA RICA --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/200px-Flag_of_Costa_Rica_%28state%29.svg.png" group-title="COSTA RICA" ,•●★-- COSTA RICA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="1060" tvg-name="Canal 11" tvg-logo="https://www.m3u.cl/logo/1060_Canal_11..png  group-title="COSTA RICA", Canal 11 | CR
@@ -2636,7 +2636,7 @@ https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-ESPANA-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="ESPANA" ,•●★-- ESPANA --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/200px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" group-title="ESPANA" ,•●★-- ESPANA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png  group-title="ESPANA", Urban TV * | ES
@@ -2748,7 +2748,7 @@ https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m
 
 #EXTINF:0,-BRASIL-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="BRASIL" ,•●★-- BRASIL --★●•
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/300px-Flag_of_Brazil.svg.png" group-title="BRASIL" ,•●★-- BRASIL --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="524" tvg-name="TV Grande Natal HDTV" tvg-logo="https://www.m3u.cl/logo/524_TV_Grande_Natal_HDTV.jpg  group-title="BRASIL", TV Grande Natal HDTV * | BR
@@ -2884,7 +2884,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?Playl
 
 #EXTINF:0,-MUSICA-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="MUSICA" ,•●★-- MUSICA --★●•
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1987/1987997.png" group-title="MUSICA" ,•●★-- MUSICA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png group-title="MUSICA", Rewind TV * | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
@@ -3041,7 +3041,7 @@ https://live.tvcontrolcp.com:1936/goodstocktv/goodstocktv/playlist.m3u8?Playlist
 
 #EXTINF:0,-VIDEOMIX-
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="VIDEOMIX" ,•●★-- VIDEOMIX --★●•
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROsqlg5DzBKbhIR6C3AuXrogELMZGE4Iq4NwVBTdLHAi_2P51uCkGAmmu8kERDX9cU0Dw&usqp=CAU" group-title="VIDEOMIX" ,•●★-- VIDEOMIX --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="VIDEOMIX",The 80s Videomix Volume 1 
