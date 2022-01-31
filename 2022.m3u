@@ -2066,19 +2066,19 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="ATB" tvg-logo="https://www.m3u.cl/logo/88_ATB.png"   group-title="BOLIVIA", ATB | BO
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="981" tvg-name="Bolivia TV 7.2" tvg-logo="https://www.m3u.cl/logo/981_Bolivia_TV_7_2.png  group-title="BOLIVIA", Bolivia TV 7.2 | BO
+#EXTINF:-1 tvg-id="981" tvg-name="Bolivia TV 7.2" tvg-logo="https://www.m3u.cl/logo/981_Bolivia_TV_7_2.png"  group-title="BOLIVIA", Bolivia TV 7.2 | BO
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="980" tvg-name="Megavision Santa Cruz" tvg-logo="https://www.m3u.cl/logo/980_Megavision_Santa_Cruz.png  group-title="BOLIVIA", Megavision Santa Cruz | BO
+#EXTINF:-1 tvg-id="980" tvg-name="Megavision Santa Cruz" tvg-logo="https://www.m3u.cl/logo/980_Megavision_Santa_Cruz.png"  group-title="BOLIVIA", Megavision Santa Cruz | BO
 https://livefocamundo.com:8081/megavisiontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="90" tvg-name="PAT" tvg-logo="https://www.m3u.cl/logo/90_PAT.png  group-title="BOLIVIA", PAT | BO
+#EXTINF:-1 tvg-id="90" tvg-name="PAT" tvg-logo="https://www.m3u.cl/logo/90_PAT.png"  group-title="BOLIVIA", PAT | BO
 https://master.tucableip.com/pat/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="92" tvg-name="Red AD Venir Internacional" tvg-logo="https://www.m3u.cl/logo/92_Red_AD_Venir_Internacional.png  group-title="BOLIVIA", Red AD Venir Internacional | BO
+#EXTINF:-1 tvg-id="92" tvg-name="Red AD Venir Internacional" tvg-logo="https://www.m3u.cl/logo/92_Red_AD_Venir_Internacional.png"  group-title="BOLIVIA", Red AD Venir Internacional | BO
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://www.m3u.cl/logo/93_RTP.png  group-title="BOLIVIA", RTP | BO
+#EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://www.m3u.cl/logo/93_RTP.png"  group-title="BOLIVIA", RTP | BO
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png  group-title="BOLIVIA", TV HD Tropical | BO
+#EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png"  group-title="BOLIVIA", TV HD Tropical | BO
 https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png  group-title="BOLIVIA", XTO TV | BO
+#EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png"  group-title="BOLIVIA", XTO TV | BO
 https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-VENEZUELA-
