@@ -1394,6 +1394,8 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306624/images/logod.png" group-title="ENTRETENIMIENTO",RT Noticias
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png" group-title="ENTRETENIMIENTO",Hispan Tv
+https://live1.presstv.ir/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="ENTRETENIMIENTO",DW español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Estrella_TV_%282009_Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210509222436" group-title="ENTRETENIMIENTO",Estrella Tv
