@@ -1629,7 +1629,7 @@ https://marine2.miplay.cl/canal13/mono.m3u8
 https://marine2.miplay.cl/chilevision/mono.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
 https://marine2.miplay.cl/lared/mono.m3u8
-#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png" group-title="CHILE", Mega | CL
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL
 https://marine2.miplay.cl/mega/mono.m3u8
 #EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",Mega plus | CL
 https://marine2.miplay.cl/megaplus/mono.m3u8
@@ -1644,7 +1644,7 @@ http://181.78.22.214:8000/play/a01x
 
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png" group-title="CHILE", Mega | CL
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE",Tv Chile | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv.m3u8
