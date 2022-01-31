@@ -1359,18 +1359,8 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="ENTRETENIMIENTO",Pluto Tv Film
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
-#EXTINF:0 tvg-logo="http://www.estaciontv.cl/site/templates/rt_callisto/images/logo/logo.png?5d378a60" group-title="ENTRETENIMIENTO",Estacion Tv
-http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="ENTRETENIMIENTO", Orbit Tv
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="ENTRETENIMIENTO",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tvtaltal.cl/wp-content/uploads/2019/10/NEW-LOGO-HD.png" group-title="ENTRETENIMIENTO" , Tal Tal Documentales 
-http://inliveserver.com:1935/10018/10018/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="ENTRETENIMIENTO",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/168-1682719_dj-anime-logo-png-transparent-png.png" group-title="ENTRETENIMIENTO",Anime Loving
-http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="ENTRETENIMIENTO",HD Fashion y Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="ENTRETENIMIENTO", Fashion Tv
