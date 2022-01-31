@@ -1381,8 +1381,6 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",Estrella Tv
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.elcompositorhabla.com/corps/elcompositorhabla/data/resources/image/Quedate%20en%20casa/quedatencasa.png" group-title="ENTRETENIMIENTO",Tv Educa Chile
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="ENTRETENIMIENTO",Pluto Tv Film
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="ENTRETENIMIENTO",Rec Online TV
@@ -1397,8 +1395,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://www.m3u.cl/logo/1058_Spectrum_Channel.png"  group-title="ENTRETENIMIENTO" , Spectrum Channel 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
-#EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png"  group-title="ENTRETENIMIENTO" , Latinos Radio 
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ENTRETENIMIENTO" , EnerGeek 
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png"  group-title="ENTRETENIMIENTO" , RCKTV 
@@ -1413,10 +1409,6 @@ http://v2.tustreaming.cl:80/visionplustv/index.m3u8
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO" , HiperTV 
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://www.m3u.cl/logo/1005_Onda_Radio_TV.png"  group-title="ENTRETENIMIENTO" , Onda Radio TV 
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
-#EXTINF:-1 tvg-id="1004" tvg-name="Ritmo TV" tvg-logo="https://www.m3u.cl/logo/1004_Ritmo_TV.png"  group-title="ENTRETENIMIENTO" , Ritmo TV 
-https://5eff35271151c.streamlock.net:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="985" tvg-name="Batalla de Gallos" tvg-logo="https://www.m3u.cl/logo/985_Batalla_de_Gallos.png"  group-title="ENTRETENIMIENTO" , Batalla de Gallos 
 https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8
 #EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://www.m3u.cl/logo/987_Emocion_TV.png"  group-title="ENTRETENIMIENTO" , Emocion TV 
@@ -1722,6 +1714,8 @@ https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/908_Convencion_Constitucional.png" group-title="CHILE", Convencion Constitucional | CL
 https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.elcompositorhabla.com/corps/elcompositorhabla/data/resources/image/Quedate%20en%20casa/quedatencasa.png" group-title="CHILE",Tv Educa Chile
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-ARGENTINA-
 
@@ -2813,6 +2807,12 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 
 #EXTINF:-1 tvg-logo="https://images.emojiterra.com/google/android-11/512px/1f4fb.png" group-title="RADIOS" ,•●★-- RADIOS --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://www.m3u.cl/logo/1005_Onda_Radio_TV.png"  group-title="RADIOS" , Onda Radio TV 
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="1004" tvg-name="Ritmo TV" tvg-logo="https://www.m3u.cl/logo/1004_Ritmo_TV.png"  group-title="RADIOS" , Ritmo TV 
+https://5eff35271151c.streamlock.net:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png"  group-title="RADIOS" , Latinos Radio 
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png"  group-title="RADIOS" , Carolina TV | CL
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://www.m3u.cl/logo/387_Zona_Play_Radio.jpg"  group-title="RADIOS" , Zona Play Radio | CL
