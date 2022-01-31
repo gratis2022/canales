@@ -12,13 +12,6 @@ https://v2.tustreaming.cl/entretelive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://opti.es/wp-content/uploads/2017/03/PREMIUM.png" group-title="PREMIUM" ,•●★-- PREMIUM --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",UNIVISION
-http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Unimas
-http://162.212.179.22:9981/stream/channelid/358793691?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
-
-
-
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="PREMIUM",AXN HD
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="PREMIUM", NATGEO
@@ -332,22 +325,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_Science/SA_SAGEMCOM/Dis
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MTV
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_200x200.jpg" group-title="PREMIUM",DW Español
-http://54.39.49.162:8081/DW/USA%7CDW/playlist.m3u8
-#EXTINF:-1 tvg-name="ES:SOMOS" tvg-logo="http://www.panoramaaudiovisual.com/en/wp-content/uploads/2013/01/Cosmopolitan-Tv.png" group-title="PREMIUM",COSMO HD
-http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="PREMIUM",8MEDITERRÁNEO
-https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0227/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="10" tvg-id="CERTV.do" tvg-name="Canal 4RD" tvg-logo="https://i.imgur.com/R5PT7yt.png" group-title="PREMIUM",Canal 4RD
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="TELEMICROCanal5.do" tvg-name="Telemicro Canal 5 SD" tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="PREMIUM",Telemicro Canal 5 SD
-http://stream2.grupotelemicro.com:8081/live/55/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="TELEMICROCanal5.do" tvg-name="Telemicro Canal 5 SD" tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="PREMIUM",Telemicro Canal 5 HD
-http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecentro HD (RD)" tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="PREMIUM",Telecentro HD (RD)
-http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432742130.png" group-title="PREMIUM",ESTUDIO-UNIVERSAL
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
@@ -1387,6 +1364,17 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2-nJIAzkFJ4/U3sRZYrf42I/AAAAAAAAAFI/vy762r8vvsE/s1600/entretenimiento.png" group-title="ENTRETENIMIENTO" ,•●★-- ENTRETENIMIENTO --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ENTRETENIMIENTO",Univision
+http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ENTRETENIMIENTO",Univision
+http://www.tecniconsult.hn/UnivisionHD/index.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ENTRETENIMIENTO",Unimas
+http://162.212.179.22:9981/stream/channelid/358793691?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ENTRETENIMIENTO",Telemundo
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ENTRETENIMIENTO",LasEstrellas
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" group-title="ENTRETENIMIENTO",A3 CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="ENTRETENIMIENTO",HOLA TV
