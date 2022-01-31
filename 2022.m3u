@@ -2737,24 +2737,6 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1079" tvg-name="Goodstock Radio" tvg-logo="https://www.m3u.cl/logo/1079_Goodstock_Radio.png group-title="MUSICA", Goodstock Radio | CL
 https://live.tvcontrolcp.com:1936/goodstocktv/goodstocktv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Animation
-http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Classic
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Electro Rock
-http://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing French touch
-http://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Ibiza
-http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Karaoke
-http://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Summer Vibes
-http://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing TV
-http://www.djing.com/tv/live.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Underground
-http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",COMPANY TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",DEEJAY TV
