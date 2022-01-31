@@ -2184,7 +2184,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?Play
 https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="645" tvg-name="Genesis TV" tvg-logo="https://www.m3u.cl/logo/645_Genesis_TV.png"  group-title="MEXICO", Genesis TV | MX
 https://53c64a8009488.streamlock.net/genesis/smil:television.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="635" tvg-name="Impactovision" tvg-logo="https://www.m3u.cl/logo/635_Impactovision.webp", Impactovision | MX
+#EXTINF:-1 tvg-id="635" tvg-name="Impactovision" tvg-logo="https://www.m3u.cl/logo/635_Impactovision.webp" group-title="MEXICO", Impactovision | MX
 https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="637" tvg-name="Jalisco TV" tvg-logo="https://www.m3u.cl/logo/637_Jalisco_TV.png"  group-title="MEXICO", Jalisco TV | MX
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
