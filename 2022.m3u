@@ -2831,8 +2831,6 @@ https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="974" tvg-name="Patagonia Radio TV" tvg-logo="https://www.m3u.cl/logo/974_Patagonia_Radio_TV.png"  group-title="RADIOS" , Patagonia Radio TV | CL
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="RADIOS" , Conecta2 TV | CL
-https://srv.panelcast.net/rc2/rc2/playlist.m3u8
 #EXTINF:-1 tvg-id="977" tvg-name="Radio PuntoFM" tvg-logo="https://www.m3u.cl/logo/977_Radio_PuntoFM.png"  group-title="RADIOS" , Radio PuntoFM | CL
 https://streaming5.globalhostla.com/rtplive/puntofmcl/playlist.m3u8
 #EXTINF:-1 tvg-id="379" tvg-name="CCP Radio" tvg-logo="https://www.m3u.cl/logo/379_CCP_Radio.png"  group-title="RADIOS" , CCP Radio | CL
@@ -2937,6 +2935,8 @@ http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
 #EXTINF:-1 tvg-logo="http://www.logo.com.py/imagenes_db/GAL-6828621010_1390810510.jpg" group-title="REGIONALES" ,•●★-- REGIONALES --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="REGIONALES" , Conecta2 TV | CL
+https://srv.panelcast.net/rc2/rc2/playlist.m3u8
 #EXTINF:-1 tvg-id="1037" tvg-name="Canal SCÑ - San Carlos Ñuble" tvg-logo="https://www.m3u.cl/logo/1037_Canal_SCN___San_Carlos_Nuble.png"  group-title="REGIONALES" , Canal SCÑ - San Carlos Ñuble 
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 #EXTINF:-1 tvg-id="948" tvg-name="San Pedro Conecta" tvg-logo="https://www.m3u.cl/logo/948_San_Pedro_Conecta.png"  group-title="REGIONALES" , San Pedro Conecta 
