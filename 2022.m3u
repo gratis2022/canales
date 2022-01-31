@@ -29,6 +29,30 @@ http://spliktv-edge2.wedrly.xyz/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 http://spliktv-edge2.wedrly.xyz/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="PREMIUM",FX
 http://spliktv-edge2.wedrly.xyz/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="PREMIUM",HistorY
+http://spliktv-edge2.wedrly.xyz/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t2L86QoHY7o/maxresdefault.jpg" group-title="PREMIUM",Discovery Channel
+http://spliktv-edge2.wedrly.xyz/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2019/02/Nat-Geo-Wild-618x400.jpg" group-title="PREMIUM",Nat Geo Wild
+http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoWildHD/SA_Live_WebVTT_FTA/NatGeoWildHD.m3u8
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="PREMIUM",TBS HD
+http://spliktv-edge2.wedrly.xyz/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/1948/urzsrf946zocc6qzg.jpg" group-title="PREMIUM",TLC
+http://spliktv-edge2.wedrly.xyz/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="PREMIUM",FX HD
+http://spliktv-edge2.wedrly.xyz/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/tnt.png" group-title="PREMIUM",TNT
+http://spliktv-edge2.wedrly.xyz/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="PREMIUM",A&E
+http://spliktv-edge2.wedrly.xyz/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="PREMIUM",GOURMET
+http://spliktv-edge2.wedrly.xyz/live/vod/Gourmet/SA_Live_WebVTT_FTA/Gourmet.m3u8
+#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/1/3/130921.jpg" group-title="PREMIUM",SPACE HD
+http://spliktv-edge2.wedrly.xyz/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1600px-Star_Action_2020.svg.png" group-title="PREMIUM",Star Action
+http://spliktv-edge2.wedrly.xyz/live/vod/FoxActionHD/SA_Live_WebVTT_FTA/FoxActionHD.m3u8
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/discovery_world.png" group-title="PREMIUM",Discovery World
+http://spliktv-edge2.wedrly.xyz/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="PREMIUM", CNN EN ESPAÑOL
 https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
