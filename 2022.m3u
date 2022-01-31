@@ -1531,8 +1531,6 @@ https://v2.tustreaming.cl/campoabierto/index.m3u8
 https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8
 #EXTINF:-1 tvg-id="333" tvg-name="Plaza TV" tvg-logo="https://www.m3u.cl/logo/333_Plaza_TV.png"  group-title="ENTRETENIMIENTO" , Plaza TV | CL
 https://videostreaming.cloudserverlatam.com:443/8044/8044/playlist.m3u8
-#EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://www.m3u.cl/logo/336_Tendencias_Prime.png"  group-title="ENTRETENIMIENTO" , Tendencias Prime | CL
-https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="349" tvg-name="Estacion TV" tvg-logo="https://www.m3u.cl/logo/349_Estacion_TV.png"  group-title="ENTRETENIMIENTO" , Estacion TV | CL
 https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="ENTRETENIMIENTO" , ClickTv | CL
@@ -1708,6 +1706,8 @@ https://stv.janus.cl/playlist/stream.m3u8
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="415" tvg-name="Pura Noticia" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png"  group-title="CHILE" , Pura Noticia | CL
 https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://www.m3u.cl/logo/336_Tendencias_Prime.png"  group-title="CHILE" , Tendencias Prime | CL
+https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/TVS_Televisi%C3%B3n_del_Senado_%282018%29_%28Celeste-Blanco%29.png/revision/latest/scale-to-width-down/200?cb=20180408145825&path-prefix=es" group-title="CHILE",Tv Senado | CL
 https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/CDTV2015.png/revision/latest?cb=20180208152447" group-title="CHILE", Canal Diputados | CL
