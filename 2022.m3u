@@ -1497,8 +1497,6 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="ENTRETENIMIENTO" , G Vision | CL
 https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
-#EXTINF:-1 tvg-id="415" tvg-name="Pura Noticia" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png"  group-title="ENTRETENIMIENTO" , Pura Noticia | CL
-https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="ENTRETENIMIENTO" , Wapp | CL
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="Arab TV" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png"  group-title="ENTRETENIMIENTO" , Arab TV | CL
@@ -1708,6 +1706,8 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR | CL
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="415" tvg-name="Pura Noticia" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png"  group-title="CHILE" , Pura Noticia | CL
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/TVS_Televisi%C3%B3n_del_Senado_%282018%29_%28Celeste-Blanco%29.png/revision/latest/scale-to-width-down/200?cb=20180408145825&path-prefix=es" group-title="CHILE",Tv Senado | CL
 https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/CDTV2015.png/revision/latest?cb=20180208152447" group-title="CHILE", Canal Diputados | CL
