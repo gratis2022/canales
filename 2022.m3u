@@ -2074,6 +2074,8 @@ https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/264px-Bandera_de_Bolivia_%28Estado%29.svg.png" group-title="BOLIVIA" ,•●★-- BOLIVIA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:-1 group-title="BOLIVIA",Red Uno | BO
+http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="ATB" tvg-logo="https://www.m3u.cl/logo/88_ATB.png  group-title="BOLIVIA", ATB | BO
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="981" tvg-name="Bolivia TV 7.2" tvg-logo="https://www.m3u.cl/logo/981_Bolivia_TV_7_2.png  group-title="BOLIVIA", Bolivia TV 7.2 | BO
@@ -2599,6 +2601,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1987/1987997.png" group-title="MUSICA" ,•●★-- MUSICA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA",La Mega Mundial HD
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png group-title="MUSICA", Rewind TV * | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png group-title="MUSICA", Retro Plus TV * | CL
@@ -2743,6 +2747,32 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1079" tvg-name="Goodstock Radio" tvg-logo="https://www.m3u.cl/logo/1079_Goodstock_Radio.png group-title="MUSICA", Goodstock Radio | CL
 https://live.tvcontrolcp.com:1936/goodstocktv/goodstocktv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Animation
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Classic
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Electro Rock
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing French touch
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Ibiza
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Karaoke
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Summer Vibes
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing TV
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Underground
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",COMPANY TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajEVjQV.jpg" group-title="MUSICA",GO RT
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif" group-title="MUSICA",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
