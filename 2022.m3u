@@ -1652,12 +1652,10 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ANmega2015.png/207px-ANmega2015.png" group-title="CHILE",Ahora Noticias | CL
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png"  group-title="CHILE" , Meganoticias | CL
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png"  group-title="CHILE" , Meganoticias | CL
 http://www.m3u.cl/channel/meganoticias.php
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Mega_Plus_2018.svg/revision/latest/scale-to-width-down/2000?cb=20200126195139&path-prefix=es"  group-title="CHILE" , Mega+ | CL
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 #EXTINF:-1  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CHILE",Canal 13 | CL
 http://canal13-m3u.chorroaeboy.repl.co
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision | CL
