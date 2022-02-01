@@ -1400,8 +1400,6 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 http://v2.tustreaming.cl:80/visionplustv/index.m3u8
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO" , HiperTV 
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="985" tvg-name="Batalla de Gallos" tvg-logo="https://www.m3u.cl/logo/985_Batalla_de_Gallos.png"  group-title="ENTRETENIMIENTO" , Batalla de Gallos 
-https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8
 #EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://www.m3u.cl/logo/987_Emocion_TV.png"  group-title="ENTRETENIMIENTO" , Emocion TV 
 https://v2.tustreaming.cl/emocion/index.m3u8
 #EXTINF:-1 tvg-id="972" tvg-name="TV Volcan" tvg-logo="https://www.m3u.cl/logo/972_TV_Volcan.png"  group-title="ENTRETENIMIENTO" , TV Volcan 
@@ -2780,6 +2778,8 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif" group-title="MUSICA",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="985" tvg-name="Batalla de Gallos" tvg-logo="https://www.m3u.cl/logo/985_Batalla_de_Gallos.png"  group-title="MUSICA" , Batalla de Gallos 
+https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
