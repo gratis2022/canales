@@ -1401,10 +1401,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://v2.tustreaming.cl/zizatv/index.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="ENTRETENIMIENTO" , WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="ENTRETENIMIENTO" , G Vision | CL
 https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="Arab TV" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png"  group-title="ENTRETENIMIENTO" , Arab TV | CL
@@ -1419,8 +1415,6 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="ENTRETENIMIENTO" , Teletón TV | CL
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
-#EXTINF:-1 tvg-id="895" tvg-name="RLOTV" tvg-logo="https://www.m3u.cl/logo/895_RLOTV.png"  group-title="ENTRETENIMIENTO" , RLOTV | CL
-https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://www.m3u.cl/logo/910_Raices_Arabes_TV.png"  group-title="ENTRETENIMIENTO" , Raices Arabes TV | CL
 https://Stmv1.zcastbr.com/julio4589/julio4589/playlist.m3u8
 #EXTINF:-1 tvg-id="430" tvg-name="Sello de Raza TV" tvg-logo="https://www.m3u.cl/logo/430_Sello_de_Raza_TV.png"  group-title="ENTRETENIMIENTO" , Sello de Raza TV | CL
@@ -1433,12 +1427,8 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://v2.tustreaming.cl/campoabierto/index.m3u8
 #EXTINF:-1 tvg-id="984" tvg-name="Detras de la Razon" tvg-logo="https://www.m3u.cl/logo/984_Detras_de_la_Razon.png"  group-title="ENTRETENIMIENTO" , Detras de la Razon | CL
 https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8
-#EXTINF:-1 tvg-id="349" tvg-name="Estacion TV" tvg-logo="https://www.m3u.cl/logo/349_Estacion_TV.png"  group-title="ENTRETENIMIENTO" , Estacion TV | CL
-https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="ENTRETENIMIENTO" , ClickTv | CL
 http://v2.tustreaming.cl/clicktv/index.m3u8
-#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO" , Tele Clasicos | CR
-https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
@@ -1448,6 +1438,10 @@ https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png"  group-title="CINE" , Planetatv Movie 
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-id="349" tvg-name="Estacion TV" tvg-logo="https://www.m3u.cl/logo/349_Estacion_TV.png"  group-title="CINE" , Estacion TV | CL
+https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="CINE" , Tele Clasicos | CR
+https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" group-title="CINE",A3 CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="CINE",Pluto Tv Film
@@ -1470,6 +1464,8 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="Viwix TV" tvg-logo="https://www.m3u.cl/logo/891_Viwix_TV.png"  group-title="CINE" , Viwix TV | CL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-id="895" tvg-name="RLOTV" tvg-logo="https://www.m3u.cl/logo/895_RLOTV.png"  group-title="CINE" , RLOTV | CL
+https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 
