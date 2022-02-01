@@ -1402,8 +1402,6 @@ http://v2.tustreaming.cl:80/visionplustv/index.m3u8
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://www.m3u.cl/logo/987_Emocion_TV.png"  group-title="ENTRETENIMIENTO" , Emocion TV 
 https://v2.tustreaming.cl/emocion/index.m3u8
-#EXTINF:-1 tvg-id="972" tvg-name="TV Volcan" tvg-logo="https://www.m3u.cl/logo/972_TV_Volcan.png"  group-title="ENTRETENIMIENTO" , TV Volcan 
-https://video.streamingchilenos.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png"  group-title="ENTRETENIMIENTO" , CSTV 
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png"  group-title="ENTRETENIMIENTO" , Chavo TV 
@@ -3087,6 +3085,8 @@ http://190.107.176.55:1935/live/tec-tv/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="359" tvg-name="Canal Latino 54" tvg-logo="https://www.m3u.cl/logo/359_Canal_Latino_54.png"  group-title="REGIONALES" , Canal Latino 54 | CL
 http://190.3.169.119:8080/latina/latina/playlist.m3u8
+#EXTINF:-1 tvg-id="972" tvg-name="TV Volcan" tvg-logo="https://www.m3u.cl/logo/972_TV_Volcan.png"  group-title="REGIONALES" , TV Volcan 
+https://video.streamingchilenos.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="360" tvg-name="Osorno TV+" tvg-logo="https://www.m3u.cl/logo/360_Osorno_TV_.png"  group-title="REGIONALES" , Osorno TV+ | CL
 https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="Decima TV" tvg-logo="https://www.m3u.cl/logo/85_Decima_TV.png"  group-title="REGIONALES" , Decima TV | CL
