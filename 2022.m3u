@@ -1362,7 +1362,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-ENTRETENIMIENTO-
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2-nJIAzkFJ4/U3sRZYrf42I/AAAAAAAAAFI/vy762r8vvsE/s1600/entretenimiento.png" group-title="ENTRETENIMIENTO" ,•●★-- ENTRETENIMIENTO --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AU4xuk6.png" group-title="ENTRETENIMIENTO" ,•●★-- ENTRETENIMIENTO --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
@@ -1410,7 +1410,7 @@ https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
 #EXTINF:0,-CINE-
 
-#EXTINF:-1 tvg-logo="https://www.estrenosdecine.online/wp-content/uploads/2020/09/estrenos-de-cine-logo.png" group-title="CINE" ,•●★-- CINE --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ujLKcqq.png" group-title="CINE" ,•●★-- CINE --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png"  group-title="CINE" , Planetatv Movie 
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
@@ -1448,7 +1448,7 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,-NOTICIAS-
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/10/26/09/24/news-3774160_960_720.png" group-title="NOTICIAS" ,•●★-- NOTICIAS --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4Ieb9Q.png" group-title="NOTICIAS" ,•●★-- NOTICIAS --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306624/images/logod.png" group-title="NOTICIAS",RT Noticias
@@ -1468,7 +1468,7 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-CULTURA-
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Cultura1972.png/revision/latest?cb=20201102004823&path-prefix=es" group-title="CULTURA" ,•●★-- CULTURA --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uu3Kfh5.png" group-title="CULTURA" ,•●★-- CULTURA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="441" tvg-name="Teatro del Lago" tvg-logo="https://www.m3u.cl/logo/441_Teatro_del_Lago.png"  group-title="CULTURA" , Teatro del Lago | CL
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8
@@ -1495,7 +1495,7 @@ https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
 
 #EXTINF:0,-ANIME-
 
-#EXTINF:-1 tvg-logo="https://cutewallpaper.org/24/anime-logo-png/download-republic-of-anime-logo-280x-402x-california-png-image-with-no-background-pngkeycom.png" group-title="ANIME" ,•●★-- ANIME --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRJichH.png" group-title="ANIME" ,•●★-- ANIME --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ANIME" , EnerGeek 
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
