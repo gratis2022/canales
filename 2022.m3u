@@ -1393,6 +1393,8 @@ https://srv.panelcast.net/rc2/rc2/playlist.m3u8
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://www.m3u.cl/logo/1058_Spectrum_Channel.png"  group-title="ENTRETENIMIENTO" , Spectrum Channel 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
+https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png"  group-title="ENTRETENIMIENTO" , Aniplus * | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png"  group-title="ENTRETENIMIENTO" , Vision Plus TV 
@@ -1457,6 +1459,10 @@ https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
 https://livefocamundo.com:8081/arabtv/index.m3u8
 #EXTINF:-1 tvg-id="442" tvg-name="CEAC TV" tvg-logo="https://www.m3u.cl/logo/442_CEAC_TV.png"  group-title="ENTRETENIMIENTO" , CEAC TV | CL
 https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="ENTRETENIMIENTO",Agrotendencia TV 
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="ENTRETENIMIENTO",Tastemade Español 
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="441" tvg-name="Teatro del Lago" tvg-logo="https://www.m3u.cl/logo/441_Teatro_del_Lago.png"  group-title="ENTRETENIMIENTO" , Teatro del Lago | CL
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="ENTRETENIMIENTO" , Teletón TV | CL
@@ -2669,6 +2675,10 @@ https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://www.m3u.cl/logo/786_Tributo_Valentina.png"  group-title="MUSICA" , Tributo Valentina | CL
 https://vdohd.cl:1936/8044/8044/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MUSICA",Metal TV 
+https://v2.catcast.tv/content/33816/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="MUSICA",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
