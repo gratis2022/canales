@@ -1490,22 +1490,6 @@ https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
-#EXTINF:0,-MODA-
-
-#EXTINF:-1 tvg-logo="https://allaboutfashionglam.files.wordpress.com/2017/11/quc3a9-es-la-moda.png" group-title="MODA" ,•●★-- MODA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="MODA",HD Fashion y Lifestyle HD
-http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="MODA",HD Fashion y Lifestyle FHD
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV Midnight
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV New York | US
-http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA" , FashionTV Paris | US
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-
 #EXTINF:0,-NOTICIAS-
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/10/26/09/24/news-3774160_960_720.png" group-title="NOTICIAS" ,•●★-- NOTICIAS --★●•
@@ -1525,6 +1509,22 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="NOTICIAS", TV Marti | CU
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
+
+#EXTINF:0,-MODA-
+
+#EXTINF:-1 tvg-logo="https://allaboutfashionglam.files.wordpress.com/2017/11/quc3a9-es-la-moda.png" group-title="MODA" ,•●★-- MODA --★●•
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
+#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV Midnight
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV New York | US
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA" , FashionTV Paris | US
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="MODA",HD Fashion y Lifestyle HD
+http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="MODA",HD Fashion y Lifestyle FHD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:0,-CHILE-
 
