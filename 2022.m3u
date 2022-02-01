@@ -1490,24 +1490,9 @@ https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
-#EXTINF:0,-ANIME-
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/10/26/09/24/news-3774160_960_720.png" group-title="ANIME" ,•●★-- ANIME --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:0,-INFANTILES-
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/10/26/09/24/news-3774160_960_720.png" group-title="INFANTILES" ,•●★-- INFANTILES --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
 #EXTINF:0,-CINE-
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/10/26/09/24/news-3774160_960_720.png" group-title="CINE" ,•●★-- CINE --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-#EXTINF:0,-LIFESTYLE-
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2018/10/26/09/24/news-3774160_960_720.png" group-title="LIFESTYLE" ,•●★-- LIFESTYLE --★●•
+#EXTINF:-1 tvg-logo="https://www.estrenosdecine.online/wp-content/uploads/2020/09/estrenos-de-cine-logo.png" group-title="CINE" ,•●★-- CINE --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:0,-NOTICIAS-
@@ -1529,6 +1514,21 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="NOTICIAS", TV Marti | CU
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
+
+#EXTINF:0,-ANIME-
+
+#EXTINF:-1 tvg-logo="https://cutewallpaper.org/24/anime-logo-png/download-republic-of-anime-logo-280x-402x-california-png-image-with-no-background-pngkeycom.png" group-title="ANIME" ,•●★-- ANIME --★●•
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
+#EXTINF:0,-INFANTILES-
+
+#EXTINF:-1 tvg-logo="https://ninosasalvo.com/wp-content/uploads/2020/10/Ninos-a-salvo-Logo2.png" group-title="INFANTILES" ,•●★-- INFANTILES --★●•
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
+#EXTINF:0,-LIFESTYLE-
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/431-4316676_lifestyle-transparent-images-life-style-logo-png.png" group-title="LIFESTYLE" ,•●★-- LIFESTYLE --★●•
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:0,-MODA-
 
