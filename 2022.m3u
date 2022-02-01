@@ -1481,17 +1481,12 @@ https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.
 http://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO" , Tele Clasicos | CR
 https://tvdatta.com:3484/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
-#EXTINF:-1 tvg-id="769" tvg-name="Radioteca WebStereo" tvg-logo="https://www.m3u.cl/logo/769_Radioteca_WebStereo.webp"  group-title="ENTRETENIMIENTO" , Radioteca WebStereo | CL
-https://vdohd.cl:1936/8030/8030/playlist.m3u8
-#EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png"  group-title="ENTRETENIMIENTO" , Re7 | CL
-https://vdohd.cl:1936/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png"  group-title="ENTRETENIMIENTO" , Recuerdos Retro Radio TV | CL
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://www.m3u.cl/logo/889_La_Sabrosura_TV.png"  group-title="ENTRETENIMIENTO" , La Sabrosura TV | CL
-https://5eff35271151c.streamlock.net:1936/8012/8012/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png"  group-title="ENTRETENIMIENTO" , Amordiscos TV | CO
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg"  group-title="ENTRETENIMIENTO" , Best Cable Music | PE
@@ -2583,6 +2578,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1987/1987997.png"" group-title="MUSICA" ,•●★-- MUSICA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png"  group-title="MUSICA" , Re7 | CL
+https://vdohd.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA",La Mega Mundial HD
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png" group-title="MUSICA", Rewind TV * | CL
@@ -2763,6 +2760,8 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 #EXTINF:-1 tvg-logo="https://images.emojiterra.com/google/android-11/512px/1f4fb.png" group-title="RADIOS" ,•●★-- RADIOS --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://www.m3u.cl/logo/889_La_Sabrosura_TV.png"  group-title="RADIOS" , La Sabrosura TV | CL
+https://5eff35271151c.streamlock.net:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="386" tvg-name="Energia TV" tvg-logo="https://www.m3u.cl/logo/386_Energia_TV.png"  group-title="RADIOS" , Energia TV | CL
 https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8
 #EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://www.m3u.cl/logo/1005_Onda_Radio_TV.png"  group-title="RADIOS" , Onda Radio TV 
