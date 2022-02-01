@@ -1387,7 +1387,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb00072
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO" , Conecta2 TV | CL
 https://srv.panelcast.net/rc2/rc2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://www.m3u.cl/logo/1058_Spectrum_Channel.png"  group-title="ENTRETENIMIENTO" , Spectrum Channel 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ENTRETENIMIENTO" , EnerGeek 
@@ -1406,12 +1405,7 @@ https://v2.tustreaming.cl/emocion/index.m3u8
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png"  group-title="ENTRETENIMIENTO" , Chavo TV 
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png"  group-title="ENTRETENIMIENTO" , Retro Plus TV 
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png"  group-title="ENTRETENIMIENTO" , Retro Plus TV Señal 2 
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://www.m3u.cl/logo/13_Ruidos_TV.png"  group-title="ENTRETENIMIENTO" , Ruidos TV 
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+
 #EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="ENTRETENIMIENTO" , Cosmos TV | CL
 http://v2.tustreaming.cl:80/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png"  group-title="ENTRETENIMIENTO" , Mundo de la Musica TV 
