@@ -1561,7 +1561,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:0,-CHILE-
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,•●★-- CHILE --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gxWjMix.png" group-title="CHILE" ,•●★-- CHILE --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL
@@ -1634,7 +1634,7 @@ https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8?PlaylistM3
 
 #EXTINF:0,-ARGENTINA-
 
-#EXTINF:-1 tvg-logo="http://www.argentina.it/informazioni_argentina/Banderas_file/argentina.jpg" group-title="ARGENTINA" ,•●★-- ARGENTINA --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXPIggx.png" group-title="ARGENTINA" ,•●★-- ARGENTINA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America HD | AR
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -1861,7 +1861,7 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM
 
 #EXTINF:0,-PERU-
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/270px-Flag_of_Peru_%28state%29.svg.png" " group-title="PERU" ,•●★-- PERU --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfX6l18.png" " group-title="PERU" ,•●★-- PERU --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png"  group-title="PERU", ATV | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
@@ -1928,7 +1928,7 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 
 #EXTINF:0,-COLOMBIA-
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/200px-Flag_of_Colombia.svg.png" group-title="COLOMBIA" ,•●★-- COLOMBIA --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SMfPcie.png" group-title="COLOMBIA" ,•●★-- COLOMBIA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg"   group-title="COLOMBIA", Caracol | CO
@@ -1986,7 +1986,7 @@ http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-ECUADOR-
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Ecuador_%281900%E2%80%932009%29.svg/300px-Flag_of_Ecuador_%281900%E2%80%932009%29.svg.png" group-title="ECUADOR" ,•●★-- ECUADOR --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JlD96xg.png" group-title="ECUADOR" ,•●★-- ECUADOR --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="1036" tvg-name="Red TVE Ventana" tvg-logo="https://www.m3u.cl/logo/1036_Red_TVE_Ventana.png"   group-title="ECUADOR", Red TVE Ventana * | EC
