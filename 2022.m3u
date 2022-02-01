@@ -1394,8 +1394,6 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png"  group-title="ENTRETENIMIENTO" , RCKTV 
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
-#EXTINF:-1 tvg-id="1079" tvg-name="Goodstock Radio" tvg-logo="https://www.m3u.cl/logo/1079_Goodstock_Radio.png"  group-title="ENTRETENIMIENTO" , Goodstock Radio 
-https://live.tvcontrolcp.com:1936/goodstocktv/goodstocktv/playlist.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png"  group-title="ENTRETENIMIENTO" , Aniplus * | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png"  group-title="ENTRETENIMIENTO" , Vision Plus TV 
@@ -2776,8 +2774,6 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1077" tvg-name="Molahits TV" tvg-logo="https://www.m3u.cl/logo/1077_Molahits_TV.png" group-title="MUSICA", Molahits TV | ES
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1079" tvg-name="Goodstock Radio" tvg-logo="https://www.m3u.cl/logo/1079_Goodstock_Radio.png" group-title="MUSICA", Goodstock Radio | CL
-https://live.tvcontrolcp.com:1936/goodstocktv/goodstocktv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",COMPANY TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",DEEJAY TV
@@ -2925,6 +2921,8 @@ https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="1029" tvg-name="Evavisión Pachanga" tvg-logo="https://www.m3u.cl/logo/1029_Evavision_Pachanga.png"  group-title="RADIOS" , Evavisión Pachanga | CL
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
+#EXTINF:-1 tvg-id="1079" tvg-name="Goodstock Radio" tvg-logo="https://www.m3u.cl/logo/1079_Goodstock_Radio.png" group-title="RADIOS", Goodstock Radio | CL
+https://live.tvcontrolcp.com:1936/goodstocktv/goodstocktv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-REGIONALES-
 
