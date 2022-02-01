@@ -1377,23 +1377,20 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",Estrella Tv
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO" , Conecta2 TV | CL
 https://srv.panelcast.net/rc2/rc2/playlist.m3u8
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="ENTRETENIMIENTO" , TV Pop | CL
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png"  group-title="ENTRETENIMIENTO" , Aniplus * | AR
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png"  group-title="ENTRETENIMIENTO" , Vision Plus TV 
 http://v2.tustreaming.cl:80/visionplustv/index.m3u8
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO" , HiperTV 
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://www.m3u.cl/logo/987_Emocion_TV.png"  group-title="ENTRETENIMIENTO" , Emocion TV 
-https://v2.tustreaming.cl/emocion/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png"  group-title="ENTRETENIMIENTO" , CSTV 
-https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="ENTRETENIMIENTO" , Cosmos TV | CL
 http://v2.tustreaming.cl:80/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://www.m3u.cl/logo/1020_Caracola_TV.png"  group-title="ENTRETENIMIENTO" , Caracola TV 
@@ -1404,18 +1401,8 @@ https://v2.tustreaming.cl/zizatv/index.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="ENTRETENIMIENTO" , G Vision | CL
 https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
-#EXTINF:-1 tvg-id="443" tvg-name="Arab TV" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png"  group-title="ENTRETENIMIENTO" , Arab TV | CL
-https://livefocamundo.com:8081/arabtv/index.m3u8
-#EXTINF:-1 tvg-id="442" tvg-name="CEAC TV" tvg-logo="https://www.m3u.cl/logo/442_CEAC_TV.png"  group-title="ENTRETENIMIENTO" , CEAC TV | CL
-https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="ENTRETENIMIENTO",Agrotendencia TV 
-https://inliveserver.com:1936/15506/15506/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="ENTRETENIMIENTO",Tastemade Español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="ENTRETENIMIENTO" , Teletón TV | CL
-https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
-
 #EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="ENTRETENIMIENTO" , ClickTv | CL
 http://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
@@ -1497,6 +1484,14 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://v2.tustreaming.cl/campoabierto/index.m3u8
 #EXTINF:-1 tvg-id="984" tvg-name="Detras de la Razon" tvg-logo="https://www.m3u.cl/logo/984_Detras_de_la_Razon.png"  group-title="CULTURA" , Detras de la Razon | CL
 https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="CULTURA",Agrotendencia TV 
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+#EXTINF:-1 tvg-id="443" tvg-name="Arab TV" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png"  group-title="CULTURA" , Arab TV | CL
+https://livefocamundo.com:8081/arabtv/index.m3u8
+#EXTINF:-1 tvg-id="442" tvg-name="CEAC TV" tvg-logo="https://www.m3u.cl/logo/442_CEAC_TV.png"  group-title="CULTURA" , CEAC TV | CL
+https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
+#EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="CULTURA" , Teletón TV | CL
+https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
 
 #EXTINF:0,-ANIME-
 
@@ -1504,6 +1499,8 @@ https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ANIME" , EnerGeek 
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
+#EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png"  group-title="ANIME" , Aniplus * | AR
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"  group-title="ANIME" , Anime Zone TV | AR
 http://azxtv.com/hls/stream.m3u8
 
@@ -1527,6 +1524,8 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg"  group-title="INFANTILES" , Pequeradio TV | ES
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png"  group-title="INFANTILES" , CSTV 
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.elcompositorhabla.com/corps/elcompositorhabla/data/resources/image/Quedate%20en%20casa/quedatencasa.png" group-title="INFANTILES",Tv Educa Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://www.m3u.cl/logo/45_NTV.png"  group-title="INFANTILES" , NTV | CL
