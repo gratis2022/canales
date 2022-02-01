@@ -1484,82 +1484,6 @@ https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png"  group-title="ENTRETENIMIENTO" , Amordiscos TV | CO
-https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg"  group-title="ENTRETENIMIENTO" , Best Cable Music | PE
-https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://www.m3u.cl/logo/37_Canal_38.png"  group-title="ENTRETENIMIENTO" , Canal 38 | CR
-https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png"  group-title="ENTRETENIMIENTO" , Conecta TV | MX
-https://stream8.mexiserver.com:443/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg"  group-title="ENTRETENIMIENTO" , Hatun TV | PE
-https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png"  group-title="ENTRETENIMIENTO" , Ibiza Global TV | ES
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg"  group-title="ENTRETENIMIENTO" , Karibeña TV | PE
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="m2o TV" tvg-logo="https://www.m3u.cl/logo/23_m2o_TV.png"  group-title="ENTRETENIMIENTO" , m2o TV | IT
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png"  group-title="ENTRETENIMIENTO" , Mas Cumbia | PE
-https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png"  group-title="ENTRETENIMIENTO" , Maxima FM | CL
-https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png"  group-title="ENTRETENIMIENTO" , Music Top | AR
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png"  group-title="ENTRETENIMIENTO" , On Radio Kpop | CL
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png"  group-title="ENTRETENIMIENTO" , Portal FoxMix | CL
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png"  group-title="ENTRETENIMIENTO" , Retro Music Television | CZ
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://www.m3u.cl/logo/36_Telemusica.png"  group-title="ENTRETENIMIENTO" , Telemusica | CO
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://www.m3u.cl/logo/17_The_Retro_Channel.png"  group-title="ENTRETENIMIENTO" , The Retro Channel | PR
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png"  group-title="ENTRETENIMIENTO" , TOP Latino TV | PE
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png"  group-title="ENTRETENIMIENTO" , Turbo Mix TV | PE
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png"  group-title="ENTRETENIMIENTO" , TV Exitos | DO
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://www.m3u.cl/logo/34_TV_vconline_cl.png"  group-title="ENTRETENIMIENTO" , TV vconline.cl | CL
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png"  group-title="ENTRETENIMIENTO" , Video Tour Channel | CR
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://www.m3u.cl/logo/32_Alegria_TV.png"  group-title="ENTRETENIMIENTO" , Alegria TV | CL
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
-#EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png"  group-title="ENTRETENIMIENTO" , Hits 360 | DO
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png"  group-title="ENTRETENIMIENTO" , Nubeh TV | VE
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
-#EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://www.m3u.cl/logo/973_Top_New_Radio.png"  group-title="ENTRETENIMIENTO" , Top New Radio | CL
-https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://www.m3u.cl/logo/926_Oxigeno_Network.png"  group-title="ENTRETENIMIENTO" , Oxigeno Network | VE
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png"  group-title="ENTRETENIMIENTO" , Panavision | VE
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
-#EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png"  group-title="ENTRETENIMIENTO" , Italianissimo | VE
-https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-#EXTINF:-1 tvg-id="955" tvg-name="MCRT 80s" tvg-logo="https://www.m3u.cl/logo/955_MCRT_80s.png"  group-title="ENTRETENIMIENTO" , MCRT 80s | CA
-https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8
-#EXTINF:-1 tvg-id="949" tvg-name="MCRT Banda" tvg-logo="https://www.m3u.cl/logo/949_MCRT_Banda.png"  group-title="ENTRETENIMIENTO" , MCRT Banda | CA
-https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8
-#EXTINF:-1 tvg-id="952" tvg-name="MCRT En Español" tvg-logo="https://www.m3u.cl/logo/952_MCRT_En_Espanol.png"  group-title="ENTRETENIMIENTO" , MCRT En Español | CA
-https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8
-#EXTINF:-1 tvg-id="951" tvg-name="MCRT GYM" tvg-logo="https://www.m3u.cl/logo/951_MCRT_GYM.png"  group-title="ENTRETENIMIENTO" , MCRT GYM | CA
-https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8
-#EXTINF:-1 tvg-id="953" tvg-name="MCRT Reggaeton" tvg-logo="https://www.m3u.cl/logo/953_MCRT_Reggaeton.png"  group-title="ENTRETENIMIENTO" , MCRT Reggaeton | CA
-https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8
-#EXTINF:-1 tvg-id="954" tvg-name="MCRT Top Hits" tvg-logo="https://www.m3u.cl/logo/954_MCRT_Top_Hits.png"  group-title="ENTRETENIMIENTO" , MCRT Top Hits | CA
-https://stmv.negotv.com/top2021/top2021/playlist.m3u8
-#EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://www.m3u.cl/logo/786_Tributo_Valentina.png"  group-title="ENTRETENIMIENTO" , Tributo Valentina | CL
-https://vdohd.cl:1936/8044/8044/playlist.m3u8
-#EXTINF:-1 tvg-id="964" tvg-name="Tierras Blancas TV" tvg-logo="https://www.m3u.cl/logo/964_Tierras_Blancas_TV.png"  group-title="ENTRETENIMIENTO" , Tierras Blancas TV | CL
-https://mediacpstreamchile.com:1936/norterama/norterama/playlist.m3u8
-
 #EXTINF:0,-MODA-
 
 #EXTINF:-1 tvg-logo="https://allaboutfashionglam.files.wordpress.com/2017/11/quc3a9-es-la-moda.png" group-title="MODA" ,•●★-- MODA --★●•
@@ -2578,6 +2502,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1987/1987997.png"" group-title="MUSICA" ,•●★-- MUSICA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
 #EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png"  group-title="MUSICA" , Re7 | CL
 https://vdohd.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA",La Mega Mundial HD
@@ -2672,6 +2597,8 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://www.m3u.cl/logo/889_La_Sabrosura_TV.png" group-title="MUSICA", La Sabrosura TV | CL
 https://5eff35271151c.streamlock.net:1936/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png"  group-title="MUSICA" , Conecta TV | MX
+https://stream8.mexiserver.com:443/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png" group-title="MUSICA", Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png" group-title="MUSICA", Nubeh TV | VE
@@ -2730,6 +2657,10 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="985" tvg-name="Batalla de Gallos" tvg-logo="https://www.m3u.cl/logo/985_Batalla_de_Gallos.png"  group-title="MUSICA" , Batalla de Gallos 
 https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png"  group-title="MUSICA" , Amordiscos TV | CO
+https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+#EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://www.m3u.cl/logo/786_Tributo_Valentina.png"  group-title="MUSICA" , Tributo Valentina | CL
+https://vdohd.cl:1936/8044/8044/playlist.m3u8
 
 #EXTINF:0,-VIDEOMIX-
 
@@ -2760,6 +2691,14 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 #EXTINF:-1 tvg-logo="https://images.emojiterra.com/google/android-11/512px/1f4fb.png" group-title="RADIOS" ,•●★-- RADIOS --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://www.m3u.cl/logo/973_Top_New_Radio.png"  group-title="RADIOS" , Top New Radio | CL
+https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png"  group-title="RADIOS" , On Radio Kpop | CL
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="m2o TV" tvg-logo="https://www.m3u.cl/logo/23_m2o_TV.png"  group-title="RADIOS" , m2o TV | IT
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg"  group-title="RADIOS" , Karibeña TV | PE
+https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://www.m3u.cl/logo/889_La_Sabrosura_TV.png"  group-title="RADIOS" , La Sabrosura TV | CL
 https://5eff35271151c.streamlock.net:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="386" tvg-name="Energia TV" tvg-logo="https://www.m3u.cl/logo/386_Energia_TV.png"  group-title="RADIOS" , Energia TV | CL
@@ -2876,6 +2815,8 @@ https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
 #EXTINF:-1 tvg-id="1079" tvg-name="Goodstock Radio" tvg-logo="https://www.m3u.cl/logo/1079_Goodstock_Radio.png" group-title="RADIOS", Goodstock Radio | CL
 https://live.tvcontrolcp.com:1936/goodstocktv/goodstocktv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="964" tvg-name="Tierras Blancas TV" tvg-logo="https://www.m3u.cl/logo/964_Tierras_Blancas_TV.png"  group-title="RADIOS" , Tierras Blancas TV | CL
+https://mediacpstreamchile.com:1936/norterama/norterama/playlist.m3u8
 
 #EXTINF:0,-REGIONALES-
 
