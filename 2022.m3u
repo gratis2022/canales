@@ -1519,10 +1519,12 @@ https://live1.presstv.ir/live/hispan_720p/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="NOTICIAS",Euronews Español 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NOTICIAS",France 24 Español
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NOTICIAS",France 24 Español | FR
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="NOTICIAS",Telesusr
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="NOTICIAS",Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="NOTICIAS", TV Marti | CU
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-CHILE-
 
@@ -2008,6 +2010,8 @@ https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/200px-Flag_of_Venezuela.svg.png" group-title="VENEZUELA" ,•●★-- VENEZUELA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png"  group-title="VENEZUELA", Venevision | VE
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png"  group-title="VENEZUELA", Nubeh TV * | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://www.m3u.cl/logo/926_Oxigeno_Network.png"  group-title="VENEZUELA", Oxigeno Network * | VE
@@ -2034,8 +2038,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="519" tvg-name="Canal i" tvg-logo="https://www.m3u.cl/logo/519_Canal_i.png"  group-title="VENEZUELA", Canal i | VE
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png"  group-title="VENEZUELA", Venevision | VE
-http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png"  group-title="VENEZUELA", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://www.m3u.cl/logo/928_MovieFE.png"  group-title="VENEZUELA", MovieFE | VE
