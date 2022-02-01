@@ -1377,6 +1377,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",Estrella Tv
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO" , Conecta2 TV | CL
 https://srv.panelcast.net/rc2/rc2/playlist.m3u8
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="ENTRETENIMIENTO" , TV Pop | CL
@@ -1411,22 +1412,10 @@ https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
 https://inliveserver.com:1936/15506/15506/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="ENTRETENIMIENTO",Tastemade Español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="441" tvg-name="Teatro del Lago" tvg-logo="https://www.m3u.cl/logo/441_Teatro_del_Lago.png"  group-title="ENTRETENIMIENTO" , Teatro del Lago | CL
-https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8
+
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="ENTRETENIMIENTO" , Teletón TV | CL
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
-#EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://www.m3u.cl/logo/910_Raices_Arabes_TV.png"  group-title="ENTRETENIMIENTO" , Raices Arabes TV | CL
-https://Stmv1.zcastbr.com/julio4589/julio4589/playlist.m3u8
-#EXTINF:-1 tvg-id="430" tvg-name="Sello de Raza TV" tvg-logo="https://www.m3u.cl/logo/430_Sello_de_Raza_TV.png"  group-title="ENTRETENIMIENTO" , Sello de Raza TV | CL
-https://v2.tustreaming.cl/mastermedia/index.m3u8
-#EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://www.m3u.cl/logo/436_TV_Salud.png"  group-title="ENTRETENIMIENTO" , TV Salud | CL
-https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
-#EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://www.m3u.cl/logo/435_Chile_Channel.png"  group-title="ENTRETENIMIENTO" , Chile Channel | CL
-https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="437" tvg-name="Campo Abierto TV" tvg-logo="https://www.m3u.cl/logo/437_Campo_Abierto_TV.png"  group-title="ENTRETENIMIENTO" , Campo Abierto TV | CL
-https://v2.tustreaming.cl/campoabierto/index.m3u8
-#EXTINF:-1 tvg-id="984" tvg-name="Detras de la Razon" tvg-logo="https://www.m3u.cl/logo/984_Detras_de_la_Razon.png"  group-title="ENTRETENIMIENTO" , Detras de la Razon | CL
-https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8
+
 #EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="ENTRETENIMIENTO" , ClickTv | CL
 http://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
@@ -1494,6 +1483,20 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Cultura1972.png/revision/latest?cb=20201102004823&path-prefix=es" group-title="CULTURA" ,•●★-- CULTURA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="441" tvg-name="Teatro del Lago" tvg-logo="https://www.m3u.cl/logo/441_Teatro_del_Lago.png"  group-title="CULTURA" , Teatro del Lago | CL
+https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8
+#EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://www.m3u.cl/logo/910_Raices_Arabes_TV.png"  group-title="CULTURA" , Raices Arabes TV | CL
+https://Stmv1.zcastbr.com/julio4589/julio4589/playlist.m3u8
+#EXTINF:-1 tvg-id="430" tvg-name="Sello de Raza TV" tvg-logo="https://www.m3u.cl/logo/430_Sello_de_Raza_TV.png"  group-title="CULTURA" , Sello de Raza TV | CL
+https://v2.tustreaming.cl/mastermedia/index.m3u8
+#EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://www.m3u.cl/logo/436_TV_Salud.png"  group-title="CULTURA" , TV Salud | CL
+https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
+#EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://www.m3u.cl/logo/435_Chile_Channel.png"  group-title="CULTURA" , Chile Channel | CL
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="437" tvg-name="Campo Abierto TV" tvg-logo="https://www.m3u.cl/logo/437_Campo_Abierto_TV.png"  group-title="CULTURA" , Campo Abierto TV | CL
+https://v2.tustreaming.cl/campoabierto/index.m3u8
+#EXTINF:-1 tvg-id="984" tvg-name="Detras de la Razon" tvg-logo="https://www.m3u.cl/logo/984_Detras_de_la_Razon.png"  group-title="CULTURA" , Detras de la Razon | CL
+https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8
 
 #EXTINF:0,-ANIME-
 
