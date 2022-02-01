@@ -1506,7 +1506,7 @@ http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:0,-INFANTILES-
 
-#EXTINF:-1 tvg-logo="https://ninosasalvo.com/wp-content/uploads/2020/10/Ninos-a-salvo-Logo2.png" group-title="INFANTILES" ,•●★-- INFANTILES --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T66xgtn.png" group-title="INFANTILES" ,•●★-- INFANTILES --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png"  group-title="INFANTILES" , Planetatv Kids 
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
@@ -1533,7 +1533,7 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
 #EXTINF:0,-LIFESTYLE-
 
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/431-4316676_lifestyle-transparent-images-life-style-logo-png.png" group-title="LIFESTYLE" ,•●★-- LIFESTYLE --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hvOe4AX.png" group-title="LIFESTYLE" ,•●★-- LIFESTYLE --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="LIFESTYLE",Hola Tv
@@ -1545,7 +1545,7 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 
 #EXTINF:0,-MODA-
 
-#EXTINF:-1 tvg-logo="https://allaboutfashionglam.files.wordpress.com/2017/11/quc3a9-es-la-moda.png" group-title="MODA" ,•●★-- MODA --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UD57tGt.png" group-title="MODA" ,•●★-- MODA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV Midnight
