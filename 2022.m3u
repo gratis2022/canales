@@ -1490,6 +1490,11 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="NOTICIAS", TV Marti | CU
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 
+#EXTINF:0,-CULTURA-
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Cultura1972.png/revision/latest?cb=20201102004823&path-prefix=es" group-title="CULTURA" ,•●★-- CULTURA --★●•
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+
 #EXTINF:0,-ANIME-
 
 #EXTINF:-1 tvg-logo="https://cutewallpaper.org/24/anime-logo-png/download-republic-of-anime-logo-280x-402x-california-png-image-with-no-background-pngkeycom.png" group-title="ANIME" ,•●★-- ANIME --★●•
