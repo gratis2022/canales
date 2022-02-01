@@ -2503,6 +2503,10 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?Playl
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1987/1987997.png"" group-title="MUSICA" ,•●★-- MUSICA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
+#EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg group-title="MUSICA", Sexy Kpop TV | BR
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png"  group-title="MUSICA" , On Radio Kpop | CL
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png"  group-title="MUSICA" , Re7 | CL
 https://vdohd.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA",La Mega Mundial HD
@@ -2585,8 +2589,6 @@ https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8?Playlis
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png" group-title="MUSICA", Amordiscos TV | CO
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg group-title="MUSICA", Sexy Kpop TV | BR
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png" group-title="MUSICA", Re7 | CL
 https://vdohd.cl:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg group-title="MUSICA", High Music | CL
@@ -2693,8 +2695,6 @@ http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://www.m3u.cl/logo/973_Top_New_Radio.png"  group-title="RADIOS" , Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png"  group-title="RADIOS" , On Radio Kpop | CL
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="m2o TV" tvg-logo="https://www.m3u.cl/logo/23_m2o_TV.png"  group-title="RADIOS" , m2o TV | IT
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg"  group-title="RADIOS" , Karibeña TV | PE
