@@ -2,14 +2,14 @@
 
 #EXTINF:0,-PPV-
 
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/367-3674188_pipoca-png.png" group-title="PPV" ,•●★-- PPV --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV" ,•●★-- PPV --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="PPV", PPV Eventos 1 | CL
 https://v2.tustreaming.cl/entretelive/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,-PREMIUM-
 
-#EXTINF:-1 tvg-logo="https://opti.es/wp-content/uploads/2017/03/PREMIUM.png" group-title="PREMIUM" ,•●★-- PREMIUM --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBl2OCi.png" group-title="PREMIUM" ,•●★-- PREMIUM --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="PREMIUM",AXN HD
@@ -1179,7 +1179,7 @@ http://181.78.22.214:8000/play/a01d
 
 #EXTINF:0,-DEPORTES-
 
-#EXTINF:-1 tvg-logo="https://desportes2017.files.wordpress.com/2017/11/cropped-pelotas1.png?w=532" group-title="DEPORTES" ,•●★-- DEPORTES --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaidWJ1.png" group-title="DEPORTES" ,•●★-- DEPORTES --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",TNT SPORTS 1 BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
