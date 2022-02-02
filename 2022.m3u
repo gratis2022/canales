@@ -1442,6 +1442,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="RLOTV" tvg-logo="https://www.m3u.cl/logo/895_RLOTV.png"  group-title="CINE" , RLOTV | CL
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-id="479" tvg-name="Retro TV Palmares" tvg-logo="https://www.m3u.cl/logo/479_Retro_TV_Palmares.png"  group-title="CINE" , Retro TV Palmares | CR
+http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 
@@ -1516,8 +1518,6 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png"  group-title="INFANTILES" , Cloud Server Kids | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
-#EXTINF:-1 tvg-id="479" tvg-name="Retro TV Palmares" tvg-logo="https://www.m3u.cl/logo/479_Retro_TV_Palmares.png"  group-title="INFANTILES" , Retro TV Palmares | CR
-http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://www.m3u.cl/logo/52_Dreiko_TV.png"  group-title="INFANTILES" , Dreiko TV | PA
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg"  group-title="INFANTILES" , Paka Paka | AR
