@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV" ,•●★-- PPV --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="PPV", PPV Eventos 1 | CL
-https://v2.tustreaming.cl/entretelive/tracks-v1a1/mono.m3u8
+https://cloud2.streaminglivehd.com:1936/entretelive/entretelive/playlist.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV" , Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
