@@ -3,14 +3,14 @@
 #EXTINF:0,-LISTA GRATUITA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA" ,•●★-- 100% GRATIS --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA" ,ACTUALIZACION 02/02/2022
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 
 #EXTINF:0,-PPV-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV" ,•●★-- PPV --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="PPV", PPV Eventos 1 | CL
 https://cloud2.streaminglivehd.com:1936/entretelive/entretelive/playlist.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV" , Retro Play TV | CL
@@ -19,8 +19,7 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:0,-PREMIUM-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM" ,•●★-- PREMIUM --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="PREMIUM",AXN HD
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="PREMIUM", NATGEO
@@ -1189,7 +1188,7 @@ http://181.78.22.214:8000/play/a01d
 #EXTINF:0,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTES" ,•●★-- DEPORTES --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",TNT SPORTS 1 BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",DIRECT TV SPORTS
@@ -1368,7 +1367,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 #EXTINF:0,-ENTRETENIMIENTO-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AU4xuk6.png" group-title="ENTRETENIMIENTO" ,•●★-- ENTRETENIMIENTO --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
@@ -1409,7 +1408,7 @@ https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 #EXTINF:0,-CINE-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujLKcqq.png" group-title="CINE" ,•●★-- CINE --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png"  group-title="CINE" , Planetatv Movie 
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png"  group-title="CINE" , Orbit TV | DO
@@ -1446,7 +1445,7 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 #EXTINF:0,-ANIME-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRJichH.png" group-title="ANIME" ,•●★-- ANIME --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ANIME" , EnerGeek 
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png"  group-title="ANIME" , Aniplus * | AR
@@ -1457,7 +1456,7 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:0,-INFANTILES-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T66xgtn.png" group-title="INFANTILES" ,•●★-- INFANTILES --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png"  group-title="INFANTILES" , Planetatv Kids 
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png"  group-title="INFANTILES" , Chavo Tv
@@ -1482,7 +1481,7 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:0,-LIFESTYLE-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvOe4AX.png" group-title="LIFESTYLE" ,•●★-- LIFESTYLE --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="LIFESTYLE",Tastemade Español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="LIFESTYLE",Hola Tv
@@ -1495,7 +1494,7 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:0,-MODA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UD57tGt.png" group-title="MODA" ,•●★-- MODA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV Midnight
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV New York | US
@@ -1510,7 +1509,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0,-NOTICIAS-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4Ieb9Q.png" group-title="NOTICIAS" ,•●★-- NOTICIAS --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306624/images/logod.png" group-title="NOTICIAS",RT Noticias
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png" group-title="NOTICIAS",Hispan Tv
@@ -1529,7 +1528,7 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 #EXTINF:0,-CULTURA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu3Kfh5.png" group-title="CULTURA" ,•●★-- CULTURA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="441" tvg-name="Teatro del Lago" tvg-logo="https://www.m3u.cl/logo/441_Teatro_del_Lago.png"  group-title="CULTURA" , Teatro del Lago | CL
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8
 #EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://www.m3u.cl/logo/910_Raices_Arabes_TV.png"  group-title="CULTURA" , Raices Arabes TV | CL
@@ -1556,7 +1555,7 @@ https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
 #EXTINF:0,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gxWjMix.png" group-title="CHILE" ,•●★-- CHILE --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL
 https://marine2.miplay.cl/24horas/mono.m3u8
 #EXTINF:-1  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CHILE",Canal 13 | CL
@@ -1627,7 +1626,7 @@ https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8?PlaylistM3
 #EXTINF:0,-ARGENTINA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXPIggx.png" group-title="ARGENTINA" ,•●★-- ARGENTINA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America HD | AR
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America SD | AR
@@ -1854,7 +1853,7 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM
 #EXTINF:0,-PERU-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfX6l18.png" " group-title="PERU" ,•●★-- PERU --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png"  group-title="PERU", ATV | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://www.m3u.cl/logo/1066_ATV_.png"  group-title="PERU", ATV+ | PE
@@ -1921,7 +1920,7 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 #EXTINF:0,-COLOMBIA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1runUoB.png" group-title="COLOMBIA" ,•●★-- COLOMBIA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg"   group-title="COLOMBIA", Caracol | CO
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg"   group-title="COLOMBIA", Cali TV | CO
@@ -1978,7 +1977,7 @@ http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,-ECUADOR-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s21plzL.png" group-title="ECUADOR" ,•●★-- ECUADOR --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="1036" tvg-name="Red TVE Ventana" tvg-logo="https://www.m3u.cl/logo/1036_Red_TVE_Ventana.png"   group-title="ECUADOR", Red TVE Ventana * | EC
 https://s1.tvdatta.com:3707/live/redtvelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="95" tvg-name="America Estereo" tvg-logo="https://www.m3u.cl/logo/95_America_Estereo.jpg"  group-title="ECUADOR", America Estereo | EC
@@ -2001,7 +2000,7 @@ https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
 #EXTINF:0,-BOLIVIA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uowx41Q.png" group-title="BOLIVIA" ,•●★-- BOLIVIA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",Red Uno | BO
 http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="ATB" tvg-logo="https://www.m3u.cl/logo/88_ATB.png"   group-title="BOLIVIA", ATB | BO
@@ -2024,7 +2023,7 @@ https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,-VENEZUELA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YebA1WC.png" group-title="VENEZUELA" ,•●★-- VENEZUELA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png"  group-title="VENEZUELA", Venevision | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png"  group-title="VENEZUELA", Nubeh TV * | VE
@@ -2065,7 +2064,7 @@ https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist
 #EXTINF:0,-PARAGUAY-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjydrxE.png" group-title="PARAGUAY" ,•●★-- PARAGUAY --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://1.bp.blogspot.com/-DfLb6q9H12k/Xx6LmlMVe1I/AAAAAAAAKjw/uwMZG5F2BO0VJp76hUEOUvJw0qhMeeT2gCLcBGAsYHQ/s1600/cristal-tv.png" group-title="PARAGUAY", CRISTAL TV * | PY
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/chunklist_w1404718741.m3u8
 #EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://www.m3u.cl/logo/807_LIM_TV.jpg" group-title="PARAGUAY", LIM TV * | PY
@@ -2090,7 +2089,7 @@ https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?Playlis
 #EXTINF:0,-MEXICO-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7xHX0R.png" group-title="MEXICO" ,•●★-- MEXICO --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png"  group-title="MEXICO", Conecta TV * | MX
 https://stream8.mexiserver.com:443/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="664" tvg-name="Canal Once Internacional" tvg-logo="https://www.m3u.cl/logo/664_Canal_Once_Internacional.png"  group-title="MEXICO", Canal Once Internacional | MX
@@ -2189,7 +2188,7 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 #EXTINF:0,-REPUBLICA DOMINICANA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2BbjWV.png" group-title="REPUBLICA DOMINICANA" ,•●★-- REPUBLICA DOMINICANA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png"  group-title="REPUBLICA DOMINICANA", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png"  group-title="REPUBLICA DOMINICANA", TV Exitos | DO
@@ -2272,7 +2271,7 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,-COSTA RICA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RY267Xw.png" group-title="COSTA RICA" ,•●★-- COSTA RICA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="1060" tvg-name="Canal 11" tvg-logo="https://www.m3u.cl/logo/1060_Canal_11.png"  group-title="COSTA RICA", Canal 11 | CR
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1061" tvg-name="Canal 2" tvg-logo="https://www.m3u.cl/logo/1061_Canal_2.png"  group-title="COSTA RICA", Canal 2 | CR
@@ -2323,7 +2322,7 @@ https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
 #EXTINF:0,-ESPANA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UuMisR.png" group-title="ESPANA" ,•●★-- ESPANA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png"  group-title="ESPANA", Urban TV * | ES
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg"  group-title="ESPANA", Pequeradio TV | ES
@@ -2412,7 +2411,7 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 #EXTINF:0,-BRASIL-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j12i0k9.png" group-title="BRASIL" ,•●★-- BRASIL --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="524" tvg-name="TV Grande Natal HDTV" tvg-logo="https://www.m3u.cl/logo/524_TV_Grande_Natal_HDTV.jpg"  group-title="BRASIL", TV Grande Natal HDTV * | BR
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://www.m3u.cl/logo/988_Vintage_TV.png"  group-title="BRASIL", Vintage TV * | BR
@@ -2525,7 +2524,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?Playl
 #EXTINF:0,-MUSICA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uan9R5X.png" group-title="MUSICA" ,•●★-- MUSICA --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg group-title="MUSICA", Sexy Kpop TV | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png"  group-title="MUSICA" , On Radio Kpop | CL
@@ -2696,7 +2695,7 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 #EXTINF:0,-VIDEOMIX-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e79ZG6G.png" group-title="VIDEOMIX" ,•●★-- VIDEOMIX --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",The 80s Videomix Volume 1 
 https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
 #EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",The 90s EurodanceVideomix
@@ -2719,7 +2718,7 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 #EXTINF:0,-RADIOS-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOVIxQh.png" group-title="RADIOS" ,•●★-- RADIOS --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://www.m3u.cl/logo/973_Top_New_Radio.png"  group-title="RADIOS" , Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="m2o TV" tvg-logo="https://www.m3u.cl/logo/23_m2o_TV.png"  group-title="RADIOS" , m2o TV | IT
@@ -2848,7 +2847,7 @@ https://mediacpstreamchile.com:1936/norterama/norterama/playlist.m3u8
 #EXTINF:0,-REGIONALES-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NVCysFd.png" group-title="REGIONALES" ,•●★-- REGIONALES --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="999" tvg-name="38TV" tvg-logo="https://www.m3u.cl/logo/999_38TV.png"  group-title="REGIONALES" , 38TV 
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://www.m3u.cl/logo/25_TuTv_Quillota.png"  group-title="REGIONALES" , TuTv Quillota | CL
@@ -3058,7 +3057,7 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:0,-RELIGIOSOS-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XTgmyrN.png" group-title="RELIGIOSOS" ,•●★-- RELIGIOSOS --★●•
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 #EXTINF:-1 tvg-id="161" tvg-name="Vida TV" tvg-logo="https://www.m3u.cl/logo/161_Vida_TV.png" group-title="RELIGIOSOS", Vida TV * | CL
 http://45.161.188.242:88/vidatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="899" tvg-name="Volvamos a Dios TV" tvg-logo="https://play-lh.googleusercontent.com/1z4qEqeGO4W9MK9R274F-4V0UsuYHZzX7y08Q4sSn_DoMV9daI9axICKNAh9TSdWsIBZ" group-title="RELIGIOSOS"", Volvamos a Dios TV * | CL
