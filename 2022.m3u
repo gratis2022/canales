@@ -1,10 +1,10 @@
 #EXTM3U 
 
-#EXTINF:0,-GRATUITA-
+#EXTINF:0,-LISTA GRATUITA-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="GRATUITA" ,•●★-- LISTA GRATUITA --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA" ,•●★-- 100% GRATIS --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="GRATUITA" ,ACTUALIZACION 02/02/2022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA" ,ACTUALIZACION 02/02/2022
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
 #EXTINF:0,-PPV-
