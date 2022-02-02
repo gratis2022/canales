@@ -6,6 +6,8 @@
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="PPV", PPV Eventos 1 | CL
 https://v2.tustreaming.cl/entretelive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV" , Retro Play TV | CL
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:0,-PREMIUM-
 
@@ -1383,8 +1385,6 @@ https://srv.panelcast.net/rc2/rc2/playlist.m3u8
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="ENTRETENIMIENTO" , Retro Play TV | CL
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO" , Tele Clasicos | CR
 https://tvdatta.com:3484/hybrid/play.m3u8
 
