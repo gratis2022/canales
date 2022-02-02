@@ -1381,15 +1381,10 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO" , Conecta2 TV | CL
 https://srv.panelcast.net/rc2/rc2/playlist.m3u8
-#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="ENTRETENIMIENTO" , TV Pop | CL
-https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO" , Tele Clasicos | CR
 https://tvdatta.com:3484/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png"  group-title="ENTRETENIMIENTO" , Vision Plus TV 
-http://v2.tustreaming.cl:80/visionplustv/index.m3u8
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO" , HiperTV 
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
@@ -1425,12 +1420,16 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="349" tvg-name="Estacion TV" tvg-logo="https://www.m3u.cl/logo/349_Estacion_TV.png"  group-title="CINE" , Estacion TV | CL
 https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="CINE" , TV Pop | CL
+https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"  group-title="CINE" , Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="RLOTV" tvg-logo="https://www.m3u.cl/logo/895_RLOTV.png"  group-title="CINE" , RLOTV | CL
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png"  group-title="CINE" , Mi TV Televisión Clásica | US
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+#EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png"  group-title="CINE" , Vision Plus TV 
+http://v2.tustreaming.cl:80/visionplustv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" group-title="CINE",A3 CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="CINE",Pluto Tv Film
