@@ -1481,6 +1481,18 @@ http://unlimited5-cl.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks
 https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="http://golpenoticias.cl/wp/wp-content/uploads/2016/11/MISS-DERBY-2017-VALPARA%C3%8DSO-SPORTING.jpg" group-title="DEPORTES",Valparaiso Sporting 
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTES",Combate
+http://50.7.34.155:2200/BR/Combate_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
+#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTES",ESPN
+http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
+#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTES",SporTV
+http://50.7.34.155:2200/BR/Sportv_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
+#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTES",SporTV 2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
+#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTES",SporTV 3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",MOTOAMERICA TV
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_PREV_v0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",FTF Sport
