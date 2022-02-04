@@ -2863,6 +2863,10 @@ https://v2.catcast.tv/content/33816/index.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png"  group-title="MUSICA" , RCKTV 
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MUSICA",MTV 80s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv80s
+#EXTINF:-1  tvg-logo="" group-title="MUSICA",MTV 90s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv90s
 
 #EXTINF:0,-VIDEOMIX-
 
