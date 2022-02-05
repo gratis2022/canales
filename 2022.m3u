@@ -1175,48 +1175,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTE INTERNACIONAL",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 
-
-#EXTINF:0,-ENTRETENIMIENTO-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AU4xuk6.png" group-title="ENTRETENIMIENTO" ,•●★-- ENTRETENIMIENTO --★●•
-https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
-http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
-http://www.tecniconsult.hn/UnivisionHD/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",Unimas
-http://162.212.179.22:9981/stream/channelid/358793691?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="ENTRETENIMIENTO",Telemundo
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="ENTRETENIMIENTO",LasEstrellas
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",Estrella Tv
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO" , Conecta2 TV | CL
-https://srv.panelcast.net/rc2/rc2/playlist.m3u8
-#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="ENTRETENIMIENTO" , TV Pop | CL
-https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO" , Tele Clasicos | CR
-https://tvdatta.com:3484/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO" , HiperTV 
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="ENTRETENIMIENTO" , Cosmos TV | CL
-http://v2.tustreaming.cl:80/cosmostv/index.m3u8
-#EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://www.m3u.cl/logo/1020_Caracola_TV.png"  group-title="ENTRETENIMIENTO" , Caracola TV 
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="986" tvg-name="Ziza TV" tvg-logo="https://www.m3u.cl/logo/986_Ziza_TV.png"  group-title="ENTRETENIMIENTO" , Ziza TV 
-https://v2.tustreaming.cl/zizatv/index.m3u8
-#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="ENTRETENIMIENTO" , WOW TV | SV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="ENTRETENIMIENTO" , G Vision | CL
-https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
-#EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="ENTRETENIMIENTO" , ClickTv | CL
-http://v2.tustreaming.cl/clicktv/index.m3u8
-#EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
-https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
-
 #EXTINF:0,-PLUTO TV-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="PLUTO TV" ,•●★-- PLUTO TV --★●•
@@ -1334,6 +1292,47 @@ https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://www.m3u.cl/logo/45_NTV.png"  group-title="INFANTILES" , NTV | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+#EXTINF:0,-ENTRETENIMIENTO-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AU4xuk6.png" group-title="ENTRETENIMIENTO" ,•●★-- ENTRETENIMIENTO --★●•
+https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
+http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
+http://www.tecniconsult.hn/UnivisionHD/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",Unimas
+http://162.212.179.22:9981/stream/channelid/358793691?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="ENTRETENIMIENTO",Telemundo
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="ENTRETENIMIENTO",LasEstrellas
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",Estrella Tv
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO" , Conecta2 TV | CL
+https://srv.panelcast.net/rc2/rc2/playlist.m3u8
+#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="ENTRETENIMIENTO" , TV Pop | CL
+https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO" , Tele Clasicos | CR
+https://tvdatta.com:3484/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO" , HiperTV 
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="ENTRETENIMIENTO" , Cosmos TV | CL
+http://v2.tustreaming.cl:80/cosmostv/index.m3u8
+#EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://www.m3u.cl/logo/1020_Caracola_TV.png"  group-title="ENTRETENIMIENTO" , Caracola TV 
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="986" tvg-name="Ziza TV" tvg-logo="https://www.m3u.cl/logo/986_Ziza_TV.png"  group-title="ENTRETENIMIENTO" , Ziza TV 
+https://v2.tustreaming.cl/zizatv/index.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="ENTRETENIMIENTO" , WOW TV | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="ENTRETENIMIENTO" , G Vision | CL
+https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
+#EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="ENTRETENIMIENTO" , ClickTv | CL
+http://v2.tustreaming.cl/clicktv/index.m3u8
+#EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO" , High Music | CL
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
 #EXTINF:0,-LIFESTYLE-
 
