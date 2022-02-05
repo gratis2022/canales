@@ -1519,6 +1519,8 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu3Kfh5.png" group-title="CULTURA" ,•●★-- CULTURA --★●•
 https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
+#EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png"  group-title="CULTURA", Cultura 24 TV | PE
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="441" tvg-name="Teatro del Lago" tvg-logo="https://www.m3u.cl/logo/441_Teatro_del_Lago.png"  group-title="CULTURA" , Teatro del Lago | CL
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8
 #EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://www.m3u.cl/logo/910_Raices_Arabes_TV.png"  group-title="CULTURA" , Raices Arabes TV | CL
@@ -1848,14 +1850,20 @@ https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://www.m3u.cl/logo/1066_ATV_.png"  group-title="PERU", ATV+ | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="978" tvg-name="DMJ" tvg-logo="https://www.m3u.cl/logo/978_DMJ.png"  group-title="PERU", DMJ * | PE
-https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png"  group-title="PERU", Best Cable Sports | PE
-https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png"  group-title="PERU", TV Peru Noticias | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png"  group-title="PERU", Canal IPE | PE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg"  group-title="PERU", Best Cable Music | PE
-https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="969" tvg-name="Onda Digital TV" tvg-logo="https://www.m3u.cl/logo/969_Onda_Digital_TV.png"  group-title="PERU", Onda Digital TV | PE
+https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://www.m3u.cl/logo/695_BHTV.png"  group-title="PERU", BHTV | PE
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="684" tvg-name="UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg"  group-title="PERU", UCI Noticias 1 | PE
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="706" tvg-name="UCI Noticias 2" tvg-logo="https://www.m3u.cl/logo/706_UCI_Noticias_2.jpg"  group-title="PERU", UCI Noticias 2 | PE
+http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="978" tvg-name="DMJ" tvg-logo="https://www.m3u.cl/logo/978_DMJ.png"  group-title="PERU", DMJ * | PE
+https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg"  group-title="PERU", Hatun TV | PE
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg"  group-title="PERU", Karibeña TV | PE
@@ -1868,20 +1876,10 @@ https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?Play
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://www.m3u.cl/logo/876_Vision_Musica_TV.png"  group-title="PERU", Vision Musica TV | PE
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="969" tvg-name="Onda Digital TV" tvg-logo="https://www.m3u.cl/logo/969_Onda_Digital_TV.png"  group-title="PERU", Onda Digital TV | PE
-https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png"  group-title="PERU", TV Peru Noticias | PE
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="684" tvg-name="UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg"  group-title="PERU", UCI Noticias 1 | PE
-http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="706" tvg-name="UCI Noticias 2" tvg-logo="https://www.m3u.cl/logo/706_UCI_Noticias_2.jpg"  group-title="PERU", UCI Noticias 2 | PE
-http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="687" tvg-name="Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png"  group-title="PERU", Vision Noticias Peru | PE
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="694" tvg-name="Antares TV" tvg-logo="https://www.m3u.cl/logo/694_Antares_TV.png"  group-title="PERU", Antares TV | PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://www.m3u.cl/logo/695_BHTV.png"  group-title="PERU", BHTV | PE
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png"  group-title="PERU", Central TV Chosica | PE
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png"  group-title="PERU", Cultura 24 TV | PE
