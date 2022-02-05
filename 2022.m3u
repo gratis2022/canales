@@ -1484,7 +1484,7 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE INTERNACIONAL" ,•●★-- DEPORTE INTERNACIONAL --★●•
 https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="DEPORTE INERNACIONAL",TNT SPORTS 1 BRASIL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 1 BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
