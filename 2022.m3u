@@ -1506,17 +1506,10 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE INTERNACIONAL" ,•●★-- DEPORTE INTERNACIONAL --★●•
 https://inliveserver.com:1936/11528/mp4:11528/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTE INTERNACIONAL",Combate
-http://50.7.34.155:2200/BR/Combate_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTE INTERNACIONAL",ESPN
-http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTE INTERNACIONAL",SporTV
-http://50.7.34.155:2200/BR/Sportv_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTE INTERNACIONAL",SporTV 2
-http://50.7.34.155:2200/BR/Sportv_2_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="DEPORTE INTERNACIONAL",SporTV 3
-http://50.7.34.155:2200/BR/Sportv_3_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE INTERNACIONAL",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE INTERNACIONAL",X KLF
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTE INTERNACIONAL",MOTOAMERICA TV
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_PREV_v0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTE INTERNACIONAL",FTF Sport
@@ -1553,12 +1546,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTE INTERNACIONAL",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE INTERNACIONAL",Bein Sports Extra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE INTERNACIONAL",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE INTERNACIONAL",X KLF
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
 #EXTINF:0,-ENTRETENIMIENTO-
