@@ -1456,6 +1456,24 @@ http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
 http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTES"  tvg-id="dfc46e5abd68c19abafd4eba32f21de2",TyC Sports HD
 http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
+#EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="DEPORTES",Fox Sports
+http://live.steelchannels.com/streaming_free/4e580757/6059/master.m3u8
+#EXTINF:-1 tvg-ID="FoxSports2(ConoSur).co" tvg-name="FoxSports2(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="DEPORTES",Fox Sports 2
+http://live.steelchannels.com/streaming_free/4e580757/6061/master.m3u8
+#EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="DEPORTES",Fox Sports 3
+http://live.steelchannels.com/streaming_free/4e580757/6062/master.m3u8
+#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="DEPORTES",DirecTV Sports
+http://live.steelchannels.com/streaming_free/4e580757/6030/master.m3u8
+#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="DEPORTES",DirecTV Sports 2
+http://live.steelchannels.com/streaming_free/4e580757/6031/master.m3u8
+#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="DEPORTES",DirecTV Sports Plus
+http://live.steelchannels.com/streaming_free/4e580757/6029/master.m3u8
+#EXTINF:-1 tvg-ID="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="DEPORTES",ESPN
+http://live.steelchannels.com/streaming_free/4e580757/6036/master.m3u8
+#EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="DEPORTES",ESPN 2
+http://live.steelchannels.com/streaming_free/4e580757/6038/master.m3u8
+#EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="DEPORTES",ESPN 3
+http://live.steelchannels.com/streaming_free/4e580757/6039/master.m3u8
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/site_image.jpg"  group-title="DEPORTES", TyC SPORTS PLAY 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/site_image.jpg"  group-title="DEPORTES", TyC SPORTS PLAY 2
