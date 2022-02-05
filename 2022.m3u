@@ -2729,8 +2729,10 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 https://5eff35271151c.streamlock.net:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png"  group-title="RADIOS" , Latinos Radio 
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png"  group-title="RADIOS" , Carolina TV | CL
-https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png"  group-title="RADIOS" , Carolina TV HD| CL 
+https://unlimited10-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png"  group-title="RADIOS" , Carolina TV SD | CL
+https://unlimited10-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://www.m3u.cl/logo/387_Zona_Play_Radio.jpg"  group-title="RADIOS" , Zona Play Radio | CL
 https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="974" tvg-name="Patagonia Radio TV" tvg-logo="https://www.m3u.cl/logo/974_Patagonia_Radio_TV.png"  group-title="RADIOS" , Patagonia Radio TV | CL
