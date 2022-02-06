@@ -1368,6 +1368,26 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="DEPORTE INTERNACIONAL", PT | SPORT TV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 1
+https://srv02.varcdn1.ru/m1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 1
+https://chostv.mobie.in/choos/sports/qyt1.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 2
+https://srv02.varcdn1.ru/m2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 2
+https://chostv.mobie.in/choos/sports/qyt2.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 3
+https://srv02.varcdn1.ru/m3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 3
+https://chostv.mobie.in/choos/sports/qyt3.m3u8
+#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
+#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
+#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
+#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="DEPORTE INTERNACIONAL",X KLF
@@ -1402,18 +1422,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-u
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medias24.com/photos_articles/big/08-01-2020/MarocSports0.JPG" group-title="DEPORTE INTERNACIONAL", MARRUECOS | MAROC SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.football-tv.ru/wp-content/uploads/2017/09/logo.png" group-title="DEPORTE INTERNACIONAL", RUS | Футбол
-http://cdntv.online/low/9mlxywika2/59.mpeg
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/01/29/1Sports.jpg?itok=Zml4mKO8" group-title="DEPORTE INTERNACIONAL", INDIA | SPORT
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://audienzz.ch/wp-content/uploads/2016/10/swiss_sport.tv-logo-1.png" group-title="DEPORTE INTERNACIONAL", SUIZA | SWISS SPORT TV
@@ -1526,24 +1534,9 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Local Now Sports (720p)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Look Sport
-https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Look Sport 2
-https://stream1.1616.ro:1945/looksport2/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Look Sport 3
-https://stream1.1616.ro:1945/looksport3/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Look Sport Plus
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",K Sport 1
-http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",K Sport 2
-http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",K Sport 3
-http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",K Sport 4
-http://93.157.62.180/KSport4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",KBP Sports (720p) [Not 24/7]
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",KOK
@@ -1556,18 +1549,7 @@ https://asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.com/manifest/playlist.
 https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Hard Knocks (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 1
-https://srv02.varcdn1.ru/m1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 1
-https://chostv.mobie.in/choos/sports/qyt1.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 2
-https://srv02.varcdn1.ru/m2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 2
-https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 3
-https://srv02.varcdn1.ru/m3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 3
-https://chostv.mobie.in/choos/sports/qyt3.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football Daily (XUMO) (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Fuel TV (1080p)
@@ -1642,14 +1624,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Bein Francia 1
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Bein Francia 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Bein Francia 3
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20121202034638/tvpedia/ru/images/2/23/FightBOX_HD.png" group-title="DEPORTE INTERNACIONAL",Fight BoX 
-http://92.43.140.249/s86/04.m3u8 
 #EXTINF:-1 tvg-logo="https://stage.speltjanst.se/assets/img/atg_logo.png" group-title="DEPORTE INTERNACIONAL",ATG Tv
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="DEPORTE INTERNACIONAL", Viasat Sport 
