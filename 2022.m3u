@@ -1324,7 +1324,7 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="DEPORTE INTERNACIONAL",TNT SPORTS BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL"," group-title="DEPORTE INTERNACIONAL",FUTBOL INTERNACIONAL BRASIL
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL," group-title="DEPORTE INTERNACIONAL",FUTBOL INTERNACIONAL BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/EI.png/revision/latest?cb=20130623185800" group-title="DEPORTE INTERNACIONAL",SPORTE INTERACTIVO BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
@@ -1773,6 +1773,12 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AU4xuk6.png" group-title="ENTRETENIMIENTO" ,•●★-- ENTRETENIMIENTO --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY COMEDIAS
+https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY NOVELAS
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY COMPETENCIAS
+https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
