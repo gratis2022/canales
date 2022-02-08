@@ -1150,7 +1150,7 @@ http://45.225.93.154:8000/play/a02t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE LATINO",•●★-- DEPORTE LATINO --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="LISTA GRATUITA",Claro Sports 2 YOUTUBE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTE LATINO",Claro Sports 2 YOUTUBE
 https://www.youtube.com/embed/J9kiqQqDx9U?autoplay=1  
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.225.93.154:8000/play/a01o
