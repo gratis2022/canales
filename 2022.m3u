@@ -2,23 +2,23 @@
 
 #EXTINF:0,-LISTA GRATUITA-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA" ,•●★-- 100% GRATIS --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA",•●★-- 100% GRATIS --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA" ,ACTUALIZACION 08/02/2022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA",ACTUALIZACION 08/02/2022
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:0,-PPV-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV" ,•●★-- PPV --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV",•●★-- PPV --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/YH3kkgk.png" group-title="PPV", Canal PPV TV | CL
 https://cloud2.streaminglivehd.com:1936/entretelive/entretelive/playlist.m3u8
-#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV" , Retro Play TV | CL
+#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:0,-PREMIUM-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM" ,•●★-- PREMIUM --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- PREMIUM --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="PREMIUM",AXN HD
@@ -1147,7 +1147,7 @@ http://45.225.93.154:8000/play/a02t
 
 #EXTINF:0,-DEPORTE LATINO-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE LATINO" ,•●★-- DEPORTE LATINO --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE LATINO",•●★-- DEPORTE LATINO --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="DEPORTE LATINO",TNT SPORTS 2
@@ -1747,13 +1747,13 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,-ANIME-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XRJichH.png" group-title="ANIME" ,•●★-- ANIME --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRJichH.png" group-title="ANIME",•●★-- ANIME --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ANIME" , EnerGeek 
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ANIME", EnerGeek 
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
-#EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png"  group-title="ANIME" , Aniplus * | AR
+#EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png"  group-title="ANIME", Aniplus * | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"  group-title="ANIME" , Anime Zone TV | AR
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"  group-title="ANIME", Anime Zone TV | AR
 http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:0,-INFANTILES-
