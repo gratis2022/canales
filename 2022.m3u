@@ -1841,6 +1841,8 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://www.m3u.cl/logo/1058_Spectrum_Channel.png"  group-title="LIFESTYLE", Spectrum Channel 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="LIFESTYLE",Latina Angels
+https://bit.ly/3zKDoKn?/3000.m3u8
 
 #EXTINF:0,-MODA-
 
