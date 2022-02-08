@@ -1,13 +1,13 @@
 #EXTM3U 
 
-#EXTINF:0,-LISTA GRATUITA-
+#EXTINF:1,-LISTA GRATUITA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA",•●★-- 100% GRATIS --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA",ACTUALIZACION 08/02/2022
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:0,-PPV-
+#EXTINF:1,-PPV-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV",•●★-- PPV --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -16,7 +16,7 @@ https://cloud2.streaminglivehd.com:1936/entretelive/entretelive/playlist.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
-#EXTINF:0,-PREMIUM-
+#EXTINF:1,-PREMIUM-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- PREMIUM --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -1145,7 +1145,7 @@ http://45.225.93.154:8000/play/a024
 http://45.225.93.154:8000/play/a02t
 
 
-#EXTINF:0,-DEPORTE LATINO-
+#EXTINF:1,-DEPORTE LATINO-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE LATINO",•●★-- DEPORTE LATINO --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -1660,7 +1660,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="LocalNow_EPGLN Sports" tvg-name="Local Now Sports" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="DEPORTE INTERNACIONAL",Local Now Sports
 https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
 
-#EXTINF:0,-PLUTO TV-
+#EXTINF:1,-PLUTO TV-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="PLUTO TV",•●★-- PLUTO TV --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -1697,7 +1697,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",PLUTO TV FÚTBOL PARA FANS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 
-#EXTINF:0,-CINE-
+#EXTINF:1,-CINE-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujLKcqq.png" group-title="CINE",•●★-- CINE --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -1742,7 +1742,7 @@ https://cdn1.streamgato.us/megacinetv/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://revmakers.com/wp-content/uploads/2016/08/reconline.png" group-title="CINE",Rec Online TV
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,-ANIME-
+#EXTINF:1,-ANIME-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRJichH.png" group-title="ANIME",•●★-- ANIME --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -1753,7 +1753,7 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"  group-title="ANIME", Anime Zone TV | AR
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:0,-INFANTILES-
+#EXTINF:1,-INFANTILES-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T66xgtn.png" group-title="INFANTILES",•●★-- INFANTILES --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -3118,23 +3118,23 @@ https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e79ZG6G.png" group-title="VIDEOMIX",•●★-- VIDEOMIX --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",The 80s Videomix Volume 1 
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",The 80s Videomix Volume 1 
 https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",The 90s EurodanceVideomix
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",The 90s EurodanceVideomix
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",SheepMix 
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",SheepMix 
 https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",Yearmix2009
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2009
 https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",Yearmix2010 
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2010 
 https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",Yearmix2011 
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2011 
 https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",Yearmix2012 
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2012 
 https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",Yearmix2014 
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2014 
 https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
-#EXTINF:0 tvg-logo="http://www.ivideomix.com/wp-content/uploads/2018/09/ivideomixlogo.png" group-title="VIDEOMIX",Yearmix2015 
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2015 
 https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 
 #EXTINF:0,-RADIOS-
