@@ -1336,6 +1336,7 @@ http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",ESPN 2
 http://38.91.57.12:2082/espn2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Bein Premium 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Bein Premium 2
@@ -1350,6 +1351,16 @@ http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59219.m3u8
 http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59218.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="DEPORTE INTERNACIONAL",Astro Supersport 4 {meu02}
 http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="DEPORTE INTERNACIONAL" ASTRO SPORT1
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="DEPORTE INTERNACIONAL", ASTRO SPORT2
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="DEPORTE INTERNACIONAL",ASTRO SPORT3
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="DEPORTE INTERNACIONAL", ASTRO SPORT4
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c9730b86451fb0050f0f2a5c274a8a2d.jpg" group-title="DEPORTE INTERNACIONAL", ASTRO CRICKET
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170835
 #EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="DEPORTE INTERNACIONAL", ALB | K SPORT 1
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="DEPORTE INTERNACIONAL", ALB | K SPORT 2
@@ -1839,6 +1850,8 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV Midnight
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA" , FashionTV New York | US
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA" , FashionTV Paris | US
