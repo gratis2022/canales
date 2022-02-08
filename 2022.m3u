@@ -1416,7 +1416,7 @@ https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png" group-title="DEPORTE INTERNACIONAL",Dubai Racing 3
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="DEPORTE INTERNACIONAL",ATG
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/tldhjvq55hjd/2sRJgcUghTOwcvVt8UEIsZ/cbe662f8ed25fc98b33ecdd94585f75b/atg.png" group-title="DEPORTE INTERNACIONAL",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="DEPORTE INTERNACIONAL",Captital OTB Betting
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
@@ -1638,11 +1638,11 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="DEPORTE INTERNACIONAL", Viasat Sport 
 http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="DEPORTE INTERNACIONAL",Red Bull TV Full HD
+#EXTINF:-1 tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="DEPORTE INTERNACIONAL",Red Bull TV Full HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="DEPORTE INTERNACIONAL",Red Bull TV HD
+#EXTINF:-1 tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="DEPORTE INTERNACIONAL",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="DEPORTE INTERNACIONAL",Red Bull TV SD
+#EXTINF:-1 tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="DEPORTE INTERNACIONAL",Red Bull TV SD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/BFM_Sport.svg/600px-BFM_Sport.svg.png" group-title="DEPORTE INTERNACIONAL", BFM Sport
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8?xtreamiptv.m3u8
