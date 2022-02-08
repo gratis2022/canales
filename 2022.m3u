@@ -1845,6 +1845,30 @@ https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="LIFESTYLE",Latina Angels
 https://bit.ly/3zKDoKn?/3000.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/canalcocina.jpg",Canal Cocina 
+http://37.14.202.156:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cocinapluto.png",Tv Cocina
+https://bit.ly/tvcocinaPluto?/master1080p.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://iptv.live/images/logo/channel/crops/c81b0147c1bafa607d2c3f8e080cbdad.png",El Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Food%20Network.png",Food   
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png",BBC Food
+https://bit.ly/bbcfood_inspiration_m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg",Bon Appetit
+https://bonappetit-samsung.amagi.tv/master1080p.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg",Bon Appetit
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ifood.tv.png",ifood
+https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",Gusto tv
+https://linear-139.frequency.stream/dist/localnow/139/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e", Tastemade
+https://tastemade-es16tm-samsung.amagi.tv/playlist1080.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:0,-MODA-
 
