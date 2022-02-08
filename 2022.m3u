@@ -1214,7 +1214,7 @@ http://200.24.159.179:8500/play/a021
 http://200.24.159.179:8500/play/a01n
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",Fox sports 3
 http://200.24.159.179:8500/play/a01o
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTES",TNT SPORTS ARGENTINA
+#EXTINF:-1 tvg-chno="342" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 #EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2
