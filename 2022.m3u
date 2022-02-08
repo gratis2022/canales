@@ -2966,7 +2966,7 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="6" tvg-name="Toca Hits - Mix 24-7 VdjMix Retro" tvg-logo="https://www.m3u.cl/logo/6_Toca_Hits___Mix_24_7_VdjMix_Retro.png" group-title="MUSICA", Toca Hits - Mix 24-7 VdjMix Retro * | CL
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="769" tvg-name="Radioteca WebStereo" tvg-logo="https://www.m3u.cl/logo/769_Radioteca_WebStereo.webp", Radioteca WebStereo * | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/769_Radioteca_WebStereo.webp" group-title="MUSICA", Radioteca WebStereo * | CL
 https://vdohd.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="MUSICA", Mundo de la Musica TV * | CL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
