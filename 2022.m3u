@@ -1245,7 +1245,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://i.imgur.com/puBDhTt.png" group-title="DEPORTE LATINO",TyC Sports
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTE LATINO",Fox Sports Premium  
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOXSPORTS
