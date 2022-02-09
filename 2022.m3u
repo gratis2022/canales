@@ -1747,6 +1747,9 @@ http://84.42.140.147:8890/hdmi
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png?v=1",Türkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",SSC 5 HD
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/lNOi6Gy5fuHmXudWhfmngt3SlfxzFQNw6tCFC91wDDpiRUALkONTKt0ztOMPognxlB2unOGCO2y-r_HI5O2xMw/non_transcode/us-west-2/periscope-replay-direct-prod-us-east-1-public/dynamic_highlatency.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png",Eurosport 1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png",Eurosport 1
