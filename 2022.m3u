@@ -2170,7 +2170,7 @@ https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="MODA",HD Fashion y Lifestyle FHD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Global Fashion Channel
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6mTTFrpY0OuHAq82GrN0r_i2OSZcz72h-0cC2SxbQmu4JGFi6ycWTLdhx3X6NPAswA" group-title="MODA",Global Fashion Channel
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
 
 #EXTINF:0,-NOTICIAS-
