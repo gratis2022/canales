@@ -1190,7 +1190,7 @@ http://91.126.141.13:1935/live/91/playlist.m3u8
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940
 #EXTINF:-1  tvg-logo="https://mundo-r.com/bundles/app/images/channels/realmadridtv_200x200.png" group-title="DEPORTE LATINO",Real Madrid TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE LATINO" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv
+#EXTINF:-1 tvg-id="" group-title="DEPORTE LATINO" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid TV USA
 https://bit.ly/RealMadridtv?/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://statics.proyectoclubes.com/images/header/logo-las-palmas.png?20211130091706" group-title="DEPORTE LATINO",Las Palmas
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
@@ -1216,8 +1216,10 @@ http://37.14.202.156:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="DEPORTE LATINO" tvg-logo="https://statics.ccma.cat/img/logos/esport3_simbol_color.svg",Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
 
-#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA N
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1  tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTE LATINO",Claro Sports 
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports FHD
@@ -1386,9 +1388,6 @@ http://38.91.57.12:2082/espn2/tracks-v1a1/mono.m3u8
 https://bit.ly/BeinSportXtra?/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports Xtra ñ
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports Xtra ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
