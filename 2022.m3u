@@ -2027,8 +2027,16 @@ https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvOe4AX.png" group-title="LIFESTYLE",•●★-- LIFESTYLE --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://iptv.live/images/logo/channel/crops/c81b0147c1bafa607d2c3f8e080cbdad.png",El Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="LIFESTYLE",Tastemade Español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e", Tastemade
+https://tastemade-es16tm-samsung.amagi.tv/playlist1080.m3u8
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/canalcocina.jpg",Canal Cocina 
+http://37.14.202.156:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cocinapluto.png",Tv Cocina
+https://bit.ly/tvcocinaPluto?/master1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="LIFESTYLE",Hola Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="LIFESTYLE", Wapp | CL
@@ -2037,44 +2045,6 @@ https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="LIFESTYLE",Latina Angels
 https://bit.ly/3zKDoKn?/3000.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/canalcocina.jpg",Canal Cocina 
-http://37.14.202.156:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cocinapluto.png",Tv Cocina
-https://bit.ly/tvcocinaPluto?/master1080p.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://iptv.live/images/logo/channel/crops/c81b0147c1bafa607d2c3f8e080cbdad.png",El Gourmet
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Food%20Network.png",Food   
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png",BBC Food
-https://bit.ly/bbcfood_inspiration_m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg",Bon Appetit
-https://bonappetit-samsung.amagi.tv/master1080p.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg",Bon Appetit
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ifood.tv.png",ifood
-https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",Gusto tv
-https://linear-139.frequency.stream/dist/localnow/139/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e", Tastemade
-https://tastemade-es16tm-samsung.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade Travel
-https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GoTraveler_logo_dark.png",GoTraveler
-https://bit.ly/GoTraveler?/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/travel-br.png",Travel 
-http://177.20.208.58:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Travel.svg",Travel Channel
-http://162.244.80.146/Travel/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travel xp
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/uhdTravel.png",UHD Travel
-https://bit.ly/3nbc6rA?/rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhqCnqNTdS0PrE_H0yC2ZQ9cibQr1-JD4Pg6mCVLQ=s88-c-k-c0x00ffffff-no-rj",Trips Marter
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIFESTYLE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTTHQ498oK3st_ixmdSQjHkDoWhb_4jD2lFxNKwA=s88-c-k-c0x00ffffff-no-rj",Hungry Panda tv
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
 
 #EXTINF:0,-MODA-
 
@@ -2179,6 +2149,8 @@ https://livefocamundo.com:8081/arabtv/index.m3u8
 https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="CULTURA", Teletón TV | CL
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
+#EXTINF:-1 tvg-id="" group-title="CULTURA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/uhdTravel.png",UHD Travel
+https://bit.ly/3nbc6rA?/rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="CULTURA",Mountains Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="CULTURA",Rivers Live
