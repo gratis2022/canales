@@ -1828,7 +1828,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/
 
 
 
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png"Surf Channel
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png",Surf Channel
 https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfnow.png",Surf Now tv
 https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
@@ -1838,9 +1838,9 @@ https://bit.ly/Extrememais
 https://outside-tv.samsung.wurl.com/manifest/316fba602419717190792b6b47574254.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/redbullt.png",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png",Edge Sport
+#EXTINF:-1 group-titl="DEPORTE INTERNACIONAL" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png",Edge Sport
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="http://cdn.shopify.com/s/files/1/0053/2034/3616/files/l_1200x1200.png",Epik M
+#EXTINF:-1 group-titl="DEPORTE INTERNACIONAL" tvg-logo="https://cdn.shopify.com/s/files/1/0053/2034/3616/files/l_1200x1200.png",Epik M 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/World%20of%20Freesports.png",World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
