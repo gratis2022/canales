@@ -2012,7 +2012,21 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="NOTICIAS", TV Marti | CU
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="NOTICIAS",24 Horas | CL
+https://marine2.miplay.cl/24horas/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="NOTICIAS",24 Horas | CL
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="NOTICIAS",24 Horas | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="NOTICIAS", T13 | CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png"  group-title="NOTICIAS", TV Peru Noticias | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://www.m3u.cl/logo/658_ADN_40.png"  group-title="NOTICIAS", ADN 40 | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png"  group-title="NOTICIAS", AMX Noticias | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN | USA
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:0,-CULTURA-
