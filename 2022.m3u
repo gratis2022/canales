@@ -1373,6 +1373,10 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL," group-title="DEPORTE INTERNACIONAL",FUTBOL INTERNACIONAL BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2022/01/04/61d4d355e79c5.jpeg",Cariocao Play FHD
+https://live.fnhr.us/6202a91b312e730001299bdb/primary_MS720.m3u8
+#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2022/01/04/61d4d355e79c5.jpeg",Cariocao Play HD
+https://live.fnhr.us/6202a91b312e730001299bdb/primary_MS540.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv
