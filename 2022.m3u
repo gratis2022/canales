@@ -1926,6 +1926,12 @@ https://bit.ly/3qY2y4m?/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T66xgtn.png" group-title="INFANTILES",•●★-- INFANTILES --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network Latino
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png",Duck tv 
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png",Baby Firts 
+https://bit.ly/BabyFirts?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png"  group-title="INFANTILES", Planetatv Kids 
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png"  group-title="INFANTILES", Chavo Tv
@@ -1950,31 +1956,6 @@ https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://www.m3u.cl/logo/45_NTV.png"  group-title="INFANTILES", NTV | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retrocartoon.png",Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1567216407.m3u8
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TV%20XTREME.png",Tv Xtreme
-https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w983130143.m3u8
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://d2lv662meabn0u.cloudfront.net/boing/static/base/images/refresh-logos/logo_es_es.webp",Boing 
-http://149.7.216.178:8080/boing/tracks-v1a1/index.m3u8?token=test
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://img2.rtve.es/css/rtve.2015/rtve.infantil/i/icons/logo-clan-pie.png",Clanᴴᴰ 
-http://149.7.216.178:8080/clan/tracks-v1a1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",Inspector Gadget
-https://bit.ly/3FblQIm?/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://ginikousa.com/channels/logo/cartoon-classics.jpg",Cartoon Classics
-https://rpn1.bozztv.com/36bay2/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png",Duck tv [Pluto]
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png",Baby Firts [Pluto]
-https://bit.ly/BabyFirts?/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/super_it.png",Super!Ⓢ 
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://sck.pm/sc9k",TVG Infantil
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network Latino
-https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="INFANTILES" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV 
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:0,-ENTRETENIMIENTO-
 
