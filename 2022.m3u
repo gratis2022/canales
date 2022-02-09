@@ -18,16 +18,18 @@ http://45.148.26.176/hls/M1.m3u8
 #EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",PPV DEPORTES 2
 http://45.148.26.176/hls/M2.m3u8
 #EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",PPV DEPORTES 3
-http://cdn2.cyclingnews.live/hls/P1.m3u8
+https://srv02.varcdn1.ru/m3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",PPV DEPORTES 4
-http://cdn2.cyclingnews.live/hls/P2.m3u8
+http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",PPV DEPORTES 5
-http://77.247.109.101/hls/A1.m3u8
+http://cdn2.cyclingnews.live/hls/P2.m3u8
 #EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",PPV DEPORTES 6
-http://77.247.109.101/hls/A2.m3u8
+http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",PPV DEPORTES 7
-http://45.134.21.199/hls/S1.m3u8
+http://77.247.109.101/hls/A2.m3u8
 #EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",PPV DEPORTES 8
+http://45.134.21.199/hls/S1.m3u8
+#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",PPV DEPORTES 9
 http://45.134.21.199/hls/S2.m3u8
 
 #EXTINF:1,-PREMIUM-
