@@ -34,6 +34,22 @@ http://45.134.21.199/hls/S1.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",PPV DEPORTES S2
 http://45.134.21.199/hls/S2.m3u8
 
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",PPV FUTBOL BRASIL FUTEMAX 31
+https://akamai2-br.cdn.booyah.live/hls/1500054/98077931.m3u8
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",PPV FUTBOL BRASIL FUTEMAX 93
+https://akamai2-br.cdn.booyah.live/hls/1500054/108237493.m3u8
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA ESPN
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/espn/chunks.m3u8
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA CAVALIERS
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/cavaliers/chunks.m3u8
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA THUNDER
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/thunder/chunks.m3u8
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA BLAZERS
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/blazers/chunks.m3u8
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA KINGS
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/kings/chunks.m3u8
+
 #EXTINF:1,-PREMIUM-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- PREMIUM --★●•
