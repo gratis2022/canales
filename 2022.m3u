@@ -2131,31 +2131,46 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UD57tGt.png" group-title="MODA",•●★-- MODA --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV Midnight
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV New York | US
+
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV Engliand
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV Italy
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV Spain
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",FTV Secrets to Midnight FHD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",FashionTV Midnite Secrets FHD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV PG16 FHD
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV PG13 FHD
+https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV Paris FHD
+http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV Tokyo FHD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Fashion TV Singapore FHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",FashionBox FHD
+https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",FashionTV New York | US
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA", FashionTV Paris | US
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",FashionTV Paris | US
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",FashionTV  EU
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",FashionTV 
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="MODA",HD Fashion y Lifestyle HD
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="MODA",HD Fashion y Lifestyle FHD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV  EU
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV 
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV GB
-https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV IT
-https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV ES
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png"  group-title="MODA", FashionTV 
-https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="MODA", Global Fashion Channel
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png"  group-title="MODA",Global Fashion Channel
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
 
 #EXTINF:0,-NOTICIAS-
