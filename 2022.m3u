@@ -122,8 +122,6 @@ https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 #EXTINF:-1 tvg-chno="318" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="PREMIUM",CARTOON NETWORK HD
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CULTURALES SD | LAS ESTRELLA" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="PREMIUM",LAS ESTRELLAS HD
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINE HD  | CINECANAL" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="PREMIUM",CINECANAL HD
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",CANAL 4 URU
@@ -158,10 +156,6 @@ https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-id="Cine TV: A&E Full HD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="PREMIUM",A&E
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
-#EXTINF:-1  tvg-id="Canal WOBI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="PREMIUM",Canal WOBI
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
-#EXTINF:-1 tvg-id="Cine TV: AXN (MOVIL)" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="PREMIUM",AXN
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://www.informador.mx/__export/1614018559320/sites/elinformador/img/2021/02/22/eu2gejxwyaakn-d_crop1614018325447.jpg_757208179.jpg" group-title="PREMIUM",STAR CHANNEL
 http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",STAR SERIES
@@ -180,26 +174,10 @@ https://edge9-hr.cvattv.com.ar/live/c2live/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
 https://edge9-hr.cvattv.com.ar/live/live/FoxCinema/SA_SAGEMCOM/FoxCinema.m3u8
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i.imgur.com/0vfyYpI.png" group-title="PREMIUM",I-sat
 https://edge9-hr.cvattv.com.ar/live/c2live/ISAT/SA_SAGEMCOM/ISAT.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",AA3cine
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",AA3series INT.
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",VOLVER
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Volver/SA_SAGEMCOM/Volver.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Investigation Discovery HD
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HOLA TV!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TELEDOCE!!
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HGTV!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MAS CHIC!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Ei!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",PASIONES!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TVP ARG.!!
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NET TV ARG.
@@ -210,10 +188,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",AMERICA
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Telemundo
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",LasEstrellas
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM", Telefe HD
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",LaTele
@@ -222,70 +196,32 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",RPC
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HTV
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HTV/SA_SAGEMCOM/HTV.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",QUIERO MÚSICA
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",GOURMET
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FOOD NETWORK
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",D.WORLD
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TBS
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TBS/SA_SAGEMCOM/TBS.m3u8
 #EXTINF:-1 tvg-id="Cine TV: AXN (MOVIL)" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="PREMIUM",AXN HD
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",COMEDY CENTRAL
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Studio Universal
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Hbo Extreme
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Hbo Pop
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Hbo2
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO plus
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO signature
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO mundi
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",A&E
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Syfy
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TNT ARG.
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TNT
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TNT/SA_SAGEMCOM/TNT.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",AXN
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Fx
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Star Acción
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxActionHD/SA_SAGEMCOM/FoxActionHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Star channel
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Star Life
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Star Hits
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Star Familia
 http://edge02-fdo-py.cvattv.com.ar/live/live/FoxFamily/SA_SAGEMCOM/FoxFamily.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Star Clásico
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/FoxClassics/SA_SAGEMCOM/FoxClassics.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Star Series
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOX1HD/SA_SAGEMCOM/FOX1HD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FXM
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Space
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Paramount
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",AMC
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TCM
@@ -296,10 +232,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studi
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",SONY
 http://edge02-fdo-py.cvattv.com.ar/live/live/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Warner B.
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",UNIVERSAL CHANEL
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FOXSPORTS PREMIUM
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",FOXSPORTS
@@ -320,10 +252,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TNT Spors
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Golf
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Cinemax
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Cinecanal
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",STAR LIFE
@@ -334,29 +262,13 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/Cartoo
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TRU TV
 http://edge-live14-hr.cvattv.com.ar/live/live/TruTV/SA_SAGEMCOM/TruTV.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HISTORY
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",NATGEOLA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HISTORY 2
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ANIMAL PLANET
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY WORLD
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",DISCOVERY SCI
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MTV HITS
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",MTV
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432742130.png" group-title="PREMIUM",ESTUDIO-UNIVERSAL
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1619656722185.jpg" group-title="PREMIUM", STAR-CINEMA
-http://51.79.18.128:8081/LATINO%7CFOXCINEMA/LATINO%7CFOXCINEMA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602293222276.png" group-title="PREMIUM", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602324109426.jpg" group-title="PREMIUM", GOLDENPLUS
@@ -375,8 +287,6 @@ http://51.79.18.128:8081/LATINO%7CTNT/LATINO%7CTNT/playlist.m3u8
 http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8 
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602291358305.png", AMC 
 http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8 
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602291632236.png", AXN 
-http://51.79.18.128:8081/LATINO%7CAXN/LATINO%7CAXN/playlist.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602321026229.jpg", DEPELICULA 
 http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602704088279.jpg", LOS-SIMPSON 
@@ -1319,8 +1229,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://i.imgur.com/puBDhTt.png" group-title="DEPORTE LATINO",TyC Spors
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="DEPORTE LATINO",Golf
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO", ESPN
 http://www.tecniconsult.hn/ESPNHD/index.m3u8
@@ -1988,10 +1896,6 @@ http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97
 http://www.tecniconsult.hn/UnivisionHD/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",Unimas
 http://162.212.179.22:9981/stream/channelid/358793691?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="ENTRETENIMIENTO",Telemundo
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="ENTRETENIMIENTO",LasEstrellas
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",Estrella Tv
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO", Conecta2 TV | CL
