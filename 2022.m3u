@@ -1779,13 +1779,6 @@ http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.kujtesa.com/wp-content/themes/kujtesa/images/sport-logo.svg",K Sport 4
 http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/setantasports.jpg",Setanta Sports
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/setantasports.jpg",Setanta Sports
-http://95.67.12.179:9001
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/setantasports.jpg",Setanta Sports 2 
-https://bal.varcdn1.ru/lb/setanta2/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-o2-tv-sport-565.png",Nova Sport 3
 http://84.42.140.147:8890/hdmi
 
@@ -1836,8 +1829,7 @@ https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
 https://bit.ly/Extrememais
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png",Outside tv
 https://outside-tv.samsung.wurl.com/manifest/316fba602419717190792b6b47574254.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/redbullt.png",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 group-titl="DEPORTE INTERNACIONAL" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png",Edge Sport
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-titl="DEPORTE INTERNACIONAL" tvg-logo="https://cdn.shopify.com/s/files/1/0053/2034/3616/files/l_1200x1200.png",Epik M 
@@ -1845,10 +1837,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/World%20of%20Freesports.png",World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987/200",Sports
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987/200",local Now Sports
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://sck.pm/Rs6x",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/onegolf.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
