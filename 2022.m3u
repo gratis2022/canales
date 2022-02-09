@@ -1385,21 +1385,21 @@ https://akamai2-br.cdn.booyah.live/hls/1500054/108237493.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv
 https://bit.ly/nbatvusa?/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",ESPN
-http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",ESPN 2
-http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",ESPN 2
-http://38.91.57.12:2082/espn2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein SportXtra
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",ESPN USA
+http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",ESPN 2 USA
+http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",ESPN 2 USA
+http://38.91.57.12:2082/espn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein SportXtra USA
 https://bit.ly/BeinSportXtra?/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports Xtra ñ
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports Xtra Ñ USA
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1 FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 2
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 2 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="DEPORTE INTERNACIONAL", ASTRO SPORT 1
@@ -1419,8 +1419,6 @@ http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59218.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="DEPORTE INTERNACIONAL",Astro Supersport 4 {meu02}
 http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c9730b86451fb0050f0f2a5c274a8a2d.jpg" group-title="DEPORTE INTERNACIONAL", ASTRO CRICKET
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170835
 #EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="DEPORTE INTERNACIONAL", ALB | K SPORT 1
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="DEPORTE INTERNACIONAL", ALB | K SPORT 2
