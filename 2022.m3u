@@ -15,7 +15,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://v2.tustreaming.cl/entretelive/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/nsPoJv0.png" group-title="PPV",Iio Vicio TV | CL
 https://videostreaming.cloudserverlatam.com/8050/8050/playlist.m3u8
-#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV",Retro Play TV | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV",Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:1,-PREMIUM-
