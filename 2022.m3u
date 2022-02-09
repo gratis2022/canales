@@ -27,6 +27,8 @@ https://srv02.varcdn1.ru/m3/index.m3u8
 http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",PPV DEPORTES P2
 http://cdn2.cyclingnews.live/hls/P2.m3u8
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",PPV DEPORTES P3
+http://cdn2.cyclingnews.live/hls/P3.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",PPV DEPORTES S1
 http://45.134.21.199/hls/S1.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",PPV DEPORTES S2
