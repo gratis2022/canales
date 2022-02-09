@@ -15,16 +15,18 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://v2.tustreaming.cl/entretelive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"  group-title="PPV",Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTE EN VIVO 1
+#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTES EN VIVO 1
 http://45.148.26.176/hls/M2.m3u8
-#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTE EN VIVO 2
+#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTES EN VIVO 2
 http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTE EN VIVO 3
+#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTES EN VIVO 3
 http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTE EN VIVO 4
+#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTES EN VIVO 4
 http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTE EN VIVO 5
+#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTES EN VIVO 5
 http://45.134.21.199/hls/S2.m3u8
+#EXTINF:-1 tvg-id="" group-title="PPV" tvg-logo="https://sck.pm/gRV",DEPORTES EN VIVO 6
+http://77.247.109.101/hls/A2.m3u8
 
 #EXTINF:1,-PREMIUM-
 
