@@ -1377,6 +1377,10 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://live.fnhr.us/6202a91b312e730001299bdb/primary_MS720.m3u8
 #EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2022/01/04/61d4d355e79c5.jpeg",Cariocao Play HD
 https://live.fnhr.us/6202a91b312e730001299bdb/primary_MS540.m3u8
+#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220",Bein Sports Ñ Brasil
+https://akamai2-br.cdn.booyah.live/hls/1500054/108237493.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv
