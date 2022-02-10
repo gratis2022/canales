@@ -1968,7 +1968,37 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA",Tv Publica YOUTUBE
 https://www.youtube.com/embed/Rebzvor6rQU?autoplay=1  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America Tv YOUTUBE
-https://www.youtube.com/embed/zcWXboTnous?autoplay=1  
+https://www.youtube.com/embed/zcWXboTnous?autoplay=1 
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",CronicaTV
+http://45.6.4.50:50601/CronicaTV/index.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",TN
+http://45.6.4.50:50601/TN/index.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",C5N
+http://45.6.4.50:50601/C5N/index.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",La Nacion
+http://45.6.4.50:50601/LaNacion/index.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",AMÉRICA TV
+http://45.6.4.50:50601/AMERICA/index.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",EL NUEVE
+http://45.6.4.50:50601/ELNUEVE/index.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",El Trece
+http://45.6.4.50:50601/ELTRECE/index.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",TELEVISIÓN PUBLICA
+http://45.6.4.50:50601/TVPUBLICA/index.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",TELEDOCE!!
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",TVP ARG.!!
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",C9 ARG.
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",A13HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA",AMERICA
+https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="ARGENTINA", Telefe HD
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE HD
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America HD | AR
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America SD | AR
