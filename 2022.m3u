@@ -9,6 +9,27 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://idescargar.com/wp-content/uploads/2019/04/Wiseplay.png" group-title="LISTA GRATUITA",WISEPLAY REPRODUCTOR RECOMENDADO
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tu_licencia 
+#EXTINF:0 tvg-ID="MX ESPN" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="LISTA GRATUITA",ESPN HD
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tu_licencia 
+#EXTINF:0 tvg-ID="MX ESPN 2" tvg-logo="https://logo.iptveditor.com/auespn2.png" group-title="LISTA GRATUITA",ESPN 2 HD
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tu_licencia 
+#EXTINF:0 tvg-ID="MX ESPN 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="LISTA GRATUITA",ESPN 3 HD
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
+
 #EXTINF:1,-PPV-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV",•●★-- PPV --★●•
