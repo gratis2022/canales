@@ -36,12 +36,6 @@ http://45.134.21.199/hls/S1.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",FUTBOL-NBA S2 | USA
 http://45.134.21.199/hls/S2.m3u8
 
-#EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",FUTBOL-NBA 019 | USA
-https://play.zkshuye.cn/live/sd-1-3679019.m3u8
-#EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",FUTBOL-NBA 714 | USA
-https://play.zkshuye.cn/live/sd-1-3559714.m3u8
-#EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",FUTBOL-NBA 720 | USA
-https://play.girlupx.cn/live/ballbar_16720.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",FUTBOL-NBA MS | ES
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
 
