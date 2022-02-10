@@ -35,6 +35,8 @@ http://cdn2.cyclingnews.live/hls/P3.m3u8
 http://45.134.21.199/hls/S1.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",FUTBOL-NBA S2 | USA
 http://45.134.21.199/hls/S2.m3u8
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",FUTBOL-NBA 019 | USA
+https://play.zkshuye.cn/live/sd-1-3679019.m3u8
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA ESPN | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/espn/chunks.m3u8
