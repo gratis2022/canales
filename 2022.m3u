@@ -38,15 +38,15 @@ http://45.134.21.199/hls/S2.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png",FUTBOL-NBA 019 | USA
 https://play.zkshuye.cn/live/sd-1-3679019.m3u8
 
-#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA ESPN | USA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA ES | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/espn/chunks.m3u8
-#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA CAVALIERS | USA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA CA | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/cavaliers/chunks.m3u8
-#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA THUNDER | USA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA TH | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/thunder/chunks.m3u8
-#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA BLAZERS | USA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA BL | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/blazers/chunks.m3u8
-#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA KINGS | USA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA KI | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/kings/chunks.m3u8
 
 #EXTINF:1,-PREMIUM-
