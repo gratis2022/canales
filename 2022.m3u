@@ -38,25 +38,25 @@ http://45.134.21.199/hls/S1.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 10 (FUTBOL - NBA) | UK
 http://45.134.21.199/hls/S2.m3u8
 
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 1 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 1 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/espn/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 2 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 2 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/TNT/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 3 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 3 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/cavaliers/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 4 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 4 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/thunder/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 5 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 5 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/blazers/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 6 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 6 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/kings/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 7 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 7 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/pelicans/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 8 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 8 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/rockets/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 9 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 9 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/mavericks/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",PPV NBA 10 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 10 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/warriors/chunks.m3u8
 
 #EXTINF:1,-PREMIUM-
