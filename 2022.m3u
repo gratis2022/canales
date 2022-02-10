@@ -1157,7 +1157,6 @@ https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
 https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Valparaiso-Sporting-en-vivo-Online.png" group-title="DEPORTE LATINO",Valparaiso Sporting 
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?xtreamiptv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTE LATINO",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE LATINO" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",DAZN F1
@@ -1194,7 +1193,6 @@ http://37.14.202.156:8001/1:0:19:78b4:3ec:1:c00000:0:0:0:
 http://37.14.202.156:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="DEPORTE LATINO" tvg-logo="https://statics.ccma.cat/img/logos/esport3_simbol_color.svg",Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOX SPORTS | AR BN
 http://45.6.4.50:50601/FOXSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOX SPORTS | AR SA
@@ -1205,7 +1203,6 @@ http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSport
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOX SPORTS | MX MDP
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR BN
 http://45.6.4.50:50601/FOX_SPORTS_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR SA
@@ -1218,8 +1215,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2H
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | MX MDP
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR BN
 http://45.6.4.50:50601/FOX_SPORTS_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR SA
@@ -1230,7 +1225,6 @@ http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSp
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | MX MDP
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-
 #EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | AR BN
 http://45.6.4.50:50601/ESPN/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | AR SPL
@@ -1241,24 +1235,20 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-
 #EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 | AR BN
 http://45.6.4.50:50601/ESPN2/index.m3u8
 #EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 PY
+#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR BN
 http://45.6.4.50:50601/ESPN3/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="DEPORTE LATINO",ESPN 4 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
