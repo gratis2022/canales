@@ -42,6 +42,8 @@ https://akamai2-br.cdn.booyah.live/hls/1500054/98077931.m3u8
 https://akamai2-br.cdn.booyah.live/hls/1500054/108237493.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://pbs.twimg.com/profile_images/1486059955362967553/J6blQkKD_400x400.jpg",FUTBOL FUTEMAX 1p1 | BR
 https://cdn-lineup-redundancy.vos360.video/Content/HLS/Live/channel(e3d2e8ee-a55c-a0e2-287a-bbb3dade38ea)/03_1p1.m3u8
+#EXTINF:-1 group-title="PPV" tvg-logo="https://pbs.twimg.com/profile_images/1486059955362967553/J6blQkKD_400x400.jpg",FUTBOL FUTEMAX 473 | BR
+https://playlists.mycujoo.football/na/cky9ewxn2sgu70gbl527qp473/720p/playlist.m3u8
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png",NBA ESPN | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/espn/chunks.m3u8
