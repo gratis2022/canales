@@ -2836,25 +2836,20 @@ https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UuMisR.png" group-title="ESPANA",•●★-- ESPANA --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.atresseries.com/public/img/atreseriesint/apple-touch-icon.png",AtreSeries
+#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.atresseries.com/public/img/atreseriesint/apple-touch-icon.png",AtreSeries MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=089340b5ce26dc28126b08a229fa47efe3a0fee3e
-
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
+#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/clan/dash/clan.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=077b500a05379a2e5ac15897d8a96f8640f4c30a2
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://files.mediaset.es/cimg/1001/2019/10/01/energy-claro_a8b9.svg",Energy
+#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://files.mediaset.es/cimg/1001/2019/10/01/energy-claro_a8b9.svg",Energy MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/energy/dash/energy.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0778f31a36b9167da2ac914efdcd9ceeed5c22767
-
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox
+#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=03fab75a9287d0b2dd1aaca726d9d06ad2f64e769
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/bemad/favicon-32x32.png",Bmad
+#EXTINF:-1 group-title="ESPANA" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/bemad/favicon-32x32.png",Bmad MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=00b33e3f25c50bcd09f64efb9d49f78a431779e78
-
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega
+#EXTINF:-1 group-title="ESPANA" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0b2c7333d5b73ad0d55785822992f7772763885bc
-
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://beteve.cat/wp-content/themes/beteve/img/logo.svg",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-
 #EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="ESPANA", La 1 | ES
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="ESPANA", La 1 | ES
