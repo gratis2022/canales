@@ -13,8 +13,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/YH3kkgk.png" group-title="PPV EVENTOS",PPV TV DEPORTES-EVENTOS | CL
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YH3kkgk.png" group-title="PPV EVENTOS",CANAL PPV TV (EVENTOS-DEPORTES)
 https://5eff35271151c.streamlock.net:1936/8022/8022/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nsPoJv0.png" group-title="PPV EVENTOS",PPV TIO VICIO TV (EVENTOS-MUSICA)
+https://videostreaming.cloudserverlatam.com/8050/8050/playlist.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV FUTBOL-NBA A1 | UK
 http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV FUTBOL-NBA A2 | UK
