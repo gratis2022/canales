@@ -1555,6 +1555,46 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",Фан Спорт
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",WWE NETWORK US
+http://190.2.143.146/wwe/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",TOTAL SPORTS
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star Sports 1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star selected 2
+http://103.166.253.222:80/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star sports select 1
+http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star Sports 2 HD
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star Sports Hindi 1 HD
+http://180.178.130.180:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star Sports 1 HD-
+http://180.178.130.180:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star Sports 2 HD
+http://180.178.130.180:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star Sports 3
+http://180.178.130.180:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star Sports Selected 1 HD
+http://180.178.130.180:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Star Sports Selected 2 HD
+http://180.178.130.180:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",LOCKLE A SPORTS
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",J sports 4
+http://50.7.74.29:8880/hls/j00039/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",J sports 2
+http://50.7.74.29:8880/hls/j00040/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",J sports 3
+http://50.7.74.29:8880/hls/j00041/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",J sports 1
+http://50.7.74.29:8880/hls/j00042/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",EUROSPORTS 1
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",EUROSPORTS 2
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8 
+
+
 #EXTINF:1,-PLUTO TV-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="PLUTO TV",•●★-- PLUTO TV --★●•
