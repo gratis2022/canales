@@ -2810,6 +2810,8 @@ http://xtv.mooo.com/live/esp/la1/index.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
 #EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png"  group-title="ESPANA", La 2 | ES
 http://xtv.mooo.com/live/esp/la2/index.m3u8
+#EXTINF:-1 tvg-logo="https://pc-sumandocomunicacion-ondemand.flumotion.com/upload/image/2020/6/navarratv-5ede16a9.png"  group-title="ESPANA",Navarra TV * | ES
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png"  group-title="ESPANA", Urban TV * | ES
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg"  group-title="ESPANA", Pequeradio TV | ES
