@@ -3043,11 +3043,11 @@ https://salto-streams.nl/hls/sotv1_high.m3u8
 https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/qwestmix.png",Qwest Mix
 https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://bridgetv.ru/s/img/logo/bridge_2021.svg",Bridge TV 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Bridge_tv.svg/revision/latest/scale-to-width-down/2000?cb=20210525132049",Bridge TV 
 http://185.140.187.67:8085/udp/238.2.0.69:1234
-#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://bridgetv.ru/s/img/logo/bridge_2021.svg",Bridge TV Hits
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Bridge_tv.svg/revision/latest/scale-to-width-down/2000?cb=20210525132049",Bridge TV Hits
 http://185.140.187.67:8085/udp/238.2.0.72:1234
-#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://bridgetv.ru/s/img/logo/bridge_2021.svg",Bridge TV Deluxe
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Bridge_tv.svg/revision/latest/scale-to-width-down/2000?cb=20210525132049",Bridge TV Deluxe
 http://185.140.187.67:8085/udp/238.2.16.154:1234
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/BridgetvClassic.png",Bridge TV Classic
 http://185.140.187.67:8085/udp/238.2.1.133:1234
