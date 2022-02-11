@@ -64,12 +64,6 @@ https://dqm8bvwrahfi8.cloudfront.net:443/hls/warriors/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- PREMIUM --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="PREMIUM",AZTECA UNO
-https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/az13_15x
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="PREMIUM",TNT SERIES
-https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tt25qal
-#EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/axn_global.png" group-title="PREMIUM",AXN LATINO
-https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx96
 #EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432742130.png" group-title="PREMIUM",ESTUDIO-UNIVERSAL
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602293222276.png" group-title="PREMIUM", CINECANAL
@@ -932,6 +926,22 @@ http://45.225.93.154:8000/play/a02f
 http://45.225.93.154:8000/play/a024
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Zona Latina
 http://45.225.93.154:8000/play/a02t
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",CINEMAX
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Univision
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/unv_056kll
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Star Channel
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vfxrt109x
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TNT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ntn_19kl
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Space
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cb_v1034
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="PREMIUM",AZTECA UNO
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/az13_15x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="PREMIUM",TNT SERIES
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tt25qal
+#EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/axn_global.png" group-title="PREMIUM",AXN LATINO
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx96
 
 #EXTINF:1,-DEPORTE LATINO-
 
@@ -980,6 +990,8 @@ http://190.52.39.211:8080/FSP/FSP.isml/FSP.m3u8
 http://45.6.4.50:50601/FoxSportPremium/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTE LATINO",Fox Sports Premium SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1423036251905667074/17ePjVUt_400x400.jpg" group-title="DEPORTE LATINO",Best Cable Sports Peru
+https://ca.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="DEPORTE LATINO",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://mundo-r.com/bundles/app/images/channels/realmadridtv_200x200.png" group-title="DEPORTE LATINO",Real Madrid TV
