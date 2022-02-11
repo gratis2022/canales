@@ -1623,10 +1623,12 @@ http://50.7.74.29:8880/hls/j00042/index.m3u8
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",EUROSPORTS 2
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="DEPORTE INTERNACIONAL",Match Igra (juegos Beijing)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="DEPORTE INTERNACIONAL",Match Igra 
 https://bal.varcdn1.ru/lb/matchigra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="DEPORTE INTERNACIONAL",Marena Tv (juegos Beijing)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="DEPORTE INTERNACIONAL",Marena Tv 
 https://bal.varcdn1.ru/lb/marena/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image71087131044.jpg" group-title="DEPORTE INTERNACIONAL",Look Plus Tv
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w160988655.m3u8
 
 #EXTINF:1,-PLUTO TV-
 
