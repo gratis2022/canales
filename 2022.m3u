@@ -69,10 +69,11 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_37351.png" group-title="JUEGOS BEIJING 2022",EUROSPORT 2
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="JUEGOS BEIJING 2022",MAT4 Igra 
-https://bal.varcdn1.ru/lb/matchigra/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.beelinetv.uz/buz-production/090f9a409ea12c158f26.png" group-title="JUEGOS BEIJING 2022",MAT4 Apeha 
 https://bal.varcdn1.ru/lb/marena/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="JUEGOS BEIJING 2022",MAT4 Igra 
+https://bal.varcdn1.ru/lb/matchigra/index.m3u8
+
 
 #EXTINF:1,-PREMIUM-
 
