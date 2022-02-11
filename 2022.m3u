@@ -3104,37 +3104,12 @@ https://cdn17.fntvchannel.com/index_1080.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Rock_TV.png",Rock tv 
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8?wmsAuthSign=InspirationLinks
 
-#EXTINF:0,-VIDEOMIX-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e79ZG6G.png" group-title="VIDEOMIX",•●★-- VIDEOMIX --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",The 80s Videomix Volume 1 
-https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",The 90s EurodanceVideomix
-https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",SheepMix 
-https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2009
-https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2010 
-https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2011 
-https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2012 
-https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2014 
-https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
-#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2015 
-https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
-
 #EXTINF:0,-RADIOS-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOVIxQh.png" group-title="RADIOS",•●★-- RADIOS --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://www.m3u.cl/logo/973_Top_New_Radio.png"  group-title="RADIOS", Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="m2o TV" tvg-logo="https://www.m3u.cl/logo/23_m2o_TV.png"  group-title="RADIOS", m2o TV | IT
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg"  group-title="RADIOS", Karibeña TV | PE
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://www.m3u.cl/logo/889_La_Sabrosura_TV.png"  group-title="RADIOS", La Sabrosura TV | CL
@@ -3277,6 +3252,29 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
 #EXTINF:-1  tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="RADIOS", Stingray Music Exitos del Momento
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+
+#EXTINF:0,-VIDEOMIX-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e79ZG6G.png" group-title="VIDEOMIX",•●★-- VIDEOMIX --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",The 80s Videomix Volume 1 
+https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",The 90s EurodanceVideomix
+https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",SheepMix 
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2010 
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2011 
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2012 
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2014 
+https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+#EXTINF:-1 tvg-logo="https://standardvideomedia.com/gallery/SV%20MIX%20Master%20Site-ts1628893341.png" group-title="VIDEOMIX",Yearmix2015 
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 
 #EXTINF:0,-REGIONALES-
 
