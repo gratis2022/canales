@@ -59,6 +59,27 @@ https://dqm8bvwrahfi8.cloudfront.net:443/hls/mavericks/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 10 | USA
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/warriors/chunks.m3u8
 
+#EXTINF:1,-JUEGOS BEIJING 2022-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="JUEGOS BEIJING 2022",•●★-- JUEGOS BEIJING 2022 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="JUEGOS BEIJING 2022",Claro Sports 
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_4553.png" group-title="JUEGOS BEIJING 2022",EUROSPORTS 1
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_4553.png" group-title="JUEGOS BEIJING 2022",EUROSPORTS 1
+http://84.200.70.178:41142/bysid/31200
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_37351.png" group-title="JUEGOS BEIJING 2022",EUROSPORTS 2
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_37351.png" group-title="JUEGOS BEIJING 2022",EUROSPORTS 2
+http://strim.enetwork.ge/Eurosport_2_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_37351.png" group-title="JUEGOS BEIJING 2022",EUROSPORTS 2
+http://212.102.60.80/Eurosport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="JUEGOS BEIJING 2022",Match Igra 
+https://bal.varcdn1.ru/lb/matchigra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="JUEGOS BEIJING 2022",Marena Tv 
+https://bal.varcdn1.ru/lb/marena/index.m3u8
+
 #EXTINF:1,-PREMIUM-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- PREMIUM --★●•
