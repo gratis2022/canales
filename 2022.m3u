@@ -17,8 +17,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 http://209.126.119.148:20102/live/eef37f59386544f0868b12e1b3dc478e/24a111abfbf046b9a8e66d1dda1cb3de/378.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://futbolete.com/apuestas/wp-content/uploads/2022/02/la-liga-logo.png",PPV LA LIGA 2 | ES
 http://209.126.119.148:20102/live/70598009fc72456b824d060c83eaeaf4/cfa85ecaeef44fd084f89bba966aae16/372.m3u8
-
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",PPV PREMIER LEAGUE | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://futbolete.com/apuestas/wp-content/uploads/2022/02/la-liga-logo.png",PPV LA LIGA 3 | EN
+http://185.53.89.183/hls/la.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",PPV PREMIER LEAGUE | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/ssp/chunks.m3u8
 
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (FUTBOL - NBA) | UK
@@ -54,49 +55,43 @@ http://77.247.109.249/hls/T1.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 16 (FUTBOL - NBA) | UK
 http://77.247.109.249/hls/T2.m3u8
 
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 1 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 1 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nbatv/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 2 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 2 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/espn/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 3 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 3 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/TNT/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 4 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 4 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/cavaliers/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 5 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 5 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/thunder/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 6 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 6 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/blazers/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 7 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 7 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/kings/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 8 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 8 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/pelicans/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 9 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 9 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/rockets/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 10 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 10 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/mavericks/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 11 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 11 | EN
 https://dqm8bvwrahfi8.cloudfront.net:443/hls/warriors/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 12 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 12 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/76ers/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 13 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 13 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pacers/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 14 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 14 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pistons/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 15 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 15 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hawks/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 16 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 16 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bulls/chunks.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 17 | USA
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 17 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/jazz/chunks.m3u8
 
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",la liga ingles
-http://185.53.89.183/hls/la.m3u8?
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",DEPORTES LATINO
 https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-77-7/nweinfwevw/1644453781/src/live.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",danz FR
-https://kgqnmpull.aiguitar.cn/live/sd-1-3559738.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",CCTV CH
-https://kgqnmpull.aiguitar.cn/live/sd-1-3570783.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
