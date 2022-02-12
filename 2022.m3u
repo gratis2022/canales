@@ -3504,7 +3504,8 @@ https://stmv.panel.mivideo.pro/evatelevision/evatelevision/playlist.m3u8
 https://v2.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 #EXTINF:-1 tvg-id="373" tvg-name="PinguinoTV" tvg-logo="https://www.m3u.cl/logo/373_PinguinoTV.png"  group-title="REGIONALES", PinguinoTV | CL
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="1087" tvg-name="Opinionsur TV" tvg-logo="https://www.m3u.cl/logo/1087_Opinionsur_TV.png" group-title="REGIONALES", Opinionsur TV * | CL
+https://paneltv.online:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-RELIGIOSOS-
 
