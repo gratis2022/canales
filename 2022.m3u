@@ -1062,6 +1062,8 @@ https://bit.ly/RealMadridtv?/chunklist.m3u8
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" group-title="DEPORTE LATINO",Garage TV 
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://www.m3u.cl/logo/1098_CRTV.png" group-title="DEPORTE LATINO", CRTV * | CL
+https://srv.panelcast.net/crtv/crtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4gdqGn04Bng/Xb9WF2WzB6I/AAAAAAAAr7A/tbeDeaQTuuMuHOka_gYv4trQHwAyzqKPQCK8BGAsYHg/s0/2019-11-03.png" group-title="DEPORTE LATINO", TV Turf Movil
 https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTE LATINO",Teletrak 
