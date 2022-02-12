@@ -111,6 +111,8 @@ http://209.126.119.148:20102/live/70598009fc72456b824d060c83eaeaf4/cfa85ecaeef44
 https://kgqnmpull.aiguitar.cn/live/sd-1-3559738.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",chino
 https://kgqnmpull.aiguitar.cn/live/sd-1-3570783.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",play ude
+https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
