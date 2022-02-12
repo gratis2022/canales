@@ -80,6 +80,28 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hawks/chunks.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bulls/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 17 | USA
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/jazz/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",la liga ingles
+http://185.53.89.183/hls/la.m3u8?SBN
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",httla liga ingles
+http://cdn4.cyclingnews.live/hls/Q1.m3u8?SBN
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",bein sports 1
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",BEIN 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",espn latino
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",LATINO
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",direct tv latino
+https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-77-7/nweinfwevw/1644453781/src/live.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",1
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/ssp/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",espn lat
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",la liga
+http://209.126.119.148:20102/live/eef37f59386544f0868b12e1b3dc478e/24a111abfbf046b9a8e66d1dda1cb3de/378.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",TDP
+http://209.126.119.148:20102/live/70598009fc72456b824d060c83eaeaf4/cfa85ecaeef44fd084f89bba966aae16/372.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
