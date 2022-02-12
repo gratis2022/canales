@@ -1161,14 +1161,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 
 FUTBOL
-
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1 | AR
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 2 | AR
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 3 | AR
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://thanos.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="DEPORTE INTERNACIONAL",K SPORT 1 | RU
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://thanos.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="DEPORTE INTERNACIONAL",K SPORT 2 | RU
@@ -1189,6 +1181,15 @@ http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 http://93.157.62.180/TringSport1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wrs3XtKMq2M/mqdefault.jpg" group-title="DEPORTE INTERNACIONAL",TRING SPORT 2 | RU
 http://93.157.62.180/TringSport2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1 | AR
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 2 | AR
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 3 | AR
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
+
 
 
 
