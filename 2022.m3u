@@ -32,25 +32,25 @@ http://45.148.26.176/hls/M1.m3u8
 http://45.148.26.176/hls/M2.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 5 (FUTBOL - NBA) | UK
 http://45.148.26.176/hls/M4.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 6 (FUTBOL - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 6 (SERIE A - NBA) | UK
 http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 7 (SERIE A - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 7 (FUTBOL - NBA) | UK
 http://cdn2.cyclingnews.live/hls/P2.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 8 (FUTBOL - NBA) | UK
 http://cdn2.cyclingnews.live/hls/P3.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 9 (FUTBOL - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 9 (LA LIGA - NBA) | UK
 http://cdn4.cyclingnews.live/hls/Q1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 10 (LA LIGA - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 10 (SERIE A - NBA) | UK
 http://cdn4.cyclingnews.live/hls/Q2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 11 (SERIE A - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 11 (FUTBOL - NBA) | UK
 http://45.134.21.199/hls/S1.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 12 (FUTBOL - NBA) | UK
 http://45.134.21.199/hls/S2.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 13 (FUTBOL - NBA) | UK
 http://45.134.21.199/hls/S5.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 14 (FUTBOL - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 14 (SERIE A - NBA) | UK
 http://77.247.109.249/hls/T1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 15 (SERIE A - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 15 (FUTBOL - NBA) | UK
 http://77.247.109.249/hls/T2.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 16 (SERIE A - NBA) | RU
 https://srv02.varcdn1.ru/m3/index.m3u8
