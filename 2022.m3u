@@ -2397,6 +2397,8 @@ http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
 http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="978" tvg-name="DMJ" tvg-logo="https://www.m3u.cl/logo/978_DMJ.png"  group-title="PERU", DMJ * | PE
 https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NUESTRATVPERU/picture?width=320&height=320" group-title="PERU",LIMA LIVE
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg"  group-title="PERU", Karibeña TV | PE
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png"  group-title="PERU", Mas Cumbia | PE
