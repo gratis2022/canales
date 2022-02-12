@@ -44,15 +44,13 @@ http://45.134.21.199/hls/S5.m3u8
 http://77.247.109.249/hls/T1.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 15 (FUTBOL - NBA) | UK
 http://77.247.109.249/hls/T2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 16 (SERIE A - NBA) | RU
-https://srv02.varcdn1.ru/m3/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 17 (LA LIGA) | ES
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 16 (LA LIGA) | ES
 http://209.126.119.148:20102/live/eef37f59386544f0868b12e1b3dc478e/24a111abfbf046b9a8e66d1dda1cb3de/378.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 18 (SERIE A) | ES
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 17 (SERIE A) | ES
 http://209.126.119.148:20102/live/70598009fc72456b824d060c83eaeaf4/cfa85ecaeef44fd084f89bba966aae16/372.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 19 (LA LIGA) | EN
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 18 (LA LIGA) | EN
 http://185.53.89.183/hls/la.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 20 (PREMIER LEAGUE) | EN
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 19 (PREMIER LEAGUE) | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/ssp/chunks.m3u8
 
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 1 | EN
@@ -103,11 +101,6 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_37351.png" group-title="JUEGOS BEIJING 2022",EUROSPORT 2
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8 
-#EXTINF:-1 tvg-logo="https://s3.beelinetv.uz/buz-production/090f9a409ea12c158f26.png" group-title="JUEGOS BEIJING 2022",MAT4 Apeha 
-https://bal.varcdn1.ru/lb/marena/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="JUEGOS BEIJING 2022",MAT4 Igra 
-https://bal.varcdn1.ru/lb/matchigra/index.m3u8
-
 
 #EXTINF:1,-PREMIUM-
 
@@ -1206,27 +1199,11 @@ http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8
 http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://thanos.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="DEPORTE INTERNACIONAL",K SPORT 4 | RU
 http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wrs3XtKMq2M/mqdefault.jpg" group-title="DEPORTE INTERNACIONAL", ALB | TRING SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wrs3XtKMq2M/mqdefault.jpg" group-title="DEPORTE INTERNACIONAL",TRING SPORT 1 | RU
 http://93.157.62.180/TringSport1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wrs3XtKMq2M/mqdefault.jpg" group-title="DEPORTE INTERNACIONAL", ALB | TRING SPORT 2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wrs3XtKMq2M/mqdefault.jpg" group-title="DEPORTE INTERNACIONAL",TRING SPORT 2 | RU
 http://93.157.62.180/TringSport2HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="DEPORTE INTERNACIONAL", PT | SPORT TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="DEPORTE INTERNACIONAL", PT | SPORT TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="DEPORTE INTERNACIONAL", PT | SPORT TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="DEPORTE INTERNACIONAL", PT | SPORT TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="DEPORTE INTERNACIONAL", PT | SPORT TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 1
-https://srv02.varcdn1.ru/m1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 2
-https://srv02.varcdn1.ru/m2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",Football 3
-https://srv02.varcdn1.ru/m3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
