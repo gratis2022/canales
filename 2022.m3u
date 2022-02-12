@@ -14,6 +14,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es",PPV TNT SPORTS CHILE
+https://panel.streamingmedia.com.co:3161/live/vamoslau.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (LA LIGA - NBA) | UK
 http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 2 (FUTBOL - NBA) | UK
