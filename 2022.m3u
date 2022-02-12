@@ -1204,20 +1204,7 @@ http://93.157.62.180/TringSport1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wrs3XtKMq2M/mqdefault.jpg" group-title="DEPORTE INTERNACIONAL",TRING SPORT 2 | RU
 http://93.157.62.180/TringSport2HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="DEPORTE INTERNACIONAL",X KLF
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DEPORTE INTERNACIONAL",RingOfHonor
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/MotoAmerica_Logo.png" group-title="DEPORTE INTERNACIONAL",Motoamerica Tv
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_PREV_v0.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/ftf-logo-sml-v2.png" group-title="DEPORTE INTERNACIONAL",FTF Sport
@@ -1574,6 +1561,11 @@ https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/onegolf.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="DEPORTE INTERNACIONAL",X KLF
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DEPORTE INTERNACIONAL",RingOfHonor
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2013/11/cropped-mmajunkie-logo-icon.jpg?w=180",MMA Junkie [Distrotv]
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/combatgo.png",COMBAT GO [Jungo+]
@@ -1633,12 +1625,6 @@ http://50.7.74.29:8880/hls/j00042/index.m3u8
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",EUROSPORTS 2
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="DEPORTE INTERNACIONAL",Match Igra 
-https://bal.varcdn1.ru/lb/matchigra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXz6kND.png" group-title="DEPORTE INTERNACIONAL",Marena Tv 
-https://bal.varcdn1.ru/lb/marena/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image71087131044.jpg" group-title="DEPORTE INTERNACIONAL",Look Plus Tv
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w160988655.m3u8
 
 #EXTINF:1,-PLUTO TV-
 
