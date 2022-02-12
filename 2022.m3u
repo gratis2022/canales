@@ -1734,6 +1734,8 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ANIME", EnerGeek 
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="Kanade TV" tvg-logo="https://www.m3u.cl/logo/44_Kanade_TV.png" group-title="ANIME", Kanade TV * | CL
+https://stmv1.voxhdnet.com/enegeek2/enegeek2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png"  group-title="ANIME", Aniplus * | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"  group-title="ANIME", Anime Zone TV | AR
