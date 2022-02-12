@@ -2981,6 +2981,8 @@ https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist_w
 https://vdohd.cl:1936/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png"  group-title="MUSICA", Re7 | CL
 https://vdohd.cl:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 tvg-id="1022" tvg-name="EGM Channel" tvg-logo="https://www.m3u.cl/logo/1022_EGM_Channel.png" group-title="MUSICA", EGM Channel * | CL
+https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1029" tvg-name="Evavisión Pachanga" tvg-logo="https://www.m3u.cl/logo/1029_Evavision_Pachanga.png" group-title="MUSICA", Evavisión Pachanga | CL
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://www.m3u.cl/logo/32_Alegria_TV.png" group-title="MUSICA", Alegria TV | CL
