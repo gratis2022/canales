@@ -1064,9 +1064,7 @@ https://ca.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://mundo-r.com/bundles/app/images/channels/realmadridtv_200x200.png" group-title="DEPORTE LATINO",Real Madrid TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE LATINO" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid TV USA
-https://bit.ly/RealMadridtv?/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://statics.proyectoclubes.com/images/header/logo-las-palmas.png?20211130091706" group-title="DEPORTE LATINO",Las Palmas
+#EXTINF:-1  tvg-logo="https://statics.proyectoclubes.com/images/header/logo-las-palmas.png?20211130091706" group-title="DEPORTE LATINO",UD Las Palmas
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" group-title="DEPORTE LATINO",Garage TV 
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
@@ -1177,6 +1175,8 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 FUTBOL
 
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid TV | US
+https://bit.ly/RealMadridtv?/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports Xtra Ñ | US
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://thanos.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="DEPORTE INTERNACIONAL",K SPORT 1 | RU
@@ -1199,13 +1199,13 @@ http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 http://93.157.62.180/TringSport1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wrs3XtKMq2M/mqdefault.jpg" group-title="DEPORTE INTERNACIONAL",TRING SPORT 2 | RU
 http://93.157.62.180/TringSport2HD/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1 | AR
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 2 | AR
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 3 | AR
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",SSC1 HD | AR
 https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 1 | DU
