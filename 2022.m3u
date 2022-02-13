@@ -1344,9 +1344,13 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 MOTOR
 
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.canalmotor.no/wp-content/uploads/2019/04/canalmotor_header.png",Motor Sport | US
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png",Automoto | US
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/chunklist_w1703129660.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",Mavtv | US
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.cl/content/dam/public-sites/cl/sports-pdp-template/rectangle-group-6-mask.png" group-title="DEPORTE INTERNACIONAL",MavTV Europe | US
+#EXTINF:-1 tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="DEPORTE INTERNACIONAL",MavTV Europe | US
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987/200",local Now Sports | US
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x720.m3u8
@@ -1354,10 +1358,6 @@ https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_PREV_v0.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Motorvision%20HD.png",Motorvision | US
 https://ov.ottera.tv/live/master2300000.m3u8;session=mvg_mv
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.canalmotor.no/wp-content/uploads/2019/04/canalmotor_header.png",Motor Sport | US
-https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png",Automoto | US
-https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/chunklist_w1703129660.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522",Choppertown | US
 https://bit.ly/CHOPPERTOWN?/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=320&height=320",Harley Davidson TV | US
