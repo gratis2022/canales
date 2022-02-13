@@ -94,19 +94,19 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 22 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/abc/chunks.m3u8
 
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 1 | LAT
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 1 | LAT
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 2 | LAT
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 2 | LAT
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 3 | LAT
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 3 | LAT
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nG7DDXLTq-zdh9SMJVuPY-8/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 4 | LAT
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 4 | LAT
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nN7GNDziSu0V5daNwopeU8c/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 5 | LAT
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 5 | LAT
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nHenuh8R2ANPee8i_PgMBeM/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 6 | ES
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 6 | ES
 http://209.126.119.148:20102/live/037d432c2cda4a5c87de4e135a33bcdc/ba9fd9388a254bdc88b5f07a7ee1d3e2/388.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 7 | ES
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 7 | ES
 http://209.126.119.148:20102/live/ad4663ecb0744e6abf09adabdd11e349/95d37d4f67014df99df372f4108131c6/358.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
