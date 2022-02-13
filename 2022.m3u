@@ -19,6 +19,8 @@ http://45.6.4.50:50601/ESPN2/index.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
 #EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es" group-title="SUPER BOWL 2022",AZTECA UNO | MX
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/az13_15x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="SUPER BOWL 2022",TSN 1 | US
 http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV | UK
