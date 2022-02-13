@@ -23,6 +23,8 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV | UK
 http://45.148.26.176/hls/M1.m3u8
+#EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV | UK
+http://45.134.21.199/hls/S1.m3u8
 
 #EXTINF:1,-PPV EVENTOS-
 
