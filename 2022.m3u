@@ -104,6 +104,8 @@ http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nN7GNDziSu0V5daNwopeU8c/.m3
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nHenuh8R2ANPee8i_PgMBeM/.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 6 | ES
 http://209.126.119.148:20102/live/037d432c2cda4a5c87de4e135a33bcdc/ba9fd9388a254bdc88b5f07a7ee1d3e2/388.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 7 | ES
+http://209.126.119.148:20102/live/ad4663ecb0744e6abf09adabdd11e349/95d37d4f67014df99df372f4108131c6/358.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
