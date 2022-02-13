@@ -101,6 +101,17 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 22 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/abc/chunks.m3u8
 
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 1
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 2
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 3
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nG7DDXLTq-zdh9SMJVuPY-8/.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 4
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nN7GNDziSu0V5daNwopeU8c/.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV MEGA 5
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nHenuh8R2ANPee8i_PgMBeM/.m3u8
+
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2022_Winter_Olympics_logo.svg/800px-2022_Winter_Olympics_logo.svg.png" group-title="JUEGOS BEIJING 2022",•●★-- JUEGOS BEIJING 2022 --★●•
