@@ -9,27 +9,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://idescargar.com/wp-content/uploads/2019/04/Wiseplay.png" group-title="LISTA GRATUITA",WISEPLAY REPRODUCTOR RECOMENDADO
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:1,-SUPER BOWL 2022-
-
-#EXTINF:-1 tvg-logo="https://www.telecomasia.net/upload/sprint.editor/1d4/1d4a3023b599d060b25a1714f866095f.png" group-title="SUPER BOWL 2022",•●★-- SUPER BOWL 2022 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV
-https://panel.streamingmedia.com.co:3104/live/supergdc.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | AR 
-http://45.6.4.50:50601/ESPN2/index.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | AR 
-http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | PY
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es" group-title="SUPER BOWL 2022",AZTECA UNO | MX
-https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/az13_15x
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="SUPER BOWL 2022",TSN 1 | US
-http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV | UK
-http://45.148.26.176/hls/M1.m3u8
-#EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV | UK
-http://45.134.21.199/hls/S1.m3u8
-
 #EXTINF:1,-PPV EVENTOS-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
