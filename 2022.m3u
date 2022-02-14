@@ -1003,7 +1003,7 @@ https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE LATINO",•●★-- DEPORTE LATINO --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTE LATINO",Claro Sports 2 YOUTUBE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6gF6dn.png" group-title="DEPORTE LATINO",Claro Sports 2 YOUTUBE
 https://www.youtube.com/embed/J9kiqQqDx9U?autoplay=1  
 #EXTINF:-1  tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTE LATINO",Claro Sports 
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
