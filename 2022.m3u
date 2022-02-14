@@ -102,6 +102,10 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/chunks.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/abc/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 23 | EN
 https://d1eqmybbugbqy9.cloudfront.net:443/hls/knicks/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 24 | EN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/bucks/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 25 | EN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/nuggets/chunks.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
