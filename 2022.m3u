@@ -13,6 +13,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://www.telecomasia.net/upload/sprint.editor/1d4/1d4a3023b599d060b25a1714f866095f.png" group-title="SUPER BOWL 2022",•●★-- SUPER BOWL 2022 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV
+https://panel.streamingmedia.com.co:3104/live/supergdc.m3u8
 #EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | AR 
 http://45.6.4.50:50601/ESPN2/index.m3u8
 #EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | AR 
@@ -32,7 +34,8 @@ http://45.134.21.199/hls/S1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV EVENTOS | CL
+https://panel.streamingmedia.com.co:3104/live/supergdc.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png",PPV TNT SPORTS CHILE
 https://akamai2-br.cdn.booyah.live/hls/1500005/108814783.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (LA LIGA - SERIE A - NBA) | UK
