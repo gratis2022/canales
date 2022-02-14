@@ -13,8 +13,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV EVENTOS | CL
-https://panel.streamingmedia.com.co:3104/live/supergdc.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png",PPV TNT SPORTS CHILE
 https://akamai2-br.cdn.booyah.live/hls/1500005/108814783.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (LA LIGA - SERIE A - NBA) | UK
@@ -104,21 +102,6 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/chunks.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/abc/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 23 | EN
 http://d15xyumcalkui.cloudfront.net:80/flash1/_definst_/n2/chunklist.m3u8
-
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 1 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 2 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 3 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nG7DDXLTq-zdh9SMJVuPY-8/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 4 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nN7GNDziSu0V5daNwopeU8c/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 5 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nHenuh8R2ANPee8i_PgMBeM/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 6 | ES
-http://209.126.119.148:20102/live/037d432c2cda4a5c87de4e135a33bcdc/ba9fd9388a254bdc88b5f07a7ee1d3e2/388.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 7 | ES
-http://209.126.119.148:20102/live/ad4663ecb0744e6abf09adabdd11e349/95d37d4f67014df99df372f4108131c6/358.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
@@ -1091,6 +1074,8 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Directv_LA_logo.svg/2560px-Directv_LA_logo.svg.png" group-title="DEPORTE LATINO",DIRECT TV SPORTS 
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220" group-title="DEPORTE LATINO",BEIN SPORTS Ñ ME
+http://209.126.119.148:20102/live/037d432c2cda4a5c87de4e135a33bcdc/ba9fd9388a254bdc88b5f07a7ee1d3e2/388.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
@@ -1157,12 +1142,16 @@ http://45.6.4.50:50601/ESPN2/index.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
 #EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 | MX
+http://209.126.119.148:20102/live/ad4663ecb0744e6abf09adabdd11e349/95d37d4f67014df99df372f4108131c6/358.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR BN
 http://45.6.4.50:50601/ESPN3/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR ME
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nG7DDXLTq-zdh9SMJVuPY-8/.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="DEPORTE LATINO",ESPN 4 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA | AR SA
