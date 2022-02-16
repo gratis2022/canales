@@ -1281,7 +1281,7 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/combatgo.png",COMBAT GO | US
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=726
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network | US
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="DEPORTE INTERNACIONAL",Fight Network | US
 https://bit.ly/FightNetwork?/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.nicepng.com/png/full/43-439776_fightchannel-logo-fight-channel-world-hd.png",Channel Fight | US
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
