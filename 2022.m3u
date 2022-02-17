@@ -2560,19 +2560,30 @@ https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UuMisR.png" group-title="ESPANA",•●★-- ESPANA --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1 
+#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="ESPANA", La 1 | ES
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="ESPANA", La 1 | ES
+http://xtv.mooo.com/live/esp/la1/index.m3u8
+#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="ESPANA", La 1 | ES
 http://91.126.141.13:1935/live/41/1800-def.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1 
+#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="ESPANA", La 1 | ES
 http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1 
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-2.png",La 2 
+#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png"  group-title="ESPANA", La 2 | ES
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
+#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png"  group-title="ESPANA", La 2 | ES
+http://xtv.mooo.com/live/esp/la2/index.m3u8
+#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png"  group-title="ESPANA", La 2 | ES
 http://91.126.141.13:1935/live/81/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-2.png",La 2 
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 
 http://91.126.141.13:1935/live/11/3500-def.m3u8
+#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png",Cuatro
+http://91.126.141.13:1935/live/51/playlist.m3u8
+#EXTINF:-1 group-title="ESPANA" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/telecinco/favicon-32x32.png",Telecinco
+http://91.126.141.13:1935/live/61/2500-def.m3u8
+#EXTINF:-1 group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png",La Sexta
+http://91.126.141.13:1935/live/21/3500-def.m3u8
+#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ATRESSeries.png",AtreSeries 
+http://91.126.141.13:1935/live/101/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.atresseries.com/public/img/atreseriesint/apple-touch-icon.png",AtreSeries MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=089340b5ce26dc28126b08a229fa47efe3a0fee3e
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan MDP
@@ -2585,14 +2596,10 @@ https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=00b33e3f25c50bcd09f64efb9d49f78a431779e78
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0b2c7333d5b73ad0d55785822992f7772763885bc
-#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="ESPANA", La 1 | ES
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="ESPANA", La 1 | ES
-http://xtv.mooo.com/live/esp/la1/index.m3u8
-#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png"  group-title="ESPANA", La 2 | ES
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
-#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png"  group-title="ESPANA", La 2 | ES
-http://xtv.mooo.com/live/esp/la2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://files.mediaset.es/cimg/1001/2021/05/21/logo-mtmad-2021_13eb.svg?w=undefined",mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="514" tvg-name="RTVE24" tvg-logo="https://www.m3u.cl/logo/514_RTVE24.png"  group-title="ESPANA", RTVE24 | ES
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pc-sumandocomunicacion-ondemand.flumotion.com/upload/image/2020/6/navarratv-5ede16a9.png"  group-title="ESPANA",Navarra TV * | ES
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png"  group-title="ESPANA", Urban TV * | ES
@@ -2651,8 +2658,6 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png"  group-title="ESPANA", HispanTV | IR
 https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="514" tvg-name="RTVE24" tvg-logo="https://www.m3u.cl/logo/514_RTVE24.png"  group-title="ESPANA", RTVE24 | ES
-https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="515" tvg-name="TV Galicia America" tvg-logo="https://www.m3u.cl/logo/515_TV_Galicia_America.png"  group-title="ESPANA", TV Galicia America | ES
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://www.m3u.cl/logo/1075_Cadena_Elite.png"  group-title="ESPANA", Cadena Elite | ES
@@ -2665,44 +2670,8 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1077" tvg-name="Molahits TV" tvg-logo="https://www.m3u.cl/logo/1077_Molahits_TV.png"  group-title="ESPANA", Molahits TV | ES
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="598" tvg-name="TVE 24H" tvg-logo="https://www.m3u.cl/logo/598_TVE_24H.png"  group-title="ESPANA", TVE 24H | ES
-https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png"  group-title="ESPANA", Cristiana TV | ES
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M+ Portada
-http://85.50.168.40:8001/1:0:1:759c:422:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M. #0
-http://85.50.168.40:8001/1:0:19:788c:414:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M. estrenos
-http://85.50.168.40:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M. Estrenos 2
-http://85.50.168.40:8001/1:0:1:7588:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M. Comedia
-http://85.50.168.40:8001/1:0:19:7857:41a:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M. Drama
-http://85.50.168.40:8001/1:0:19:750b:420:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M. Accion
-http://85.50.168.40:8001/1:0:1:746C:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M. Series 2
-http://85.50.168.40:8001/1:0:1:7696:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/094",M. Cine Ñ
-http://85.50.168.40:8001/1:0:1:7736:416:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://cdn.amcnetworks.com/sundance/logos/sundance_tv_logo.png",Sundance tv
-http://84.112.18.204:8001/1:0:1:76a5:41e:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3
-http://85.50.168.40:8001/1:0:19:772C:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png",Cuatro
-http://91.126.141.13:1935/live/51/playlist.m3u8
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/telecinco/favicon-32x32.png",Telecinco
-http://91.126.141.13:1935/live/61/2500-def.m3u8
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png",La Sexta
-http://91.126.141.13:1935/live/21/3500-def.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ATRESSeries.png",AtreSeries 
-http://91.126.141.13:1935/live/101/playlist.m3u8
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega
-http://149.7.216.178:8080/mega/mono.m3u8?token=test
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200",Divinity 
-http://85.50.168.40:8001/1:0:1:749a:41c:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://beteve.cat/wp-content/themes/beteve/img/logo.svg",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://sck.pm/sc9k",Galicia America 
@@ -2717,8 +2686,6 @@ https://rtvc-live1-rm.flumotion.com/rtvc-rm/live1-rm_high/chunks.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b4128000_DVR.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.fibracat.cat/img/site-logo.svg",Fibracat
 https://cdn02.fibracat.cat/fibracattv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://files.mediaset.es/cimg/1001/2021/05/21/logo-mtmad-2021_13eb.svg?w=undefined",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i82e48f36514a3b57/version/1470080571/image.png",Extremadura TV 
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://statics.ccma.cat/img/favicons/tv3-apple-touch-icon-180x180.png",TV3 Catalunya
