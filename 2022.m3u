@@ -1271,6 +1271,8 @@ http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
 http://38.91.57.12:2082/espn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="DEPORTE INTERNACIONAL",Bek Sports West | US
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="DEPORTE INTERNACIONAL",Bek Sports East | US
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1200px-ACC_Network_ESPN_logo.svg.png" group-title="DEPORTE INTERNACIONAL",ACC Network | US
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
@@ -1398,6 +1400,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/0TFaGQ9SSGfPiHuE8LDLhnVs5GIK353RZxqIt2igYmI9WGwuJ1cNv2FffKDxk_bXZhA" group-title="DEPORTE INTERNACIONAL",Tv 2 Sporten
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fbahrainsports.jpg" group-title="DEPORTE INTERNACIONAL",Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 
 MOTOR
 
