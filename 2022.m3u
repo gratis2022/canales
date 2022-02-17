@@ -1814,16 +1814,14 @@ https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/CDTV2015.png/revision/latest?cb=20180208152447" group-title="CHILE", Canal Diputados | CL
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional Señal 02 | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeyjdtU.png" group-title="CHILE",Convencion Constitucional Señal 02 | CL
 https://mdstrm.com/live-stream-playlist/60d47401e89f67082ee80ecd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional Señal 03 | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeyjdtU.png" group-title="CHILE",Convencion Constitucional Señal 03 | CL
 https://mdstrm.com/live-stream-playlist/60d474bea654210826d3ffe3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional Señal 07 | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeyjdtU.png" group-title="CHILE",Convencion Constitucional Señal 07 | CL
 https://mdstrm.com/live-stream-playlist/60d476c14157440829d03cd7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional Señal 09 | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeyjdtU.png" group-title="CHILE",Convencion Constitucional Señal 09 | CL
 https://mdstrm.com/live-stream-playlist/611137fef4b9b20830d1d606.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional | CL
-https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8
 
 #EXTINF:1,-ARGENTINA-
 
