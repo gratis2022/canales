@@ -1406,6 +1406,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://d22s7xnafxduco.cloudfront.net/logos/1496640827_logo.jpg",Sportskool TV 
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.sportystuff.tv/content/images/2022/02/logo-l.png",Sporty Stuff TV 
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.skitv.tv/wp-content/uploads/2020/05/ski-tv-logo-channel.png" group-title="DEPORTE INTERNACIONAL",Ski TV | US
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-logo="https://www.lg-obersee.ch/files/1_Oberseemeeting/Swiss-sport.tv.jpg" group-title="DEPORTE INTERNACIONAL",SWISS SPORT TV | US
