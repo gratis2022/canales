@@ -1275,6 +1275,8 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1200px-ACC_Network_ESPN_logo.svg.png" group-title="DEPORTE INTERNACIONAL",ACC Network | US
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ktv-sport-kuwait%20.png" group-title="DEPORTE INTERNACIONAL",KTV Sport 
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 
 TENNIS
 
