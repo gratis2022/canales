@@ -1372,6 +1372,8 @@ http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
 http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="DEPORTE INTERNACIONAL",TSN 5 | US
 http://Richi@38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/60a235f9920fe1ebed72d1c9/60a235f9920fe196a672d2e9_Logo.png" group-title="DEPORTE INTERNACIONAL",Players Tv
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg" group-title="DEPORTE INTERNACIONAL",STADIUM | US
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg" group-title="DEPORTE INTERNACIONAL",STADIUM | US
