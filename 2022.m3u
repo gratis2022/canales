@@ -1291,6 +1291,8 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="DEPORTE INTERNACIONAL",KOK Fights | US
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="DEPORTE INTERNACIONAL",KOK Fights | US
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images-1.listennotes.com/podcasts/kbp-sports-kbp-sports-lPDVrw1BYLh-Q2EUAfMaLDO.1400x1400.jpg" group-title="DEPORTE INTERNACIONAL",KBP Sports 
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2013/11/cropped-mmajunkie-logo-icon.jpg?w=180",MMA Junkie | US
