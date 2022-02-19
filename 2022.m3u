@@ -1039,7 +1039,7 @@ http://45.6.4.50:50601/TNTSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO",PPV TNT SPORTS CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zZu24A.png" group-title="DEPORTE LATINO",PPV TNT SPORTS CHILE
 https://akamai2-br.cdn.booyah.live/hls/1500052/108814783.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.161.115.174:8000/play/a012/index.m3u8
