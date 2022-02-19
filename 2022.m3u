@@ -1050,6 +1050,7 @@ http://45.236.175.103:9600/play/a03h
 http://209.45.97.109:8000/play/a04b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.225.93.154:8000/play/a01o
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYutPGw.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://45.161.115.174:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYutPGw.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
@@ -1058,7 +1059,6 @@ http://45.236.175.103:9600/play/a010
 http://181.163.190.205:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYutPGw.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://45.225.93.154:8000/play/a02b
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports FHD
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
