@@ -1045,11 +1045,11 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Spor
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.161.115.174:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
+http://45.225.93.154:8000/play/a01o
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.236.175.103:9600/play/a03h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://209.45.97.109:8000/play/a04b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
-http://45.225.93.154:8000/play/a01o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYutPGw.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://45.161.115.174:8000/play/a00m/index.m3u8
