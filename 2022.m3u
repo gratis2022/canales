@@ -2768,6 +2768,8 @@ http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOVIxQh.png" group-title="RADIOS",•●★-- RADIOS --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png"  group-title="RADIOS", Radio Agricultura | CL
+http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://www.m3u.cl/logo/973_Top_New_Radio.png"  group-title="RADIOS", Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg"  group-title="RADIOS", Karibeña TV | PE
@@ -2870,8 +2872,6 @@ https://unlimited2-cl-isp.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="428" tvg-name="Radio Romantica" tvg-logo="https://www.m3u.cl/logo/428_Radio_Romantica.png"  group-title="RADIOS", Radio Romantica | CL
 https://unlimited2-cl-isp.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png"  group-title="RADIOS", Radio Agricultura | CL
-http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="427" tvg-name="Radio Duna" tvg-logo="https://www.m3u.cl/logo/427_Radio_Duna.png"  group-title="RADIOS", Radio Duna | CL
 https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png"  group-title="RADIOS", Pudahuel FM | CL
