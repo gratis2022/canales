@@ -3297,6 +3297,8 @@ https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="354" tvg-name="TV8" tvg-logo="https://www.m3u.cl/logo/354_TV8.png"  group-title="REGIONALES", TV8 | CL
 https://593b04c4c5670.streamlock.net:443/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="El 3 de Conce" tvg-logo="https://www.m3u.cl/logo/65_El_3_de_Conce.png"  group-title="REGIONALES", El 3 de Conce | CL
+https://5eae379fb77bb.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="957" tvg-name="Pacifico Television" tvg-logo="https://www.m3u.cl/logo/957_Pacifico_Television.png"  group-title="REGIONALES", Pacifico Television | CL
 https://5eae379fb77bb.streamlock.net:443/pacificotelevision/pacificotelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="355" tvg-name="TV4" tvg-logo="https://www.m3u.cl/logo/355_TV4.png"  group-title="REGIONALES", TV4 | CL
