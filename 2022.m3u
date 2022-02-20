@@ -1271,6 +1271,12 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 3 | AR
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1 | FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 2 | FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 3 | FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 1 | AR
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 2 | AR
