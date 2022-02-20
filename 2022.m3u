@@ -1098,10 +1098,12 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 
 BASKETBALL 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE INTERNACIONAL",ESPN | US
+http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE INTERNACIONAL",ESPN 2 | US
+http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/langfr-200px-Logo_NBA_TV.svg.png",NBA TV | US
 https://bit.ly/nbatvusa?/index.m3u8
-#EXTINF:-1 tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE INTERNACIONAL",ESPN 2 | US
-http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="DEPORTE INTERNACIONAL",Bek Sports West | US
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="DEPORTE INTERNACIONAL",Bek Sports East | US
