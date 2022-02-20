@@ -1671,6 +1671,8 @@ https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/63/6b/6d636b0f-dfa9-6634-7ca6-99bf143bd4d6/source/512x512bb.jpg" group-title="CHILE", Tendencias Prime | CL
 https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyGAxjf.jpg"  group-title="CHILE",Agricultura | CL
+http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/TVS_Televisi%C3%B3n_del_Senado_%282018%29_%28Celeste-Blanco%29.png/revision/latest/scale-to-width-down/200?cb=20180408145825&path-prefix=es" group-title="CHILE",Tv Senado | CL
 https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/CDTV2015.png/revision/latest?cb=20180208152447" group-title="CHILE", Canal Diputados | CL
@@ -2768,7 +2770,7 @@ http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOVIxQh.png" group-title="RADIOS",•●★-- RADIOS --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png"  group-title="RADIOS", Radio Agricultura | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyGAxjf.jpg"  group-title="RADIOS", Radio Agricultura | CL
 http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://www.m3u.cl/logo/973_Top_New_Radio.png"  group-title="RADIOS", Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
