@@ -15,15 +15,17 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",PPV FUTBOL - NBA
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",PPV FUTBOL - NBA
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",PPV FUTBOL - NBA
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/2/UFC-Logo-Transparent-Free-PNG.png",PPV UFC - NBA 
 https://srv04.varcdn1.ru/match/index.m3u8?mvk
 
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",🏀 NBA All-Star Saturday Night
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8?mvk
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",🏀 NBA All-Star Saturday Night
-http://198.144.159.43/HMzcl1MWMcl2pPnzKoLsRw/1645347907/3231362e3133312e3130352e3330/ff3/playlist.m3u8?mvk
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",🏀 NBA All-Star Saturday Night
-http://93.152.174.144:4000/play/bein1fr/index.m3u8?mvk
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 2 (FUTBOL - NBA - UFC) | UK
