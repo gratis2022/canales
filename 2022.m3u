@@ -1523,6 +1523,8 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRJichH.png" group-title="ANIME",•●★-- ANIME --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-id="1108" tvg-name="Inspiranime" tvg-logo="https://www.m3u.cl/logo/1108_Inspiranime.png" group-title="ANIME", Inspiranime | CL
+https://videostreaming.cloudserverlatam.com:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ANIME", EnerGeek 
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="Kanade TV" tvg-logo="https://www.m3u.cl/logo/44_Kanade_TV.png" group-title="ANIME", Kanade TV * | CL
