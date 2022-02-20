@@ -22,62 +22,60 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",PPV FUTBOL - NBA
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://www.pngplay.com/wp-content/uploads/2/UFC-Logo-Transparent-Free-PNG.png",PPV UFC - NBA 
 https://srv04.varcdn1.ru/match/index.m3u8?mvk
-
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (FUTBOL - NBA - UFC) | UK
-http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 2 (FUTBOL - NBA - UFC) | UK
-http://77.247.109.101/hls/A2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 3 (FUTBOL - NBA - UFC) | UK
-http://77.247.109.101/hls/A3.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 4 (FUTBOL - NBA - UFC) | UK
-http://77.247.109.101/hls/A4.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 5 (FUTBOL - NBA - UFC) | UK
-http://45.148.26.176/hls/M1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 6 (FUTBOL - NBA - UFC) | UK
-http://45.148.26.176/hls/M2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 7 (FUTBOL - NBA - UFC) | UK
-https://bal.varcdn1.ru/lb/m3/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 8 (FUTBOL - NBA - UFC) | UK
-http://45.148.26.176/hls/M4.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 9 (FUTBOL - NBA - UFC) | UK
-http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 10 (FUTBOL - NBA - UFC) | UK
-http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 11 (FUTBOL - NBA - UFC) | UK
-http://cdn2.cyclingnews.live/hls/P3.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 12 (FUTBOL - NBA - UFC) | UK
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 13 (FUTBOL - NBA - UFC) | UK
-http://cdn4.cyclingnews.live/hls/Q2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 14 (FUTBOL - NBA - UFC) | UK
-http://45.134.21.199/hls/S1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 15 (FUTBOL - NBA - UFC) | UK
-http://45.134.21.199/hls/S2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 16 (FUTBOL - NBA - UFC) | UK
-http://45.134.21.199/hls/S3.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 17 (FUTBOL - NBA - UFC) | UK
-http://45.134.21.199/hls/S4.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 18 (FUTBOL - NBA - UFC) | UK
-http://45.134.21.199/hls/S5.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 19 (FUTBOL - NBA - UFC) | UK
-http://77.247.109.249/hls/T1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 20 (FUTBOL - NBA - UFC) | UK
-http://77.247.109.249/hls/T2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 21 (FUTBOL - NBA - UFC) | UK
-http://185.53.89.183/hls/bt2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 22 (FUTBOL - NBA - UFC) | UK
-http://185.53.89.183/hls/bt3.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 23 (FUTBOL - NBA - UFC) | UK
-http://185.53.89.183/hls/ssf.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 24 (FUTBOL - NBA - UFC) | UK
-http://185.53.89.183/hls/la.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 25 (FUTBOL - NBA - UFC) | UK
-http://185.53.89.183/hls/bay.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 26 (FUTBOL - NBA - UFC) | UK
 http://194.67.196.19:80/hls/103.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 2 (FUTBOL - NBA - UFC) | UK
+http://185.53.89.183/hls/bt2.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 3 (FUTBOL - NBA - UFC) | UK
+http://185.53.89.183/hls/bt3.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 4 (FUTBOL - NBA - UFC) | UK
+http://185.53.89.183/hls/ssf.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 5 (FUTBOL - NBA - UFC) | UK
+http://185.53.89.183/hls/la.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 6 (FUTBOL - NBA - UFC) | UK
+http://185.53.89.183/hls/bay.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 7 (FUTBOL - NBA - UFC) | UK
+http://77.247.109.101/hls/A1.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 8 (FUTBOL - NBA - UFC) | UK
+http://77.247.109.101/hls/A2.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 9 (FUTBOL - NBA - UFC) | UK
+http://77.247.109.101/hls/A3.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 10 (FUTBOL - NBA - UFC) | UK
+http://77.247.109.101/hls/A4.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 11 (FUTBOL - NBA - UFC) | UK
+http://45.148.26.176/hls/M1.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 12 (FUTBOL - NBA - UFC) | UK
+http://45.148.26.176/hls/M2.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 13 (FUTBOL - NBA - UFC) | UK
+https://bal.varcdn1.ru/lb/m3/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 14 (FUTBOL - NBA - UFC) | UK
+http://45.148.26.176/hls/M4.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 15 (FUTBOL - NBA - UFC) | UK
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 16 (FUTBOL - NBA - UFC) | UK
+http://cdn2.cyclingnews.live/hls/P2.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 17 (FUTBOL - NBA - UFC) | UK
+http://cdn2.cyclingnews.live/hls/P3.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 18 (FUTBOL - NBA - UFC) | UK
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 19 (FUTBOL - NBA - UFC) | UK
+http://cdn4.cyclingnews.live/hls/Q2.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 20 (FUTBOL - NBA - UFC) | UK
+http://45.134.21.199/hls/S1.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 21 (FUTBOL - NBA - UFC) | UK
+http://45.134.21.199/hls/S2.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 22 (FUTBOL - NBA - UFC) | UK
+http://45.134.21.199/hls/S3.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 23 (FUTBOL - NBA - UFC) | UK
+http://45.134.21.199/hls/S4.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 24 (FUTBOL - NBA - UFC) | UK
+http://45.134.21.199/hls/S5.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 25 (FUTBOL - NBA - UFC) | UK
+http://77.247.109.249/hls/T1.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 26 (FUTBOL - NBA - UFC) | UK
+http://77.247.109.249/hls/T2.m3u8
 
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 1 | EN 🏀
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nbatv/chunks.m3u8
