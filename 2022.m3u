@@ -15,18 +15,18 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 1 (FUTBOL - NBA - UFC) | RU
-https://srv04.varcdn1.ru/match/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 1 (FUTBOL - DEPORTES) | ES
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 2 (FUTBOL) | ES
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 3 (FUTBOL) | ES
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 4 (FUTBOL) | ES
 http://154.62.74.29:1935/live/gol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 4 (DEPORTES) | ES
+https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 5 (DEPORTES) | ES
 http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 6 (DEPORTES) | ES
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 6 (FUTBOL - NBA - UFC) | RU
+https://srv04.varcdn1.ru/match/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 7 (FUTBOL) | RU
 http://93.157.62.180/TringSport1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 8 (FUTBOL) | RU
@@ -164,14 +164,12 @@ https://d1eqmybbugbqy9.cloudfront.net:443/hls/suns/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2022_Winter_Olympics_logo.svg/800px-2022_Winter_Olympics_logo.svg.png" group-title="JUEGOS BEIJING 2022",•●★-- JUEGOS BEIJING 2022 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="JUEGOS BEIJING 2022",Claro Sports 
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_4553.png" group-title="JUEGOS BEIJING 2022",EUROSPORT 1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_37351.png" group-title="JUEGOS BEIJING 2022",EUROSPORT 2
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="JUEGOS BEIJING 2022",Tvri Sports
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1  tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="JUEGOS BEIJING 2022",Claro Sports 
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:1,-PREMIUM-
 
