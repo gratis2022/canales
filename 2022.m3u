@@ -1943,6 +1943,8 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QiZ2whP.png" " group-title="PERU",•●★-- PERU --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png"  group-title="PERU", ATV | PE
+https://m3u-editor.com/serve/televitolibre/500017328.m3u8
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png"  group-title="PERU", ATV | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://www.m3u.cl/logo/1066_ATV_.png"  group-title="PERU", ATV+ | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
@@ -2178,6 +2180,8 @@ https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?Playlis
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://www.m3u.cl/logo/658_ADN_40.png"  group-title="MEXICO", ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYlz1bh.png" group-title="MEXICO",Canal6 Monterrey
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://www.m3u.cl/logo/667_Multimedios_CDMX.png"  group-title="MEXICO", Multimedios CDMX | MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="668" tvg-name="Multimedios Guadalajara" tvg-logo="https://www.m3u.cl/logo/668_Multimedios_Guadalajara.png"  group-title="MEXICO", Multimedios Guadalajara | MX
@@ -2275,6 +2279,9 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2BbjWV.png" group-title="REPUBLICA DOMINICANA",•●★-- REPUBLICA DOMINICANA --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="REPUBLICA DOMINICANA",Telemicro Canal 5
+https://telemicro.com.do/wp-content/uploads/2021/08/0505.m3u8
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png"  group-title="REPUBLICA DOMINICANA", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png"  group-title="REPUBLICA DOMINICANA", TV Exitos | DO
