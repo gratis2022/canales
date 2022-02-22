@@ -1120,6 +1120,8 @@ TENNIS
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",Tennis Channel | US
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Super_Tennis_2008.png/revision/latest?cb=20201227002935" group-title="DEPORTE INTERNACIONAL",Super Tennis Tv
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-b-c1-17/restreamer/rtmp/hls/h24_live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png" group-title="DEPORTE INTERNACIONAL",SPORTS TV | TK
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
@@ -2700,6 +2702,8 @@ https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://seeklogo.com/images/M/mcm-top-logo-3649B48C16-seeklogo.com.png",MCM Top 
 http://185.140.187.67:8085/udp/238.2.0.45:1234
+#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://tdiradio.com/wp-content/uploads/2020/07/tdi-logo-icon.png",TDI Radio TV
+https://peer.tdiradio.com/static/streaming-playlists/hls/2dbc3630-2d41-4a02-ace8-da279e698b74/0.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/brasamusic.png",Brasa Music
