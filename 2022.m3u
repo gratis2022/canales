@@ -1241,6 +1241,8 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg"  group-title="INFANTILES", Pequeradio TV | ES
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://uspto.report/TM/88914602/APP20200516085305/2.jpeg" group-title="INFANTILES",chiquilines
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png"  group-title="INFANTILES", CSTV 
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.elcompositorhabla.com/corps/elcompositorhabla/data/resources/image/Quedate%20en%20casa/quedatencasa.png" group-title="INFANTILES",Tv Educa Chile
@@ -2163,6 +2165,8 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2BbjWV.png" group-title="REPUBLICA DOMINICANA",•●★-- REPUBLICA DOMINICANA --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/083ee8a7ef1943f965f756c9ba5f5217fe59156f7f97b8c9e23ea326db71c74d.png" group-title="REPUBLICA DOMINICANA",Imagen Universal Tv
+https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8?qthaher
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="REPUBLICA DOMINICANA",Telemicro Canal 5
 https://telemicro.com.do/wp-content/uploads/2021/08/0505.m3u8
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png"  group-title="REPUBLICA DOMINICANA", Hits 360 | DO
