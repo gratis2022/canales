@@ -1189,6 +1189,14 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png"  group-title="CINE",CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=88914623" group-title="CINE",Cine Real
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="CINE",Tu Cine
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINE",cine sureño 
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png" group-title="CINE",top cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png"  group-title="CINE",Planetatv Movie 
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png"  group-title="CINE",Mega Cine TV * | DO
@@ -1379,6 +1387,8 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="NOTICIAS",Estrella News
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS",Noticias Caracol Ahora
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306624/images/logod.png" group-title="NOTICIAS",RT Noticias
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png" group-title="NOTICIAS",Hispan Tv
@@ -1894,6 +1904,8 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg"   group-title="COLOMBIA", Caracol | CO
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png" group-title="COLOMBIA",Noticias Caracol Ahora| CO
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_RCN_%282019%29.svg/revision/latest/scale-to-width-down/200?cb=20210307123609&path-prefix=es"  group-title="COLOMBIA",RCN Plus
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?
 #EXTINF:-1 tvg-id="135" tvg-name="Telepacífico" tvg-logo="https://www.m3u.cl/logo/135_Telepacifico.png"   group-title="COLOMBIA", Telepacífico | CO
