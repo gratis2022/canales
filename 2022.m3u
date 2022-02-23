@@ -1537,6 +1537,8 @@ https://mdstrm.com/live-stream-playlist/5f51a916c21eec083ab337a8.m3u8?access_tok
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
+https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE",Tv Chile | CL
