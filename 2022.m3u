@@ -1502,6 +1502,17 @@ https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gxWjMix.png" group-title="CHILE",•●★-- CHILE --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN | CL prueba
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?access_token=ulfFaxwuLYISpWufv9uoQxGSXlTX016kuigSlCi21iKZXKpKTjgWgk1Ceat4aBWY2So73kG3FWq
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL prueba
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?access_token=wdudc9oivMRrHcCY5bHT5un29FFveU3Ne1lyXjSXGhJGPCCwn4br6vYbuEOHr9nZHnBip40VAnV
+#EXTINF:-1  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CHILE",Canal 13 | CL prueba
+https://mdstrm.com/live-stream-playlist/5f51a916c21eec083ab337a8.m3u8?access_token=SweKcs931SuVMD4yE4KZaPTViuzw0GKikX2LrPGuRM215cTO4pqa4y2aA9T9GINZhqHx9S4Kick
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision | CL prueba
+https://mdstrm.com/live-stream-playlist/5c928b7f6d6f41084bdae898.m3u8?access_token=W3nPU2UMvzRzTE85490Ep5Q4UCDkyW1Ox88I9iAQB13aBaAkYVtVQhJyJiLINxQS8WwOBdTBbQI
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas YOUTUBE
 https://www.youtube.com/embed/dkcW5tX-gnY?autoplay=1  
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE",T13 YOUTUBE
@@ -1528,12 +1539,6 @@ http://45.179.140.242:8000/play/a0jz
 http://181.78.22.214:8000/play/a01x
 
 
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN | CL prueba
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?access_token=ulfFaxwuLYISpWufv9uoQxGSXlTX016kuigSlCi21iKZXKpKTjgWgk1Ceat4aBWY2So73kG3FWq
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL prueba
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?access_token=wdudc9oivMRrHcCY5bHT5un29FFveU3Ne1lyXjSXGhJGPCCwn4br6vYbuEOHr9nZHnBip40VAnV
-#EXTINF:-1  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CHILE",Canal 13 | CL prueba
-https://mdstrm.com/live-stream-playlist/5f51a916c21eec083ab337a8.m3u8?access_token=SweKcs931SuVMD4yE4KZaPTViuzw0GKikX2LrPGuRM215cTO4pqa4y2aA9T9GINZhqHx9S4Kick
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
