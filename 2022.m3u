@@ -1453,6 +1453,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu3Kfh5.png" group-title="CULTURA",•●★-- CULTURA --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CULTURA", LOVE NATURE EN ESPAÑOL 
+https://bamus-spa-roku.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CULTURA", SABER MAS 
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png"  group-title="CULTURA", Cultura 24 TV | PE
@@ -1486,20 +1488,10 @@ https://bit.ly/3nbc6rA?/rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gxWjMix.png" group-title="RELAJACION",•●★-- RELAJACION --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="#EXTINF:-140 tvg-logo="" group-title="RELAJACION",", LOVE NATURE EN ESPAÑOL 
-https://bamus-spa-roku.amagi.tv/playlist.m3u8 
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Better Life Nature Channel 
-https://uni10rtmp.tulix.tv/betternature/betternature.stream/playlist.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Fireplace Lounge (720p)
-https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Fish Tank (720p)
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Loupe 4K (2160p)
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Nature Live Waterfalls Live (Bumblebee)
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-140 tvg-logo="" group-title="RELAJACION",RELAXON
 http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Nature Live Waterfalls Live
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Mountains Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Rivers Live
@@ -1528,6 +1520,14 @@ https://linear-209.frequency.stream/dist/localnow/209/hls/master/playlist.m3u8
 https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Zen
 https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
+#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Better Life Nature Channel 
+https://uni10rtmp.tulix.tv/betternature/betternature.stream/playlist.m3u8
+#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Fireplace Lounge 
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Fish Tank 
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Loupe 4K 
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 #EXTINF:1,-CHILE-
 
