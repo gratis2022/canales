@@ -1243,6 +1243,8 @@ http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png" group-title="INFANTILES", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1106_ACS_Network_TV.png" group-title="INFANTILES", ACS Network TV | PR
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png"  group-title="INFANTILES", Cloud Server Kids | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://www.m3u.cl/logo/52_Dreiko_TV.png"  group-title="INFANTILES", Dreiko TV | PA
@@ -1276,18 +1278,6 @@ https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="ENTRETENIMIENTO",Tv Max Panama
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",Estrella Tv
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tvn_Logo.svg/1200px-Tvn_Logo.svg.png" group-title="ENTRETENIMIENTO",TVN HD PANAMA
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="ENTRETENIMIENTO",Canal 57 USA
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
-#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="ENTRETENIMIENTO",WOW TV | SV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="ENTRETENIMIENTO", UCL Televisión LATAM | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="ENTRETENIMIENTO",Univision
-http://www.tecniconsult.hn/UnivisionHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png" group-title="ENTRETENIMIENTO", Solo Stand Up * | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO", Conecta2 TV | CL
@@ -1499,6 +1489,23 @@ https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 #EXTINF:-140 tvg-logo="" group-title="RELAJACION",Loupe 4K 
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
+#EXTINF:1,-LATINOS-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gxWjMix.png" group-title="LATINOS",•●★-- LATINOS --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tvn_Logo.svg/1200px-Tvn_Logo.svg.png" group-title="LATINOS",TVN | PA
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="LATINOS",Canal 57 | US
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="LATINOS",WOW TV | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="LATINOS", UCL Televisión LATAM | UY
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINOS",Estrella Tv | US
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
+http://www.tecniconsult.hn/UnivisionHD/index.m3u8
 
 #EXTINF:1,-CHILE-
 
