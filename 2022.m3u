@@ -11,6 +11,11 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdqGNPq.png" group-title="LISTA GRATUITA",RECHAZO A LA NUEVA CONSTITUCION
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#WAVEPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#WAVEPROP:inputstream.adaptive.license_key=https://dt-w.spliktv.xyz/?id=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZ9THYh/223-2230029-directv-sports-2-logo.png" tvg-group="LISTA GRATUITA", DIRECTV SPORTS
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
+
 #EXTINF:1,-PPV EVENTOS-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
