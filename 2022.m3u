@@ -1496,30 +1496,25 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="LATINOS",Tv Max | PA
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="LATINOS",Canal 57 | US
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="LATINOS",WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="LATINOS", UCL Televisión LATAM | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="LATINOS",Canal 57 | US
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINOS",Estrella Tv | US
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 http://www.tecniconsult.hn/UnivisionHD/index.m3u8
-#EXTINF:-1 tvg-id="3f1bd429b29a44e78643b6dcedc99411" group-title="LATINOS",ESTRELLA
-http://162.212.179.22:9981/stream/channelid/701766463?ticket=E417A33D72F754917F4B7835B646506C9F28F7CC&profile=pass
-#EXTINF:-1 tvg-id="8c68d3e0b773fdcae3554c6272d5aefc" group-title="LATINOS",Estrella HD
-http://162.212.179.22:9981/stream/channelid/1624467596?ticket=189F0AE2DD528736A17D8C6B0DFAAF2D9947978A&profile=pass
-#EXTINF:-1 tvg-id="635da935a025ef0e831f3fe5de451b7c" group-title="LATINOS",UNIVISION
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
-#EXTINF:-1 tvg-id="dbc1621557ec230068c11fc67d38d431" group-title="LATINOS",Unimas
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="LATINOS",Unimas | US
 http://162.212.179.22:9981/stream/channelid/358793691?ticket=B232B4150B53D7F222112A371181BBD79A7178C8&profile=pass
 
 #EXTINF:1,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gxWjMix.png" group-title="CHILE",•●★-- CHILE --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas YOUTUBE
 https://www.youtube.com/embed/dkcW5tX-gnY?autoplay=1  
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE",T13 YOUTUBE
