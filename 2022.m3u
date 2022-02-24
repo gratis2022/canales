@@ -1506,6 +1506,14 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 http://www.tecniconsult.hn/UnivisionHD/index.m3u8
+#EXTINF:-1 tvg-id="3f1bd429b29a44e78643b6dcedc99411" group-title="LATINOS",ESTRELLA
+http://162.212.179.22:9981/stream/channelid/701766463?ticket=E417A33D72F754917F4B7835B646506C9F28F7CC&profile=pass
+#EXTINF:-1 tvg-id="8c68d3e0b773fdcae3554c6272d5aefc" group-title="LATINOS",Estrella HD
+http://162.212.179.22:9981/stream/channelid/1624467596?ticket=189F0AE2DD528736A17D8C6B0DFAAF2D9947978A&profile=pass
+#EXTINF:-1 tvg-id="635da935a025ef0e831f3fe5de451b7c" group-title="LATINOS",UNIVISION
+http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
+#EXTINF:-1 tvg-id="dbc1621557ec230068c11fc67d38d431" group-title="LATINOS",Unimas
+http://162.212.179.22:9981/stream/channelid/358793691?ticket=B232B4150B53D7F222112A371181BBD79A7178C8&profile=pass
 
 #EXTINF:1,-CHILE-
 
