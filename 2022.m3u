@@ -906,6 +906,9 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE INTERNACIONAL",•●★-- DEPORTE INTERNACIONAL --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+FUTBOL
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 1 | BR
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 2 | BR
@@ -914,11 +917,14 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 4 | BR
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-FUTBOL
-
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid TV | US
 https://bit.ly/RealMadridtv?/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/11.png" group-title="DEPORTE INTERNACIONAL",Canal 11 Internacional | PT
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/sportingtvhd.png"  group-title="DEPORTE INTERNACIONAL",Sporting tv | PT
+https://bit.ly/3fvH5dB?inspiration.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-mais.svg"  group-title="DEPORTE INTERNACIONAL",Sport tv+ | PT
+https://bit.ly/3tEZVHt?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports Xtra Ñ | US
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
