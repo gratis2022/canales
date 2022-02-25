@@ -1085,6 +1085,8 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfnow.png",Surf Now Tv | US
 https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/teamblue65/LOGO/raw/master/FUELTV.png" group-title="DEPORTE INTERNACIONAL",Fuel tv
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Extremeplus.png",Extreme Plus | US
 https://bit.ly/Extrememais
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="http://www.outsidetv.com/img/theme/header_logo_v3.png",Outside tv | US
