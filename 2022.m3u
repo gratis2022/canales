@@ -927,6 +927,10 @@ https://bit.ly/3fvH5dB?inspiration.m3u8
 https://bit.ly/3tEZVHt?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports Xtra Ñ | US
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",Sky Sports Premier League | GB
+http://archive.simpletv.eu:8080/SkySport5HD/index.m3u8
+#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",Sky Sports Premier League | GB
+http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 2
@@ -1062,6 +1066,8 @@ GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://i.imgur.com/hCorEB9.png" group-title="DEPORTE INTERNACIONAL",ONE GOLF | US
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/39/USBB400000145_20211117T100428.png",GolfPass | US
+https://bit.ly/golfpassusa?/5.m3u8
 
 DEPORTES
 
@@ -1397,6 +1403,10 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="NOTICIAS",Estrella News
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://www.am550laprimera.com/images/custom/logo-header.jpg?_v=89",AM550 La Primera | AR
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/chunklist_w937625253.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-24h.png",24h | ES
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="NOTICIAS",Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="NOTICIAS", TV Marti | CU
@@ -2370,7 +2380,7 @@ https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0b2c7333d5b73ad0d55785822992f7772763885bc
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://files.mediaset.es/cimg/1001/2021/05/21/logo-mtmad-2021_13eb.svg?w=undefined",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 tvg-id="514" tvg-name="RTVE24" tvg-logo="https://www.m3u.cl/logo/514_RTVE24.png"  group-title="ESPANA", RTVE24 | ES
 https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pc-sumandocomunicacion-ondemand.flumotion.com/upload/image/2020/6/navarratv-5ede16a9.png"  group-title="ESPANA",Navarra TV * | ES
