@@ -1403,6 +1403,8 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="NOTICIAS",Estrella News
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/foro_tv-mediano.png" group-title="NOTICIAS",Foro Tv | MX
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://www.am550laprimera.com/images/custom/logo-header.jpg?_v=89",AM550 La Primera | AR
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/chunklist_w937625253.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-24h.png",24h | ES
@@ -1426,6 +1428,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu3Kfh5.png" group-title="CULTURA",•●★-- 📺 CULTURA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cgtn_espanol-mediano.png" group-title="CULTURA,CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CULTURA", LOVE NATURE EN ESPAÑOL 
 https://bamus-spa-roku.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/rUY6pxpLfeGbWDBv6BZqGiW7tw4=/seeme.me/storage/logo/2018/05/07/g9pyRW27UlQhbnM4.jpg" group-title="CULTURA",DOCUMENTALES
@@ -1638,24 +1642,26 @@ https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", Telefe 
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://www.m3u.cl/logo/246_Telefe_Rosario.jpg" group-title="ARGENTINA", Telefe Rosario | AR
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America HD | AR
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America SD | AR
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://www.m3u.cl/logo/285_Net_TV.png" group-title="ARGENTINA", Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="250" tvg-name="9Link" tvg-logo="https://www.m3u.cl/logo/250_9Link.png" group-title="ARGENTINA", 9Link | AR
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="ARGENTINA",IP Digital
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",CANAL 26 | AR
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26 2 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26 3 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://www.m3u.cl/logo/246_Telefe_Rosario.jpg" group-title="ARGENTINA", Telefe Rosario | AR
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="250" tvg-name="9Link" tvg-logo="https://www.m3u.cl/logo/250_9Link.png" group-title="ARGENTINA", 9Link | AR
-http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="ARGENTINA",IP Digital
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://www.m3u.cl/logo/285_Net_TV.png" group-title="ARGENTINA", Net TV | AR
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="293" tvg-name="Telpin Canal 2" tvg-logo="https://www.m3u.cl/logo/293_Telpin_Canal_2.png" group-title="ARGENTINA", Telpin Canal 2 | AR
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="ARGENTINA", GEN TV | AR
@@ -2118,6 +2124,8 @@ https://stmv1.srvif.com/canal9/canal9/playlist.m3u8?PlaylistM3UCL
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://www.m3u.cl/logo/658_ADN_40.png"  group-title="MEXICO", ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/foro_tv-mediano.png" group-title="MEXICO",Foro Tv
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYlz1bh.png" group-title="MEXICO",Canal6 Monterrey
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://www.m3u.cl/logo/667_Multimedios_CDMX.png"  group-title="MEXICO", Multimedios CDMX | MX
@@ -2576,6 +2584,8 @@ http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="949" tvg-name="MCRT Banda" tvg-logo="https://www.m3u.cl/logo/949_MCRT_Banda.png" group-title="MUSICA", MCRT Banda | CA
 https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://www.m3u.cl/logo/680_Teleritmo.png"  group-title="MUSICA", Teleritmo | MX
+https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg" group-title="MUSICA", Best Cable Music | PE
 https://ca.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://www.m3u.cl/logo/876_Vision_Musica_TV.png" group-title="MUSICA", Vision Musica TV | PE
