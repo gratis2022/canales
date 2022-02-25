@@ -1203,6 +1203,8 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png"  group-title="CINE",CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Cinehouse.png" group-title="CINE",Cine House
+https://digitalmediarights-cinehouse-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 channelId="-1"  tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=88914623" group-title="CINE",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="CINE",Tu Cine
