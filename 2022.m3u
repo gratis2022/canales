@@ -1277,6 +1277,8 @@ https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://www.m3u.cl/logo/45_NTV.png"  group-title="INFANTILES", NTV | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1  group-title="INFANTILES" tvg-logo="https://sck.pm/sc9k",TVG Infantil
+https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png"  group-title="INFANTILES", Planetatv Kids 
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
