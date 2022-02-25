@@ -347,6 +347,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://www.youtube.com/embed/J9kiqQqDx9U?autoplay=1  
 #EXTINF:-1  tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTE LATINO",Claro Sports 
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+#EXTINF:-1  tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTE LATINO",Claro Sports 
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zZu24A.png" group-title="DEPORTE LATINO",TNT SPORTS HD
@@ -765,6 +767,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
 https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="CINE",SONY Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://pngset.com/images/pongalo-novela-club-text-vehicle-transportation-number-transparent-png-1387798.png" group-title="CINE",Novela Club
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="CINE",PLUTO TELESERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png"  group-title="CINE",Orbit TV | DO
@@ -819,6 +823,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png"  group-title="CINE",Planetatv Movie 
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="" group-title="CINE",Juntos Tv
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png"  group-title="CINE",Mega Cine TV * | DO
 https://cdn1.streamgato.us/megacinetv/megacinetv/playlist.m3u8
 
@@ -894,6 +900,8 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AU4xuk6.png" group-title="ENTRETENIMIENTO",•●★-- 📺 ENTRETENIMIENTO 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.datocms-assets.com/32172/1596613883-afvtvlogoforhomepagenew494.png?auto=compress&fm=png&h=238.38449111470112&w=350" group-title="ENTRETENIMIENTO",AFV Tv
+https://linear-46-plex.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY Competencias
 https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png" group-title="ENTRETENIMIENTO", Solo Stand Up * | CL
