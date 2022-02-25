@@ -2504,8 +2504,10 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1199481911.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/blob/master/flash.webp?raw=true",Flash Tv
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO Latino
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO 
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
 #EXTINF:-1 tvg-id="952" tvg-name="MCRT En Español" tvg-logo="https://www.m3u.cl/logo/952_MCRT_En_Espanol.png" group-title="MUSICA", MCRT En Español | CA
 https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="951" tvg-name="MCRT GYM" tvg-logo="https://www.m3u.cl/logo/951_MCRT_GYM.png" group-title="MUSICA", MCRT GYM | CA
@@ -2702,6 +2704,10 @@ http://supportstreams.net:80/558585765/n4ySrfoH20/357
 http://185.140.187.67:8085/udp/238.2.1.22:1234
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s
 http://185.140.187.67:8085/udp/238.2.0.239:1234
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO 80's
+https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO 90's
+https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
 #EXTINF:-1  tvg-logo="https://www.coolstreaming.us/img/ch/image75192318112.jpg" group-title="MUSICA",Metal TV 
 https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png"  group-title="MUSICA", RCKTV 
