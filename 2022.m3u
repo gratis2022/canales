@@ -1247,6 +1247,8 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1106_ACS_Network_TV.png" group-title="INFANTILES", ACS Network TV | PR
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="INFANTILES", Latino Kids TV | UY
+https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png"  group-title="INFANTILES", Cloud Server Kids | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://www.m3u.cl/logo/52_Dreiko_TV.png"  group-title="INFANTILES", Dreiko TV | PA
