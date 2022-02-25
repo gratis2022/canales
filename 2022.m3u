@@ -1531,7 +1531,37 @@ https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/TVO-Televisi%C3%B3n-Oriental-Canal-23-en-vivo-Online.png" group-title="LATINOS",TVO Canal 23 | SV
 https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png" group-title="LATINOS",TEN Tv | HN
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png" group-title="LATINOS",TEN Tv | HN
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w781573373_b1848000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Canal6HN2005.png/revision/latest/scale-to-width-down/210?cb=20210513181236&path-prefix=es" group-title="LATINOS",Canal 6 | HN
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/MetroTV-Logo.jpg" group-title="LATINOS",Metro Tv | HN
+https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="LATINOS",Alsacias Tv | HN
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="LATINOS",TeleProgreso | HN
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w1652656497.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CampusTv_logo.png" group-title="LATINOS",Campus Tv | HN
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/DTV2013.png/revision/latest?cb=20210429182956&path-prefix=es" group-title="LATINOS",DTV | HN
+https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_720/images.spreaker.com/original/43bf7838a4aaec729d2769d7558b7b4b.jpg" group-title="LATINOS",FDH Tv | HN
+https://emisoras.hn:8081/fdctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1381620832162750469/bnJAYoy2_400x400.jpg" group-title="LATINOS"Q'hubo TV | HN
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1084071203.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="LATINOS",TeleHonduras | HN
+https://emisoras.hn:8081/telehn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="LATINOS",TeleHonduras Mas | HN
+https://emisoras.hn:8081/telehnmas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="LATINOS",TeleProgreso | HN
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w1010329388.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="LATINOS",Telerayo | HN
+https://emisoras.hn:8081/telerayo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="LATINOS",Telerayo NY | HN
+https://emisoras.hn:8081/telerayony/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="LATINOS",TV Copan | HN
+https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-Honduras-en-vivo-Online.png" group-title="LATINOS",TV Azteca Honduras | HN
 http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="LATINOS",Canal 57 | US
