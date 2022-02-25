@@ -1019,8 +1019,6 @@ https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://www.am550laprimera.com/images/custom/logo-header.jpg?_v=89",AM550 La Primera | AR
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/chunklist_w937625253.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-24h.png",24h | ES
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="NOTICIAS",Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="NOTICIAS", TV Marti | CU
@@ -2060,10 +2058,6 @@ https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=00b33e3f25c50bcd09f64efb9d49f78a431779e78
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0b2c7333d5b73ad0d55785822992f7772763885bc
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://files.mediaset.es/cimg/1001/2021/05/21/logo-mtmad-2021_13eb.svg?w=undefined",mtmad 24h
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="514" tvg-name="RTVE24" tvg-logo="https://www.m3u.cl/logo/514_RTVE24.png"  group-title="ESPANA", RTVE24 | ES
-https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pc-sumandocomunicacion-ondemand.flumotion.com/upload/image/2020/6/navarratv-5ede16a9.png"  group-title="ESPANA",Navarra TV * | ES
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png"  group-title="ESPANA", Urban TV * | ES
