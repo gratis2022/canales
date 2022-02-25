@@ -1147,6 +1147,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujLKcqq.png" group-title="CINE",•●★-- CINE --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="CINE",SONY Ccomedias
+https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="CINE",SONY Novelas
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="CINE",PLUTO TELESERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png"  group-title="CINE",Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/891_Viwix_TV.png"  group-title="CINE",Viwix TV | CL
@@ -1155,6 +1161,10 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/349_Estacion_TV.png"  group-title="CINE",Estacion TV | CL
 https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="CINE", Conecta2 TV | CL
+https://srv.panelcast.net/rc2/rc2/playlist.m3u8
+#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="CINE", TV Pop | CL
+https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"  group-title="CINE",Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/895_RLOTV.png"  group-title="CINE",RLOTV | CL
@@ -1260,42 +1270,34 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AU4xuk6.png" group-title="ENTRETENIMIENTO",•●★-- ENTRETENIMIENTO --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY COMEDIAS
-https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY NOVELAS
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY COMPETENCIAS
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY Competencias
 https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="ENTRETENIMIENTO",SONY TELESERIES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png" group-title="ENTRETENIMIENTO", Solo Stand Up * | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="ENTRETENIMIENTO", Conecta2 TV | CL
-https://srv.panelcast.net/rc2/rc2/playlist.m3u8
-#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="ENTRETENIMIENTO", TV Pop | CL
-https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO", HiperTV 
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png" group-title="ENTRETENIMIENTO",Retro Play TV | CL
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO", Tele Clasicos | CR
 https://tvdatta.com:3484/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO", HiperTV 
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+
 #EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="ENTRETENIMIENTO", Cosmos TV | CL
 http://v2.tustreaming.cl:80/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://www.m3u.cl/logo/1020_Caracola_TV.png"  group-title="ENTRETENIMIENTO", Caracola TV 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="986" tvg-name="Ziza TV" tvg-logo="https://www.m3u.cl/logo/986_Ziza_TV.png"  group-title="ENTRETENIMIENTO",Ziza TV 
-https://v2.tustreaming.cl/zizatv/index.m3u8
+
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="ENTRETENIMIENTO",G Vision | CL
 https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
 #EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="ENTRETENIMIENTO",ClickTv | CL
 http://v2.tustreaming.cl/clicktv/index.m3u8
+#EXTINF:-1 tvg-id="986" tvg-name="Ziza TV" tvg-logo="https://www.m3u.cl/logo/986_Ziza_TV.png"  group-title="ENTRETENIMIENTO",Ziza TV 
+https://v2.tustreaming.cl/zizatv/index.m3u8
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO",High Music | CL
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png" group-title="ENTRETENIMIENTO",Retro Play TV | CL
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg group-title="ENTRETENIMIENTO", High Music | CL
-https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-LIFESTYLE-
 
