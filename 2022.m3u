@@ -1305,6 +1305,10 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://tastemade-es16tm-samsung.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cocinapluto.png",Tv Cocina
 https://bit.ly/tvcocinaPluto?/master1080p.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MasChic.png" group-title="LIFESTYLE", Mas Chic 
+https://amc-maschic-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="LIFESTYLE",Hola Play
+https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="LIFESTYLE",Hola Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="LIFESTYLE", Wapp | CL
