@@ -1554,6 +1554,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 http://mdstrm.com:80/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_RCN_%282019%29.svg/revision/latest/scale-to-width-down/200?cb=20210307123609&path-prefix=es"  group-title="COLOMBIA",RCN Plus
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_RCN_%282019%29.svg/revision/latest/scale-to-width-down/200?cb=20210307123609&path-prefix=es"  group-title="COLOMBIA",RCN Plus
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="135" tvg-name="Telepacífico" tvg-logo="https://www.m3u.cl/logo/135_Telepacifico.png"   group-title="COLOMBIA", Telepacífico | CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="126" tvg-name="CTV" tvg-logo="https://www.m3u.cl/logo/126_CTV.jpg"   group-title="COLOMBIA", CTV | CO
@@ -1606,6 +1608,8 @@ https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="898" tvg-name="Buenisima Radio TV" tvg-logo="https://www.m3u.cl/logo/898_Buenisima_Radio_TV.png"   group-title="COLOMBIA", Buenisima Radio TV | CO
 http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1480972279710470145/atagc7XV_400x400.png" group-title="COLOMBIA", Canal 2
+https://video13.virtualtronics.com/streamer/canal2.m3u8
 
 #EXTINF:0,-ECUADOR-
 
