@@ -1300,6 +1300,8 @@ https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO", HiperTV | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://containermedia.com.br/assets/images/logos-canais/LOGO-YEEAAH.png"  group-title="ENTRETENIMIENTO",Yeeaah Tv | BR
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png" group-title="ENTRETENIMIENTO",Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
@@ -1514,6 +1516,8 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4b6IlZ.png" group-title="LATINOS",•●★-- 📺 LATINOS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.imgur.com/IDCc36l.png",WIPR TV | PR
+https://stream-wipr.online/hls/wipr/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tvn_Logo.svg/1200px-Tvn_Logo.svg.png" group-title="LATINOS",TVN | PA
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="LATINOS",Tv Max | PA
