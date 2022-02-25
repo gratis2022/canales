@@ -1274,30 +1274,14 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png" group-title="ENTRETENIMIENTO", Solo Stand Up * | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO", HiperTV 
+#EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png"  group-title="ENTRETENIMIENTO", HiperTV | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png" group-title="ENTRETENIMIENTO",Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO", Tele Clasicos | CR
 https://tvdatta.com:3484/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="ENTRETENIMIENTO", Cosmos TV | CL
-http://v2.tustreaming.cl:80/cosmostv/index.m3u8
-#EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://www.m3u.cl/logo/1020_Caracola_TV.png"  group-title="ENTRETENIMIENTO", Caracola TV 
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="ENTRETENIMIENTO",G Vision | CL
-https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
-#EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="ENTRETENIMIENTO",ClickTv | CL
-http://v2.tustreaming.cl/clicktv/index.m3u8
-#EXTINF:-1 tvg-id="986" tvg-name="Ziza TV" tvg-logo="https://www.m3u.cl/logo/986_Ziza_TV.png"  group-title="ENTRETENIMIENTO",Ziza TV 
-https://v2.tustreaming.cl/zizatv/index.m3u8
-#EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg"  group-title="ENTRETENIMIENTO",High Music | CL
-https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
 #EXTINF:0,-LIFESTYLE-
 
@@ -2718,6 +2702,8 @@ https://inliveserver.com:1936/11012/11012/playlist.m3u8
 https://stmv1.voxtvhd.com.br/dbox/dbox/playlist.m3u8
 #EXTINF:-1 tvg-id="392" tvg-name="Radio Zeta" tvg-logo="https://www.m3u.cl/logo/392_Radio_Zeta.png"  group-title="RADIOS", Radio Zeta | CL
 https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="RADIOS", Cosmos TV | CL 
+http://v2.tustreaming.cl:80/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="396" tvg-name="Radio Via Libre" tvg-logo="https://www.m3u.cl/logo/396_Radio_Via_Libre.png"  group-title="RADIOS", Radio Via Libre | CL
 https://mediacpstreamchile.com:1936/radiovialibre/radiovialibre/playlist.m3u8
 #EXTINF:-1 tvg-id="390" tvg-name="Radio Universal" tvg-logo="https://www.m3u.cl/logo/390_Radio_Universal.png"  group-title="RADIOS", Radio Universal | CL
@@ -3002,6 +2988,16 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 https://593b04c4c5670.streamlock.net:443/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="El 3 de Conce" tvg-logo="https://www.m3u.cl/logo/65_El_3_de_Conce.png"  group-title="REGIONALES", El 3 de Conce | CL
 https://5eae379fb77bb.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://www.m3u.cl/logo/1020_Caracola_TV.png"  group-title="REGIONALES", Caracola TV 
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png"  group-title="REGIONALES",G Vision | CL
+https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
+#EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://www.m3u.cl/logo/350_ClickTv.png"  group-title="REGIONALES",ClickTv | CL
+http://v2.tustreaming.cl/clicktv/index.m3u8
+#EXTINF:-1 tvg-id="986" tvg-name="Ziza TV" tvg-logo="https://www.m3u.cl/logo/986_Ziza_TV.png"  group-title="REGIONALES",Ziza TV 
+https://v2.tustreaming.cl/zizatv/index.m3u8
+#EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.tvcosta.cl/wp-content/uploads/2021/05/cropped-logotvnuevo.png"  group-title="REGIONALES",Tv Costa | CL
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 #EXTINF:-1 tvg-id="957" tvg-name="Pacifico Television" tvg-logo="https://www.m3u.cl/logo/957_Pacifico_Television.png"  group-title="REGIONALES", Pacifico Television | CL
 https://5eae379fb77bb.streamlock.net:443/pacificotelevision/pacificotelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="355" tvg-name="TV4" tvg-logo="https://www.m3u.cl/logo/355_TV4.png"  group-title="REGIONALES", TV4 | CL
