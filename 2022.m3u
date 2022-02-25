@@ -1478,6 +1478,10 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="LATINOS", UCL Televisión LATAM | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1041" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/1041_La_Red.png" group-title="LATINOS", La Red | UY
+https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1040" tvg-name="Canal 9 Telerocha" tvg-logo="https://www.m3u.cl/logo/1040_Canal_9_Telerocha.png" group-title="LATINOS", Canal 9 Telerocha | UY
+https://stmv1.srvif.com/canal9/canal9/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="LATINOS",Canal 57 | US
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINOS",Estrella Tv | US
