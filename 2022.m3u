@@ -1399,6 +1399,8 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 https://live1.presstv.ir/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png"  group-title="NOTICIAS", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN | ES
+http://200.89.191.164/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN | BR
 https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN | USA
