@@ -802,7 +802,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png"  group-title="CINE",Planetatv Movie 
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 channelId="-1"  tvg-logo="" group-title="CINE",Juntos Tv
+#EXTINF:-1 channelId="-1"  tvg-logo="https://i.imgur.com/MAfcMe6.png" group-title="CINE",Juntos Tv
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png"  group-title="CINE",Mega Cine TV * | DO
 https://cdn1.streamgato.us/megacinetv/megacinetv/playlist.m3u8
@@ -862,8 +862,6 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png"  group-title="INFANTILES", CSTV 
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.elcompositorhabla.com/corps/elcompositorhabla/data/resources/image/Quedate%20en%20casa/quedatencasa.png" group-title="INFANTILES",Tv Educa Chile
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://www.m3u.cl/logo/45_NTV.png"  group-title="INFANTILES", NTV | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png"  group-title="INFANTILES", Canal IPE | PE
@@ -891,7 +889,7 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png" group-title="ENTRETENIMIENTO",Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="ENTRETENIMIENTO",Tevex Tv
+#EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/cropped-tevex_icon.png" group-title="ENTRETENIMIENTO",Tevex Tv
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO", Tele Clasicos | CR
 https://tvdatta.com:3484/hybrid/play.m3u8
@@ -1021,9 +1019,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CULTURA", LOVE NATURE EN ESPAÑOL 
 https://bamus-spa-roku.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/rUY6pxpLfeGbWDBv6BZqGiW7tw4=/seeme.me/storage/logo/2018/05/07/g9pyRW27UlQhbnM4.jpg" group-title="CULTURA",DOCUMENTALES
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?advertisingId=&appName=web&appVersion=5.108.2-89717a4be7d2108db3c5060a46d769d1bf31009b&app_name=web&clientDeviceType=0&clientID=653f5a0d-c75c-472a-af3d-a3b5aa79de81&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=653f5a0d-c75c-472a-af3d-a3b5aa79de81&deviceLat=40.4163&deviceLon=-3.6934&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=98.0.4758&marketingRegion=ES&serverSideAds=true&sessionID=9004bb0a-94a8-11ec-bcaf-0242ac110003&sid=9004bb0a-94a8-11ec-bcaf-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjljZThjYTFhLTkzNGItNDIxYi1hY2MzLWQxMjc3ZDhjZThjMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5MDA0YmIwYS05NGE4LTExZWMtYmNhZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE1MS4xODIuMTk2LjIxNyIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMjAiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTYzLCJkZXZpY2VMb24iOi0zLjY5MzQsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk4LjAuNDc1OCIsImRldmljZU1ha2UiOiJjaHJvbWl1bS13ZWJ2aWV3IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA4LjItODk3MTdhNGJlN2QyMTA4ZGIzYzUwNjBhNDZkNzY5ZDFiZjMxMDA5YiIsImNsaWVudElEIjoiNjUzZjVhMGQtYzc1Yy00NzJhLWFmM2QtYTNiNWFhNzlkZTgxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQ1NjUwMDIzLCJqdGkiOiI5NGE5OGE1MS1iNWY1LTQ0OGUtYTcwOC1kMTJmZjNhYjMzYzQiLCJpYXQiOjE2NDU2MjEyMjMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpFUzpOalV6WmpWaE1HUXRZemMxWXkwME56SmhMV0ZtTTJRdFlUTmlOV0ZoTnpsa1pUZ3gifQ.NrYDPLNBYDX--NdG_AD9UfuVlceZxkg4Rg1d_JSoIuk&masterJWTPassthrough=true&gdpr=1&gdprConsent=CPU3d8dPU3d8dAcABBENCDCgADAAAELAACiQHmAQ4C4EQQkBKNhdAaskQIADVlwAAeAgCgAAAAAFCAAAIAYABAAggAQAACACOAAAIAIAAAAAAAAAQEAAAAAAAAEAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgAAEIAQAAAAAAQAAAAAAAAAAAAAAAAAAAAQNOAjAFSIggKAEdCaAFIIAQAgrCAAAUBAFAACAAAIEAAAQAwAKAABAAgAAEAEcAAAQAQAAAAAAAAAgIAAAAAAAACAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAgIAAAAAgJggHwABoAFAAaABWAC4AMgAcABAACQAFQALwAZAA0AB0AD-AIYAjgBMgCcAKAAUoAsgC2AF-AMIAxABlADQAG4AOcAgQCCAEIAIYARIAjABHACQgFEAUoArQBbgC5AGUAOAAcQA54CEAISAR0AkoBKwCcAFNAKzAV0BXwC6gG8AOIAfoA_gCHwEiALzAX-AxQBjIDJAGWANOAeYFAGgAGAAUACoAI4AUAApACtAHAAQgAlYBWYCugK-AxkIAZgAYABsAFwAYABIAC8AHQAPwAjABOgC0ALcAYQBiADKAGiAQIBBACMAEgAKIAUgAuQBxAEJAJKAU0Bf4DFAHmBgAQAWwBSBoAgAhgCMAG8ASIIACAAkAC2AKQA3giAGAIYAjACRBUAYAIYATABHAEYAN4AvMUABAFIMgDABDACYAI4AjABvAF5jAAIApB4A4AAwACgAVABHACgAFIAVoA4ACVgE4AKzAV0BXwD-AMZHAGYAGAAaABgAEgALwAdABGACdAFoAWwAwgBlADdAIEAggBCACMAEgAKIAUgAuQBxAEJAJKAfoBf4DFAHmEABYADQAwgCBAFIALcAXIA4gCEgElAP0AxQiAIABUAK0AcABKwCcAFZgK6Ar4B_CYAsAAwARwAoABSAFaASsApoBWYCugK-AfwBjJIAgAA0ADAAJAAtABhADKAG6AQIBBACEAFEAKQAcQBJQD9AL_AYoVAFAAGABUAEcAKAArQCVgFZgK6Ar4DGQGnFACwADQAMAAkAB0AEYALQAYQAywCBAIIAQgAjABIACiAFIAOIAhABJQCmgH6AX-AxQB5g.ZgAACFgAAAAA
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CULTURA", SABER MAS 
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CULTURA", Saber Mas
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png"  group-title="CULTURA", Cultura 24 TV | PE
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
@@ -1056,9 +1052,9 @@ https://bit.ly/3nbc6rA?/rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTaFYFb.png" group-title="RELAJACION",•●★-- 📺 RELAJACION 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",RELAXON
+#EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Relaxon Tv
 http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Nature Live Waterfalls Live
+#EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",,Nature Live Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Mountains Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
@@ -1078,6 +1074,14 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Better Life Nature Channel 
+https://uni10rtmp.tulix.tv/betternature/betternature.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Fireplace Lounge 
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Fish Tank 
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Loupe 4K 
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Fireside
 https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Horizon
@@ -1088,14 +1092,6 @@ https://linear-209.frequency.stream/dist/localnow/209/hls/master/playlist.m3u8
 https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Zen
 https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Better Life Nature Channel 
-https://uni10rtmp.tulix.tv/betternature/betternature.stream/playlist.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Fireplace Lounge 
-https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Fish Tank 
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-140 tvg-logo="" group-title="RELAJACION",Loupe 4K 
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 #EXTINF:1,-LATINOS-
 
