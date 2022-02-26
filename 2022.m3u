@@ -504,7 +504,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 https://bit.ly/RealMadridtv?/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/11.png" group-title="DEPORTE INTERNACIONAL",Canal 11 Internacional | PT
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/sportingtvhd.png"  group-title="DEPORTE INTERNACIONAL",Sporting tv | PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMC9j4L.png"  group-title="DEPORTE INTERNACIONAL",Sporting tv | PT
 https://bit.ly/3fvH5dB?inspiration.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hx6Mdli.png"  group-title="DEPORTE INTERNACIONAL",Sport tv+ | PT
 https://bit.ly/3tEZVHt?inspiration.m3u8
@@ -512,8 +512,6 @@ https://bit.ly/3tEZVHt?inspiration.m3u8
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",Sky Sports Premier League | GB
 http://archive.simpletv.eu:8080/SkySport5HD/index.m3u8
-#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",Sky Sports Premier League | GB
-http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 2
@@ -574,8 +572,6 @@ TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Super_Tennis_2008.png/revision/latest?cb=20201227002935" group-title="DEPORTE INTERNACIONAL",Super Tennis Tv
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-b-c1-17/restreamer/rtmp/hls/h24_live/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png" group-title="DEPORTE INTERNACIONAL",SPORTS TV | TK
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 PELEAS
 
@@ -770,8 +766,6 @@ https://srv.panelcast.net/rc2/rc2/playlist.m3u8
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"  group-title="CINE",Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/895_RLOTV.png"  group-title="CINE",RLOTV | CL
-https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png"  group-title="CINE",Mi TV Televisión Clásica | US
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png"  group-title="CINE",Vision Plus TV 
@@ -2477,6 +2471,8 @@ https://unlimited1-cl-isp.dps.live/intrr/intrr.smil/playlist.m3u8
 https://live.tvcontrolcp.com:1936/interactiva/interactiva/playlist.m3u8
 #EXTINF:-1 tvg-id="397" tvg-name="FM Pulso" tvg-logo="https://www.m3u.cl/logo/397_FM_Pulso.png"  group-title="RADIOS", FM Pulso | CL
 https://videostreaming.cloudserverlatam.com:443/8026/8026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/383_Radio_Lado_Oscuro_TV.jpg" group-title="RADIOS", Radio Lado Oscuro TV | CL
+https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="398" tvg-name="El Sembrador" tvg-logo="https://www.m3u.cl/logo/398_El_Sembrador.png"  group-title="RADIOS", El Sembrador | CL
 https://5eff35271151c.streamlock.net:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="382" tvg-name="ChocolateFM" tvg-logo="https://www.m3u.cl/logo/382_ChocolateFM.png"  group-title="RADIOS", ChocolateFM | CL
