@@ -1695,6 +1695,8 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?Pla
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="827" tvg-name="Uniradio TV" tvg-logo="https://www.m3u.cl/logo/827_Uniradio_TV.png"  group-title="PARAGUAY", Uniradio TV | PY
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-78FUT6sQBjQ/WKCzRoR3QMI/AAAAAAAABfA/XVDZbBUEIb0DuOGympZjNZTImf65Tr7uACK4B/s1600/ORIGINAL%2BLOGO%2BRPC%2Bcanal%2B13.png" group-title="PARAGUAY", Trece
+http://174.138.118.252/live/trece.m3u8
 
 #EXTINF:0,-URUGUAY-
 
