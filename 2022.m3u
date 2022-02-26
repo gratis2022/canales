@@ -736,6 +736,8 @@ https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.
 https://srv.panelcast.net/rc2/rc2/playlist.m3u8
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="CINE", TV Pop | CL
 https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="CINE", Cosmos TV | CL 
+http://v2.tustreaming.cl:80/cosmostv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"  group-title="CINE",Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png"  group-title="CINE",Mi TV Televisión Clásica | US
@@ -2373,8 +2375,6 @@ https://inliveserver.com:1936/11012/11012/playlist.m3u8
 https://stmv1.voxtvhd.com.br/dbox/dbox/playlist.m3u8
 #EXTINF:-1 tvg-id="392" tvg-name="Radio Zeta" tvg-logo="https://www.m3u.cl/logo/392_Radio_Zeta.png"  group-title="RADIOS", Radio Zeta | CL
 https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="RADIOS", Cosmos TV | CL 
-http://v2.tustreaming.cl:80/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="396" tvg-name="Radio Via Libre" tvg-logo="https://www.m3u.cl/logo/396_Radio_Via_Libre.png"  group-title="RADIOS", Radio Via Libre | CL
 https://mediacpstreamchile.com:1936/radiovialibre/radiovialibre/playlist.m3u8
 #EXTINF:-1 tvg-id="390" tvg-name="Radio Universal" tvg-logo="https://www.m3u.cl/logo/390_Radio_Universal.png"  group-title="RADIOS", Radio Universal | CL
