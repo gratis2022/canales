@@ -520,17 +520,17 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1 | AR
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 1 | AR
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 2 | AR
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 2 | AR
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 3 | AR
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 3 | AR
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 1 | FR
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 1 | FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 2 | FR
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 2 | FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",Bein Sports 3 | FR
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 3 | FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 1 | AR
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
@@ -1004,11 +1004,11 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 https://live1.presstv.ir/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png"  group-title="NOTICIAS", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN | ES
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png",CNN | ES
 http://200.89.191.164/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN | BR
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png",CNN | BR
 https://bit.ly/cnnBrasil?/chunks.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN | USA
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png",CNN | USA
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:0,-CULTURA-
