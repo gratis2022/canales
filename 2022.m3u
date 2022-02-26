@@ -1992,9 +1992,9 @@ https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1084071203.m3u8
 https://emisoras.hn:8081/telehn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telehonduras-1776.png" group-title="HONDURAS",TeleHonduras Mas | HN
 https://emisoras.hn:8081/telehnmas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.hn504.net/img/tv/Telerayo.png" group-title="HONDURAS", Telerayo | HN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DONHHgj.png" group-title="HONDURAS",Telerayo | HN
 https://emisoras.hn:8081/telerayo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.hn504.net/img/tv/Telerayo.png" group-title="HONDURAS", Telerayo NY | HN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DONHHgj.png" group-title="HONDURAS",Telerayo NY | HN 
 https://emisoras.hn:8081/telerayony/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/drgnBtc.jpg" group-title="HONDURAS",TV Copan | HN
 https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
