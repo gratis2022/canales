@@ -1462,11 +1462,11 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QiZ2whP.png" " group-title="PERU",•●★-- 📺 PERU 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png"  group-title="PERU", ATV | PE
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="PERU", ATV | PE
 https://m3u-editor.com/serve/televitolibre/500017328.m3u8
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png"  group-title="PERU", ATV | PE
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="PERU", ATV | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://www.m3u.cl/logo/1066_ATV_.png"  group-title="PERU", ATV+ | PE
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU", ATV+ | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png"  group-title="PERU", TV Peru Noticias | PE
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
@@ -1933,7 +1933,7 @@ https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://www.m3u.cl/logo/1050_TVN_14.png"  group-title="COSTA RICA", TVN 14 | CR
 https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://www.m3u.cl/logo/37_Canal_38.png group-title="COSTA RICA", Canal 38 | CR
+#EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://www.m3u.cl/logo/37_Canal_38.png" group-title="COSTA RICA", Canal 38 | CR
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://www.m3u.cl/logo/1062_Canal_VM_Latino.png"  group-title="COSTA RICA", Canal VM Latino | CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
