@@ -27,17 +27,15 @@ http://194.67.196.19:80/hls/103.m3u8
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 5 (FUTBOL) | LAT
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 6 (FUTBOL - DEPORTES) | LAT
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 7 (FUTBOL) | ES
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 6 (FUTBOL) | ES
 http://154.62.74.29:1935/live/gol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 8 (DEPORTES) | ES
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 7 (DEPORTES) | ES
 http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 9 (FUTBOL) | RU
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 8 (FUTBOL) | RU
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 10 (FUTBOL) | RU
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 9 (FUTBOL) | RU
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 11 (FUTBOL) | RU
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 10 (FUTBOL) | RU
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
 
 #EXTINF:1,-PREMIUM-
