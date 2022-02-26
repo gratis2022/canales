@@ -1095,6 +1095,16 @@ https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.imgur.com/IDCc36l.png",WIPR TV | PR
 https://stream-wipr.online/hls/wipr/index.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="LATINOS",Wow Tv | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logotipo-tcs-sv.png/320px-Logotipo-tcs-sv.png" group-title="LATINOS",TCS | SV
+https://secure-video.tcsgo.com/tcshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_FINAL_BLUE-1-149x84.png" group-title="LATINOS",Tele 1 | SV
+http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="LATINOS",Canal 33 | SV
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/TVO-Televisi%C3%B3n-Oriental-Canal-23-en-vivo-Online.png" group-title="LATINOS",TVO Canal 23 | SV
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tvn_Logo.svg/1200px-Tvn_Logo.svg.png" group-title="LATINOS",TVN | PA
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="LATINOS",Tv Max | PA
@@ -1107,16 +1117,6 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/RPCPanama2021.png/revision/latest/scale-to-width-down/220?cb=20210906023839&path-prefix=es" group-title="LATINOS",RPC Radio | PA
 https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
-#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="LATINOS",Wow Tv | SV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logotipo-tcs-sv.png/320px-Logotipo-tcs-sv.png" group-title="LATINOS",TCS | SV
-https://secure-video.tcsgo.com/tcshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_FINAL_BLUE-1-149x84.png" group-title="LATINOS",Tele 1 | SV
-http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="LATINOS",Canal 33 | SV
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/TVO-Televisi%C3%B3n-Oriental-Canal-23-en-vivo-Online.png" group-title="LATINOS",TVO Canal 23 | SV
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="LATINOS",Canal 57 | US
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINOS",Estrella Tv | US
@@ -1582,29 +1582,6 @@ http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1480972279710470145/atagc7XV_400x400.png" group-title="COLOMBIA", Canal 2
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 
-#EXTINF:0,-ECUADOR-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s21plzL.png" group-title="ECUADOR",•●★-- 📺 ECUADOR 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="1036" tvg-name="Red TVE Ventana" tvg-logo="https://www.m3u.cl/logo/1036_Red_TVE_Ventana.png"   group-title="ECUADOR", Red TVE Ventana * | EC
-https://s1.tvdatta.com:3707/live/redtvelive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="95" tvg-name="America Estereo" tvg-logo="https://www.m3u.cl/logo/95_America_Estereo.jpg"  group-title="ECUADOR", America Estereo | EC
-https://streamingwowza.com:1936/radioamericaquito/radioamericaquito/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png"   group-title="ECUADOR", Canela TV | EC
-https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="102" tvg-name="Hechos TV" tvg-logo="https://www.m3u.cl/logo/102_Hechos_TV.png"   group-title="ECUADOR", Hechos TV | EC
-http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="108" tvg-name="RTU TV" tvg-logo="https://www.m3u.cl/logo/108_RTU_TV.png"   group-title="ECUADOR", RTU TV | EC
-https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1070" tvg-name="Sono Onda TV" tvg-logo="https://www.m3u.cl/logo/1070_Sono_Onda_TV.png"   group-title="ECUADOR", Sono Onda TV | EC
-https://mediacpstreamchile.com:1936/sonoonda/sonoonda/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="110" tvg-name="TV Puruwa" tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png"   group-title="ECUADOR", TV Puruwa | EC
-https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1056" tvg-name="WuanPlus" tvg-logo="https://www.m3u.cl/logo/1056_WuanPlus.png"   group-title="ECUADOR", WuanPlus | EC
-https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="176" tvg-name="Asomavision" tvg-logo="https://www.m3u.cl/logo/176_Asomavision.png"   group-title="ECUADOR", Asomavision | EC
-https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
-
 #EXTINF:0,-BOLIVIA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uowx41Q.png" group-title="BOLIVIA",•●★-- 📺 BOLIVIA 📺 --★●•
@@ -1613,6 +1590,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
 #EXTINF:-1 tvg-id="90" tvg-name="PAT" tvg-logo="https://www.m3u.cl/logo/90_PAT.png"  group-title="BOLIVIA", PAT | BO
 https://master.tucableip.com/pat/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://www.m3u.cl/logo/93_RTP.png"  group-title="BOLIVIA", RTP | BO
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="88" tvg-name="ATB" tvg-logo="https://www.m3u.cl/logo/88_ATB.png"   group-title="BOLIVIA", ATB | BO
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="981" tvg-name="Bolivia TV 7.2" tvg-logo="https://www.m3u.cl/logo/981_Bolivia_TV_7_2.png"  group-title="BOLIVIA", Bolivia TV 7.2 | BO
@@ -1621,12 +1600,33 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?PlaylistM3UCL
 https://livefocamundo.com:8081/megavisiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="92" tvg-name="Red AD Venir Internacional" tvg-logo="https://www.m3u.cl/logo/92_Red_AD_Venir_Internacional.png"  group-title="BOLIVIA", Red AD Venir Internacional | BO
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://www.m3u.cl/logo/93_RTP.png"  group-title="BOLIVIA", RTP | BO
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png"  group-title="BOLIVIA", TV HD Tropical | BO
 https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png"  group-title="BOLIVIA", XTO TV | BO
 https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0,-ECUADOR-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s21plzL.png" group-title="ECUADOR",•●★-- 📺 ECUADOR 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="RTU TV" tvg-logo="https://www.m3u.cl/logo/108_RTU_TV.png"   group-title="ECUADOR", RTU TV | EC
+https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1036" tvg-name="Red TVE Ventana" tvg-logo="https://www.m3u.cl/logo/1036_Red_TVE_Ventana.png"   group-title="ECUADOR", Red TVE Ventana * | EC
+https://s1.tvdatta.com:3707/live/redtvelive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95" tvg-name="America Estereo" tvg-logo="https://www.m3u.cl/logo/95_America_Estereo.jpg"  group-title="ECUADOR", America Estereo | EC
+https://streamingwowza.com:1936/radioamericaquito/radioamericaquito/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png"   group-title="ECUADOR", Canela TV | EC
+https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102" tvg-name="Hechos TV" tvg-logo="https://www.m3u.cl/logo/102_Hechos_TV.png"   group-title="ECUADOR", Hechos TV | EC
+http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1070" tvg-name="Sono Onda TV" tvg-logo="https://www.m3u.cl/logo/1070_Sono_Onda_TV.png"   group-title="ECUADOR", Sono Onda TV | EC
+https://mediacpstreamchile.com:1936/sonoonda/sonoonda/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110" tvg-name="TV Puruwa" tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png"   group-title="ECUADOR", TV Puruwa | EC
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1056" tvg-name="WuanPlus" tvg-logo="https://www.m3u.cl/logo/1056_WuanPlus.png"   group-title="ECUADOR", WuanPlus | EC
+https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="176" tvg-name="Asomavision" tvg-logo="https://www.m3u.cl/logo/176_Asomavision.png"   group-title="ECUADOR", Asomavision | EC
+https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-VENEZUELA-
 
