@@ -33,17 +33,11 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 8 (DEPORTES) | ES
 http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 9 (FUTBOL - NBA) | AR
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 10 (FUTBOL - NBA) | AR
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 11 (FUTBOL - NBA) | AR
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 12 (FUTBOL) | RU
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 9 (FUTBOL) | RU
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 13 (FUTBOL) | RU
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 10 (FUTBOL) | RU
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 14 (FUTBOL) | RU
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 11 (FUTBOL) | RU
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
 
 #EXTINF:1,-PREMIUM-
@@ -518,18 +512,14 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 1 | AR
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 2 | AR
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 3 | AR
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 1 | FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 2 | FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 3 | FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png" group-title="DEPORTE INTERNACIONAL",SSC1 | AR
+https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 1 | AR
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 2 | AR
@@ -547,10 +537,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 
 BASKETBALL 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE INTERNACIONAL",ESPN | US
-http://208.79.153.123:80/teleup-espn-new1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE INTERNACIONAL",ESPN 2 | US
-http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/langfr-200px-Logo_NBA_TV.svg.png",NBA TV | US
 https://bit.ly/nbatvusa?/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="DEPORTE INTERNACIONAL",Bek Sports West | US
