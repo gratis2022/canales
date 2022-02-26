@@ -1921,6 +1921,8 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3U
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1049" tvg-name="Teleuno" tvg-logo="https://www.m3u.cl/logo/1049_Teleuno.png"  group-title="COSTA RICA", Teleuno | CR
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1049" tvg-name="Teleuno" tvg-logo="https://www.m3u.cl/logo/1049_Teleuno.png"  group-title="COSTA RICA", Teleuno | CR
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
 #EXTINF:-1 tvg-id="1051" tvg-name="Tv Sur Canal 14" tvg-logo="https://www.m3u.cl/logo/1051_Tv_Sur_Canal_14.png"  group-title="COSTA RICA", Tv Sur Canal 14 | CR
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1052" tvg-name="TV Sur Canal 9" tvg-logo="https://www.m3u.cl/logo/1052_TV_Sur_Canal_9.png"  group-title="COSTA RICA", TV Sur Canal 9 | CR
