@@ -1896,6 +1896,8 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?Playlis
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png"  group-title="PERU", Canal IPE | PE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://i.imgur.com/BGDFIFt.png"  group-title="PERU",Contacto Tv | PE
+https://live.obslivestream.com/cdeportivomux/index.m3u8
 #EXTINF:-1 tvg-id="969" tvg-name="Onda Digital TV" tvg-logo="https://www.m3u.cl/logo/969_Onda_Digital_TV.png"  group-title="PERU", Onda Digital TV | PE
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://www.m3u.cl/logo/695_BHTV.png"  group-title="PERU", BHTV | PE
