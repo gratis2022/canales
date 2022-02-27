@@ -2794,7 +2794,7 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://tdiradio.com/wp-content/uploads/2020/07/tdi-logo-icon.png",TDI Radio TV
 https://peer.tdiradio.com/static/streaming-playlists/hls/2dbc3630-2d41-4a02-ace8-da279e698b74/0.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/brasamusic.png",Brasa Music
 https://salto-streams.nl/hls/sotv1_high.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/qwestjazz.png",Qwest Jazz & Beyond
