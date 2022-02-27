@@ -12,8 +12,8 @@
         {
                         "name": "TNT",
                         "image": "https://i.imgur.com/0zZu24A.png",
-                        "url": "https://viperplay.net",
-                        "referer": "https://viperplay.net/frame/#TNT-Sports-79245",
+                        "url": "https://viperplay.net/frame/#TNT-Sports-79245",
+                        "referer": "https://viperplay.net",
                         "isHost": "true"
        
         },
