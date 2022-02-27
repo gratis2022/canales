@@ -1230,9 +1230,8 @@ RAW Paste Data
                 {
                            "name": "tnt",
                            "image": "https://www.comparaiso.es/sites/comparaiso.es/files/images/movistar-liga-campeones-200x300.png",
-                           "url": "https://viperplay.net",
-                           "referer": "https://viperplay.net/frame/#TNT-Sports-79245",
-                           "embed" : true
+                           "url": "https://viperplay.net/frame/#TNT-Sports-79245",
+                        
                   },                            
                  
                 {
