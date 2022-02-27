@@ -10,11 +10,10 @@
       "stations": [
         
         {
-                        "name": "TNT 2",
+                        "name": "TNT 1",
                         "image": "https://i.imgur.com/0zZu24A.png",
-                        "url": "https://dtv-latam-abc.akamaized.net/dash/live/2005152/dtv/dtvlatam_tnt_sports_hd_/master.mpd",
-                        "referer": "https://viperplay.net/frame/#TNT-Sports-79245",
-                        "isHost": "true"
+                        "url": "https://viperplay.net/frame/#TNT-Sports-79245",
+                       
        
         },
 	
