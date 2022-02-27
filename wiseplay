@@ -1,15 +1,38 @@
-{
-  "name": " ⚽📲 FÚTBOL ESPAÑA ✅✅✅ ",
-  "author": "Anonimo",
-  "info": "Lista de fúbtol español actualizada semanalmente. No olvides recomendarla a tus amigos!",
-  "url": "https://pastebin.com/CwjSt2s7",
-"image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
+ {
+        "name": "Dibujos para los mas peques",
+	"author": "ListasWiseplay.com",
+        "image": "https://78.media.tumblr.com/2aa145fcceba36c691cbe031becd5d95/tumblr_ol6ubyy7711tzqospo1_500.gif",
 
-          {
-                    "name": "tnt sports chile",
-                    "image": "https://i.imgur.com/0zZu24A.png",
-                    "url": "https://viperplay.net/frame/#TNT-Sports-79245",
-                    "embed": true
-                },
-                {
-
+        "groups": [
+    {
+        "name": "Agallas,el perro cobarde",
+        "image": "http://cdn.revistavanityfair.es/uploads/images/thumbs/es/vf/2/s/2016/39/las_10_series_imprescindibles_de_cartoon_network_283672903_1200x945.jpg",
+        "groups": [
+        
+    {
+        "name": "Temporada 1",
+        "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
+        "stations": [
+        {
+                           "name": "1x01 Una noche en el Motel Katz",
+                           "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
+                           "url": "http://streamcloud.eu/pvgkml3rl9q4/Agallas_1x01_-_Una_noche_en_el_Hotel_Gatoz.mp4.html",
+                           "isHost": "true"
+        },
+        {
+                           "name": "1x02 Guiso de Abuelita Cajun",
+                           "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
+                           "url": "http://powvideo.net/t11mgchuc667",
+                           "isHost": "true"
+        },
+        {
+                           "name": "1x03 La Sombra del Coraje",
+                           "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
+                           "url": "http://powvideo.net/yj73x9l2jkza",
+                           "isHost": "true"
+        },
+       {
+                           "name": "tnt",
+                           "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
+                           "url": "https://viperplay.net/frame/#TNT-Sports-79245",
+                           "isHost": "true"
