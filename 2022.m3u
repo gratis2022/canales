@@ -1515,7 +1515,7 @@ https://secure-video.tcsgo.com/tcshd/index.m3u8
 http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="LATINOS",Canal 33 | SV
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/TVO-Televisi%C3%B3n-Oriental-Canal-23-en-vivo-Online.png" group-title="LATINOS",TVO Canal 23 | SV
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/bd/c2/fe/bdc2fe3b-d775-abc4-76de-430901dc343b/mzl.zmhoeztf.jpg/1024x1024bb.png" group-title="LATINOS",TVO Canal 23 | SV
 https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tvn_Logo.svg/1200px-Tvn_Logo.svg.png" group-title="LATINOS",TVN | PA
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
