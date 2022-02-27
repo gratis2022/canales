@@ -1,6 +1,6 @@
 {
-  "name": "FUTBOL",
-  "author": "GENE",
+  "name": "NOMBRE DE LISTA",
+  "author": "ComoSeHace © 2016",
   "url": "URL DE LA LISTA",
   "groups": [
     
@@ -10,17 +10,16 @@
       "stations": [
         
         {
-                        "name": "TNT SPORTS CHILE HD",
-                        "image": "https://i.imgur.com/0zZu24A.png",
+                        "name": "TNT 1)",
+                        "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
                         "url": "https://viperplay.net/frame/#TNT-Sports-79245",
-                         "isHost": "true"
+                        "isHost": "true"
         },
         {
-                        "name": "DIRECT TV",
+                        "name": "DIRECT 1",
                         "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
                         "url": "https://logi1laut4r0.solutions/16.html"
-        		 "isHost": "true"
-	},
+        },
 
        ]
     },
