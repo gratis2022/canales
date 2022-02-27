@@ -749,6 +749,8 @@ http://45.225.93.154:8000/play/a02b
 http://45.161.115.174:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H0Dc4lg.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://45.236.175.103:9600/play/a010
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0Dc4lg.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
+http://181.160.81.113:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE LATINO",Gol Tv | EC
 https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | AR SA
