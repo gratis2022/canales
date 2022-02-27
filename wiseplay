@@ -13,13 +13,14 @@
                         "name": "TNT SPORTS CHILE HD",
                         "image": "https://i.imgur.com/0zZu24A.png",
                         "url": "https://viperplay.net/frame/#TNT-Sports-79245",
-                        
+                         "isHost": "true"
         },
         {
                         "name": "DIRECT TV",
                         "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
                         "url": "https://logi1laut4r0.solutions/16.html"
-        },
+        		 "isHost": "true"
+	},
 
        ]
     },
