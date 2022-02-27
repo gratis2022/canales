@@ -15,10 +15,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- 📺 PPV EVENTOS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 1
-http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 2
-http://livehls.ltjuq.top/ofmatch/HD238449.m3u8?auth_key=1645983308-1c45537cb3ad71d10f54e802bfef21f5-0-42236604ba95be7f2c8bfb2ce07d0b8f
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV FUTBOL 1 | LAT
 http://134.19.182.131:8080/pdgd5666452d0357c07.m3u8?m=UqW20REEVk8mWZhqH3Aw-A&c=d5666452d0357c07&p=3138352e3132382e36302e31&e=1645945733
@@ -52,6 +48,8 @@ http://194.67.196.19:80/hls/103.m3u8
 http://134.19.182.131:8080/pdgfb78bc33b911096c.m3u8?m=5NaA2rXyrEqP6iW_Sq0F2w&c=fb78bc33b911096c&p=3138352e3133332e3230322e323431&e=1645941993
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV DEPORTES 16 | US
 http://134.19.182.131:8080/pdga77f3b6e943f7c0b.m3u8?m=FHXTuWtup8cr_zS3Y8UOrw&c=a77f3b6e943f7c0b&p=3138352e3133332e3230322e323431&e=1645942098
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 1
+http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
 
 
 #EXTINF:1,-PREMIUM-
