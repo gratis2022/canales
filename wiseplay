@@ -12,29 +12,4 @@
                     "embed": true
                 },
                 {
-                    "name": "Enlaces VLPlayer",
-                    "image": "https://image.flaticon.com/icons/png/512/308/308264.png",
-                    "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
-                    "userAgent": "exoplayer_video",
-                    "isHost": true
-                },
-                {
-                    "name": "M+ LaLiga",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
-                    "url": "https://daily99.global.ssl.fastly.net/live/1/playlist.m3u8",
-                    "referer": "https://dailysport.pw/c1.php",
-                    "isHost": false
-                },
-                {
-                    "name": "M+ LaLiga (Opc.2)",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
-                    "url": "http://wenger.stream/ws/psg.php",
-                    "referer": "http://elixx.me/aw/apsg.php",
-                    "isHost": true
-                },
-                
-                       ]
-    }
- 
-      ]
-}
+
