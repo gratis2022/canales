@@ -1022,6 +1022,8 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 
 PELEAS
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zY8GpU.png" group-title="DEPORTE INTERNACIONAL",EX Tv | US
+http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="DEPORTE INTERNACIONAL",Fite | US
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="DEPORTE INTERNACIONAL",KOK Fights | US
