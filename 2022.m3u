@@ -1388,6 +1388,8 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png" group-title="NOTICIAS", Meganoticias | CL
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png"  group-title="NOTICIAS", TV Peru Noticias | PE
+https://sv.spliktv.xyz/live/caster/PE/TVPERU-N.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png"  group-title="NOTICIAS", TV Peru Noticias | PE
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="NOTICIAS",Estrella News
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
@@ -1395,6 +1397,8 @@ https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://www.am550laprimera.com/images/custom/logo-header.jpg?_v=89",AM550 La Primera | AR
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/chunklist_w937625253.m3u8
+#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS",IP Digital
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="NOTICIAS",Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="NOTICIAS", TV Marti | CU
