@@ -10,10 +10,31 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdqGNPq.png" group-title="LISTA GRATUITA",💢 RECHAZO A LA NUEVA CONSTITUCION 💢
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv1_widevine.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdqGNPq.png" group-title="LISTA GRATUITA",prueba
 https://dtv-latam-abc.akamaized.net/dash/live/2005152/dtv/dtvlatam_tnt_sports_hd_/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv1_widevine.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdqGNPq.png" group-title="LISTA GRATUITA",prueba
 https://dtv-latam-abc.akamaized.net/dash/live/691393/dtv/espnargentina/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv1_widevine.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="LISTA GRATUITA", DIRECTV SPORTS
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv2_widevine.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LISTA GRATUITA", DIRECTV SPORTS 2
+https://dtv-latam-abc.akamaized.net/dash/live/700404/dtv/DTV-ABC-directtvsports2/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv3_widevine.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="LISTA GRATUITA", DIRECTV SPORTS +
+https://dtv-latam-abc.akamaized.net/dash/live/2018339/dtv/dtv-directvsportsplushd/master.mpd
 
 #EXTINF:1,-PPV EVENTOS-
 
