@@ -16,9 +16,16 @@
 "playInNatPlayer": "true"
         },
         {
-                        "name": "Canal 2",
+                        "name": "TNT",
                         "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
-                        "url": "http://208.75.225.28:1935/live/regfegtrg/chunklist.m3u8"
+                        "url": "https://viperplay.net/frame/#TNT-Sports-79245"
+			"playInNatPlayer": "true"
+        },
+	{
+                        "name": "TNT",
+                        "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
+                        "url": "https://viperplay.net/frame/#TNT-Sports-79245"
+			
         },
 
        ]
