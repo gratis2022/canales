@@ -1,0 +1,48 @@
+{
+  "name": " ⚽📲 FÚTBOL ESPAÑA ✅✅✅ ",
+  "author": "Anonimo",
+  "info": "Lista de fúbtol español actualizada semanalmente. No olvides recomendarla a tus amigos!",
+  "url": "https://pastebin.com/CwjSt2s7",
+"image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
+  "groups": [
+{
+"name":"SportZonline",
+"image":"https://listaswiseplay.com/wp-content/uploads/2018/02/listas-wiseplay-deportes.jpg",
+"stations":[
+{
+"name": "Actualizar siempre la lista al entrar en TV",
+"image": "http://andreigubin.ucoz.ru/update.png"
+},    
+          {
+                    "name": "TuMarcador",
+                    "image": "https://image.flaticon.com/icons/png/512/308/308264.png",
+                    "url": "https://dailysport.pw/",
+                    "embed": true
+                },
+                {
+                    "name": "Enlaces VLPlayer",
+                    "image": "https://image.flaticon.com/icons/png/512/308/308264.png",
+                    "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
+                    "userAgent": "exoplayer_video",
+                    "isHost": true
+                },
+                {
+                    "name": "M+ LaLiga",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "https://daily99.global.ssl.fastly.net/live/1/playlist.m3u8",
+                    "referer": "https://dailysport.pw/c1.php",
+                    "isHost": false
+                },
+                {
+                    "name": "M+ LaLiga (Opc.2)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "http://wenger.stream/ws/psg.php",
+                    "referer": "http://elixx.me/aw/apsg.php",
+                    "isHost": true
+                },
+                
+                       ]
+    }
+ 
+      ]
+}
