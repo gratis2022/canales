@@ -48,11 +48,25 @@ http://194.67.196.19:80/hls/103.m3u8
 http://134.19.182.131:8080/pdgfb78bc33b911096c.m3u8?m=5NaA2rXyrEqP6iW_Sq0F2w&c=fb78bc33b911096c&p=3138352e3133332e3230322e323431&e=1645941993
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV DEPORTES 16 | US
 http://134.19.182.131:8080/pdga77f3b6e943f7c0b.m3u8?m=FHXTuWtup8cr_zS3Y8UOrw&c=a77f3b6e943f7c0b&p=3138352e3133332e3230322e323431&e=1645942098
+
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 1
 http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 2
 https://d2t0agv4yshwp.cloudfront.net:443/stream/MzAyNw==/1080p.m3u8
-
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 3
+https://d2t0agv4yshwp.cloudfront.net/stream/MzAzMQ==/1080p.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 4 cctv
+https://hll.hnzzdf.com.cn/live/H102787.m3u8?txSecret=483354875c77ffc745d73aea1857ce24&txTime=621CA5D1&_s=stream
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 5 cctv
+https://hll.hnzzdf.com.cn/live/H94843.m3u8?txSecret=437150b282cb90dbcc6f1a41f479cb86&txTime=621CA5D1&_s=stream
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 6
+http://livehls.ltjuq.top/ofmatch/HD238553.m3u8?auth_key=1645991704-d592426094cc30a727c8c57ee8caab23-0-2c0fa26e74a43bf46da91e25ddcf58ec
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 7
+https://5632e808a57f.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.837897036078.channel.5lTPTrzN8oiD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS13ZXN0LTE6ODM3ODk3MDM2MDc4OmNoYW5uZWwvNWxUUFRyek44b2lEIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuZm9vdHkudG8iLCJpYXQiOjE2NDU5NjEyNjQsImV4cCI6MTY0NjA0NzY2NH0.qDqHZrfNiZK0lfv_FfR4qrxH-SWQGib3Axv5Pwe_7L18VcTLLXmntjDf7spT9l0-ToVb6pgx2aV_0O0oPxpgr7OymM_li-GbG9OE7_tXO1wcvD0CMYvofVYWAZ6WJqNL
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 8
+https://bigsmoke.lbs.pw:443/set1/tracks-v1a1/mono.m3u8?token=5e330ee45dd74fa690cf37894b72ab6a2495fde1-0.41142355597260405-1646027437-1645991437
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba 9 españa
+https://s.shidurlive.com/app/19067/chunklist.m3u8?h=2g1-NVrGZTTBMZW1D7fqGA&e=1646019870&uid=ec14b3a1197fba6dc68bd4845aa2c3ee
 
 #EXTINF:1,-PREMIUM-
 
