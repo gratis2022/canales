@@ -16,6 +16,32 @@
                         "referer": "https://viperplay.net/frame/#TNT-Sports-79245",
                         "isHost": "true"
         },
+	
+	    {
+                        "name": "TNT 2",
+                        "image": "https://i.imgur.com/0zZu24A.png",
+                        "url": "https://viperplay.net/frame/#TNT-Sports-79245",
+                        "referer": "https://viperplay.net",
+                        "isHost": "true"
+        },
+	
+	    {
+                        "name": "TNT 3",
+                        "image": "https://i.imgur.com/0zZu24A.png",
+                        "url": "https://dtv-latam-abc.akamaized.net/dash/live/2005152/dtv/dtvlatam_tnt_sports_hd_/master.mpd",
+                        "referer": "https://viperplay.net",
+                        "isHost": "true"
+        },
+	
+	    {
+                        "name": "TNT 4",
+                        "image": "https://i.imgur.com/0zZu24A.png",
+                        "url": "https://viperplay.net",
+                        "referer": "https://viperplay.net/frame/#TNT-Sports-79245",
+                        "isHost": "true"
+        },
+	
+	
         {
                         "name": "Canal 2",
                         "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
