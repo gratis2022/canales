@@ -10,16 +10,16 @@
       "stations": [
         
         {
-                        "name": "TNT 2)",
+                        "name": "Canal 1)",
                         "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
-                        "url": "https://viperplay.net/frame/#TNT-Sports-79245",
-                       "isHost": "true"
+                        "url": "http://www.mipsplayer.com/embedplayer/mastercito93/1/620/380",
+                        "referer": "http://vuelaverde.com/canales/rcn-hd.html",
+                        "isHost": "true"
         },
         {
-                        "name": "DIRECT 2",
+                        "name": "Canal 2",
                         "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
-                        "url": "https://logi1laut4r0.solutions/16.html"
-			"isHost": "true"
+                        "url": "http://208.75.225.28:1935/live/regfegtrg/chunklist.m3u8"
         },
 
        ]
