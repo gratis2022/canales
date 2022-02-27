@@ -1,38 +1,79 @@
- {
-        "name": "Dibujos para los mas peques",
-	"author": "ListasWiseplay.com",
-        "image": "https://78.media.tumblr.com/2aa145fcceba36c691cbe031becd5d95/tumblr_ol6ubyy7711tzqospo1_500.gif",
-
-        "groups": [
-    {
-        "name": "Agallas,el perro cobarde",
-        "image": "http://cdn.revistavanityfair.es/uploads/images/thumbs/es/vf/2/s/2016/39/las_10_series_imprescindibles_de_cartoon_network_283672903_1200x945.jpg",
-        "groups": [
-        
-    {
-        "name": "Temporada 1",
-        "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
-        "stations": [
-        {
-                           "name": "1x01 Una noche en el Motel Katz",
-                           "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
-                           "url": "http://streamcloud.eu/pvgkml3rl9q4/Agallas_1x01_-_Una_noche_en_el_Hotel_Gatoz.mp4.html",
-                           "isHost": "true"
-        },
-        {
-                           "name": "1x02 Guiso de Abuelita Cajun",
-                           "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
-                           "url": "http://powvideo.net/t11mgchuc667",
-                           "isHost": "true"
-        },
-        {
-                           "name": "1x03 La Sombra del Coraje",
-                           "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
-                           "url": "http://powvideo.net/yj73x9l2jkza",
-                           "isHost": "true"
-        },
-       {
-                           "name": "tnt",
-                           "image": "http://orig02.deviantart.net/dfa5/f/2010/232/a/a/courage_the_cowardly_dog_by_nicotinell.png",
-                           "url": "https://viperplay.net/frame/#TNT-Sports-79245",
-                           "isHost": "true"
+{
+  "name": " ⚽📲 FÚTBOL ESPAÑA ✅✅✅ ",
+  "author": "Anonimo",
+  "info": "Lista de fúbtol español actualizada semanalmente. No olvides recomendarla a tus amigos!",
+  "url": "https://pastebin.com/CwjSt2s7",
+"image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
+  "groups": [
+{
+"name":"SportZonline",
+"image":"https://listaswiseplay.com/wp-content/uploads/2018/02/listas-wiseplay-deportes.jpg",
+"stations":[
+{
+"name": "Actualizar siempre la lista al entrar en TV",
+"image": "http://andreigubin.ucoz.ru/update.png"
+},    
+          {
+                    "name": "TuMarcador",
+                    "image": "https://image.flaticon.com/icons/png/512/308/308264.png",
+                    "url": "https://dailysport.pw/",
+                    "embed": true
+                },
+                {
+                    "name": "Enlaces VLPlayer",
+                    "image": "https://image.flaticon.com/icons/png/512/308/308264.png",
+                    "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
+                    "userAgent": "exoplayer_video",
+                    "isHost": true
+                },
+                {
+                    "name": "M+ LaLiga",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "https://daily99.global.ssl.fastly.net/live/1/playlist.m3u8",
+                    "referer": "https://dailysport.pw/c1.php",
+                    "isHost": false
+                },
+                {
+                    "name": "M+ LaLiga (Opc.2)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "http://wenger.stream/ws/psg.php",
+                    "referer": "http://elixx.me/aw/apsg.php",
+                    "isHost": true
+                },
+                {
+                    "name": "M+ LaLiga (Opc.3)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "http://wuwza.com/footy/vip/beinlaliga-1.php",
+                    "referer": "http://wuwza.com/footy/beinlaliga.php",
+                    "isHost": true
+                },
+                {
+                    "name": "M+ LaLiga (Opc.4)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "http://player.jokehd.com/one.php?u=channel21hd44&vw=640&vh=360",
+                    "referer": "http://dreddlivestream.com/",
+                    "isHost": true
+                },
+                {
+                    "name": "M+ LaLiga (Opc.5)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "http://cdn.youpits.com/live/latv/playlist.m3u8",
+                    "referer": "http://60fps.live/",
+                    "isHost": false
+                },
+                {
+                    "name": "M+ LaLiga (Opc.6)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "http://nowlive.pro/1/103.html?id=103",
+                    "referer": "http://footballstream.pw/soccer/soccer13.php",
+                    "isHost": true,
+                    "desktop": true
+                },
+                {
+                    "name": "M+ LaLiga (Opc.7)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y5681198891/16.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+                {
