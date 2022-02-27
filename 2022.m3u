@@ -89,6 +89,9 @@ https://s.shidurlive.com/app/19067/chunklist.m3u8?h=2g1-NVrGZTTBMZW1D7fqGA&e=164
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV nordeste fc
 https://southamerica-east-hls.mls.mycujoo.tv/livemode/cl002102o267l0116ukyiffx6/720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV carioca
+https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w2wdk3fok0116z38imcg9/720p/playlist.m3u8
+
 
 
 #EXTINF:1,-PREMIUM-
