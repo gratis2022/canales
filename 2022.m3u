@@ -1415,6 +1415,8 @@ http://200.89.191.164/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png",CNN | USA
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png",CNN GO | USA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0,-CULTURA-
 
