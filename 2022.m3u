@@ -15,32 +15,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- 📺 PPV EVENTOS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",ufc test
-https://dcisiz1qfkk6q.cloudfront.net:443/stream/Mjk3OA==/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",ufc test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV UFC 1
 http://134.19.182.131:8080/pdgfb78bc33b911096c.m3u8?m=TRXMzPivphSAQAc6pdWOIw&c=fb78bc33b911096c&p=326130633a356138313a323130303a653130303a353437383a313364373a3135643a39663062&e=1645939685
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",ufc test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV UFC 2
 http://134.19.182.131:8080/pdgfb78bc33b911096c.m3u8?m=5NaA2rXyrEqP6iW_Sq0F2w&c=fb78bc33b911096c&p=3138352e3133332e3230322e323431&e=1645941993
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",MOVISTAR LA LIGA TEST
-https://tinyurl.com/ydhvt57g
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",ESPN TEST
-https://tinyurl.com/y7muetzu
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",TVGE Eventos 1 TEST
-http://events1-crtvg.flumotion.com/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",TVGE Eventos 2 TEST
-http://events2-crtvg.flumotion.com/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",TVGE Eventos 3 TEST
-http://events3-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",Gol Tv Uruguay Test
-https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",TyC Sports Test
-https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8
-
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",World Padel Tour Tv
-https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",tenis test
-http://134.19.182.131:8080/pdgc96734219e8f890f.m3u8?m=XLQA4rPyXuiijjq1WS8vYw&c=c96734219e8f890f&p=3138382e3137312e3131322e313636&e=1645933463
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV UFC 3
+https://dcisiz1qfkk6q.cloudfront.net:443/stream/Mjk3OA==/1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 1 (FUTBOL - NBA - UFC) | RU
