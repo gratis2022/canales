@@ -10,11 +10,10 @@
       "stations": [
         
         {
-                        "name": "Canal 1)",
-                        "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
-                        "url": "http://www.mipsplayer.com/embedplayer/mastercito93/1/620/380",
-                        "referer": "http://vuelaverde.com/canales/rcn-hd.html",
-                        "isHost": "true"
+                        "name":"TYC",
+"image":"https://logo.ott.ma/logo/BEINSPORT HD/BEIN_SPORT_FRENSH_1_HD.png",
+"url":"https://viperplay.net/hls/#TYC-Sport-35278",
+"playInNatPlayer": "true"
         },
         {
                         "name": "Canal 2",
