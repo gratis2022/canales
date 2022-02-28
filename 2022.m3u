@@ -92,7 +92,8 @@ https://southamerica-east-hls.mls.mycujoo.tv/livemode/cl002102o267l0116ukyiffx6/
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV carioca
 https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w2wdk3fok0116z38imcg9/720p/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",bein 1 ar
+http://130.193.166.18/cache/Bein-Pr1-LB/m3u8/hls_m3u8_Bein-S-Premium1-HMH.m3u8
 
 #EXTINF:1,-PREMIUM-
 
