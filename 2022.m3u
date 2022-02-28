@@ -1921,14 +1921,6 @@ https://bit.ly/3fvH5dB?inspiration.m3u8
 https://bit.ly/3tEZVHt?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports Xtra Ñ | US
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png" group-title="DEPORTE INTERNACIONAL",SSC1 | AR
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 1 | AR
