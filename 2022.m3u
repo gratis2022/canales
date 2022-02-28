@@ -40,25 +40,21 @@ http://tvn.x10.bz/vidio/master-7.m3u8
 http://tvn.x10.bz/vidio/master-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 4 | UK
 http://tvn.x10.bz/vidio/master-17.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",LIGA1&2
-http://tvn.x10.bz/vidio/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",O_channel
-http://tvn.x10.bz/vidio/master-18.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SONY_TEN1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="PPV EVENTOS",SONY_TEN1
 http://live.flixhub.net/hls/sonyten1.m3u8?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SONY_TEN2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="PPV EVENTOS",SONY_TEN2
 http://live.flixhub.net/hls/sonyten2.m3u8?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SONY_TEN3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="PPV EVENTOS",SONY_TEN3
 http://live.flixhub.net/hls/sonyten3.m3u8?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SONY_SIX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="PPV EVENTOS",SONY_SIX
 http://live.flixhub.net/hls/sonysix.m3u8?shareext.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",StarSport select1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="PPV EVENTOS",StarSport select1
 http://103.166.253.222/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",StarSport select2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="PPV EVENTOS",StarSport select2
 http://live.flixhub.net/hls/select2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",ESR eSports network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="PPV EVENTOS",ESR eSports network
 https://eyeonesports.com/ES2RA-628g.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/pk-geo-super-6056-300x225.jpg" group-title="PPV EVENTOS",Geo Super | UK
