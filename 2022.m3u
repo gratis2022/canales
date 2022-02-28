@@ -95,6 +95,31 @@ https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w2wdk3fok0116z38imcg9/720p/playl
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",bein 1 ar
 http://130.193.166.18/cache/Bein-Pr1-LB/m3u8/hls_m3u8_Bein-S-Premium1-HMH.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",ChampionTv1
+http://tvn.x10.bz/vidio/master-6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",ChampionTv2
+http://tvn.x10.bz/vidio/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",ChampionTv3
+http://tvn.x10.bz/vidio/master-8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",ChampionTv4
+http://tvn.x10.bz/vidio/master-17.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",GEO_SUPER
+http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",Total Sports
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",PTV SPORTS
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",A SPORTS
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SonyTen1
+http://103.166.253.222/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SonyTen2
+http://103.166.253.222/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SonyTen3
+http://103.166.253.222/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SonySix
+http://103.166.253.222/hls/sonysix.m3u8
+
 #EXTINF:1,-PREMIUM-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- 📺 PREMIUM 📺 --★●•
@@ -1106,6 +1131,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTE INTERNACIONAL",Eurosport 2 | FR
 http://212.102.60.80/Eurosport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/03/QAZ-Sport-Tv-live-vipotv.png" group-title="DEPORTE INTERNACIONAL",Qaz Sports
+http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/60a235f9920fe1ebed72d1c9/60a235f9920fe196a672d2e9_Logo.png" group-title="DEPORTE INTERNACIONAL",Players Tv
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg" group-title="DEPORTE INTERNACIONAL",STADIUM | US
@@ -1532,6 +1559,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SHUDDER(Animasi2021)
+https://www1.xpeer.xyz/hls/the-spine-of-night-2021/playlist_480.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Better Life Nature Channel 
