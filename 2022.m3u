@@ -30,8 +30,26 @@ http://91.126.141.13:1935/live/91/playlist.m3u8
 http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 7 TVG | ES
 http://events3-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 8 MATCH | RU
-https://srv04.varcdn1.ru/match/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="PPV EVENTOS",Bein Sports 1 | AR
+http://130.193.166.18/cache/Bein-Pr1-LB/m3u8/hls_m3u8_Bein-S-Premium1-HMH.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 1 | UK
+http://tvn.x10.bz/vidio/master-6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 2 | UK
+http://tvn.x10.bz/vidio/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 3 | UK
+http://tvn.x10.bz/vidio/master-8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 4 | UK
+http://tvn.x10.bz/vidio/master-17.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/pk-geo-super-6056-300x225.jpg" group-title="PPV EVENTOS",Geo Super | UK
+http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="PPV EVENTOS",A Sports | UK
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PPV EVENTOS",PTV Sports  | UK
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgO9XKs.jpg" group-title="PPV EVENTOS",Total Sports | UK
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 9 LOOK | RU
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 10 LOOK | RU
@@ -39,10 +57,6 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 11 LOOK | RU
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV DEPORTES | UK ddc
-https://ddc8aa1e2jz1g.cloudfront.net:443/hls/ajax/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV DEPORTES | UK 103
-http://194.67.196.19:80/hls/103.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV FUTBOL | LAT 134
 http://134.19.182.131:8080/pdgd5666452d0357c07.m3u8?m=UqW20REEVk8mWZhqH3Aw-A&c=d5666452d0357c07&p=3138352e3132382e36302e31&e=1645945733
@@ -60,8 +74,6 @@ http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba  d2
 https://d2t0agv4yshwp.cloudfront.net:443/stream/MzAyNw==/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba d2
-https://d2t0agv4yshwp.cloudfront.net/stream/MzAzMQ==/1080p.m3u8?SBN
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV prueba  cctv hll
 https://hll.hnzzdf.com.cn/live/H102787.m3u8?txSecret=483354875c77ffc745d73aea1857ce24&txTime=621CA5D1&_s=stream
@@ -92,33 +104,12 @@ https://southamerica-east-hls.mls.mycujoo.tv/livemode/cl002102o267l0116ukyiffx6/
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV carioca
 https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w2wdk3fok0116z38imcg9/720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",bein 1 ar
-http://130.193.166.18/cache/Bein-Pr1-LB/m3u8/hls_m3u8_Bein-S-Premium1-HMH.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",ChampionTv1
-http://tvn.x10.bz/vidio/master-6.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",ChampionTv2
-http://tvn.x10.bz/vidio/master-7.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",ChampionTv3
-http://tvn.x10.bz/vidio/master-8.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="PPV EVENTOS",ChampionTv4
-http://tvn.x10.bz/vidio/master-17.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",GEO_SUPER
-http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",Total Sports
-http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",PTV SPORTS
-http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",A SPORTS
-http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SonyTen1
-http://103.166.253.222/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SonyTen2
-http://103.166.253.222/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SonyTen3
-http://103.166.253.222/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="PPV EVENTOS",SonySix
-http://103.166.253.222/hls/sonysix.m3u8
+
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV DEPORTES | UK ddc
+https://ddc8aa1e2jz1g.cloudfront.net:443/hls/ajax/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV DEPORTES | UK 103
+http://194.67.196.19:80/hls/103.m3u8
 
 #EXTINF:1,-PREMIUM-
 
