@@ -979,8 +979,22 @@ https://bit.ly/3fvH5dB?inspiration.m3u8
 https://bit.ly/3tEZVHt?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports Xtra Ñ | US
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-#EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",Sky Sports Premier League | GB
-http://archive.simpletv.eu:8080/SkySport5HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="PPV EVENTOS",Bein Sports 1 | AR
+http://130.193.166.18/cache/Bein-Pr1-LB/m3u8/hls_m3u8_Bein-S-Premium1-HMH.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champions Tv 1 | UK
+http://tvn.x10.bz/vidio/master-6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champions Tv 2 | UK
+http://tvn.x10.bz/vidio/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champions Tv 3 | UK
+http://tvn.x10.bz/vidio/master-8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champions Tv 4 | UK
+http://tvn.x10.bz/vidio/master-17.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/pk-geo-super-6056-300x225.jpg" group-title="DEPORTE INTERNACIONAL",Geo Super | UK
+http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="DEPORTE INTERNACIONAL",A Sports | UK
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="DEPORTE INTERNACIONAL",PTV Sports  | UK
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 2
@@ -989,12 +1003,6 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 1 | FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 2 | FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein Sports 3 | FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png" group-title="DEPORTE INTERNACIONAL",SSC1 | AR
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 1 | AR
