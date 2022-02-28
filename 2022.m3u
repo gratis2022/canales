@@ -46,8 +46,6 @@ http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PPV EVENTOS",PTV Sports  | UK
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FgO9XKs.jpg" group-title="PPV EVENTOS",Total Sports | UK
-http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 9 LOOK | RU
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
@@ -1097,7 +1095,7 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="DEPORTE INTERNACIONAL",IMPACT! Wrestling | US
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thebridgepe.co.za/wp-content/uploads/2019/11/totalsports_logo.png" group-title="DEPORTE INTERNACIONAL",TOTAL SPORTS | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgO9XKs.jpg" group-title="DEPORTE INTERNACIONAL",TOTAL SPORTS | US
 http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",IMPACT WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
