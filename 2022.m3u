@@ -1880,6 +1880,8 @@ http://soberon.us:25461/live/bullnew/soberonnew/984.m3u8
 http://soberon.us:25461/live/bullnew/soberonnew/790.m3u8
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",USA | UFC Fight Pass
 http://soberon.us:25461/live/bullnew/soberonnew/379.m3u8
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",Usa / Tu-dn
+http://soberon.us:25461/live/bullnew/soberonnew/3225.m3u8
 
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",ESPN EXTRA
 http://clubtv.link/f26/lista1.php?c=3065
