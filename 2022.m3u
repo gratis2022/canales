@@ -1833,19 +1833,15 @@ http://clubtv.link/f26/lista1.php?c=3066
 #EXTINF:0 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO 2",ESPN 
 http://clubtv.link/f26/lista1.php?c=3230
 #EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO 2",ESPN 2 
-http://soberon.us:25461/live/bullnew/soberonnew/3035.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO 2",ESPN 2 
-http://clubtv.link/f26/lista1.php?c=3231
-#EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO 2",ESPN 2 
 http://clubtv.link/f26/lista1.php?c=3067
 #EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO 2",ESPN 2 
 http://soberon.us:25461/live/bullnew/soberonnew/90.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO 2",ESPN 3
-http://soberon.us:25461/live/bullnew/soberonnew/3036.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO 2",ESPN 3
-http://clubtv.link/f26/lista1.php?c=3068
+#EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO 2",ESPN 2 
+http://clubtv.link/f26/lista1.php?c=3231
 #EXTINF:0 tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO 2",ESPN 3
 http://soberon.us:25461/live/bullnew/soberonnew/91.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO 2",ESPN 3
+http://clubtv.link/f26/lista1.php?c=3068
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO 2",ESPN EXTRA
 http://soberon.us:25461/live/bullnew/soberonnew/93.m3u8
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO 2",ESPN EXTRA
@@ -1855,15 +1851,11 @@ http://clubtv.link/f26/lista1.php?c=3203
 #EXTINF:0 tvg-logo="https://i.imgur.com/JvOoS3s.png" group-title="DEPORTE LATINO 2",ESPN Deportes
 http://soberon.us:25461/live/bullnew/soberonnew/92.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO 2",Fox Sports 
-http://soberon.us:25461/live/bullnew/soberonnew/3038.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO 2",Fox Sports 
 http://soberon.us:25461/live/bullnew/soberonnew/105.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO 2",Fox Sports 
 http://clubtv.link/f26/lista1.php?c=3081
 #EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO 2",Fox Sports 
 http://clubtv.link/f26/lista1.php?c=3233
-#EXTINF:0 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO 2",Fox Sports 2 
-http://soberon.us:25461/live/bullnew/soberonnew/3039.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO 2",Fox Sports 2 
 http://clubtv.link/f26/lista1.php?c=3234
 #EXTINF:0 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO 2",Fox Sports 2 
@@ -1890,14 +1882,6 @@ http://clubtv.link/f26/lista1.php?c=3214
 http://clubtv.link/f26/lista1.php?c=3215
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO 2",TUDN
 http://clubtv.link/f26/lista2.php?c=a08j&f=.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 1
-http://soberon.us:25461/live/bullnew/soberonnew/3322.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 2
-http://soberon.us:25461/live/bullnew/soberonnew/3323.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 3
-http://soberon.us:25461/live/bullnew/soberonnew/3324.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 4
-http://soberon.us:25461/live/bullnew/soberonnew/3325.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO 2",ARGENTINA: TNT SPORTS
 http://soberon.us:25461/live/bullnew/soberonnew/3282.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO 2",TyC Sports
@@ -1910,7 +1894,7 @@ http://clubtv.link/f26/lista1.php?c=3238
 http://soberon.us:25461/live/bullnew/soberonnew/179.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO 2",Win Sports
 http://clubtv.link/f26/lista1.php?c=3244
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO 2",Win Sports
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO 2",Win Sports +
 http://clubtv.link/f26/lista1.php?c=3219
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO 2",Win Sports +
 http://clubtv.link/f26/lista1.php?c=3245
