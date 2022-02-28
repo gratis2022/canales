@@ -30,16 +30,6 @@ http://91.126.141.13:1935/live/91/playlist.m3u8
 http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 7 TVG | ES
 http://events3-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="PPV EVENTOS",Bein Sports 1 | AR
-http://130.193.166.18/cache/Bein-Pr1-LB/m3u8/hls_m3u8_Bein-S-Premium1-HMH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 1 | UK
-http://tvn.x10.bz/vidio/master-6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 2 | UK
-http://tvn.x10.bz/vidio/master-7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 3 | UK
-http://tvn.x10.bz/vidio/master-8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="PPV EVENTOS",Champions Tv 4 | UK
-http://tvn.x10.bz/vidio/master-17.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/pk-geo-super-6056-300x225.jpg" group-title="PPV EVENTOS",Geo Super | UK
 http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="PPV EVENTOS",A Sports | UK
@@ -1952,22 +1942,6 @@ https://bit.ly/3fvH5dB?inspiration.m3u8
 https://bit.ly/3tEZVHt?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports Xtra Ñ | US
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="DEPORTE INTERNACIONAL",Bein Sports 1 | AR
-http://130.193.166.18/cache/Bein-Pr1-LB/m3u8/hls_m3u8_Bein-S-Premium1-HMH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champions Tv 1 | UK
-http://tvn.x10.bz/vidio/master-6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champions Tv 2 | UK
-http://tvn.x10.bz/vidio/master-7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champions Tv 3 | UK
-http://tvn.x10.bz/vidio/master-8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champions Tv 4 | UK
-http://tvn.x10.bz/vidio/master-17.m3u8
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/pk-geo-super-6056-300x225.jpg" group-title="DEPORTE INTERNACIONAL",Geo Super | UK
-http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="DEPORTE INTERNACIONAL",A Sports | UK
-http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="DEPORTE INTERNACIONAL",PTV Sports  | UK
-http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE INTERNACIONAL", RUM | LOOK SPORTS 2
@@ -2154,6 +2128,12 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" group-title="DEPORTE INTERNACIONAL",Sharjah Sports TV | AR
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/pk-geo-super-6056-300x225.jpg" group-title="DEPORTE INTERNACIONAL",Geo Super | UK
+http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="DEPORTE INTERNACIONAL",A Sports | UK
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="DEPORTE INTERNACIONAL",PTV Sports  | UK
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 MOTOR
 
