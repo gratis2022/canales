@@ -3259,9 +3259,9 @@ http://45.225.93.154:8000/play/a02b
 http://45.236.175.103:9600/play/a010
 #EXTINF:0 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://181.160.81.113:8000/play/a013/index.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO",CDO BASICO
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0mmdAP.png" group-title="DEPORTE LATINO",CDO BASICO
 http://soberon.us:25461/live/bullnew/soberonnew/541.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO",CDO PREMIUN
+#EXTINF:0 tvg-logo="https://i.imgur.com/DDyS9C2.png" group-title="DEPORTE LATINO",CDO PREMIUN
 http://soberon.us:25461/live/bullnew/soberonnew/542.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE LATINO",Gol Tv | EC
 https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
