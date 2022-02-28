@@ -1888,27 +1888,27 @@ http://soberon.us:25461/live/bullnew/soberonnew/107.m3u8
 http://clubtv.link/f26/lista1.php?c=3083
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/16-164102_fox-tv-logo-png-fox-deportes-logo-png.png" group-title="DEPORTE LATINO 2",FOX Deportes
 http://clubtv.link/f26/lista1.php?c=3204
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",LATINO | TU-DN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO 2",TUDN
 http://soberon.us:25461/live/bullnew/soberonnew/3226.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",Usa / Tu-dn
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO 2",TUDN
 http://soberon.us:25461/live/bullnew/soberonnew/3225.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",Latino | TUDN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO 2",TUDN
 http://soberon.us:25461/live/bullnew/soberonnew/160.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",TUDN MX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO 2",TUDN
 http://clubtv.link/f26/lista1.php?c=3214
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",TUDN USA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO 2",TUDN
 http://clubtv.link/f26/lista1.php?c=3215
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",TUDN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO 2",TUDN
 http://clubtv.link/f26/lista2.php?c=a08j&f=.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 1
 http://soberon.us:25461/live/bullnew/soberonnew/3322.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 2
 http://soberon.us:25461/live/bullnew/soberonnew/3323.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 3
 http://soberon.us:25461/live/bullnew/soberonnew/3324.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 4
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTE LATINO 2",ESPAÑA : DAZN 4
 http://soberon.us:25461/live/bullnew/soberonnew/3325.m3u8
+
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",COSTA RICA | TIGO SPORTS
 http://soberon.us:25461/live/bullnew/soberonnew/790.m3u8
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",ARGENTINA: TNT SPORTS
@@ -1933,7 +1933,6 @@ http://clubtv.link/f26/lista1.php?c=3245
 http://soberon.us:25461/live/bullnew/soberonnew/984.m3u8
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="DEPORTE LATINO 2",WinSports
 http://clubtv.link/f26/lista1.php?c=3219
-
 
 #EXTINF:0,-DEPORTE INTERNACIONAL-
 
