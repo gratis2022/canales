@@ -1426,6 +1426,8 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMksaUXLmf5y_SCdCMRhYNVdcN3qdQ83R4NA&usqp=CAU" group-title="MODA",Kaloopy
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-HeroGo/5633b8bc-d69e-4a01-9f4b-f257fb412cff/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y50tmIN.png" group-title="MODA",ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 
 #EXTINF:0,-NOTICIAS-
 
