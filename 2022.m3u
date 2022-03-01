@@ -46,7 +46,14 @@ http://134.19.182.131:8080/pdg2b5ca76e2671eafc.m3u8?m=DlTLJpD7vNKRHCwiYLEP-A&c=2
 http://134.19.182.131:8080/pdga08f9636359f2808.m3u8?m=YdK5STr8XwN9Bcbovy2Aag&c=a08f9636359f2808&p=3138352e3132382e36302e31&e=1646025139
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 15 DEPORTES | US 134
 http://134.19.182.131:8080/pdg9e336d3e2478b3ec.m3u8?m=DErtGO1ZHNe_aSrmEJFpEQ&c=9e336d3e2478b3ec&p=3138352e3132382e36302e31&e=1646108903
-
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",Champions Tv 1
+http://tvn.x10.bz/xchannel/master-6.m3u8
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",Champions Tv 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",Champions Tv 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",Champions Tv 4
+http://tvn.x10.bz/xchannel/master-17.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV NORDESTE FC | BR
 https://southamerica-east-hls.mls.mycujoo.tv/livemode/cl002102o267l0116ukyiffx6/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV CARIOCA | BR
