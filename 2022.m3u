@@ -718,10 +718,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA SA
 https://edge-live32-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA 
-http://soberon.us:25461/live/bullnew/soberonnew/3282.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
-http://soberon.us:25461/live/bullnew/soberonnew/538.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
 http://45.225.93.154:4000/play/cdfhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
@@ -729,15 +725,11 @@ http://45.225.93.154:8000/play/a01o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.236.175.103:9600/play/a03h
 #EXTINF:0 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
-http://soberon.us:25461/live/bullnew/soberonnew/3391.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://45.225.93.154:8000/play/a02b
 #EXTINF:0 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://45.236.175.103:9600/play/a010
 #EXTINF:0 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://181.160.81.113:8000/play/a013/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e0mmdAP.png" group-title="DEPORTE LATINO",CDO 
-http://soberon.us:25461/live/bullnew/soberonnew/541.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0mmdAP.png" group-title="DEPORTE LATINO",CDO Premium
 http://clubtv.link/f26/lista1.php?c=3243
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE LATINO",Gol Tv | EC
@@ -754,8 +746,6 @@ https://sv.spliktv.xyz/live/caster/RB/FOX-SPORTS.m3u8
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | MX
 https://bs.spliktv.xyz/?id=FOX-SPORTS
-#EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",Fox Sports 
-http://soberon.us:25461/live/bullnew/soberonnew/105.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",Fox Sports 
 http://clubtv.link/f26/lista1.php?c=3081
 #EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",Fox Sports 
@@ -776,8 +766,6 @@ http://clubtv.link/f26/lista1.php?c=3234
 http://clubtv.link/f26/lista1.php?c=3082
 #EXTINF:0 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",Fox Sports 2 
 http://clubtv.link/f26/lista1.php?c=3234
-#EXTINF:0 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",Fox Sports 2 
-http://soberon.us:25461/live/bullnew/soberonnew/106.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR FTA
@@ -786,8 +774,6 @@ http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSp
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | MX MDP
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:0 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX Sports 3
-http://soberon.us:25461/live/bullnew/soberonnew/107.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX Sports 3
 http://clubtv.link/f26/lista1.php?c=3083
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/16-164102_fox-tv-logo-png-fox-deportes-logo-png.png" group-title="DEPORTE LATINO",FOX Deportes
@@ -805,8 +791,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN 
-http://soberon.us:25461/live/bullnew/soberonnew/3034.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN 
 http://clubtv.link/f26/lista1.php?c=3066
 #EXTINF:0 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN 
 http://clubtv.link/f26/lista1.php?c=3230
@@ -821,15 +805,11 @@ http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 #EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 
 http://clubtv.link/f26/lista1.php?c=3067
 #EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 
-http://soberon.us:25461/live/bullnew/soberonnew/90.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 
 http://clubtv.link/f26/lista1.php?c=3231
 #EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3
-http://soberon.us:25461/live/bullnew/soberonnew/91.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3
 http://clubtv.link/f26/lista1.php?c=3068
 #EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR ME
@@ -839,13 +819,9 @@ http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA
-http://soberon.us:25461/live/bullnew/soberonnew/93.m3u8
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA
 http://clubtv.link/f26/lista1.php?c=3065
 #EXTINF:0 tvg-logo="https://i.imgur.com/JvOoS3s.png" group-title="DEPORTE LATINO",ESPN Deportes
 http://clubtv.link/f26/lista1.php?c=3203
-#EXTINF:0 tvg-logo="https://i.imgur.com/JvOoS3s.png" group-title="DEPORTE LATINO",ESPN Deportes
-http://soberon.us:25461/live/bullnew/soberonnew/92.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports FHD
 https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports FHD
@@ -856,8 +832,6 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports SA
 https://bs.spliktv.xyz/?id=TYC-SPORTS
-#EXTINF:0 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
-http://soberon.us:25461/live/bullnew/soberonnew/163.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
 http://clubtv.link/f26/lista1.php?c=3217
 #EXTINF:0 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
@@ -885,29 +859,17 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTE LATINO",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports 
-http://soberon.us:25461/live/bullnew/soberonnew/3293.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports 
-http://soberon.us:25461/live/bullnew/soberonnew/3281.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports 
 http://clubtv.link/f26/lista1.php?c=3246
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports ME
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports PR
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports 2
-http://soberon.us:25461/live/bullnew/soberonnew/1048.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports 2
 http://clubtv.link/f26/lista1.php?c=3247
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports +
-http://soberon.us:25461/live/bullnew/soberonnew/1046.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports +
 http://clubtv.link/f26/lista1.php?c=3248
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTE LATINO",Bein Sports Ñ
 http://clubtv.link/f26/lista1.php?c=3195
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTE LATINO",Bein Sports Ñ
-http://soberon.us:25461/live/bullnew/soberonnew/56.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTE LATINO",Bein Sports Ñ
-http://soberon.us:25461/live/bullnew/soberonnew/57.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
@@ -915,27 +877,17 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6Mnilfu.png" group-title="DEPORTE LATINO",Movistar Liga de Campeones
 http://clubtv.link/f26/lista1.php?c=3227
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
-http://soberon.us:25461/live/bullnew/soberonnew/3226.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
-http://soberon.us:25461/live/bullnew/soberonnew/3225.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
-http://soberon.us:25461/live/bullnew/soberonnew/160.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
 http://clubtv.link/f26/lista1.php?c=3214
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
 http://clubtv.link/f26/lista1.php?c=3215
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
 http://clubtv.link/f26/lista2.php?c=a08j&f=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO",Win Sports
-http://soberon.us:25461/live/bullnew/soberonnew/179.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO",Win Sports
 http://clubtv.link/f26/lista1.php?c=3244
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO",Win Sports +
 http://clubtv.link/f26/lista1.php?c=3219
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO",Win Sports +
 http://clubtv.link/f26/lista1.php?c=3245
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO",Win Sports +
-http://soberon.us:25461/live/bullnew/soberonnew/984.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/BAHebvo.png" group-title="DEPORTE LATINO",Claro Sports HD
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/BAHebvo.png" group-title="DEPORTE LATINO",Claro Sports FHD
@@ -996,8 +948,6 @@ FUTBOL
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="DEPORTE INTERNACIONAL",USA | UFC Fight Pass
 http://clubtv.link/f26/lista1.php?c=3218
-#EXTINF:0 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="DEPORTE INTERNACIONAL",USA | UFC Fight Pass
-http://soberon.us:25461/live/bullnew/soberonnew/379.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 1 | BR
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 2 | BR
@@ -1640,50 +1590,10 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://190.92.95.37:8000/play/a0fp/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo HD | US
 http://190.92.95.37:8000/play/a0gj/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo SANANTONIO
-http://soberon.us:25461/live/bullnew/soberonnew/706.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo NEWYORK
-http://soberon.us:25461/live/bullnew/soberonnew/707.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo
-http://soberon.us:25461/live/bullnew/soberonnew/364.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo Chicago
-http://soberon.us:25461/live/bullnew/soberonnew/365.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo Los Angeles
-http://soberon.us:25461/live/bullnew/soberonnew/366.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo Miami
-http://soberon.us:25461/live/bullnew/soberonnew/367.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo Texas
-http://soberon.us:25461/live/bullnew/soberonnew/368.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo ORLANDO FLORIDA
-http://soberon.us:25461/live/bullnew/soberonnew/3307.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo DENVER
-http://soberon.us:25461/live/bullnew/soberonnew/3308.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo HOUSTON
-http://soberon.us:25461/live/bullnew/soberonnew/3309.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo PHOENIX 
-http://soberon.us:25461/live/bullnew/soberonnew/3310.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo SAN FRANCISCO
-http://soberon.us:25461/live/bullnew/soberonnew/3311.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo WASHINGTON
-http://soberon.us:25461/live/bullnew/soberonnew/3312.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo DALLAS
-http://soberon.us:25461/live/bullnew/soberonnew/3299.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINOS",Telemundo BOSTON
-http://soberon.us:25461/live/bullnew/soberonnew/3300.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 http://www.tecniconsult.hn/UnivisionHD/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
-http://soberon.us:25461/live/bullnew/soberonnew/1124.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision SAN FRANCISCO
-http://soberon.us:25461/live/bullnew/soberonnew/1123.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision DALLAS
-http://soberon.us:25461/live/bullnew/soberonnew/983.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision LOS ANGELES
-http://soberon.us:25461/live/bullnew/soberonnew/692.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision NY
-http://soberon.us:25461/live/bullnew/soberonnew/3224.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision 
 http://clubtv.link/f26/lista1.php?c=3190
 
@@ -1695,30 +1605,20 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://marine2.miplay.cl/tvn/mono.m3u8
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN | CL
 http://190.92.95.37:8000/play/a0e8/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN | CL
-http://soberon.us:25461/live/bullnew/soberonnew/550.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL
 https://marine2.miplay.cl/mega/mono.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL
-http://soberon.us:25461/live/bullnew/soberonnew/547.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
 https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
 https://marine2.miplay.cl/lared/mono.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
-http://soberon.us:25461/live/bullnew/soberonnew/546.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision | CL
 https://marine2.miplay.cl/chilevision/mono.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision | CL
-http://soberon.us:25461/live/bullnew/soberonnew/543.m3u8
 #EXTINF:-1  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CHILE",Canal 13 | CL
 https://marine2.miplay.cl/canal13/mono.m3u8
-#EXTINF:-1  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CHILE",Canal 13 | CL
-http://soberon.us:25461/live/bullnew/soberonnew/537.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE",Tv Chile | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL
