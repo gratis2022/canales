@@ -773,6 +773,8 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 https://sv.spliktv.xyz/live/caster/RB/FOX-SPORTS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | MX MDP
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | MX
+https://bs.spliktv.xyz/?id=FOX-SPORTS
 #EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",Fox Sports 
 http://soberon.us:25461/live/bullnew/soberonnew/105.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",Fox Sports 
@@ -873,6 +875,8 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports SA
+https://bs.spliktv.xyz/?id=TYC-SPORTS
 #EXTINF:0 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
 http://soberon.us:25461/live/bullnew/soberonnew/163.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
