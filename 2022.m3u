@@ -969,6 +969,8 @@ https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png" group-title="DEPORTE INTERNACIONAL",SSC1 | AR
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/arryadia-logo-F2FAC7054A-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",ARRYADIA TV | AR
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 1 | AR
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 2 | AR
@@ -981,8 +983,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 3 | AR
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/arryadia-logo-F2FAC7054A-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",ARRYADIA TV | AR
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" group-title="DEPORTE INTERNACIONAL",Sharjah Sports TV | AR
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
@@ -996,8 +996,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k113fT1.png" group-title="DEPORTE INTERNACIONAL",ACC Network | US
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ktv-sport-kuwait%20.png" group-title="DEPORTE INTERNACIONAL",KTV Sport 
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 #EXTINF:-1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Sports_TV_Plus_Network.png" group-title="DEPORTE INTERNACIONAL",Sports TV Plus 
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
@@ -1034,20 +1032,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="DEPORTE INTERNACIONAL",Hard Knocks | US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/kickboxingz.com/wp-content/uploads/2018/07/gkl-1892981672-1532915310142.png?fit=198%2C187&ssl=1" group-title="DEPORTE INTERNACIONAL",Glory Kickboxing | US
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="DEPORTE INTERNACIONAL",MMA TV | US
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="DEPORTE INTERNACIONAL",MMA TV | US
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch642_425_305" group-title="DEPORTE INTERNACIONAL",FIGHT SPORTS | US
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" group-title="DEPORTE INTERNACIONAL",ASXTV FIGHTS | US
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="DEPORTE INTERNACIONAL",FIGHTBOX | US
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1  group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/BoxNation.png",Box Nation
-http://archive.simpletv.eu:8080/boxnation/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",BELLATOR MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",PLUTO TV FIGHT
@@ -1055,10 +1045,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d1
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
+BOXEO Y LUCHA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" group-title="DEPORTE INTERNACIONAL",ASXTV FIGHTS | US
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="DEPORTE INTERNACIONAL",FIGHTBOX | US
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kickboxingz.com/wp-content/uploads/2018/07/gkl-1892981672-1532915310142.png?fit=198%2C187&ssl=1" group-title="DEPORTE INTERNACIONAL",Glory Kickboxing | US
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+
 WWE
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ik/284416/png/284416.png" group-title="DEPORTE INTERNACIONAL",Fight Network | US
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DEPORTE INTERNACIONAL",Ring Of Honor | US
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DEPORTE INTERNACIONAL",Ring Of Honor | US
@@ -1067,8 +1064,6 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="DEPORTE INTERNACIONAL",IMPACT! Wrestling | US
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FgO9XKs.jpg" group-title="DEPORTE INTERNACIONAL",TOTAL SPORTS | US
-http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",IMPACT WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",PRO WRESTLING
@@ -1111,6 +1106,8 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg" group-title="DEPORTE INTERNACIONAL",STADIUM | US
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgO9XKs.jpg" group-title="DEPORTE INTERNACIONAL",TOTAL SPORTS | US
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg" group-title="DEPORTE INTERNACIONAL",SportsGrid 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="DEPORTE INTERNACIONAL",Trace Sport Stars | AU
