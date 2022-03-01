@@ -1336,6 +1336,8 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.datocms-assets.com/32172/1596613883-afvtvlogoforhomepagenew494.png?auto=compress&fm=png&h=238.38449111470112&w=350" group-title="ENTRETENIMIENTO",AFV Tv
 https://linear-46-plex.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://i.imgur.com/JmQ6QjL.png" group-title="ENTRETENIMIENTO",FailArmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY Competencias
 https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png" group-title="ENTRETENIMIENTO", Solo Stand Up * | CL
@@ -1510,6 +1512,10 @@ https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
 #EXTINF:-1 tvg-id="" group-title="CULTURA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/uhdTravel.png",UHD Travel
 https://bit.ly/3nbc6rA?/rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title=CULTURA",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="CULTURA",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:1,-RELAJACION-
 
