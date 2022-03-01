@@ -966,7 +966,14 @@ https://bit.ly/3fvH5dB?inspiration.m3u8
 https://bit.ly/3tEZVHt?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports Xtra Ñ | US
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 1 | AR
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 1 | AR
+https://admdn1ta.cdn.mangomolo.com:443/adsports1/adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 2 | AR
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 3 | AR
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png" group-title="DEPORTE INTERNACIONAL",SSC1 | AR
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/arryadia-logo-F2FAC7054A-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",ARRYADIA TV | AR
@@ -977,14 +984,10 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="DEPORTE INTERNACIONAL",DUBAI SPORTS 3 | AR
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 1 | AR
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 2 | AR
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 3 | AR
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://www.sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" group-title="DEPORTE INTERNACIONAL",Sharjah Sports TV | AR
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+
 
 BASKETBALL 
 
@@ -3403,6 +3406,9 @@ http://4digital.ddns.net:11222/ts/0
 https://southamerica-east-hls.mls.mycujoo.tv/livemode/cl002102o267l0116ukyiffx6/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",CARIOCA | BR
 https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w2wdk3fok0116z38imcg9/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Magenta Sports
+http://pullhls3948069e.live.126.net/live/erg117/playlist.m3u8
 
 
 
