@@ -2272,6 +2272,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3
 https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/foro_tv-mediano.png" group-title="MEXICO",Foro Tv
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://demo.tvpacifico.mx/images/_tvp/logo_tvp_header.png" group-title="MEXICO",TVP
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYlz1bh.png" group-title="MEXICO",Canal6 Monterrey
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://www.m3u.cl/logo/667_Multimedios_CDMX.png"  group-title="MEXICO", Multimedios CDMX | MX
