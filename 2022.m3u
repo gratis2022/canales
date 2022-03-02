@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA",•●★-- 📺 100% GRATIS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA",📆 ULTIMA ACTUALIZACION 28/02/2022 📆
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA",📆 ULTIMA ACTUALIZACION 05/03/2022 📆
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://idescargar.com/wp-content/uploads/2019/04/Wiseplay.png" group-title="LISTA GRATUITA",📺 WISEPLAY REPRODUCTOR RECOMENDADO 📺
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -915,6 +915,8 @@ http://clubtv.link/f26/lista1.php?c=3215
 http://clubtv.link/f26/lista2.php?c=a08j&f=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO",Win Sports
 http://clubtv.link/f26/lista1.php?c=3244
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO",Win Sports
+http://alv.encohd.co:39591/live//j0roNAC/n3XT33/384.playlist.m3u8?
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO",Win Sports +
 http://clubtv.link/f26/lista1.php?c=3219
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO",Win Sports +
@@ -3466,8 +3468,7 @@ https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COq8Rh1.png" group-title="TEST CANALES",•●★-- 📺 TEST CANALES 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Win Sports
-http://alv.encohd.co:39591/live//j0roNAC/n3XT33/384.playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Tischtennis Bundesliga (TTBL)
 https://streamer102.dosbnewmedia.de/hls/157.90.240.169/caae3fc0fcfc0139ee02107b44b0b31d_live-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",ORDESTE FC | BR
