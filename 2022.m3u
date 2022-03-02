@@ -20,28 +20,26 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 2 CLARO | LAT
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 3 GOL TV | LAT
-https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 4 TV MAX | LAT
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 3 TV MAX | LAT
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 5 TDP | ES
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 4 TDP | ES
 http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 6 GOL TV | ES
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 5 GOL TV | ES
 http://154.62.74.29:1935/live/gol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 7 TVG | ES
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 6 TVG | ES
 http://events3-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="TEST CANALES",PPV NBA 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="PPV EVENTOS",PPV NBA 1 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/wizards/chunks.m3u8?mvk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="TEST CANALES",PPV NBA 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="PPV EVENTOS",PPV NBA 2 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/TNT/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="TEST CANALES",PPV NBA 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="PPV EVENTOS",PPV NBA 3 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/raptors/chunks.m3u8?mvk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="TEST CANALES",PPV NBA 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="PPV EVENTOS",PPV NBA 4 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/timberwolves/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="TEST CANALES",PPV NBA 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="PPV EVENTOS",PPV NBA 5 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/rockets/chunks.m3u8?mvk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="TEST CANALES",PPV NBA 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2JI2B.png" group-title="PPV EVENTOS",PPV NBA 6 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/TNT/chunks.m3u8?mvk
 
 #EXTINF:1,-PREMIUM-
@@ -3460,6 +3458,9 @@ http://4digital.ddns.net:11222/ts/0
 https://southamerica-east-hls.mls.mycujoo.tv/livemode/cl002102o267l0116ukyiffx6/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",CARIOCA | BR
 https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w2wdk3fok0116z38imcg9/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", GOL TV | LAT
+https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Magenta Sports
 http://pullhls3948069e.live.126.net/live/erg117/playlist.m3u8
