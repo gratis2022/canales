@@ -1622,6 +1622,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Relaxon Tv
 http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/StzGrupo/picture?width=200&height=200" group-title="RELAJACION",STZ Telebista España
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",,Nature Live Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Mountains Live
@@ -2932,6 +2934,8 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="MUSICA",1 Music HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/SpektraTelevision/picture?width=200&height=200" group-title="MUSICA",Spektra TV España
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",CMC USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://tdiradio.com/wp-content/uploads/2020/07/tdi-logo-icon.png",TDI Radio TV
@@ -3024,6 +3028,85 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 https://cdn17.fntvchannel.com/index_1080.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Rock_TV.png",Rock tv 
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8?wmsAuthSign=InspirationLinks
+
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="MUSICA" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="MUSICA" tvg-name="Kronehit Austria",Kronehit Austria
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="MUSICA" tvg-name="QMusic Holanda",QMusic Holanda NL
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="MUSICA" tvg-name="4FUN TV Polonia",4FUN TV Polonia PL
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="MUSICA" tvg-name="Radio Italia TV",Radio Italia TV IT
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" group-title="MUSICA" tvg-name="Ocko Chequia",Ocko Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" group-title="MUSICA" tvg-name="Ocko Star Chequia",Ocko Star Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" group-title="MUSICA" tvg-name="Ocko Expres Chequia",Ocko Expres Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" group-title="MUSICA" tvg-name="m2o Italia",m2o Italia IT
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" group-title="MUSICA" tvg-name="ON TV Portugal",ON TV Portugal
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/1music/picture?width=200&height=200" group-title="MUSICA" tvg-name="1 Music Hungria",1 Music Hungria
+http://1music.hu/1music.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/hitmusichu/picture?width=200&height=200" group-title="MUSICA" tvg-name="Hit Music Hungria",Hit Music Hungria
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NRG91/picture?width=200&height=200" group-title="MUSICA" tvg-name="NRG91 Grecia",NRG91 Grecia
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200" group-title="MUSICA" tvg-name="V2Beat TV",V2Beat TV EN
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200" group-title="MUSICA" tvg-name="Power TV Turquía",Power TV Turquía
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RADIO21germany/picture?width=200&height=200" group-title="MUSICA" tvg-name="Radio 21 Rock'n Pop Alemania",Radio 21 Rock'n Pop Alemania DE
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" group-title="MUSICA" tvg-name="RadioU TV USA",RadioU TV USA EN
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="MUSICA" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="MUSICA" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Ottotivu/picture?width=200&height=200" group-title="MUSICA" tvg-name="Otto FM Italia",Otto FM Italia IT
+http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200" group-title="MUSICA" tvg-name="Ibiza Global TV",Ibiza Global TV EN
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/sonusfmpage/picture?width=200&height=200" group-title="MUSICA" tvg-name="Sonus FM Alemania",Sonus FM Alemania
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200" group-title="MUSICA" tvg-name="30A Music USA",30A Music USA EN
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" group-title="MUSICA" tvg-name="Retro Plus TV Chile",Retro Plus TV Chile EN
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" group-title="MUSICA" tvg-name="California Music Channel USA",California Music Channel USA EN
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="MUSICA" tvg-name="Retro Music TV Chequia",Retro Music TV Chequia EN
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=200&height=200" group-title="MUSICA" tvg-name="La Karibeña Perú",La Karibeña Perú
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200" group-title="MUSICA" tvg-name="Top Latino TV Perú",Top Latino TV Perú
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OndaDigitalPeru/picture?width=200&height=200" group-title="MUSICA" tvg-name="Onda Digital Perú",Onda Digital Perú
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200" group-title="MUSICA" tvg-name="La Mega Mundial USA",La Mega Mundial USA
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/telemusica.hit/picture?width=200&height=200" group-title="MUSICA" tvg-name="Telemúsica Colombia",Telemúsica Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200" group-title="MUSICA" tvg-name="Music Top Argentina",Music Top Argentina
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200-c-k-c0x00ffffff-no-rj" group-title="MUSICA" tvg-name="Portal Foxmix Colombia",Portal Foxmix Colombia
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/melodychanneltv/picture?width=200&height=200" group-title="MUSICA" tvg-name="Melody Channel Colombia",Melody Channel Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" group-title="MUSICA" tvg-name="Ditty TV USA",Ditty TV USA EN
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg" group-title="MUSICA" tvg-name="Spirit TV USA",Spirit TV USA EN
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+
+
+
 
 #EXTINF:0,-RADIOS-
 
