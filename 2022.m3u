@@ -63,8 +63,10 @@ https://d2fohnmc8kogc.cloudfront.net/hls/rockets/chunks.m3u8
 https://d2fohnmc8kogc.cloudfront.net/hls/cavaliers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 8 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/magic/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 9 | US
+https://d2fohnmc8kogc.cloudfront.net/hls/bucks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 10 | US
+https://d2fohnmc8kogc.cloudfront.net/hls/pelicans/playlist.m3u8
 
 #EXTINF:1,-PREMIUM-
 
