@@ -50,13 +50,21 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 1 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/TNT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 2 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/wizards/chunks.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 3 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/raptors/chunks.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/wizards/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 4 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/timberwolves/chunks.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/raptors/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 5 | US
+https://d2fohnmc8kogc.cloudfront.net/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 6 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/rockets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 7 | US
+https://d2fohnmc8kogc.cloudfront.net/hls/cavaliers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 8 | US
+https://d2fohnmc8kogc.cloudfront.net/hls/magic/playlist.m3u8
+
+
 
 #EXTINF:1,-PREMIUM-
 
