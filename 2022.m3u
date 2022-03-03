@@ -959,6 +959,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
 #EXTINF:-1  tvg-logo="https://statics.proyectoclubes.com/images/header/logo-las-palmas.png?20211130091706" group-title="DEPORTE LATINO",UD Las Palmas
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RFEF/picture?width=200&height=200" group-title="DEPORTE LATINO",Real Federación Española de Fútbol
+https://rfef-live3.flumotion.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Ba3borI.jpg" group-title="DEPORTE LATINO",Barca Tv
 http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" group-title="DEPORTE LATINO",Garage TV 
@@ -1271,6 +1273,10 @@ https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=320&height=320",Harley Davidson Race | US
 https://hdtv.prod2.ioio.tv/broker/manifests/de245a96-516c-413d-81e9-419c05bbc6a7/1080/4423680.m3u8
+#EXTINF:-1 tvg-id="HarleyM.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="DEPORTE INTERNACIONAL",Harley Davidson TV EN
+https://hdtv.prod2.ioio.tv/broker/play/eff90f01-0158-4680-83f3-4c030033c720.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/motortrendIT/picture?width=200&height=200" group-title="DEPORTE INTERNACIONAL",MotorTrend Italia IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://sck.pm/eNUJ",MotorCyclist | US
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 
@@ -1431,6 +1437,10 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/cropped-tevex_icon.png" group-title="ENTRETENIMIENTO",Tevex Tv
 https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="ENTRETENIMIENTO",Negocios TV
+https://live.gooru.live/negocios/live.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ElFinancieroMx/picture?width=200&height=200" group-title="ENTRETENIMIENTO",El Financiero Mexico
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="ENTRETENIMIENTO", Tele Clasicos | CR
 https://tvdatta.com:3484/hybrid/play.m3u8
 
@@ -1456,6 +1466,8 @@ https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="LIFESTYLE", Wapp | CL
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" group-title="LIFESTYLE",Mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://www.m3u.cl/logo/1058_Spectrum_Channel.png"  group-title="LIFESTYLE", Spectrum Channel 
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="LIFESTYLE",Latina Angels
@@ -1522,6 +1534,8 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306624/images/logod.png" group-title="NOTICIAS",RT Noticias
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="NOTICIAS",24h
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS",DW español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="NOTICIAS",24 Horas | CL
@@ -1651,6 +1665,8 @@ https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4b6IlZ.png" group-title="LATINOS",•●★-- 📺 LATINOS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/WtvNuevaGuinea/picture?width=200&height=200" group-title="LATINOS",WTV Nicaragua
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.imgur.com/IDCc36l.png",WIPR TV | PR
 https://stream-wipr.online/hls/wipr/index.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="LATINOS",Wow Tv | SV
@@ -2024,6 +2040,10 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3U
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png"  group-title="PERU",PANAMERICANA
 https://sv.spliktv.xyz/live/caster/PE/PANAMERICANA.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png"  group-title="PERU",PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png"  group-title="PERU",TV PERU
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png"  group-title="PERU", TV Peru Noticias | PE
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"  group-title="PERU",LATINA
@@ -2119,6 +2139,12 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="115" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/115_Canal_Capital.png"   group-title="COLOMBIA", Canal Capital | CO
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" group-title="COLOMBIA",Teleantioquia Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" group-title="COLOMBIA",Canal TRO Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="Canal CNC Medellin" tvg-logo="https://www.m3u.cl/logo/116_Canal_CNC_Medellin.jpg"   group-title="COLOMBIA", Canal CNC Medellin | CO
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="117" tvg-name="Canal CNC Pasto" tvg-logo="https://www.m3u.cl/logo/117_Canal_CNC_Pasto.png"   group-title="COLOMBIA", Canal CNC Pasto | CO
@@ -2603,6 +2629,10 @@ http://91.126.141.13:1935/live/81/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png"  group-title="ESPANA", La 2 | ES
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="ESPANA",24h
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="ESPANA",24h
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 
 http://91.126.141.13:1935/live/11/3500-def.m3u8
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png",Cuatro
@@ -2613,6 +2643,12 @@ http://91.126.141.13:1935/live/61/2500-def.m3u8
 http://91.126.141.13:1935/live/21/3500-def.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ATRESSeries.png",AtreSeries 
 http://91.126.141.13:1935/live/101/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" group-title="ESPANA",Mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" group-title="ESPANA"",Nius HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="NOTICIAS",7NN Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.atresseries.com/public/img/atreseriesint/apple-touch-icon.png",AtreSeries MDP
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=089340b5ce26dc28126b08a229fa47efe3a0fee3e
 #EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan MDP
