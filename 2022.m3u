@@ -781,8 +781,6 @@ http://45.225.93.154:8000/play/a02b
 http://45.236.175.103:9600/play/a010
 #EXTINF:0 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://181.160.81.113:8000/play/a013/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e0mmdAP.png" group-title="DEPORTE LATINO",CDO Premium
-http://clubtv.link/f26/lista1.php?c=3243
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE LATINO",Gol Tv | EC
 https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | AR SA
@@ -797,10 +795,6 @@ https://sv.spliktv.xyz/live/caster/RB/FOX-SPORTS.m3u8
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | MX
 https://bs.spliktv.xyz/?id=FOX-SPORTS
-#EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",Fox Sports 
-http://clubtv.link/f26/lista1.php?c=3081
-#EXTINF:0 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",Fox Sports 
-http://clubtv.link/f26/lista1.php?c=3233
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR FTA
@@ -811,12 +805,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2H
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | MX MDP
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:0 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",Fox Sports 2 
-http://clubtv.link/f26/lista1.php?c=3234
-#EXTINF:0 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",Fox Sports 2 
-http://clubtv.link/f26/lista1.php?c=3082
-#EXTINF:0 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",Fox Sports 2 
-http://clubtv.link/f26/lista1.php?c=3234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR FTA
@@ -825,10 +813,6 @@ http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSp
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | MX MDP
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:0 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX Sports 3
-http://clubtv.link/f26/lista1.php?c=3083
-#EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/16-164102_fox-tv-logo-png-fox-deportes-logo-png.png" group-title="DEPORTE LATINO",FOX Deportes
-http://clubtv.link/f26/lista1.php?c=3204
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | AR SPL
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | AR SA
@@ -841,10 +825,6 @@ https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN 
-http://clubtv.link/f26/lista1.php?c=3066
-#EXTINF:0 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN 
-http://clubtv.link/f26/lista1.php?c=3230
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | ME
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 | SA
@@ -855,26 +835,16 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 https://edge9-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_145200_eng=20001.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 | 
 http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 
-http://clubtv.link/f26/lista1.php?c=3067
-#EXTINF:0 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 
-http://clubtv.link/f26/lista1.php?c=3231
 #EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3
-http://clubtv.link/f26/lista1.php?c=3068
 #EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR ME
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nG7DDXLTq-zdh9SMJVuPY-8/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9nJy7y.png" group-title="DEPORTE LATINO",ESPN 4 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA
-http://clubtv.link/f26/lista1.php?c=3065
-#EXTINF:0 tvg-logo="https://i.imgur.com/JvOoS3s.png" group-title="DEPORTE LATINO",ESPN Deportes
-http://clubtv.link/f26/lista1.php?c=3203
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports FHD
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
@@ -885,10 +855,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports SA
 https://bs.spliktv.xyz/?id=TYC-SPORTS
-#EXTINF:0 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
-http://clubtv.link/f26/lista1.php?c=3217
-#EXTINF:0 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
-http://clubtv.link/f26/lista1.php?c=3238
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/site_image.jpg"  group-title="DEPORTE LATINO", TyC SPORTS PLAY 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/site_image.jpg"  group-title="DEPORTE LATINO", TyC SPORTS PLAY 2
@@ -911,38 +877,16 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/
 https://sv.spliktv.xyz/live/caster/CA/c3eds/Fox_Sports_Premiun_HD/ab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTE LATINO",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports 
-http://clubtv.link/f26/lista1.php?c=3246
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports ME
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports PR
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports 2
-http://clubtv.link/f26/lista1.php?c=3247
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTE LATINO",DirecTV Sports +
-http://clubtv.link/f26/lista1.php?c=3248
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTE LATINO",Bein Sports Ñ
-http://clubtv.link/f26/lista1.php?c=3195
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/6Mnilfu.png" group-title="DEPORTE LATINO",Movistar Liga de Campeones
-http://clubtv.link/f26/lista1.php?c=3227
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
-http://clubtv.link/f26/lista1.php?c=3214
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
-http://clubtv.link/f26/lista1.php?c=3215
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
-http://clubtv.link/f26/lista2.php?c=a08j&f=.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO",Win Sports
-http://clubtv.link/f26/lista1.php?c=3244
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO",Win Sports
 http://alv.encohd.co:39591/live//j0roNAC/n3XT33/384.playlist.m3u8?
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO",Win Sports +
-http://clubtv.link/f26/lista1.php?c=3219
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/2000?cb=20200225220524&path-prefix=es" group-title="DEPORTE LATINO",Win Sports +
-http://clubtv.link/f26/lista1.php?c=3245
 #EXTINF:-1  tvg-logo="https://i.imgur.com/BAHebvo.png" group-title="DEPORTE LATINO",Claro Sports HD
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/BAHebvo.png" group-title="DEPORTE LATINO",Claro Sports FHD
@@ -1100,8 +1044,6 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 
 PELEAS
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="DEPORTE INTERNACIONAL",USA | UFC Fight Pass
-http://clubtv.link/f26/lista1.php?c=3218
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wqqpuy1437611123.png" group-title="DEPORTE INTERNACIONAL",COMBATE HD | BR
 http://50.7.34.155:2201/BR/Combate_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting | US
