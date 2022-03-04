@@ -911,6 +911,8 @@ https://rfef-live3.flumotion.com/playlist.m3u8
 http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" group-title="DEPORTE LATINO",Garage TV 
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE LATINO",PLUTO TV VELOCIDAD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://www.m3u.cl/logo/1098_CRTV.png" group-title="DEPORTE LATINO", CRTV * | CL
 https://srv.panelcast.net/crtv/crtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09Azg0q.png" group-title="DEPORTE LATINO", TV Turf Movil
@@ -1152,6 +1154,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 PELEAS
 
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",COMBATE AMÉRICAS | LAT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV PELEAS | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV DEPORTES | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wqqpuy1437611123.png" group-title="UFC - BOX - WWE",COMBATE HD | BR
 http://50.7.34.155:2201/BR/Combate_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting | US
@@ -1200,6 +1208,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlis
 
 WWE
 
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",LUCHA LIBRE AAA | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",LUCHA LIBRE AAA 2 | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="UFC - BOX - WWE",Fite | US
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="UFC - BOX - WWE",Ring Of Honor | US
@@ -1214,21 +1226,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PRO WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV DEPORTES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV PELEAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV VELOCIDAD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",COMBATE AMÉRICAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",ALL ELITE WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",LUCHA LIBRE AAA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",LUCHA LIBRE AAA 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
 
 #EXTINF:1,-CINE-
 
