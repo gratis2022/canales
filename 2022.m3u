@@ -362,6 +362,9 @@ https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tt25q
 #EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/axn_global.png" group-title="PREMIUM",AXN LATINO
 https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx96
 
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Cinemax
+http://190.171.101.36:80/Cinemax/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",11 - Repretel
 http://190.92.95.37:8000/play/a0hb/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",13-Sinart
@@ -1033,6 +1036,8 @@ TENNIS
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",Tennis Channel | US
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",Tennis Channel | US
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Super_Tennis_2008.png/revision/latest?cb=20201227002935" group-title="DEPORTE INTERNACIONAL",Super Tennis Tv
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-b-c1-17/restreamer/rtmp/hls/h24_live/manifest.m3u8
 
@@ -3569,30 +3574,10 @@ https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COq8Rh1.png" group-title="TEST CANALES",•●★-- 📺 TEST CANALES 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",fox
-http://pullhls3948069e.live.126.net/live/m0t0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",tennis channel
-https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",tigo sports
-https://mn-nl-glb.mncdn.com/dlive/transcode-65-228/gioballepy/1646353364/src/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",cinemax
-http://190.171.101.36:80/Cinemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Tennis Tv
-http://202.44.228.201:1935/aslive/skynetsports3/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Soy Bolivia | B0
-http://tv.zoymilton.com/zoytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Eleven Sports
-https://europe-west-hls.mls.mycujoo.tv:443/esgp/ckzqsp70o6qsy0152606imzg9/720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",INDOSIAR LIGA 1&2
-http://108.136.37.52/m3u8/vid_Indosiar.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",INDOSIAR LIGA 1&2
-http://tvn.x10.bz/xchannel/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Tischtennis Bundesliga (TTBL)
-https://streamer102.dosbnewmedia.de/hls/157.90.240.169/caae3fc0fcfc0139ee02107b44b0b31d_live-3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",ORDESTE FC | BR
-https://southamerica-east-hls.mls.mycujoo.tv/livemode/cl002102o267l0116ukyiffx6/720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",CARIOCA | BR
-https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w2wdk3fok0116z38imcg9/720p/playlist.m3u8
+
+
+
+
 
 
 
