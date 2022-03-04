@@ -1318,6 +1318,8 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 #EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",Anime 
 https://bit.ly/3qY2y4m?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
 
 #EXTINF:1,-INFANTILES-
 
