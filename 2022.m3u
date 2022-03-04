@@ -32,24 +32,26 @@ http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 7 TV GALICIA | ES
 http://events3-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 1 Champions Tv | UK
-http://tvn.x10.bz/xchannel/master-6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 2 Champions Tv | UK
-http://tvn.x10.bz/xchannel/master-7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 3 Champions Tv | UK
-http://tvn.x10.bz/xchannel/master-8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 4 Champions Tv | UK
-http://tvn.x10.bz/xchannel/master-17.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 1 Look Sport | UK
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 2 Look Sport | UK
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 3 Look Sport | UK
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 4 Look Sport | UK
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 5 True Premiere | UK
 http://4digital.ddns.net:11222/ts/0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 6 Look Sport | UK
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 7 Look Sport | UK
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 8 Look Sport | UK
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 9 Look Sport | UK
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 6 Champions Tv | UK
+http://tvn.x10.bz/xchannel/master-6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 7 Champions Tv | UK
+http://tvn.x10.bz/xchannel/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 8 Champions Tv | UK
+http://tvn.x10.bz/xchannel/master-8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJCJfEu.png" group-title="PPV EVENTOS",PPV 9 Champions Tv | UK
+http://tvn.x10.bz/xchannel/master-17.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 1 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
