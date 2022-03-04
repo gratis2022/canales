@@ -3023,6 +3023,7 @@ http://185.140.187.67:8085/udp/238.2.0.239:1234
 https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
 #EXTINF:-1 group-title="MUSICA ANGLO" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO 90's
 https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="MUSICA ANGLO",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg" group-title="MUSICA ANGLO",WoW Music
@@ -3045,6 +3046,18 @@ https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblAwD5j41Svk1oxZFvccJb1AAc6or2WGyWQ&usqp=CAU" group-title="MUSICA ANGLO",MH 1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",JAZZ TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",ROCK TV
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",COOL TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",LOVE TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",FOLK TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.coolstreaming.us/img/ch/image75192318112.jpg" group-title="MUSICA ANGLO",Metal TV 
 https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png"  group-title="MUSICA ANGLO", RCKTV 
@@ -3582,16 +3595,7 @@ https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",PPV Ultra Total
 http://148.251.185.117:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwjpSFdW5pjDvpAO/ultratotal/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",JAZZ TV
-https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",ROCK TV
-https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",COOL TV
-https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",LOVE TV
-https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",FOLK TV
-https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+
 
 
 
