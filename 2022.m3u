@@ -1703,6 +1703,8 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 https://marine2.miplay.cl/lared/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision | CL
 https://marine2.miplay.cl/chilevision/mono.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision | CL
+https://sv.spliktv.xyz/live/caster/CL/CHV.m3u8
 #EXTINF:-1  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CHILE",Canal 13 | CL
 https://marine2.miplay.cl/canal13/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE",Tv Chile | CL
@@ -2021,6 +2023,14 @@ https://m3u-editor.com/serve/televitolibre/500017328.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU", ATV+ | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU",Willax
+https://sv.spliktv.xyz/live/caster/PE/WILLAX.m3u8
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU",America
+https://sv.spliktv.xyz/live/caster/PE/AMERICA.m3u8
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU",Global tv
+https://sv.spliktv.xyz/live/caster/PE/GLOBALTV.m3u8
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU",la Tele
+https://sv.spliktv.xyz/live/caster/PE/LATELE.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png"  group-title="PERU",PANAMERICANA
 https://sv.spliktv.xyz/live/caster/PE/PANAMERICANA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png"  group-title="PERU",PANAMERICANA
