@@ -3608,6 +3608,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",RTSH sports
 https://list.iptvcat.com/my_list/s/1c8df8ff835dbc097a5bb7458f73c5f4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",euro sports 1
+https://list.iptvcat.com/my_list/s/d623682b8e1615a040f0c0e358e2aa30.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",tio play bolivia
+https://partidos.tiotvplaygo.com/ligaboliviana.m3u8
 
 
 
