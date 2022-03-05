@@ -2035,6 +2035,8 @@ https://sv.spliktv.xyz/live/caster/PE/LATINA.m3u8
 https://sv.spliktv.xyz/live/caster/RB/PERU-MAGICO.m3u8
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png"  group-title="PERU",TV PERU
 https://sv.spliktv.xyz/live/caster/PE/TVPERU.m3u8
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png"  group-title="PERU",TV PERU
+https://list.iptvcat.com/my_list/s/f4172bbaf960accc9e6fe77e7a9f68be.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/TVPN2012-2.png/revision/latest?cb=20181219153831"  group-title="PERU",TV PERU NOTICIAS
 https://sv.spliktv.xyz/live/caster/PE/TVPERU-N.m3u8
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png"  group-title="PERU", Canal IPE | PE
