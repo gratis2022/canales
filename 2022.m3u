@@ -3604,8 +3604,10 @@ https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COq8Rh1.png" group-title="TEST CANALES",•●★-- 📺 TEST CANALES 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",PPV Ultra Total
-http://148.251.185.117:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwjpSFdW5pjDvpAO/ultratotal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",test
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",RTSH sports
+https://list.iptvcat.com/my_list/s/1c8df8ff835dbc097a5bb7458f73c5f4.m3u8
 
 
 
