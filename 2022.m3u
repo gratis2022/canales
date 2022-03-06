@@ -18,18 +18,16 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- 📺 PPV EVENTOS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV UFC 272
-https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV UFC 272
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 1 UFC 272
 https://dnog3rmny3g3p.cloudfront.net:443/hls/ufc/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV UFC 272
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 2 UFC 272
 https://bigsmoke.lbs.pw:443/boec/tracks-v1a1/mono.m3u8?token=3e01df58d4758869dfca79d20b297b8fb7abaa00-0.7791484416338956-1644744854-1644708854
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV UFC 272
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 3 UFC 272
 https://z.seast.se:443/eas/ufc1z/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 4 UFC 272
+https://d2sdgwnmdqdy6e.cloudfront.net/stream/MzExMg==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 5 UFC 272
+https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 1 ULTRA TOTAL | ES
 http://148.251.185.117:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwjpSFdW5pjDvpAO/ultratotal/index.m3u8
