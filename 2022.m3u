@@ -74,36 +74,42 @@ https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 2 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/TNT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 3 | US
-https://dnog3rmny3g3p.cloudfront.net/hls/76ers/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net:443/hls/abc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 4 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/bucks/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net/hls/76ers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 5 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/cavaliers/playlist.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 6 | US
-https://dnog3rmny3g3p.cloudfront.net/hls/hawks/playlist.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/cavaliers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 7 | US
-https://dnog3rmny3g3p.cloudfront.net/hls/hornets/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net:443/hls/grizzlies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 8 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/magic/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net/hls/hawks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 9 | US
-https://dnog3rmny3g3p.cloudfront.net/hls/mavericks/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net:443/hls/heat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 10 | US
-https://dnog3rmny3g3p.cloudfront.net/hls/nets/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net/hls/hornets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 11 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/nuggets/playlist.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/magic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 12 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/pelicans/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net/hls/mavericks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 13 | US
-https://dnog3rmny3g3p.cloudfront.net/hls/pistons/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net/hls/nets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 14 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/raptors/chunks.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/nuggets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 15 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/rockets/chunks.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/pelicans/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 16 | US
-https://dnog3rmny3g3p.cloudfront.net/hls/spurs/playlist.m3u8
+https://dnog3rmny3g3p.cloudfront.net/hls/pistons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 17 | US
-https://d2fohnmc8kogc.cloudfront.net/hls/timberwolves/chunks.m3u8
+https://d2fohnmc8kogc.cloudfront.net/hls/raptors/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 18 | US
+https://d2fohnmc8kogc.cloudfront.net/hls/rockets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 19 | US
+https://dnog3rmny3g3p.cloudfront.net/hls/spurs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 20 | US
+https://d2fohnmc8kogc.cloudfront.net/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iEK264.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 21 | US
 https://d2fohnmc8kogc.cloudfront.net/hls/wizards/chunks.m3u8
 
 
