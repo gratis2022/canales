@@ -26,8 +26,13 @@ https://z.seast.se:443/eas/ufc1z/naxi/caxi.m3u8
 https://d2sdgwnmdqdy6e.cloudfront.net/stream/MzExMg==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 4 UFC 272 | US
 https://z.seast.se:443/eas/ufc1z/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 5 UFC 272 | LAT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 5 UFC 272 | US
+https://play.brasiltvweb.com/v3/youshi/m3_kxiCuVcr9XvcEbXgX_1080p.m3u8?user_id=42166598&session_id=mJIMYOx8NAB6&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_limit=1&client_ip=2804:5310:50ca:ec00:7d7a:e942:ade8:1b23&main_addr=https://play.brasiltvweb.com/v3/youshi/&rst_status=0&dev_id=22234262&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1646543207&token=D06F36401184100CC05580155B1B152F&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 6 UFC 272 | US
+https://play.brasiltvweb.com/v3/youshi/m3_kxiCuVcr9XvcEbXgX_720p.m3u8?user_id=42166598&session_id=mJIMYOx8NAB6&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_limit=1&client_ip=2804:5310:50ca:ec00:7d7a:e942:ade8:1b23&main_addr=https://play.brasiltvweb.com/v3/youshi/&rst_status=0&dev_id=22234262&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1646543207&token=D06F36401184100CC05580155B1B152F&media_code=m3_kxiCuVcr9XvcEbXgX_720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eumP41u.jpg" group-title="PPV EVENTOS",PPV 7 UFC 272 | LAT
 https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 1 ULTRA TOTAL | ES
 http://148.251.185.117:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwjpSFdW5pjDvpAO/ultratotal/index.m3u8
