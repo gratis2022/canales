@@ -782,12 +782,16 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Spor
 https://edge-live32-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA SA
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
 https://d3junmnzdfp8ej.cloudfront.net:443/hls/tv_720p30.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
+https://centurylink.br.cdn.booyah.live/hls/1500015/110654899.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
 http://45.225.93.154:4000/play/cdfhd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.225.93.154:8000/play/a01o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
