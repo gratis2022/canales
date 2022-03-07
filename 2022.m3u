@@ -1300,7 +1300,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRJichH.png" group-title="ANIME",•●★-- 📺 ANIME 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="1108" tvg-name="Inspiranime" tvg-logo="https://www.m3u.cl/logo/1108_Inspiranime.png" group-title="ANIME", Inspiranime | CL
-https://videostreaming.cloudserverlatam.com:443/8062/8062/playlist.m3u8?PlaylistM3UCL
+https://videostreaming.cloudserverlatam.com:443/8062/8062/playlist.m3u8?
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"  group-title="ANIME", Anime Zone TV | AR
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png"  group-title="ANIME", EnerGeek 
