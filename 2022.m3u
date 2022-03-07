@@ -63,6 +63,13 @@ https://d3bh6k6cdgaj10.cloudfront.net:443/hls/espn/chunks.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 6 | US
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
 
+#EXTINF:1,-LA LIGA-
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="LA LIGA",•●★-- 📺 LA LIGA 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="LA LIGA",ESPN 2 | PY
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+
 #EXTINF:1,-CHAMPIONS LEAGUE-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",•●★-- 📺 CHAMPIONS LEAGUE 📺 --★●•
