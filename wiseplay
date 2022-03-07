@@ -16,17 +16,17 @@
 
 "url": "https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
 
-"isHost": "true"
+"isHost": "false"
 
 },
 
 {
 
-"name": "STAR+ 6",
+"name": "STAR+ 1",
 
 "image": "https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png",
 
- "url": "https://futbollatam.com/embed/eventos/?r=L2VtYmVkL3N0YXIuYXNweA==,
+ "url": "https://futbollatam.com/embed/eventos/?r=L2VtYmVkL3N0YXIuYXNweA==",
 
 "isHost": "true"
 
