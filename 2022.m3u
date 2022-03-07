@@ -68,45 +68,43 @@ https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",•●★-- 📺 CHAMPIONS LEAGUE 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR 
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR FTA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR 
 http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR 
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | MX SP
-https://sv.spliktv.xyz/live/caster/RB/FOX-SPORTS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | MX MDP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | MX 
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | AR 
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | AR FTA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | AR 
 http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | AR 
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | MX CF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | MX 
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | MX MDP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | MX 
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR SPL
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR SA
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR SA
-http://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR SA
-https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR SA
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN 2 | SA
-https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR 
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR 
+http://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR
+https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN | AR
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN 2 | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN 2 | SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN 2 | AR
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN 2 | AR
 https://edge9-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_145200_eng=20001.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",ESPN 2 | 
 http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
@@ -119,6 +117,61 @@ http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVhe
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jQoFor.png" group-title="CHAMPIONS LEAGUE",TNT SPORTS 2 | BR
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:1,-COPA LIBERTADORES-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",•●★-- 📺 COPA LIBERTADORES 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",BEIN SPORTS EXTRA Ñ | LAT
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS | AR 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS | AR 
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS | AR 
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS | MX 
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS 2 | AR 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS 2 | AR 
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS 2 | AR 
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS 2 | MX 
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",FOX SPORTS 2 | MX 
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN | PY
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN | AR 
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN | AR 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN | AR 
+http://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN | AR 
+https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN | AR 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN 2 | PY
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN 2 | 
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN 2 | AR
+https://edge9-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_145200_eng=20001.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN 2 | AR
+http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN | BR
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN 2 | BR
+http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:1,-PREMIUM-
 
