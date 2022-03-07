@@ -1,56 +1,65 @@
 {
-  "name": "NOMBRE DE LISTA",
-  "author": "ComoSeHace © 2016",
-  "url": "URL DE LA LISTA",
-  "groups": [
-    
-	{
-      "name": "NOMBRE DEL MODULO",
-      "image": "https://sites.google.com/site/mundofpc/colombia.png",
-      "stations": [
-        
-        {
-                        "name":"TYC FUNCIONA",
-"image":"https://logo.ott.ma/logo/BEINSPORT HD/BEIN_SPORT_FRENSH_1_HD.png",
-"url":"https://viperplay.net/hls/#TYC-Sport-35278",
-"playInNatPlayer": "true"
-        },
-        {
-                        "name": "TNT 1",
-                        "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
-                        "url": "https://cablegratis.online/tnt-sports-chile-vip-c-hd-vip-c/"
-			"playInNatPlayer": "true"
-        },
-	
-          		
 
-       ]
-    },
-    {
-      "name": "NOMBRE DEL MODULO",
-      "image": "https://sites.google.com/site/mundofpc/documentales.png",
-      "stations": [
-        
-                {
-                        "name": "Canal 3",
-                        "image": "http://www.lapampa.gov.ar/images/stories/Imagenes/Ima_home/canal_3_09-02.jpg",
-                        "url": "http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8"
-                },
-				{
-                        "name": "Canal 4",
-                        "image": "http://www.canal4jujuy.com.ar/img/logo.jpg",
-                        "url": "http://www.janjuaplayer.com/embedplayer/discoverysusy/1/600/400",
-                        "referer": "http://tvpor-internet.com/discovery-latino-en-vivo.html",
-                        "isHost": "true"
-                },
-                
-       ]
-    },
-    
-    
-    
-		
-		
-		
-                ]
+"name": "WISEPLAY",
+
+ "author": "GENE",
+
+"url": "https://raw.githubusercontent.com/gratis2022/canales/main/wiseplay",
+
+ "stations": [
+
+{
+
+"name": "TNT",
+
+"image": "https://yt3.ggpht.com/ytc/AKedOLQ2hYKVFVKDfvpjelLVU7dny1H9Hb6_60DFwX3P7g=s900-c-k-c0x00ffffff-no-rj",
+
+"url": "https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
+
+"isHost": "true"
+
+},
+
+{
+
+"name": "",
+
+"image": "",
+
+ "url": "",
+
+"isHost": "true"
+
+},
+
+{
+
+"name": "",
+
+"image": "",
+
+"url": "",
+
+"isHost": "true"
+
+},
+
+{
+
+"name": "",
+
+ "image": "",
+
+"isHost": "true"
+
+ }
+
+ ]
+
 }
+
+
+
+
+
+
