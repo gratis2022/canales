@@ -759,7 +759,12 @@ https://edge-live32-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",ESTADIO TNT SPORTS HD CHILE
+https://d3junmnzdfp8ej.cloudfront.net:443/hls/tv_480p30.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",ESTADIO TNT SPORTS SD CHILE
+https://d3junmnzdfp8ej.cloudfront.net:443/hls/tv_320p30.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",ESTADIO TNT SPORTS SD CHILE
 https://d3junmnzdfp8ej.cloudfront.net:443/hls/tv_720p30.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",ESTADIO TNT SPORTS HD CHILE
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
