@@ -1525,6 +1525,8 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu3Kfh5.png" group-title="CULTURA",•●★-- 📺 CULTURA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1111_Canal_Turismo_Travel_TV.png"  group-title="CULTURA", Canal Turismo Travel TV | CL
+https://srv.panelcast.net/traveltv/traveltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cgtn_espanol-mediano.png" group-title="CULTURA",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CULTURA", LOVE NATURE EN ESPAÑOL 
