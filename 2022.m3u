@@ -1230,6 +1230,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/891_Viwix_TV.png"  group-title="CINE",Viwix TV | CL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1107_Wowly.png"  group-title="CINE", Wowly | CR
+https://wowly.stream/hls/stream_src/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png"  group-title="CINE",FMTV 1 | US
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/349_Estacion_TV.png"  group-title="CINE",Estacion TV | CL
