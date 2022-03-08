@@ -320,6 +320,11 @@ http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3V
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="COPA LIBERTADORES",ESPN 2 HD | BR
 http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
+#EXTINF:1,-COPA SUDAMERICANA-
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/1200px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png" group-title="COPA SUDAMERICANA",•●★-- 📺 COPA SUDAMERICANA 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
 #EXTINF:1,-LIGA ARGENTINA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YXyZFlh.png" group-title="LIGA ARGENTINA",•●★-- 📺 LIGA ARGENTINA 📺 --★●•
