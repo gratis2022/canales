@@ -215,6 +215,69 @@ http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3V
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",ESPN 2 | BR
 http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
+#EXTINF:1,-LIGA ARGENTINA-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="LIGA ARGENTINA",•●★-- 📺 LIGA ARGENTINA 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="LIGA ARGENTINA",TNT SPORTS ARGENTINA 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="LIGA ARGENTINA",TNT SPORTS ARGENTINA 
+https://edge-live32-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="LIGA ARGENTINA",TNT SPORTS ARGENTINA 
+https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LIGA ARGENTINA",Fox Sports Premium 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LIGA ARGENTINA",Fox Sports Premium 
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LIGA ARGENTINA",Fox Sports Premium 
+https://edge-live34-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LIGA ARGENTINA",Fox Sports Premium 
+https://sv.spliktv.xyz/live/caster/CA/c3eds/Fox_Sports_Premiun_HD/ab.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LIGA ARGENTINA",TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LIGA ARGENTINA",TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LIGA ARGENTINA",TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LIGA ARGENTINA",TyC Sports
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LIGA ARGENTINA",TyC Sports 
+https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LIGA ARGENTINA",TyC Sports 
+https://bs.spliktv.xyz/?id=TYC-SPORTS
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="LIGA ARGENTINA",ESPN | AR 
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="LIGA ARGENTINA",ESPN | AR 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="LIGA ARGENTINA",ESPN | AR 
+http://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="LIGA ARGENTINA",ESPN | AR 
+https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="LIGA ARGENTINA",ESPN | AR 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:1,-LIGA CHILENA-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="LIGA CHILENA",•●★-- 📺 LIGA CHILENA 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="LIGA CHILENA",ESTADIO TNT SPORTS FHD CHILE
+https://d3junmnzdfp8ej.cloudfront.net:443/hls/tv_720p30.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="LIGA CHILENA",ESTADIO TNT SPORTS HD CHILE
+https://d3junmnzdfp8ej.cloudfront.net/hls/tv_540p30.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="LIGA CHILENA",ESTADIO TNT SPORTS SD CHILE
+https://d3junmnzdfp8ej.cloudfront.net:443/hls/tv_360p30.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="LIGA CHILENA",ESTADIO TNT SPORTS CHILE
+https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="LIGA CHILENA",TNT SPORTS 2 CHILE
+http://45.236.175.103:9600/play/a03h
+#EXTINF:0 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="LIGA CHILENA",TNT SPORTS 3 CHILE
+http://45.236.175.103:9600/play/a010
+
 #EXTINF:1,-PREMIUM-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- 📺 PREMIUM 📺 --★●•
@@ -982,6 +1045,8 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports FHD
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports FHD
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports
