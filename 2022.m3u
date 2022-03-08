@@ -104,6 +104,8 @@ https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 http://50.7.34.155:2201/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",ULTRA TOTAL | ES
 http://liga.myddns.me:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwjpSFdW5pjDvpAO/ultratotal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",EN PRUEBAS | IN
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:1,-CHAMPIONS LEAGUE-
 
@@ -3798,7 +3800,20 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",canal musica
 https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w1139996119.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="TEST CANALES", Star Sports 1 HD 
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="TEST CANALES", Star Sports 2 HD 
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="TEST CANALES", Star Sports Select 1 HD 
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDpb03C.png" group-title="TEST CANALES", Star Sports Select 2 HD 
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="TEST CANALES", T Sports HD
+http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="TEST CANALES", T Sports HD.
+http://live.flixhub.net:80/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="TEST CANALES", T Sports HD..
+http://103.84.253.5/live/0/index.m3u8
 
 
 
