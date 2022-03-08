@@ -3865,6 +3865,14 @@ http://live.flixhub.net:80/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="TEST CANALES", T Sports HD..
 http://103.84.253.5/live/0/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="TEST CANALES",ChampionTv1
+http://tvn.x10.bz/xchannel/master-6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="TEST CANALES",ChampionTv2
+http://tvn.x10.bz/xchannel/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="TEST CANALES",ChampionTv3
+http://tvn.x10.bz/xchannel/master-8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="TEST CANALES",ChampionTv4
+http://tvn.x10.bz/xchannel/master-17.m3u8
 
 
 
