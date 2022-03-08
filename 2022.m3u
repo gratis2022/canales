@@ -3276,6 +3276,51 @@ https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",ROCK TV
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="MUSICA", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1krDIF.png" group-title="MUSICA", 8X music
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="MUSICA", 9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png" group-title="MUSICA", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="MUSICA", Dhoom Music
+https://yuppcatchup.akamaized.net/preview/dhoommusic/1100.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="MUSICA", Gaaan Bangla
+https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="MUSICA", Masti TV
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="MUSICA", Music Mastii
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCLBXlT.png" group-title="MUSICA", MH 1
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/up2mMgD.png" group-title="MUSICA", MTV YO! HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/up2mMgD.png" group-title="MUSICA", MTV BIGGEST POP HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/up2mMgD.png" group-title="MUSICA", MTV BLOCK PARTY HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/up2mMgD.png" group-title="MUSICA", MTV SPANKIN’ HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/up2mMgD.png" group-title="MUSICA", MTV WMA HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaNNHCm.png" group-title="MUSICA", MTV Beats HD+
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGNdnMT.png" group-title="MUSICA", MTV HD+
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wg3N1VT.png" group-title="MUSICA", Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="MUSICA", Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="MUSICA", Sangeet Bangla.
+https://yuppcatchup.akamaized.net/preview/sangeetbangla/1100.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chHDUsi.png" group-title="MUSICA", Zing Z5
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zing.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="MUSICA", Zoom
+https://yupppreview.akamaized.net/preview/zoom/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="MUSICA", Zoom
+http://live.flixhub.net/hls/zoom.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.coolstreaming.us/img/ch/image75192318112.jpg" group-title="MUSICA ANGLO",Metal TV 
 https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png"  group-title="MUSICA ANGLO", RCKTV 
