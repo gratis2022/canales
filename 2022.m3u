@@ -364,6 +364,11 @@ https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="LIGA ARGENTINA",ESPN 
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1200px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png" group-title="LIGA ARGENTINA",Tv Publica
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1200px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png" group-title="LIGA ARGENTINA",Tv Publica
+https://edge9-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+
 #EXTINF:1,-LIGA CHILENA-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHrwYdU.png" group-title="LIGA CHILENA",•●★-- 📺 LIGA CHILENA 📺 --★●•
