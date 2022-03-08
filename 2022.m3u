@@ -167,6 +167,17 @@ https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ngtx5Ge.png" group-title="UFC - BOX - WWE",•●★-- 📺 UFC - BOX - WWE 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="UFC - BOX - WWE",FOX SPORTS 2 | AR 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="UFC - BOX - WWE",FOX SPORTS 2 | AR 
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="UFC - BOX - WWE",FOX SPORTS 2 | AR 
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="UFC - BOX - WWE",FOX SPORTS 2 | MX 
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="UFC - BOX - WWE",FOX SPORTS 2 | MX 
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
 PELEAS
 
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",COMBATE AMÉRICAS | LAT
