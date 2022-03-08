@@ -88,19 +88,29 @@
 			"url":"https://www.tutele.sx/online.php?a=131",
             "isHost" : "true"
               }, {
-			"name": "aca",
+			"name": "TUDN MX",
 			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://www.tutele.sx/online.php?a=3",
+			"url":"https://www.tutele.sx/online.php?a=17",
             "isHost" : "true"
             }, {
-			"name": "Direct Tv 1 Argentina",
+			"name": "ESPN Deportes MX",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url":"https://www.tutele.sx/online.php?a=6",
+			"url":"https://www.tutele.sx/online.php?a=18",
             "isHost" : "true"
             }, {
-			"name": "Direct Tv 2 Argentina",
+			"name": "Fox Deportes MX",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url":"https://www.tutele.sx/online.php?a=7",
+			"url":"https://www.tutele.sx/online.php?a=34",
+            "isHost" : "true"
+              }, {
+			"name": "Win Sports +",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=3305",
+            "isHost" : "true"
+            }, {
+			"name": "VTV +",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=4264",
             "isHost" : "true"
               },
 	    
