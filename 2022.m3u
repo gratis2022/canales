@@ -166,6 +166,9 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="CHAMPIONS LEAGUE",TNT SPORTS 2 | BR
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="CHAMPIONS LEAGUE",TEST TV MAX | LAT 
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
 #EXTINF:1,-COPA LIBERTADORES-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="COPA LIBERTADORES",•●★-- 📺 COPA LIBERTADORES 📺 --★●•
