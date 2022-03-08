@@ -46,7 +46,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 #EXTINF:1,-NBA-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",•●★-- 📺 NBA 📺 --★●•
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png" group-title="NBA",•●★-- 📺 NBA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 1 | US
@@ -102,7 +102,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9nJy7y.png" group-title="LA LIGA",ESPN 4 | BR
 http://50.7.34.155:2201/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="LA LIGA",ULTRA TOTAL | ES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",ULTRA TOTAL | ES
 http://liga.myddns.me:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwjpSFdW5pjDvpAO/ultratotal/index.m3u8
 
 #EXTINF:1,-CHAMPIONS LEAGUE-
@@ -224,7 +224,7 @@ http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVhe
 
 #EXTINF:1,-LIGA ARGENTINA-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="LIGA ARGENTINA",•●★-- 📺 LIGA ARGENTINA 📺 --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXyZFlh.png" group-title="LIGA ARGENTINA",•●★-- 📺 LIGA ARGENTINA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="LIGA ARGENTINA",TNT SPORTS 
@@ -269,7 +269,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:1,-LIGA CHILENA-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbs2lET.png" group-title="LIGA CHILENA",•●★-- 📺 LIGA CHILENA 📺 --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHrwYdU.png" group-title="LIGA CHILENA",•●★-- 📺 LIGA CHILENA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="LIGA CHILENA",ESTADIO TNT SPORTS FHD 
