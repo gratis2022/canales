@@ -149,21 +149,6 @@ https://edge9-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_1
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="CHAMPIONS LEAGUE",ESPN 2 | AR
 http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="CHAMPIONS LEAGUE",ESPN HD | BR
-http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="CHAMPIONS LEAGUE",ESPN 2 HD | BR
-http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="CHAMPIONS LEAGUE",TNT SPORTS 1 | BR
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="CHAMPIONS LEAGUE",TNT SPORTS 2 | BR
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="CHAMPIONS LEAGUE",TEST TV MAX | LAT 
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="CHAMPIONS LEAGUE",TEST BU DHABI SPORTS 1 | AR
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
 #EXTINF:1,-NBA-
 
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png" group-title="NBA",•●★-- 📺 NBA 📺 --★●•
