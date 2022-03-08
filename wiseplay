@@ -112,7 +112,126 @@
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
 			"url":"https://www.tutele.sx/online.php?a=4264",
             "isHost" : "true"
-              },
+              }, {
+			"name": "BeinSport ñ",
+             "image": "https://newcastlebeach.org/images/logo-bein-sport-6.jpg",
+           "url" :  "https://flowcablevision.com/online.php?a=09",
+			 "isHost":"true"
+                      }, {
+                    "name": "ESPN-Argentina HD",
+                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
+                   "url": "https://cloudstream.to/e/1j6gr5xa",
+                      "referer" : "https://pelotero.net/",
+                     "isHost" : "true"
+                    }, {
+                    "name": "ESPN-Argentina HD",
+                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
+                    "url":"https://www.tutele.sx/online.php?a=1",
+            "isHost" : "true"
+                  }, {
+                    "name": "ESPN2-Argentina HD",
+                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+                    "url": "https://cloudstream.to/e/dr53mkh",
+                      "referer" : "https://pelotero.net/",
+                     "isHost" : "true"
+                 }, {
+                    "name": "ESPN2-Argentina HD",
+                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+                   "url":"https://www.tutele.sx/online.php?a=2",
+            "isHost" : "true"
+                                    }, {
+                    "name": "ESPN3-Argentina HD",
+                    "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
+                   "url": "https://cloudstream.to/e/ehh93y1d5giathu",
+                 "referer" : "https://pelotero.net/",
+                     "isHost" : "true"
+                  }, {
+                    "name": "ESPN3-Argentina HD",
+                    "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
+                 "url":"https://www.tutele.sx/online.php?a=3",
+            "isHost" : "true"
+		}, {
+			"name": "ESPN+ Argentina",
+			"image": "https://2.bp.blogspot.com/-oWNM4gzc8ds/U4T7eaXp7tI/AAAAAAAACcs/RgUEtzV5yyM/s1600/ESPN-+-Latinoamerica-en-Vivo-fullcaleta-tv-online-portada-png-gif.png",
+			"url": "https://flowcablevision.com/embed.php?nocounter=false&a=575&s=j4gscvr74b8f78l0p2gtv31nr8&ip=146.70.46.30&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A94.0%29+Gecko%2F20100101+Firefox%2F94.0&referer=https%3A%2F%2Ftelefullenvivo.com%2F",
+            "referer" : "https://flowcablevision.com/online.php?a=575",
+			 "isHost":"true"
+		}, {
+			"name": "Fox Sport 1-Argentina",
+			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
+                      "url":"https://www.tutele.sx/online.php?a=132",
+            "isHost" : "true"
+		}, {
+			"name": "Fox Sport 2-Argentina",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzWOE1xMXXiPmjUaz-3LdohqBsNK17JmWlVh2EYvH7fK3ZDNNjRzAzxqANSy8hLZporQ&usqp=CAU",
+                       			"url":"https://www.tutele.sx/online.php?a=133",
+            "isHost" : "true"
+		}, {
+			"name": "Fox Sport 3-Argentina",
+			"image": "https://i.ytimg.com/vi/Z2_19oGaU-g/hqdefault.jpg",
+						"url":"https://www.tutele.sx/online.php?a=134",
+            "isHost" : "true"
+        }, {
+			"name": "Fox Sport Premium-Argentina",
+			"image": "https://yt3.ggpht.com/ytc/AKedOLQysFhsRE8suxR8Z7Z5H_T6tHeZqAzdAlmEEGvb=s900-c-k-c0x00ffffff-no-rj",
+			"url": "https://freelive365.com/player2.php?id=10&code=121&evento=Argentina",
+			"isHost": "true" 
+             }, {
+			"name": "Fox Sport Premium-Argentina",
+			"image": "https://yt3.ggpht.com/ytc/AKedOLQysFhsRE8suxR8Z7Z5H_T6tHeZqAzdAlmEEGvb=s900-c-k-c0x00ffffff-no-rj",
+			"url":"https://www.tutele.sx/online.php?a=5",
+            "isHost" : "true"
+           }, {
+			"name": "TUDN",
+			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
+			"url":"https://www.tutele.sx/online.php?a=17",
+            "isHost" : "true"
+        }, {
+			"name": "Gol TV",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
+			"url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
+             "referer" : "https://em.bedsport.live/",
+			"isHost": "true" 
+           }, {
+			"name": "DirecTV Sports",
+			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
+			"url": "https://cloudstream.to/e/dyzqotv15miwft",
+             "referer" : "https://pelotero.net/",
+			"isHost": "true"
+              }, {
+			"name": "DirecTV Sports2",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/9/90/DirecTV_Sports_2_2015.png/revision/latest?cb=20200706224535&path-prefix=es",
+			 "url": "https://cloudstream.to/e/y7igo1bzj3n",
+                    "referer" : "https://pelotero.net/",
+                    "isHost" : "true"
+               }, {
+			"name": "DirecTV Sports+",
+			"image": "https://fullcanaleshd.files.wordpress.com/2016/05/6a910-directv2bmas.png",
+			"url": "https://cloudstream.to/e/m0436l96pakiyed",
+             "referer" : "https://pelotero.net/",
+			"isHost": "true"
+		}, {
+			"name": "TyC Sport",
+			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
+			"url":"https://www.tutele.sx/online.php?a=1204",
+            "isHost" : "true"
+               }, {
+			"name": "TNT Sports",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=149",
+            "isHost" : "true"
+              }, {
+			"name": "TNT Sports",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=4",
+            "isHost" : "true"
+            }, {
+			"name": "Win Sports +",
+			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
+			"url": "https://cloudstream.to/e/dyjtxl657jzg",
+            "referer" : "https://pelotero.net/",
+			"isHost": "true"
+               },
 	    
 	    
 	  
