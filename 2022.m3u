@@ -3722,6 +3722,8 @@ https://paneltv.online:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XTgmyrN.png" group-title="RELIGIOSOS",•●★-- 📺 RELIGIOSOS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://files.purestreams.io/logo/tv/3ABN-Latino_5f72da6911836e85ac3d913d.png" group-title="RELIGIOSOS",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 #EXTINF:-1 tvg-id="161" tvg-name="Vida TV" tvg-logo="https://www.m3u.cl/logo/161_Vida_TV.png" group-title="RELIGIOSOS", Vida TV * | CL
 http://45.161.188.242:88/vidatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="899" tvg-name="Volvamos a Dios TV" tvg-logo="https://play-lh.googleusercontent.com/1z4qEqeGO4W9MK9R274F-4V0UsuYHZzX7y08Q4sSn_DoMV9daI9axICKNAh9TSdWsIBZ" group-title="RELIGIOSOS"", Volvamos a Dios TV * | CL
