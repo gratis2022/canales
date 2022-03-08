@@ -139,6 +139,8 @@ https://d3bh6k6cdgaj10.cloudfront.net/hls/76ers/chunks.m3u8
 https://d3bh6k6cdgaj10.cloudfront.net/hls/heat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 10 | US
 https://d3bh6k6cdgaj10.cloudfront.net/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 11 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/nbatv/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | AR
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
