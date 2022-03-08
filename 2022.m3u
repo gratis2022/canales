@@ -3289,7 +3289,7 @@ https://yuppcatchup.akamaized.net/preview/dhoommusic/1100.m3u8
 https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="MUSICA ANGLO", Masti TV
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="MUSICA", Music Mastii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="MUSICA ANGLO", Music Mastii
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCLBXlT.png" group-title="MUSICA ANGLO", MH 1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
