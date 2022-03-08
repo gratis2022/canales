@@ -323,14 +323,6 @@ http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3V
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="COPA LIBERTADORES",ESPN 2 HD | BR
 http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
-#EXTINF:1,-COPA SUDAMERICANA-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/1200px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png" group-title="COPA SUDAMERICANA",•●★-- 📺 COPA SUDAMERICANA 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b2wEjRX.png" group-title="COPA SUDAMERICANA",PPV Copa Sudamericana
-http://198.144.159.43/NLenHxlxlEIufCYHXKf9vw/1646807247/3137332e3234352e3230322e3735/ff75/playlist.m3u8?mvk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b2wEjRX.png" group-title="COPA SUDAMERICANA",PPV Copa Sudamericana
-https://pull.jzdyll.com/leisu/1115295557764156.m3u8?auth_key=1646793990-0-0-288adeba24d29ecae0454137b28190ee
 
 #EXTINF:1,-LIGA ARGENTINA-
 
