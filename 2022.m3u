@@ -44,26 +44,42 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 13 ABU DHABI SPORTS 2 | AR
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 1 | US
+#EXTINF:1,-NBA LEAGUE PASS-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",•●★-- 📺 NBA LEAGUE PASS 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 1 | US
 https://d3bh6k6cdgaj10.cloudfront.net/hls/abc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 2 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 2 | US
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/wizards/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 3 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 3 | US
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/thunder/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 4 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 4 | US
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/rockets/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 5 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 5 | US
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/espn/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 6 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 6 | US
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 7 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 7 | US
 https://d3bh6k6cdgaj10.cloudfront.net/hls/pistons/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 8 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 8 | US
 https://d3bh6k6cdgaj10.cloudfront.net/hls/76ers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 9 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 9 | US
 https://d3bh6k6cdgaj10.cloudfront.net/hls/heat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 10 | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS 10 | US
 https://d3bh6k6cdgaj10.cloudfront.net/hls/timberwolves/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",NBA TV | US
+https://bit.ly/nbatvusa?/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",Bek Sports West | US
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",Bek Sports East | US
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",ACC Network | US
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA LEAGUE PASS",Sports TV Plus 
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
 #EXTINF:1,-LA LIGA-
 
