@@ -81,15 +81,15 @@ http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 HD | BR
 http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA TV | US
+#EXTINF:-1 group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/langfr-200px-Logo_NBA_TV.svg.png",NBA TV | US
 https://bit.ly/nbatvusa?/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",Bek Sports West | US
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="NBA",Bek Sports West | US
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",Bek Sports East | US
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="NBA",Bek Sports East | US
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",ACC Network | US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k113fT1.png" group-title="NBA",ACC Network | US
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",Sports TV Plus 
+#EXTINF:-1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Sports_TV_Plus_Network.png" group-title="NBA",Sports TV Plus 
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
 #EXTINF:1,-LA LIGA-
