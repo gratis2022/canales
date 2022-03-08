@@ -87,10 +87,49 @@
                      "isHost" : "true"
              }, 
 
-
 {
+			"name": "(Vamos)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			 "url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
+			"referer": "https://cdnz.one/",
+             "isHost": "true"
+            }, {
+			"name": "(Vamos)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			  "url": "https://ragnarp.net/embed/6jv5qrdinf",
+			"referer": "https://macron.xyz/",
+             "isHost": "true"
+            }, {
+			"name": "(M-Campeones)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+        "url": "http://emb.x174475.apl111.me/player/live.php?id=174475&w=728&h=450",
+            "isHost":"true"
+		}, {
+			"name": "(M-Campeones)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://ragnarp.net/embed/tq24aomq",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "(M-Campeones)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+        "url": "http://emb.x174475.apl111.me/player/live.php?id=174475&w=728&h=450",
+            "isHost":"true"
+		}, {
+			"name": "(M-Campeones)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://ragnarp.net/embed/tq24aomq",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+          }, {
+			"name": "(M-Campeones2)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://ragnarp.net/embed/j2pjg",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+		},
 
-},
+
 
 {
 
