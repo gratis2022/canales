@@ -41,12 +41,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",ULTRA TOTAL | ES
 http://ultratotal.ddns.net/xls/champiota/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJnvwS8.png" group-title="LA LIGA",Movistar La Liga | ES
-http://95.19.186.21:8001/1:0:1:7797:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Mnilfu.png" group-title="LA LIGA",Movistar Liga de Campeones| ES
-http://95.19.186.21:8001/1:0:19:78b4:3ec:1:c00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Mnilfu.png" group-title="LA LIGA",Movistar Liga de Campeones 1| ES
-http://95.19.186.21:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="LA LIGA",ESPN 2 | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="LA LIGA",ESPN 2 | AR
