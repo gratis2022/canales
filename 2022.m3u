@@ -66,6 +66,8 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV ULTRA TOTAL | ES
 http://ultratotal.ddns.net/xls/champiota/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE | ES
+https://s.shidurlive.com/app/19067/chunklist.m3u8?h=xV4B6fk0tSJzAiitXNir0w&e=1646798151&uid=0b06ad8cfbe295dfa01cfe93b7c1e6e0 🇪🇸
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE 
 https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/HhM-2tdBx9bXHTHT-xUcfyEi8s5xSqGZuPkONgj-6g8-Yx3l2ZWSzTbTL1r6idaGWM-tT2DpAtUdjOcSxsN_8Q/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE 
@@ -87,8 +89,7 @@ https://4bff37877bc9.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/ssp/chunks.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE
 http://sdhjgsaddhjgsahjsad.azureedge.net/stream/MzEzNw==/1080p.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE
-https://s.shidurlive.com/app/19067/chunklist.m3u8?h=xV4B6fk0tSJzAiitXNir0w&e=1646798151&uid=0b06ad8cfbe295dfa01cfe93b7c1e6e0 🇪🇸
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE
 https://player.akiwat.com/play.html?url=https://video1a.9db00u.com/org/44818966.flv?auth_key=1646783797-0-0-fc23749df2116ceb89ab0c5b6e19dada
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE
