@@ -56,6 +56,12 @@ https://d3bh6k6cdgaj10.cloudfront.net:443/hls/rockets/chunks.m3u8?SBN
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/espn/chunks.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 6 | US
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 7 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/pistons/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 8 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/76ers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="PPV EVENTOS",NBA LEAGUE PASS 9 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/heat/playlist.m3u8
 
 #EXTINF:1,-LA LIGA-
 
