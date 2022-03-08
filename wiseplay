@@ -12,22 +12,97 @@
            "url" :  "https://ragnarp.net/embed/m20e1ikpv9bbr",
            "referer" : "https://macron.xyz/",
 			"isHost" : "true"
-          }, {
-			"name": "TNT Sports argentina",
-			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url":"https://www.tutele.sx/online.php?a=149",
+          },  {
+			"name": "Estadio TNT Chile",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
             "isHost" : "true"
-              }, {
-			"name": "TNT Sports chile",
+            }, {
+			"name": "TNT Sports Chile",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
 			"url":"https://www.tutele.sx/online.php?a=4",
             "isHost" : "true"
             }, {
-			"name": "TNT Sports chile 2",
+			"name": "TNT Sports Argentina",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
+			"url":"https://www.tutele.sx/online.php?a=149",
             "isHost" : "true"
-            }, 
+              }, {
+			"name": "TyC Sports",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://www.tutele.sx/online.php?a=1204",
+            "isHost" : "true"
+            }, {
+			"name": "ESPN 1 Argentina",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=1",
+            "isHost" : "true"
+            }, {
+			"name": "ESPN 2 Argentina",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=2",
+            "isHost" : "true"
+              }, {
+			"name": "ESPN 3 Argentina",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://www.tutele.sx/online.php?a=3",
+            "isHost" : "true"
+            }, {
+			"name": "Direct Tv 1 Argentina",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=6",
+            "isHost" : "true"
+            }, {
+			"name": "Direct Tv 2 Argentina",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=7",
+            "isHost" : "true"
+              }, {
+			"name": "Direct Tv Plus",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://www.tutele.sx/online.php?a=8",
+            "isHost" : "true"
+            }, {
+			"name": "Fox Sports Premium",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=5",
+            "isHost" : "true"
+            }, {
+			"name": "Bein Sports Ñ",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=9",
+            "isHost" : "true"
+              }, {
+			"name": "Fox Sports 1 Argentina",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://www.tutele.sx/online.php?a=132",
+            "isHost" : "true"
+            }, {
+			"name": "Fox Sports 2 Argentina",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=133",
+            "isHost" : "true"
+            }, {
+			"name": "TyC Sports",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=131",
+            "isHost" : "true"
+              }, {
+			"name": "aca",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://www.tutele.sx/online.php?a=3",
+            "isHost" : "true"
+            }, {
+			"name": "Direct Tv 1 Argentina",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=6",
+            "isHost" : "true"
+            }, {
+			"name": "Direct Tv 2 Argentina",
+			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"url":"https://www.tutele.sx/online.php?a=7",
+            "isHost" : "true"
+              },
 	    
 	    
 	  
