@@ -44,54 +44,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="PPV EVENTOS",PPV 13 ABU DHABI SPORTS 2 | AR
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:1,-NBA-
-
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png" group-title="NBA",•●★-- 📺 NBA 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 1 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/abc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 2 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/wizards/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 3 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/thunder/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 4 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/rockets/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 5 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/espn/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 6 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 7 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/pistons/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 8 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/76ers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 9 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/heat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 10 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/timberwolves/chunks.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | AR
-https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | PY
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | AR
-https://edge9-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_145200_eng=20001.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | AR
-http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 HD | BR
-http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/langfr-200px-Logo_NBA_TV.svg.png",NBA TV | US
-https://bit.ly/nbatvusa?/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="NBA",Bek Sports West | US
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="NBA",Bek Sports East | US
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k113fT1.png" group-title="NBA",ACC Network | US
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Sports_TV_Plus_Network.png" group-title="NBA",Sports TV Plus 
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-
 #EXTINF:1,-LA LIGA-
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="LA LIGA",•●★-- 📺 LA LIGA 📺 --★●•
@@ -168,6 +120,134 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppveventos.lightcast.com/img/logo.png?v=2.1.015.2" group-title="CHAMPIONS LEAGUE",TEST TV MAX | LAT 
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:1,-NBA-
+
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Logo-NBA-Transparent-PNG.png" group-title="NBA",•●★-- 📺 NBA 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 1 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 2 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/wizards/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 3 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/thunder/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 4 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/rockets/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 5 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/espn/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 6 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 7 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/pistons/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 8 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/76ers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 9 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/heat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 10 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/timberwolves/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | AR
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | PY
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | AR
+https://edge9-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_145200_eng=20001.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | AR
+http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 HD | BR
+http://50.7.34.155:2201/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/langfr-200px-Logo_NBA_TV.svg.png",NBA TV | US
+https://bit.ly/nbatvusa?/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="NBA",Bek Sports West | US
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLAZuUmXwAUt7Cj.png" group-title="NBA",Bek Sports East | US
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k113fT1.png" group-title="NBA",ACC Network | US
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Sports_TV_Plus_Network.png" group-title="NBA",Sports TV Plus 
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
+#EXTINF:1,-UFC - BOX - WWE-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ngtx5Ge.png" group-title="UFC - BOX - WWE",•●★-- 📺 UFC - BOX - WWE 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+PELEAS
+
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",COMBATE AMÉRICAS | LAT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV PELEAS | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV DEPORTES | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wqqpuy1437611123.png" group-title="UFC - BOX - WWE",COMBATE HD | BR
+http://50.7.34.155:2201/BR/Combate_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting | US
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="UFC - BOX - WWE",Hard Knocks | US
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",BELLATOR MMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV FIGHT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2013/11/cropped-mmajunkie-logo-icon.jpg?w=180",MMA Junkie | US
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Fight_Plus_TV_Network.png" group-title="UFC - BOX - WWE",FIGHT PLUS | US
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/combatgo.png",COMBAT GO | US
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=726
+#EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://www.nicepng.com/png/full/43-439776_fightchannel-logo-fight-channel-world-hd.png",Channel Fight | US
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="UFC - BOX - WWE",MMA TV | US
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="UFC - BOX - WWE",MMA TV | US
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zY8GpU.png" group-title="UFC - BOX - WWE",EX Tv | US
+http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images-1.listennotes.com/podcasts/kbp-sports-kbp-sports-lPDVrw1BYLh-Q2EUAfMaLDO.1400x1400.jpg" group-title="UFC - BOX - WWE",KBP Sports 
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="UFC - BOX - WWE",KOK Fights | US
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="UFC - BOX - WWE",KOK Fights | US
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+BOXEO Y LUCHA
+
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",GLORY KICKBOXING TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch642_425_305" group-title="UFC - BOX - WWE",FIGHT SPORTS | US
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="UFC - BOX - WWE",Fight Network | US
+https://bit.ly/FightNetwork?/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" group-title="UFC - BOX - WWE",ASXTV FIGHTS | US
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="UFC - BOX - WWE",FIGHTBOX | US
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kickboxingz.com/wp-content/uploads/2018/07/gkl-1892981672-1532915310142.png?fit=198%2C187&ssl=1" group-title="UFC - BOX - WWE",Glory Kickboxing | US
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+
+WWE
+
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",LUCHA LIBRE AAA | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",LUCHA LIBRE AAA 2 | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="UFC - BOX - WWE",Fite | US
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="UFC - BOX - WWE",Ring Of Honor | US
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="UFC - BOX - WWE",Ring Of Honor | US
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="UFC - BOX - WWE",IMPACT! Wrestling | US
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="UFC - BOX - WWE",IMPACT! Wrestling | US
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",IMPACT WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PRO WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:1,-COPA LIBERTADORES-
 
@@ -1225,7 +1305,6 @@ http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="DEPORTE INTERNACIONAL",Star Sports Select 2 HD | IN
 http://103.166.253.222:80/hls/select2.m3u8
 
-
 BASKETBALL 
 
 #EXTINF:-1 group-title="DEPORTE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/langfr-200px-Logo_NBA_TV.svg.png",NBA TV | US
@@ -1370,86 +1449,6 @@ https://hdtv.prod2.ioio.tv/broker/play/eff90f01-0158-4680-83f3-4c030033c720.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://sck.pm/eNUJ",MotorCyclist | US
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-
-#EXTINF:1,-UFC - BOX - WWE-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ngtx5Ge.png" group-title="UFC - BOX - WWE",•●★-- 📺 UFC - BOX - WWE 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-PELEAS
-
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",COMBATE AMÉRICAS | LAT
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV PELEAS | LAT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV DEPORTES | LAT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wqqpuy1437611123.png" group-title="UFC - BOX - WWE",COMBATE HD | BR
-http://50.7.34.155:2201/BR/Combate_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting | US
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="UFC - BOX - WWE",Hard Knocks | US
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",BELLATOR MMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PLUTO TV FIGHT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2013/11/cropped-mmajunkie-logo-icon.jpg?w=180",MMA Junkie | US
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Fight_Plus_TV_Network.png" group-title="UFC - BOX - WWE",FIGHT PLUS | US
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/combatgo.png",COMBAT GO | US
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=726
-#EXTINF:-1 tvg-id="" group-title="UFC - BOX - WWE" tvg-logo="https://www.nicepng.com/png/full/43-439776_fightchannel-logo-fight-channel-world-hd.png",Channel Fight | US
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="UFC - BOX - WWE",MMA TV | US
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="UFC - BOX - WWE",MMA TV | US
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0zY8GpU.png" group-title="UFC - BOX - WWE",EX Tv | US
-http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images-1.listennotes.com/podcasts/kbp-sports-kbp-sports-lPDVrw1BYLh-Q2EUAfMaLDO.1400x1400.jpg" group-title="UFC - BOX - WWE",KBP Sports 
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="UFC - BOX - WWE",KOK Fights | US
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="UFC - BOX - WWE",KOK Fights | US
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
-BOXEO Y LUCHA
-
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",GLORY KICKBOXING TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch642_425_305" group-title="UFC - BOX - WWE",FIGHT SPORTS | US
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="UFC - BOX - WWE",Fight Network | US
-https://bit.ly/FightNetwork?/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" group-title="UFC - BOX - WWE",ASXTV FIGHTS | US
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="UFC - BOX - WWE",FIGHTBOX | US
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/kickboxingz.com/wp-content/uploads/2018/07/gkl-1892981672-1532915310142.png?fit=198%2C187&ssl=1" group-title="UFC - BOX - WWE",Glory Kickboxing | US
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-
-WWE
-
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",LUCHA LIBRE AAA | LAT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",LUCHA LIBRE AAA 2 | LAT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="UFC - BOX - WWE",Fite | US
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="UFC - BOX - WWE",Ring Of Honor | US
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="UFC - BOX - WWE",Ring Of Honor | US
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="UFC - BOX - WWE",IMPACT! Wrestling | US
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="UFC - BOX - WWE",IMPACT! Wrestling | US
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",IMPACT WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",PRO WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:1,-CINE-
 
