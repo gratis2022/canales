@@ -120,27 +120,33 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 1 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/abc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 2 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/wizards/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 3 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/thunder/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 4 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/rockets/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 5 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/espn/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 6 | US
-https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 7 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/pistons/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 8 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/76ers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 9 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/heat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 10 | US
-https://d3bh6k6cdgaj10.cloudfront.net/hls/timberwolves/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 11 | US
 https://d3bh6k6cdgaj10.cloudfront.net/hls/nbatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 2 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/espn/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 3 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 4 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/wizards/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 5 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/thunder/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 6 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/rockets/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 7 | US
+https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 8 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/pistons/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 9 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/76ers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 10 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/heat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 11 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 12 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/mavericks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 13 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/spurs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4rLQC8.png" group-title="NBA",NBA LEAGUE PASS 14 | US
+https://d3bh6k6cdgaj10.cloudfront.net/hls/kings/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="NBA",ESPN 2 | AR
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
