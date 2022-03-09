@@ -60,9 +60,6 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV ULTRA TOTAL | ES
 http://ultratotal.ddns.net/xls/champiota/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE | ES
-https://s.shidurlive.com/app/19067/chunklist.m3u8?h=xV4B6fk0tSJzAiitXNir0w&e=1646798151&uid=0b06ad8cfbe295dfa01cfe93b7c1e6e0 🇪🇸
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR 
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR 
@@ -106,6 +103,11 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 https://edge9-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_145200_eng=20001.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="CHAMPIONS LEAGUE",ESPN 2 | AR
 http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="CHAMPIONS LEAGUE", ATV | PE
+https://m3u-editor.com/serve/televitolibre/500017328.m3u8
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="CHAMPIONS LEAGUE", ATV | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:1,-NBA-
 
