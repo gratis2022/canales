@@ -327,6 +327,16 @@
              "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
            "url" :  "https://c787898.com/embed.php?id=live2",
 			 "isHost":"true"
+                      }, {
+			"name": "ESPN 2 | AL",
+             "image": "https://i.imgur.com/jq1s4to.png",
+           "url" :  "https://c787898.com/embed.php?id=live2",
+			 "isHost":"true"
+                      }, {
+			"name": "RMC Sports | FR",
+             "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
+           "url" :  "https://c787898.com/embed.php?id=live2",
+			 "isHost":"true"
                       }, 
 
 	     
