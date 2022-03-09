@@ -212,6 +212,12 @@
 			"url": "https://ragnarp.net/embed/tq24aomq",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
+             }, {
+			"name": "BEIN Ñ",
+			"image": "https://i.imgur.com/6Mnilfu.png",
+			"url": "https://starlive.xyz/embed.php?id=live10m",
+            "referer" : "https://starlive.xyz/",
+             "isHost": "true"
              }, 
 
 {
