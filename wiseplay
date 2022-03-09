@@ -46,9 +46,15 @@
 	   "referer": "https://cablegratis.online/bein-sports-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Argentina",
+			"name": "Direct Tv Sports",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://www.tutele.sx/online.php?a=6",
+			 "isHost":"true"
+                      }, {
+			"name": "Direct Tv Sport",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+           "url" :  "https://pelotero.net/ver/directvsports.php",
+	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
 			 "isHost":"true"
                       }, {
 			"name": "Direct Tv Sports 2",
