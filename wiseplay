@@ -47,6 +47,24 @@
 			"url":"https://www.tutele.sx/online.php?a=149",
             "isHost" : "true"
               }, {
+			"name": "Bein Sport Ñ st10m",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://starlive.xyz/embed.php?id=live10m",
+            "referer" : "https://starlive.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "Bein Sport Ñ st10",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://starlive.xyz/embed.php?id=live10",
+            "referer" : "https://starlive.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "Bein Sport Ñ c710",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://c787898.com/embed.php?id=live10",
+            "referer" : "https://c787898.com.html",
+             "isHost": "true"
+             }, {
 			"name": "Bein Sport Ñ P",
              "image": "https://i.imgur.com/c4gfwhr.png",
            "url" :  "https://pelotero.net/ver/beinsports.php",
@@ -185,6 +203,12 @@
            "url" :  "https://www.tutele.sx/online.php?a=3305",
 			 "isHost":"true"
                       }, {
+			"name": "TUDN st5",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url": "https://starlive.xyz/embed.php?id=live5m",
+            "referer" : "https://starlive.xyz/",
+             "isHost": "true"
+             }, {
 			"name": "TUDN P",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://pelotero.net/ver/tudn.php",
@@ -218,37 +242,8 @@
 			"url": "https://ragnarp.net/embed/tq24aomq",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
-             }, {
-			"name": "BEIN Ñ st10",
-			"image": "https://i.imgur.com/6Mnilfu.png",
-			"url": "https://starlive.xyz/embed.php?id=live10m",
-            "referer" : "https://starlive.xyz/",
-             "isHost": "true"
-             }, {
-			"name": "BEIN Ñ st10",
-			"image": "https://i.imgur.com/6Mnilfu.png",
-			"url": "https://starlive.xyz/embed.php?id=live10",
-            "referer" : "https://starlive.xyz/",
-             "isHost": "true"
-             }, {
-			"name": "BEIN Ñ c710",
-			"image": "https://i.imgur.com/6Mnilfu.png",
-			"url": "https://c787898.com/embed.php?id=live10",
-            "referer" : "https://c787898.com.html",
-             "isHost": "true"
-             },  {
-			"name": "tudn st5",
-			"image": "https://i.imgur.com/6Mnilfu.png",
-			"url": "https://starlive.xyz/embed.php?id=live5m",
-            "referer" : "https://starlive.xyz/",
-             "isHost": "true"
-             }, {
-			"name": "tudn st5",
-			"image": "https://i.imgur.com/6Mnilfu.png",
-			"url": "https://starlive.xyz/embed.php?id=live5m",
-            "referer" : "https://starlive.xyz/",
-             "isHost": "true"
-             }, 
+             },  
+	     
 
 {
 
