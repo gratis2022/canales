@@ -45,6 +45,21 @@
            "url" :  "https://pelotero.net/ver/beinsports.php",
 	   "referer": "https://cablegratis.online/bein-sports-en-vivo.html",
 			 "isHost":"true"
+                      }, {
+			"name": "Direct Tv Sports Argentina",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+           "url" :  "https://www.tutele.sx/online.php?a=6",
+			 "isHost":"true"
+                      }, {
+			"name": "Direct Tv Sports 2",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+           "url" :  "https://www.tutele.sx/online.php?a=7",
+			 "isHost":"true"
+                      }, {
+			"name": "Direct Tv Sports Plus",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+           "url" :  "https://www.tutele.sx/online.php?a=8",
+			 "isHost":"true"
                       },
 
 {
