@@ -283,12 +283,27 @@
            "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
 			 "isHost":"true"
                       }, {
-			"name": "Super Sport| EN",
+			"name": "Super Sport Premier League | EN",
+             "image": "https://i.imgur.com/fveUEaL.png",
+           "url" :  "https://www.tutele.sx/online.php?a=187",
+			 "isHost":"true"
+                      }, {
+			"name": "Super Sport Football| EN",
              "image": "https://i.imgur.com/fveUEaL.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
 			 "isHost":"true"
                       }, {
-			"name": "Super Sport| EN",
+			"name": "Super Sport Football| EN",
+             "image": "https://i.imgur.com/fveUEaL.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Super Sport Football| EN",
+             "image": "https://i.imgur.com/fveUEaL.png",
+           "url" :  "https://www.tutele.sx/online.php?a=186",
+			 "isHost":"true"
+                      }, {
+			"name": "Super Sport Football| EN",
              "image": "https://i.imgur.com/fveUEaL.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true"
