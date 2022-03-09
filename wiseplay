@@ -270,12 +270,27 @@
                       }, {
 			"name": "Bein Sport | EN",
              "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://c787898.com/embed.php?id=live11",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sport | EN",
+             "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
                       }, {
 			"name": "BT Sports| EN",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd2.php",
+			 "isHost":"true"
+                      },  {
+			"name": "BT Sports| EN",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
+           "url" :  "https://c787898.com/embed.php?id=live6",
+			 "isHost":"true"
+                      },  {
+			"name": "BT Sports| EN",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
+           "url" :  "https://c787898.com/embed.php?id=live7",
 			 "isHost":"true"
                       }, {
 			"name": "Super Sport Premier League | EN",
