@@ -123,7 +123,19 @@
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
-                      }, 
+                      }, {
+			"name": "ESPN 4 P",
+             "image": "https://i.imgur.com/G9nJy7y.png",
+           "url" :  "https://pelotero.net/ver/espn4.php",
+	   "referer": "https://cablegratis.online/espn-4-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN EXTRA P",
+             "image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
+           "url" :  "https://pelotero.net/ver/espnextra.php",
+	   "referer": "https://cablegratis.online/espn-plus-en-vivo.html",
+			 "isHost":"true"
+                      },
 
 {
 
