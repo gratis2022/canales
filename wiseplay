@@ -232,6 +232,11 @@
 			 "isHost":"true"
                       }, {
 			"name": "Liga de Campeones | ES",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+	        "url": "http://emb.apl118.me/player/live.php?id=177258&w=728&h=450/",
+             "isHost": "true" 
+                    }, {
+			"name": "Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
@@ -354,7 +359,44 @@
              "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
            "url" :  "ttps://v2.sportsonline.to/channels/hd/hd4.php",
 			 "isHost":"true"
-                      }, 
+                      }, {
+			"name": "1",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://iraffletv.com/match/pl1.php",
+			"referer": "https://iraffletv.com",
+             "isHost": "true"
+                     }, {
+			"name": "2",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://iraffletv.com/match/pl2.php",
+			"referer": "https://iraffletv.com",
+             "isHost": "true"
+                     }, {
+			"name": "3",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://iraffletv.com/match/pl3.php",
+			"referer": "https://iraffletv.com",
+             "isHost": "true"
+                     }, {
+			"name": "4",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://iraffletv.com/match/pl4.php",
+			"referer": "https://iraffletv.com",
+             "isHost": "true"
+                     }, {
+			"name": "5",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://iraffletv.com/match/pl5.php",
+			"referer": "https://iraffletv.com",
+             "isHost": "true"
+                     }, {
+			"name": "6",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://iraffletv.com/match/pl6.php",
+			"referer": "https://iraffletv.com",
+             "isHost": "true"
+                     }, 
+
 
 	     
 
