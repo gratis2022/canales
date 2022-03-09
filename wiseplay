@@ -179,7 +179,34 @@
 			"url": "https://ragnarp.net/embed/tq24aomq",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
-             },
+             }, {
+			"name": "AC Milan - Udinese(M-Campeones 1)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+        "url": "https://ragnarp.net/embed/405ppgjssim1wf",
+            "referer" : "https://ragnarp.net/embed/tq24aomq",
+            "isHost": "true"  
+		}, {
+			"name": "AC Milan - Udinese(M-Campeones 2)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://emb.apl111.me/player/live.php?id=175225&w=728&h=450",
+            "isHost":"true"  
+        }, {
+			"name": "(M-Campeones 3)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://emb.x174584.apl111.me/player/live.php?id=174584&w=728&h=450",
+            "isHost":"true" 
+         }, {
+			"name": "(M-Campeones 4)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+            "url": "https://ragnarp.net/embed/405ppgjssim1wf",
+            "referer" : "https://ragnarp.net/embed/tq24aomq",
+            "isHost": "true"  
+        }, {
+			"name": "(M-Campeones 5)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://emb.x174584.apl111.me/player/live.php?id=174584&w=728&h=450",
+            "isHost":"true" 
+		},
 
 {
 
