@@ -1440,6 +1440,8 @@ https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png",Automoto | US
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/chunklist_w1703129660.m3u8
+#EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bg-100-auto-moto-tv-7460.jpg",100% Automoto | US
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="http://www.sportstonightlive.com/img/logo.png",Sports Tonight 
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",Mavtv | US
