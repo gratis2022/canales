@@ -231,7 +231,67 @@
 			"url": "https://cloudstream.to/e/dyjtxl657jzg",
             "referer" : "https://pelotero.net/",
 			"isHost": "true"
-               },
+               }, {
+                "name": "ESPN *",
+                "image": "https://www.laughingplace.com/w/wp-content/uploads/2016/11/ESPN_logo_red_bg.jpg",
+                "url": "https://pelotero.net/espnhd.php",
+                "referer":"https://www.futbolgratis.online/p/espn-en-vivo.html", 
+                 
+                 "isHost":"true"
+                  
+          },  
+          {
+                "name": "ESPN2 *",
+                "image": "https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest/scale-to-width-down/250?cb=20121007054435",
+                "url": "https://pelotero.net/espn2hd.php",
+                  "referer":"https://www.futbolgratis.online/p/espn-en-vivo.html", 
+                 
+                 "isHost":"true"
+               
+                  
+          }, 
+           {
+                "name": "ESPN 3 *",
+                "image": "https://1.bp.blogspot.com/-RcAdkIM-jm4/WGrtLviEWyI/AAAAAAAAEtQ/Zexv1uRKVCQ_W0TN3_2Rt6xa956XjTA5ACLcB/s400/espn-3-online.png",
+                "url": "https://pelotero.net/espn3hd.php",
+                  "referer":"https://www.futbolgratis.online/p/espn-en-vivo.html", 
+                 
+                 "isHost":"true"
+          },  
+           
+           {
+                "name": "Fox Sport 1 *",
+                "image": "http://www.ranklogos.com/wp-content/uploads/2015/01/Fox-Sports-1-500x281.jpg",
+                "url": "https://www.tutele.sx/online.php?a=326&nocounter=true",
+                "referer": "https://telefullenvivo.com/canales/fox-sports/",
+                "desktop": "true" 
+          },
+          {
+                "name": "Fox Sport 2 *",
+                "image": "http://www.ranklogos.com/wp-content/uploads/2015/01/Fox-Sports-2-500x341.png",
+                "url": "https://www.tutele.sx/online.php?a=1645&nocounter=true",
+                "referer": "https://telefullenvivo.com/canales/fox-sports2/",
+                "desktop": "true"
+            
+          },
+          {
+                "name": "Fox Sport 3 *",
+                "image": "https://static.wikia.nocookie.net/logopedia/images/0/0d/FSA3.png/revision/latest/scale-to-width-down/71?cb=20131030210424",
+                "url": "https://www.tutele.sx/online.php?a=1646&nocounter=true",
+                 "referer": "https://telefullenvivo.com/canales/fox-sports3/",
+                "desktop": "true"
+            
+               
+          },
+          {
+                "name": "Fox Sport PREMIUM *",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/800px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+                "url": "https://pelotero.net/foxsportspremium.php",
+                 "referer": "https://www.futbolgratis.online/p/fox-sports-premium-en-vivo.html",
+                "isHost": "true"
+            
+               
+          },
 	    
 	    
 	  
