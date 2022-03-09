@@ -9,74 +9,69 @@
  "stations": [
 
  {
-			"name": "Estadio TNT Chile",
+			"name": "Estadio TNT Chile F",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
             "isHost" : "true"
             }, {
-                "name": "TNT Sports Chile",
+                "name": "TNT Sports Chile P",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/cdf.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
           }, {
-			"name": "TNT Sports Chile",
+			"name": "TNT Sports Chile T",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=4",
             "isHost" : "true"
             }, {
-			"name": "TNT Sports Argentina",
+			"name": "TNT Sports Argentina T",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
             "isHost" : "true"
               }, {
-			"name": "Bein Sport Ñ",
-             "image": "https://i.imgur.com/c4gfwhr.png",
-           "url" :  "https://flowcablevision.com/online.php?a=09",
-			 "isHost":"true"
-                      }, {
-			"name": "Bein Sport Ñ",
-             "image": "https://i.imgur.com/c4gfwhr.png",
-           "url" :  "https://www.tutele.sx/online.php?a=9",
-			 "isHost":"true"
-                      }, {
-			"name": "Bein Sport Ñ",
+			"name": "Bein Sport Ñ P",
              "image": "https://i.imgur.com/c4gfwhr.png",
            "url" :  "https://pelotero.net/ver/beinsports.php",
 	   "referer": "https://cablegratis.online/bein-sports-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-           "url" :  "https://www.tutele.sx/online.php?a=6",
+			"name": "Bein Sport Ñ T",
+             "image": "https://i.imgur.com/c4gfwhr.png",
+           "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports",
+			"name": "Direct Tv Sports P",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsports.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports 2",
+			"name": "Direct Tv Sports T",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-           "url" :  "https://www.tutele.sx/online.php?a=7",
+           "url" :  "https://www.tutele.sx/online.php?a=6",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports 2",
+			"name": "Direct Tv Sports 2 P",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsports2.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-2-en-vivo-hoy-hoy-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Plus",
+			"name": "Direct Tv Sports 2 T",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-           "url" :  "https://www.tutele.sx/online.php?a=8",
+           "url" :  "https://www.tutele.sx/online.php?a=7",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Plus",
+			"name": "Direct Tv Sports Plus P",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsportsplus.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-plus-en-vivo-como-hoy-hd-hd.html",
+			 "isHost":"true"
+                      }, {
+			"name": "Direct Tv Sports Plus T",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+           "url" :  "https://www.tutele.sx/online.php?a=8",
 			 "isHost":"true"
                       }, 
 
