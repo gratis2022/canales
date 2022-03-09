@@ -25,6 +25,12 @@
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
           }, {
+                "name": "TNT Sports Chile P",
+                "image": "https://i.imgur.com/TTaCeXw.png",
+                "url": "https://pelotero.net/ver/cdfpremium.php",
+                 "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
+                "isHost": "true"      
+          }, {
 			"name": "TNT Sports Chile T",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=4",
