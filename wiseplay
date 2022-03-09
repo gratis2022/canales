@@ -1,13 +1,13 @@
 {
 
-"name": "WISEPLAY",
+"name": "Deportes Latinos",
 
- "author": "GENE",
+ "author": "SOPORTE",
 
 "url": "https://raw.githubusercontent.com/gratis2022/canales/main/wiseplay",
 
  "stations": [ {
-			"name": "BeinSport ñ",
+			"name": "Bein Sport Ñ",
              "image": "https://newcastlebeach.org/images/logo-bein-sport-6.jpg",
            "url" :  "https://ragnarp.net/embed/m20e1ikpv9bbr",
            "referer" : "https://macron.xyz/",
@@ -18,33 +18,39 @@
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
             "isHost" : "true"
             }, {
+                "name": "TNT Sports Chile",
+                "image": "https://i.imgur.com/TTaCeXw.png",
+                "url": "https://pelotero.net/cdf.php",
+                 "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
+                "isHost": "true"      
+          }, {
 			"name": "TNT Sports Chile",
-			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=4",
             "isHost" : "true"
             }, {
 			"name": "TNT Sports Argentina",
-			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
             "isHost" : "true"
               }, {
 			"name": "TyC Sports",
-			"image": "https://i.imgur.com/ma78IEH.png",
+			"image": https://i.imgur.com/I7Lhgej.png",
 			"url":"https://www.tutele.sx/online.php?a=1204",
             "isHost" : "true"
             }, {
 			"name": "ESPN 1 Argentina",
-			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url":"https://www.tutele.sx/online.php?a=1",
             "isHost" : "true"
             }, {
 			"name": "ESPN 2 Argentina",
-			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"image": "https://i.imgur.com/jq1s4to.png",
 			"url":"https://www.tutele.sx/online.php?a=2",
             "isHost" : "true"
               }, {
 			"name": "ESPN 3 Argentina",
-			"image": "https://i.imgur.com/ma78IEH.png",
+			"image": "https://i.imgur.com/iFqCpKj.png",
 			"url":"https://www.tutele.sx/online.php?a=3",
             "isHost" : "true"
             }, {
@@ -291,15 +297,7 @@
                 "isHost": "true"
             
                
-          }, {
-                "name": "TNT Sports nuevo 1*",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/800px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
-                "url": "https://pelotero.net/cdf.php",
-                 "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
-                "isHost": "true"
-            
-               
-          },
+          }, 
 	    
 	    
 	  
