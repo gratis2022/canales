@@ -9,224 +9,224 @@
  "stations": [
 
  {
-			"name": "Estadio TNT Chile F",
+			"name": "Estadio TNT Chile | LAT",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
             "isHost" : "true"
             }, {
-			"name": "Estadio TNT Chile FR",
+			"name": "Estadio TNT Chile | LAT",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url": "https://freelive365.nl/player2.php?id=11&code=126&evento=chile",
 			"isHost": "true" 
              }, {
-                "name": "TNT Sports Chile P",
+                "name": "TNT Sports Chile | LAT",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/cdf.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
           }, {
-                "name": "TNT Sports Chile P",
+                "name": "TNT Sports Chile | LAT",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/ver/cdfpremium.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
           }, {
-			"name": "TNT Sports Chile T",
+			"name": "TNT Sports Chile | LAT",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=4",
             "isHost" : "true"
             }, {
-			"name": "TNT Sports Argentina P",
+			"name": "TNT Sports Argentina | LAT",
              "image": "https://i.imgur.com/TTaCeXw.png",
            "url" :  "https://pelotero.net/ver/tntsports.php",
 	   "referer": "https://cablegratis.online/tnt-sports-en-vivo-argentina-vip-tu-casa.html",
 			 "isHost":"true"
                       }, {
-			"name": "TNT Sports Argentina T",
+			"name": "TNT Sports Argentina | LAT",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
             "isHost" : "true"
               }, {
-			"name": "Bein Sport Ñ st10",
+			"name": "Bein Sport Ñ | LAT",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://starlive.xyz/embed.php?id=live10",
             "referer" : "https://starlive.xyz/",
              "isHost": "true"
              }, {
-			"name": "Bein Sport Ñ c710",
+			"name": "Bein Sport Ñ | LAT",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://c787898.com/embed.php?id=live10",
             "referer" : "https://c787898.com.html",
              "isHost": "true"
              }, {
-			"name": "Bein Sport Ñ P",
+			"name": "Bein Sport Ñ | LAT",
              "image": "https://i.imgur.com/c4gfwhr.png",
            "url" :  "https://pelotero.net/ver/beinsports.php",
 	   "referer": "https://cablegratis.online/bein-sports-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "Bein Sport Ñ T",
+			"name": "Bein Sport Ñ | LAT",
              "image": "https://i.imgur.com/c4gfwhr.png",
            "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports P",
+			"name": "Direct Tv Sports | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsports.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Argentina P",
+			"name": "Direct Tv Sports Argentina | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsports-argentina.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports T",
+			"name": "Direct Tv Sports | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://www.tutele.sx/online.php?a=6",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports 2 P",
+			"name": "Direct Tv Sports 2 | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsports2.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-2-en-vivo-hoy-hoy-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports 2 T",
+			"name": "Direct Tv Sports 2 | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://www.tutele.sx/online.php?a=7",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Plus P",
+			"name": "Direct Tv Sports Plus | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsportsplus.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-plus-en-vivo-como-hoy-hd-hd.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Plus T",
+			"name": "Direct Tv Sports Plus | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://www.tutele.sx/online.php?a=8",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN P",
+			"name": "ESPN | LAT",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://pelotero.net/ver/espn.php",
 	   "referer": "https://cablegratis.online/espn-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN T",
+			"name": "ESPN | LAT",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://www.tutele.sx/online.php?a=1",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 P",
+			"name": "ESPN 2 | LAT",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
 	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 T",
+			"name": "ESPN 2 | LAT",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://www.tutele.sx/online.php?a=2",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 P",
+			"name": "ESPN 3 | LAT",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://pelotero.net/ver/espn3.php",
 	   "referer": "https://cablegratis.online/espn-3-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 T",
+			"name": "ESPN 3 | LAT",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS P",
+			"name": "FOX SPORTS | LAT",
              "image": "https://i.imgur.com/CF5il5c.png",
            "url" :  "https://pelotero.net/ver/foxsports.php",
 	   "referer": "https://cablegratis.online/fox-sports-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS T",
+			"name": "FOX SPORTS | LAT",
              "image": "https://i.imgur.com/CF5il5c.png",
            "url" :  "https://www.tutele.sx/online.php?a=132",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS 2 P",
+			"name": "FOX SPORTS 2 | LAT",
              "image": "https://i.imgur.com/t2Wn2rO.png",
            "url" :  "https://pelotero.net/ver/foxsports2.php",
 	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS 2 T",
+			"name": "FOX SPORTS 2 | LAT",
              "image": "https://i.imgur.com/t2Wn2rO.png",
            "url" :  "https://www.tutele.sx/online.php?a=133",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS PREMIUM P",
+			"name": "FOX SPORTS PREMIUM | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://pelotero.net/ver/foxsportspremium.php",
 	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS PREMIUM T",
+			"name": "FOX SPORTS PREMIUM | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://www.tutele.sx/online.php?a=5",
 			 "isHost":"true"
                       }, {
-			"name": "TYC Sports P",
+			"name": "TYC Sports | LAT",
              "image": "https://i.imgur.com/I7Lhgej.png",
            "url" :  "https://pelotero.net/ver/tycsports.php",
 	   "referer": "https://cablegratis.online/tyc-sports-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "TYC Sports T",
+			"name": "TYC Sports | LAT",
              "image": "https://i.imgur.com/I7Lhgej.png",
            "url" :  "https://www.tutele.sx/online.php?a=1204",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus P",
+			"name": "Win Sports Plus | LAT",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://pelotero.net/ver/winsportsmas.php",
 	   "referer": "https://cablegratis.online/win-sports-mas-premium-cccccc-hd-online-vip-vip.html",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus T",
+			"name": "Win Sports Plus | LAT",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://www.tutele.sx/online.php?a=3305",
 			 "isHost":"true"
                       }, {
-			"name": "TUDN c785",
+			"name": "TUDN | LAT",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url": "https://c787898.com/embed.php?id=live5",
             "referer" : "https://c787898.com",
              "isHost": "true"
              }, {
-			"name": "TUDN st5",
+			"name": "TUDN | LAT",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url": "https://starlive.xyz/embed.php?id=live5",
             "referer" : "https://starlive.xyz/",
              "isHost": "true"
              }, {
-			"name": "TUDN P",
+			"name": "TUDN | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://pelotero.net/ver/tudn.php",
 	   "referer": "https://cablegratis.online/tudn-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "TUDN T",
+			"name": "TUDN | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://www.tutele.sx/online.php?a=17",
 			 "isHost":"true"
                       }, {
-			"name": "VTV Plus P",
+			"name": "VTV Plus | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
            "url" :  "https://pelotero.net/ver/vtv.php",
 	   "referer": "https://cablegratis.online/vtv-plus-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "VTV Plus T",
+			"name": "VTV Plus | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
            "url" :  "https://www.tutele.sx/online.php?a=4264",
 			 "isHost":"true"
