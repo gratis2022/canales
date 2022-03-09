@@ -291,6 +291,14 @@
                 "isHost": "true"
             
                
+          }, {
+                "name": "TNT Sports nuevo*",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/800px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+                "url": "https://www.jac-tv.com/tvseg/a/cdf.php",
+                 "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
+                "isHost": "true"
+            
+               
           },
 	    
 	    
