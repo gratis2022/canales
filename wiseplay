@@ -196,6 +196,17 @@
            "url" :  "https://www.tutele.sx/online.php?a=17",
 			 "isHost":"true"
                       }, {
+			"name": "VTV Plus P",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://pelotero.net/ver/vtv.php",
+	   "referer": "https://cablegratis.online/vtv-plus-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "VTV Plus T",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://www.tutele.sx/online.php?a=4264",
+			 "isHost":"true"
+                      }, {
 			"name": "Liga de Campeones R",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 			"url": "https://ragnarp.net/embed/tq24aomq",
