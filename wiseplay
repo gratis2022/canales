@@ -29,7 +29,13 @@
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
             "isHost" : "true"
-              },
+              }, {
+			"name": "Bein Sport Ñ",
+             "image": "https://i.imgur.com/c4gfwhr.png",
+           "url" :  "https://ragnarp.net/embed/m20e1ikpv9bbr",
+           "referer" : "https://macron.xyz/",
+			"isHost" : "true"
+          },
 
 {
 
