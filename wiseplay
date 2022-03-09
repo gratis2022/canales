@@ -25,6 +25,12 @@
 			"url":"https://www.tutele.sx/online.php?a=4",
             "isHost" : "true"
             }, {
+			"name": "TNT Sports Argentina P",
+             "image": "https://i.imgur.com/TTaCeXw.png",
+           "url" :  "https://pelotero.net/ver/tntsports.php",
+	   "referer": "https://cablegratis.online/tnt-sports-en-vivo-argentina-vip-tu-casa.html",
+			 "isHost":"true"
+                      }, {
 			"name": "TNT Sports Argentina T",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
