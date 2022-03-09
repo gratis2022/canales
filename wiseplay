@@ -124,21 +124,37 @@
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 4 P",
-             "image": "https://i.imgur.com/G9nJy7y.png",
-           "url" :  "https://pelotero.net/ver/espn4.php",
-	   "referer": "https://cablegratis.online/espn-4-en-vivo.html",
+			"name": "FOX SPORTS P",
+             "image": "https://i.imgur.com/CF5il5c.png",
+           "url" :  "https://pelotero.net/ver/foxsports.php",
+	   "referer": "https://cablegratis.online/fox-sports-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN EXTRA P",
-             "image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
-           "url" :  "https://pelotero.net/ver/espnextra.php",
-	   "referer": "https://cablegratis.online/espn-plus-en-vivo.html",
+			"name": "FOX SPORTS T",
+             "image": "https://i.imgur.com/CF5il5c.png",
+           "url" :  "https://www.tutele.sx/online.php?a=132",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN DEPORTES MX T",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
-           "url" :  "https://www.tutele.sx/online.php?a=18",
+			"name": "FOX SPORTS 2 P",
+             "image": "https://i.imgur.com/t2Wn2rO.png",
+           "url" :  "https://pelotero.net/ver/foxsports2.php",
+	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "FOX SPORTS 2 T",
+             "image": "https://i.imgur.com/t2Wn2rO.png",
+           "url" :  "https://www.tutele.sx/online.php?a=133",
+			 "isHost":"true"
+                      }, {
+			"name": "FOX SPORTS PREMIUM P",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
+           "url" :  "https://pelotero.net/ver/foxsportspremium.php",
+	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo/",
+			 "isHost":"true"
+                      }, {
+			"name": "FOX SPORTS PREMIUM T",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
+           "url" :  "https://www.tutele.sx/online.php?a=5",
 			 "isHost":"true"
                       },
 
