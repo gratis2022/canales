@@ -90,6 +90,17 @@
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://www.tutele.sx/online.php?a=8",
 			 "isHost":"true"
+                      }, {
+			"name": "ESPN P",
+             "image": "https://i.imgur.com/MFhpD4D.png",
+           "url" :  "https://pelotero.net/ver/espn.php",
+	   "referer": "https://cablegratis.online/espn-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN T",
+             "image": "https://i.imgur.com/MFhpD4D.png",
+           "url" :  "https://www.tutele.sx/online.php?a=1",
+			 "isHost":"true"
                       }, 
 
 {
