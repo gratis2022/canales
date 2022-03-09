@@ -24,7 +24,12 @@
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=4",
             "isHost" : "true"
-            },
+            }, {
+			"name": "TNT Sports Argentina",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://www.tutele.sx/online.php?a=149",
+            "isHost" : "true"
+              },
 
 {
 
