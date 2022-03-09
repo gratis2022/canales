@@ -135,6 +135,11 @@
            "url" :  "https://pelotero.net/ver/espnextra.php",
 	   "referer": "https://cablegratis.online/espn-plus-en-vivo.html",
 			 "isHost":"true"
+                      }, {
+			"name": "ESPN DEPORTES MX T",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
+           "url" :  "https://www.tutele.sx/online.php?a=18",
+			 "isHost":"true"
                       },
 
 {
