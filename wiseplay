@@ -171,9 +171,20 @@
                       }, {
 			"name": "TYC Sports T",
              "image": "https://i.imgur.com/I7Lhgej.png",
-           "url" :  "https://www.tutele.sx/online.php?a=131",
+           "url" :  "https://www.tutele.sx/online.php?a=1204",
 			 "isHost":"true"
-                      },
+                      }, {
+			"name": "Liga de Campeones R",
+			"image": "https://i.imgur.com/6Mnilfu.png",
+			"url": "https://ragnarp.net/embed/tq24aomq",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "Liga de Campeones E",
+			"image": "https://i.imgur.com/6Mnilfu.png",
+			"url": "http://emb.x174584.apl111.me/player/live.php?id=174584&w=728&h=450",
+            "isHost":"true" 
+         },
 
 {
 
