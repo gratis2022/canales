@@ -39,6 +39,12 @@
              "image": "https://i.imgur.com/c4gfwhr.png",
            "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
+                      }, {
+			"name": "Bein Sport Ñ",
+             "image": "https://i.imgur.com/c4gfwhr.png",
+           "url" :  "https://pelotero.net/ver/beinsports.php",
+	   "referer": "https://cablegratis.online/bein-sports-en-vivo.html",
+			 "isHost":"true"
                       },
 
 {
