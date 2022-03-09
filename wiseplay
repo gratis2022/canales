@@ -143,6 +143,12 @@
 			 "isHost":"true"
                       }, {
 			"name": "FOX SPORTS | LAT",
+			"image": "https://i.imgur.com/CF5il5c.png",
+			 "url": "https://iraffletv.com/match/pl5.php",
+			"referer": "https://iraffletv.com",
+             "isHost": "true"
+                     }, {
+			"name": "FOX SPORTS | LAT",
              "image": "https://i.imgur.com/CF5il5c.png",
            "url" :  "https://pelotero.net/ver/foxsports.php",
 	   "referer": "https://cablegratis.online/fox-sports-en-vivo.html",
@@ -199,14 +205,14 @@
                       }, {
 			"name": "TUDN | LAT",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url": "https://c787898.com/embed.php?id=live5",
-            "referer" : "https://c787898.com",
+			"url": "https://starlive.xyz/embed.php?id=live5",
+            "referer" : "https://starlive.xyz/",
              "isHost": "true"
              }, {
 			"name": "TUDN | LAT",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url": "https://starlive.xyz/embed.php?id=live5",
-            "referer" : "https://starlive.xyz/",
+			"url": "https://c787898.com/embed.php?id=live5",
+            "referer" : "https://c787898.com",
              "isHost": "true"
              }, {
 			"name": "TUDN | LAT",
@@ -359,43 +365,7 @@
              "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
            "url" :  "ttps://v2.sportsonline.to/channels/hd/hd4.php",
 			 "isHost":"true"
-                      }, {
-			"name": "1",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url": "https://iraffletv.com/match/pl1.php",
-			"referer": "https://iraffletv.com",
-             "isHost": "true"
-                     }, {
-			"name": "2",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url": "https://iraffletv.com/match/pl2.php",
-			"referer": "https://iraffletv.com",
-             "isHost": "true"
-                     }, {
-			"name": "3",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url": "https://iraffletv.com/match/pl3.php",
-			"referer": "https://iraffletv.com",
-             "isHost": "true"
-                     }, {
-			"name": "4",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url": "https://iraffletv.com/match/pl4.php",
-			"referer": "https://iraffletv.com",
-             "isHost": "true"
-                     }, {
-			"name": "5",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url": "https://iraffletv.com/match/pl5.php",
-			"referer": "https://iraffletv.com",
-             "isHost": "true"
-                     }, {
-			"name": "6",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url": "https://iraffletv.com/match/pl6.php",
-			"referer": "https://iraffletv.com",
-             "isHost": "true"
-                     }, 
+                      },
 
 
 	     
