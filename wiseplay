@@ -231,13 +231,13 @@
            "url" :  "https://www.tutele.sx/online.php?a=4264",
 			 "isHost":"true"
                       }, {
-			"name": "Liga de Campeones sl",
+			"name": "Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
              }, {
-			"name": "Liga de Campeones R",
+			"name": "Liga de Campeones | ES ",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 			"url": "https://ragnarp.net/embed/tq24aomq",
             "referer" : "https://macron.xyz/",
@@ -278,17 +278,17 @@
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
                       }, {
-			"name": "BT Sports| EN",
+			"name": "BT Sports| UK",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd2.php",
 			 "isHost":"true"
                       },  {
-			"name": "BT Sports| EN",
+			"name": "BT Sports| UK",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
            "url" :  "https://c787898.com/embed.php?id=live6",
 			 "isHost":"true"
                       },  {
-			"name": "BT Sports| EN",
+			"name": "BT Sports| UK",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
            "url" :  "https://c787898.com/embed.php?id=live7",
 			 "isHost":"true"
