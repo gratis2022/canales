@@ -155,12 +155,23 @@
 			"name": "FOX SPORTS PREMIUM P",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://pelotero.net/ver/foxsportspremium.php",
-	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo/",
+	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
 			 "isHost":"true"
                       }, {
 			"name": "FOX SPORTS PREMIUM T",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://www.tutele.sx/online.php?a=5",
+			 "isHost":"true"
+                      }, {
+			"name": "TYC Sports P",
+             "image": "https://i.imgur.com/I7Lhgej.png",
+           "url" :  "https://pelotero.net/ver/tycsports.php",
+	   "referer": "https://cablegratis.online/tyc-sports-en-vivo-gratis.html",
+			 "isHost":"true"
+                      }, {
+			"name": "TYC Sports T",
+             "image": "https://i.imgur.com/I7Lhgej.png",
+           "url" :  "https://www.tutele.sx/online.php?a=131",
 			 "isHost":"true"
                       },
 
