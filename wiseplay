@@ -46,16 +46,16 @@
              "image": "https://i.imgur.com/c4gfwhr.png",
            "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
-                      }, {
-			"name": "Direct Tv Sports Argentina Pp",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-           "url" :  "https://pelotero.net/ver/directvsports-argentina.php",
-	   "referer": "https://megatelevisionhd.com/en-vivo/directv-sports-en-vivo.html",
-			 "isHost":"true"
-                      }, {
+                      },  {
 			"name": "Direct Tv Sports P",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsports.php",
+	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
+			 "isHost":"true"
+                      }, {
+			"name": "Direct Tv Sports Argentina P",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+           "url" :  "https://pelotero.net/ver/directvsports-argentina.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
 			 "isHost":"true"
                       }, {
