@@ -1,0 +1,59 @@
+{
+
+"name": " nombre de la lista ",
+
+ "author": " nick del autor",
+
+"url": "direction de la lista ya sea pastebin o w3ubin ",
+
+ "stations": [
+
+{
+
+"name": "nombre de la pelicula ",
+
+"image": "caratula de la peli ",
+
+"url": "direction de servidor de la peli: streamcloud, powvideo, nowvideo...",
+
+"isHost": "true"
+
+},
+
+{
+
+"name": "",
+
+"image": "",
+
+ "url": "",
+
+"isHost": "true"
+
+},
+
+{
+
+"name": "",
+
+"image": "",
+
+"url": "",
+
+"isHost": "true"
+
+},
+
+{
+
+"name": "",
+
+ "image": "",
+
+"isHost": "true"
+
+ }
+
+ ]
+
+}
