@@ -244,19 +244,19 @@
              "isHost": "true"
              },  {
 			"name": "Sport Tv 1 sl",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",
+			"image": "https://i.imgur.com/n7ALSZC.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv1.php",
             "referer" : "https://v2.sportsonline.to",
              "isHost": "true"
              },  {
 			"name": "Sport Tv 2 sl",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",
-			"url": "https://v2.sportsonline.to/channels/pt/sporttv3.php",
+			"image": "https://i.imgur.com/n7ALSZC.png",
+			"url": "https://v2.sportsonline.to/channels/pt/sporttv2.php",
             "referer" : "https://v2.sportsonline.to",
              "isHost": "true"
              },  {
 			"name": "Sport Tv 3 sl",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",
+			"image": "https://i.imgur.com/n7ALSZC.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv3.php",
             "referer" : "https://v2.sportsonline.to",
              "isHost": "true"
