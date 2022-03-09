@@ -1,11 +1,12 @@
 {
 
-"name": "Deporte Latino",
-
+"name": "Solo Futbol",
  "author": "Soporte",
-
+ "image": "https://spiderman2022.imgur.com/2e1bbb96-8920-4fdf-9f74-02de57119293",
+    "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/gratis2022/canales/main/wiseplay",
 
+    
  "stations": [
 
  {
