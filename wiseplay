@@ -101,6 +101,17 @@
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://www.tutele.sx/online.php?a=1",
 			 "isHost":"true"
+                      }, {
+			"name": "ESPN 2 P",
+             "image": "https://i.imgur.com/jq1s4to.png",
+           "url" :  "https://pelotero.net/ver/espn2.php",
+	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN 2 T",
+             "image": "https://i.imgur.com/jq1s4to.png",
+           "url" :  "https://www.tutele.sx/online.php?a=2",
+			 "isHost":"true"
                       }, 
 
 {
