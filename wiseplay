@@ -260,7 +260,20 @@
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv3.php",
             "referer" : "https://v2.sportsonline.to",
              "isHost": "true"
-             },  
+             },  {
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+          "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+                     },
+{
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+			 "url": "https://sportsonline.to/channels/hd/hd6.php",
+			"referer": "http://cnlsport.xyz/",
+			"isHost" : "true"
+           },
 	     
 
 
