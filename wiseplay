@@ -69,7 +69,7 @@
              "image": "https://i.imgur.com/c4gfwhr.png",
            "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
-                      },  {
+                      }, {
 			"name": "Direct Tv Sports P",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsports.php",
@@ -205,7 +205,7 @@
              }, {
 			"name": "TUDN st5",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url": "https://starlive.xyz/embed.php?id=live5m",
+			"url": "https://starlive.xyz/embed.php?id=live5",
             "referer" : "https://starlive.xyz/",
              "isHost": "true"
              }, {
@@ -243,24 +243,29 @@
             "referer" : "https://macron.xyz/",
              "isHost": "true"
              },  {
-			"name": "Sport Tv 1 sl",
+			"name": "Sport Tv 1 | BR",
 			"image": "https://i.imgur.com/n7ALSZC.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv1.php",
             "referer" : "https://v2.sportsonline.to",
              "isHost": "true"
              },  {
-			"name": "Sport Tv 2 sl",
+			"name": "Sport Tv 2 | BR",
 			"image": "https://i.imgur.com/n7ALSZC.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv2.php",
             "referer" : "https://v2.sportsonline.to",
              "isHost": "true"
              },  {
-			"name": "Sport Tv 3 sl",
+			"name": "Sport Tv 3 | BR",
 			"image": "https://i.imgur.com/n7ALSZC.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv3.php",
             "referer" : "https://v2.sportsonline.to",
              "isHost": "true"
-             },  
+             },   {
+			"name": "Bein Sport | EN",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://starlive.xyz/embed.php?id=live11",
+			 "isHost":"true"
+                      }, 
 
 	     
 
