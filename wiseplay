@@ -179,17 +179,47 @@
 			"url": "https://ragnarp.net/embed/tq24aomq",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
-             }, {
-			"name": "Liga de Campeones E",
-			"image": "https://i.imgur.com/6Mnilfu.png",
-			"url": "http://emb.x174584.apl111.me/player/live.php?id=174584&w=728&h=450",
-            "isHost":"true" 
-         }, {
-            "name" : "Liga de Campeones E",
-            "image" : "hhttps://i.imgur.com/6Mnilfu.png",
-            "url": "http://emb.apl111.me/player/live.php?id=173347&w=728&h=480",
+             },  {
+			"name": "(M-Campeones 1)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+        "url": "http://emb.x174475.apl111.me/player/live.php?id=174475&w=728&h=450",
             "isHost":"true"
-        },
+		}, {
+			"name": "(M-Campeones 2)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://ragnarp.net/embed/tq24aomq",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "(M-Campeones 3)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+        "url": "http://emb.x174475.apl111.me/player/live.php?id=174475&w=728&h=450",
+            "isHost":"true"
+		}, {
+			"name": "(M-Campeones 4)",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://ragnarp.net/embed/tq24aomq",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+          }, {
+			"name": "(M-Campeones2) 5",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://ragnarp.net/embed/j2pjg",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+		}, {
+			"name": "Hoffenheim - Stuttgart(M-Campeones1) 6",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			 "url": "https://ragnarp.net/embed/405ppgjssim1wf",
+                    "referer":"https://macron.xyz/",
+                    "isHost":"true"
+          }, {
+			"name": "Hoffenheim - Stuttgart(M-Campeones1) 7",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			 "url": "https://ragnarp.net/embed/405ppgjssim1wf",
+                    "referer":"https://leet365.cc/",
+                    "isHost":"true"
+          },
 
 {
 
