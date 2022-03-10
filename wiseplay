@@ -359,7 +359,13 @@
                     "image": "https://i.imgur.com/U7lLcbT.jpg",
                      "url": "http://emb.x177234.apl118.me/player/live.php?id=177234&w=728&h=450",
                "isHost" : "true"
-                 }, {
+                 }, {   
+			"name": "DAZN Formula 1 | ES",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+              "url" : "https://www.tutele.sx/online.php?a=3881",
+			 "referer" : "https://telefullenvivo.com/",
+                    "isHost" : "true"
+        }, {
 		   		"name": "DAZN 1 | ES",
 		   		"image": "https://i.imgur.com/BTAedu6.jpg",
 		   		"url": "https://www.tutele.sx/online.php?a=3829",
@@ -372,25 +378,19 @@
 			   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=sdazn1",
              "isHost": "true"
                       }, { 
-                 "name": "Dazn 2",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+                 "name": "Dazn 2 | ES",
+                    "image": "https://i.imgur.com/dc00DUX.png",
                   "url": "https://www.tutele.sx/online.php?a=4303",
                   "referer" : "https://telefullenvivo.com/",
 			"isHost": "true"
-                    }, {   
-			"name": "Formula 1",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-              "url" : "https://www.tutele.sx/online.php?a=3881",
-			 "referer" : "https://telefullenvivo.com/",
-                    "isHost" : "true"
-        }, {
-			"name": "Formula 1-Inglés",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+                    }, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/0AaObag.png",
             "url" : "http://ufckhabib.com/f1/formula1-stream.php",
 			"isHost": "true"
 		}, {
-			"name": "Formula 1-Inglés",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/0AaObag.png",
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
                      }, {
