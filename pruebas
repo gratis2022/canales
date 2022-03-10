@@ -367,6 +367,11 @@
              "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd4.php",
 			 "isHost":"true"
+                      }, {
+			"name": "fox sports mx | FR",
+             "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
+           "url" :  "https://megatelevisionhd.com/eventos/?r=Ly9sb2dpMWxhdXQ0cjAuc29sdXRpb25zL2l6emkvY2xhcHByLmh0bWw/Z2V0PUx5OWtNbk0zYkRkbU5XOWtZbWgxT1M1amJHOTFaR1p5YjI1MExtNWxkQzl2ZFhRdmRTOWtZWE5vTDBaUFdDMVRVRTlTVkZNdFNFUXZaR1ZtWVhWc2RDNXRjR1E9",
+			 "isHost":"true"
                       }
 
 
