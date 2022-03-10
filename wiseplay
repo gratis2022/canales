@@ -192,6 +192,11 @@
 		"userAgent" : ""
                     }, {
 			"name": "FOX SPORTS PREMIUM | LAT",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
+	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "FOX SPORTS PREMIUM | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://pelotero.net/ver/foxsportspremium.php",
 	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
