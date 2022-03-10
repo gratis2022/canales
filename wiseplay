@@ -437,6 +437,14 @@
            "url" :  "https://c787898.com/embed.php?id=live3",
 			 "isHost":"true"
                       }, {
+					"name": "Now Sports Premier League| UK",
+					"image": "https://www.nowtv.now.com/media/logo/600-wbg-e.png",
+					"url": "https://wigistream.to/embed/hidv8",
+			    	"referer":"https://c787898.com/",
+					"desktop": "true",
+					"isHost": "true"			
+
+				}, {
 			"name": "ESPN 2 | DE",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
