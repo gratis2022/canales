@@ -7,7 +7,11 @@
  "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/gratis2022/canales/main/wiseplay",
-
+"groups": [
+ {
+      "name": "FUTBOL RELATOS ESPAÑOL",
+      "image": "https://omarrgc.files.wordpress.com/2018/04/giphy-12.gif?w=723",
+      "info": ".",
     
  "stations": [
 
@@ -268,7 +272,20 @@
         "url" : "https://maxsport.one/laliga.php",
                "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
-                 }, {
+                 }
+		 
+		 
+		 ] 
+		 
+	"groups": [
+ {
+      "name": "FUTBOL RELATOS ANGLO",
+      "image": "https://omarrgc.files.wordpress.com/2018/04/giphy-12.gif?w=723",
+      "info": ".",
+    
+ "stations": [	 
+		 
+		 {
 			"name": "Sport Tv 1 | BR",
 			"image": "https://i.imgur.com/n7ALSZC.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv1.php",
@@ -369,6 +386,9 @@
            "url" :  "https://v2.sportsonline.to/channels/hd/hd4.php",
 			 "isHost":"true"
                       }
+
+
+]    
 
 
 	     
