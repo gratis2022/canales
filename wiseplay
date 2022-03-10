@@ -359,6 +359,11 @@
                     }, {
 			"name": "FOX SPORTS PREMIUM | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
+           "url" :  "https://starlive.xyz/embed.php?id=livefoxpremium",
+			 "isHost":"true"
+                      }, {
+			"name": "FOX SPORTS PREMIUM | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://pelotero.net/ver/foxsportspremium.php",
 	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
 			 "isHost":"true"
