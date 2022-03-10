@@ -349,6 +349,14 @@
 			"url": "https://www.tutele.sx/online.php?a=11",
              "isHost": "true"
              }, {
+					"name": "Sport Tv 1 | BR",
+					"image": "https://i.imgur.com/uHkR0lP.png",
+					"url": "https://wigistream.to/embed/q89fq6f2q",
+			    	"referer":"https://c787898.com/",
+					"desktop": "true",
+					"isHost": "true"
+					
+				}, {
 			"name": "Sport Tv 2 | BR",
 			"image": "https://i.imgur.com/GGVYfbU.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv2.php",
