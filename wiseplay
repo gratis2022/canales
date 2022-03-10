@@ -160,6 +160,11 @@
            "url" :  "https://www.tutele.sx/online.php?a=132",
 			 "isHost":"true"
                       }, {
+			"name": "FOX SPORTS MEXICO | ES",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+	        "url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
+		"userAgent" : ""
+                    }, {
 			"name": "FOX SPORTS 2 | LAT",
              "image": "https://i.imgur.com/t2Wn2rO.png",
            "url" :  "https://pelotero.net/ver/foxsports2.php",
@@ -171,6 +176,16 @@
            "url" :  "https://www.tutele.sx/online.php?a=133",
 			 "isHost":"true"
                       }, {
+			"name": "FOX SPORTS 2 MEXICO | ES",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
+	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+		"userAgent" : ""
+                    }, {
+			"name": "FOX SPORTS 3 MEXICO | ES",
+			"image": "https://i.imgur.com/VxIZXH9.png",
+	        "url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd",
+		"userAgent" : ""
+                    }, {
 			"name": "FOX SPORTS PREMIUM | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://pelotero.net/ver/foxsportspremium.php",
