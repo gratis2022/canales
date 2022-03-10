@@ -71,6 +71,11 @@
            "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
                       }, {
+			"name": "Bein Sport Extra Ñ | ES",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	        "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
+		"userAgent" : ""
+                    }, {
 			"name": "Direct Tv Sports | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://pelotero.net/ver/directvsports.php",
@@ -160,7 +165,7 @@
            "url" :  "https://www.tutele.sx/online.php?a=132",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS MEXICO | ES",
+			"name": "FOX SPORTS MEXICO | LAT",
 			"image": "https://i.imgur.com/CF5il5c.png",
 	        "url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
 		"userAgent" : ""
@@ -176,12 +181,12 @@
            "url" :  "https://www.tutele.sx/online.php?a=133",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS 2 MEXICO | ES",
+			"name": "FOX SPORTS 2 MEXICO | LAT",
 			"image": "https://i.imgur.com/t2Wn2rO.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
 		"userAgent" : ""
                     }, {
-			"name": "FOX SPORTS 3 MEXICO | ES",
+			"name": "FOX SPORTS 3 MEXICO | LAT",
 			"image": "https://i.imgur.com/VxIZXH9.png",
 	        "url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd",
 		"userAgent" : ""
@@ -253,6 +258,16 @@
            "url" :  "https://www.tutele.sx/online.php?a=4264",
 			 "isHost":"true"
                       }, {
+			"name": "Claro Sports | LAT",
+			"image": "https://i.imgur.com/BAHebvo.png",
+	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "Gol Tv Ecuador | LAT",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
+		"userAgent" : ""
+                    }, {
 			"name": "PPV Ultra Total | ES",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
