@@ -15,54 +15,54 @@
                 "url": "https://wowlive.info/",
                 "embed":"true"  
           }, {
-			"name": "Sport Online PPV 1",
+			"name": "Sport Online PPV 1 | EN",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd1.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 2",
+			"name": "Sport Online PPV 2 | EN",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd2.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 3",
+			"name": "Sport Online PPV 3 | DE",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd3.php",
             "isHost" : "true"
             },  {
-			"name": "Sport Online PPV 4",
+			"name": "Sport Online PPV 4 | FR",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd4.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 5",
+			"name": "Sport Online PPV 5 | EN",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd5.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 6",
+			"name": "Sport Online PPV 6 | ES",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd6.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 7",
+			"name": "Sport Online PPV 7 | IT",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd7.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 8",
+			"name": "Sport Online PPV 8 EN",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd8.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 9",
-			"image": "https://i.imgur.com/BfRUaQD.png",
-			"url":"https://v2.sportsonline.to/channels/hd/hd9.php",
+			"name": "c787898 PPV 1",
+			"image": "https://i.imgur.com/QVaPPqr.png",
+			"url":"https://c787898.com/embed.php?id=live1",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 10",
-			"image": "https://i.imgur.com/BfRUaQD.png",
-			"url":"https://v2.sportsonline.to/channels/hd/hd10.php",
+			"name": "c787898 PPV 2",
+			"image": "https://i.imgur.com/QVaPPqr.png",
+			"url":"https://c787898.com/embed.php?id=live2",
             "isHost" : "true"
             }, {
 			"name": "Estadio TNT Chile | LAT",
