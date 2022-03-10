@@ -338,7 +338,44 @@
                     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
                      "url": "http://emb.x177234.apl118.me/player/live.php?id=177234&w=728&h=450",
                "isHost" : "true"
-                 },
+                 }, {
+			"name": "Sport Tv 1 | BR",
+			"image": "https://i.imgur.com/uHkR0lP.png",
+			"url": "https://v2.sportsonline.to/channels/pt/sporttv1.php",
+             "isHost": "true"
+             }, {
+			"name": "Sport Tv 1 | BR",
+			"image": "https://i.imgur.com/uHkR0lP.png",
+			"url": "https://www.tutele.sx/online.php?a=11",
+             "isHost": "true"
+             }, {
+					"name": "Sport Tv 1 | BR",
+					"image": "https://i.imgur.com/uHkR0lP.png",
+					"url": "https://wigistream.to/embed/q89fq6f2q",
+			    	"referer":"https://c787898.com/",
+					"desktop": "true",
+					"isHost": "true"
+					
+				}, {
+							"name": "Sport Tv 1 | BR",
+							"image": "https://i.imgur.com/uHkR0lP.png",
+							"url": "http://wigistream.to/embed/tekhw2v",
+				        	"referer":"https://starlive.xyz/",
+				        	"desktop": "true",
+				        	"isHost": "true"
+							
+
+						}, {
+			"name": "Sport Tv 2 | BR",
+			"image": "https://i.imgur.com/GGVYfbU.png",
+			"url": "https://v2.sportsonline.to/channels/pt/sporttv2.php",
+             "isHost": "true"
+             },  {
+			"name": "Sport Tv 3 | BR",
+			"image": "https://i.imgur.com/tvCMAD0.png",
+			"url": "https://v2.sportsonline.to/channels/pt/sporttv3.php",
+             "isHost": "true"
+             }, 
 		 
 		 
 		 
