@@ -10,9 +10,14 @@
  "stations": [
 
  {
-                "name": "AGENDA DEPORTIVA",
+                "name": "AGENDA DEPORTIVA 1",
                               "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
                 "url": "https://wowlive.info/",
+                "embed":"true"  
+          }, {
+                "name": "AGENDA DEPORTIVA 2",
+                              "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
+                "url": "https://starlive.xyz/",
                 "embed":"true"  
           }, {
 			"name": "Sport Online PPV 1 | UK 🇬🇧",
