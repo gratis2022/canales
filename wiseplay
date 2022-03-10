@@ -115,6 +115,81 @@
 			"url":"https://c787898.com/embed.php?id=live30",
             "isHost" : "true"
             }, {
+			"name": "Eventos en Vivo PPV 1 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live1",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 2 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live2",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 3 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live3",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 4 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live4",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 5 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live5",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 6 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live6",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 7 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live7",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 8 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live8",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 9 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live9",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 12 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live12",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 18 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live18",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 19 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live19",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 27 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live27",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 28 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live28",
+            "isHost" : "true"
+            }, {
+			"name": "Eventos en Vivo PPV 30 | ES 🇪🇸",
+			"image": "https://i.imgur.com/wgkcLJn.png",
+			"url":"https://starlive.xyz/embed.php?id=live30",
+            "isHost" : "true"
+            },  {
 			"name": "Estadio TNT Chile | LAT",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
@@ -462,12 +537,22 @@
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "PPV Ultra Total | ES",
+			"name": "PPV Ultra Total | ES 🇪🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "PPV Ultra Total | ES",
+			"name": "PPV la Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/X3LlIhz.png",
+			"url":"https://starlive.xyz/embed.php?id=liveliga",
+            "isHost" : "true"
+            }, {
+			"name": "PPV la Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/X3LlIhz.png",
+			"url":"https://starlive.xyz/embed.php?id=liveligacamp",
+            "isHost" : "true"
+            }, {
+			"name": "PPV Ultra Total | ES 🇪🇸",
 			"image": "https://i.imgur.com/F7rt7u0.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
 		"userAgent" : ""
