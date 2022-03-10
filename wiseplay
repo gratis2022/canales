@@ -155,6 +155,16 @@
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
                       }, {
+			"name": "ESPN 4 ARGENTINA | LAT",
+			"image": "https://i.imgur.com/G9nJy7y.png",
+	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "ESPN EXTRA ARGENTINA | LAT",
+			"image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
+	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8",
+		"userAgent" : ""
+                    }, {
 			"name": "FOX SPORTS ARGENTINA | LAT",
 			"image": "https://i.imgur.com/CF5il5c.png",
 			 "url": "https://iraffletv.com/match/pl5.php",
