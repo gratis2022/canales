@@ -192,6 +192,11 @@
                     }, {
 			"name": "FOX SPORTS ARGENTINA | LAT",
 			"image": "https://i.imgur.com/CF5il5c.png",
+	        "url": "http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "FOX SPORTS ARGENTINA | LAT",
+			"image": "https://i.imgur.com/CF5il5c.png",
 			 "url": "https://iraffletv.com/match/pl5.php",
 			"referer": "https://iraffletv.com",
              "isHost": "true"
@@ -213,6 +218,11 @@
 		"userAgent" : ""
                     }, {
 			"name": "FOX SPORTS 2 ARGENTINA | LAT",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
+	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "FOX SPORTS 2 ARGENTINA | LAT",
              "image": "https://i.imgur.com/t2Wn2rO.png",
            "url" :  "https://pelotero.net/ver/foxsports2.php",
 	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
@@ -226,6 +236,11 @@
 			"name": "FOX SPORTS 2 MEXICO | LAT",
 			"image": "https://i.imgur.com/t2Wn2rO.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+		"userAgent" : ""
+                    }, {
+			"name": "FOX SPORTS 3 ARGENTINA | LAT",
+			"image": "https://i.imgur.com/VxIZXH9.png",
+	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8",
 		"userAgent" : ""
                     }, {
 			"name": "FOX SPORTS 3 MEXICO | LAT",
