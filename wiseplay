@@ -357,6 +357,15 @@
 					"isHost": "true"
 					
 				}, {
+							"name": "Sport Tv 1 | BR",
+							"image": "https://i.imgur.com/uHkR0lP.png",
+							"url": "http://wigistream.to/embed/tekhw2v",
+				        	"referer":"https://starlive.xyz/",
+				        	"desktop": "true",
+				        	"isHost": "true"
+							
+
+						}, {
 			"name": "Sport Tv 2 | BR",
 			"image": "https://i.imgur.com/GGVYfbU.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv2.php",
