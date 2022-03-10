@@ -15,27 +15,27 @@
                 "url": "https://wowlive.info/",
                 "embed":"true"  
           }, {
-			"name": "Sport Online PPV 1 | EN",
+			"name": "Sport Online PPV 1 | UK 🇬🇧",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd1.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 2 | EN",
+			"name": "Sport Online PPV 2 | UK 🇬🇧",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd2.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 3 | DE",
+			"name": "Sport Online PPV 3 | DE 🇩🇪",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd3.php",
             "isHost" : "true"
             },  {
-			"name": "Sport Online PPV 4 | FR",
+			"name": "Sport Online PPV 4 | FR 🇫🇷",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd4.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 5 | EN",
+			"name": "Sport Online PPV 5 | UK 🇬🇧",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd5.php",
             "isHost" : "true"
@@ -45,52 +45,52 @@
 			"url":"https://v2.sportsonline.to/channels/hd/hd6.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 7 | IT",
+			"name": "Sport Online PPV 7 | IT 🇮🇹",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd7.php",
             "isHost" : "true"
             }, {
-			"name": "Sport Online PPV 8 | EN",
+			"name": "Sport Online PPV 8 | UK 🇬🇧",
 			"image": "https://i.imgur.com/BfRUaQD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd8.php",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 1 | IT",
+			"name": "c787898 PPV 1 | IT 🇮🇹",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live1",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 2 | IT",
+			"name": "c787898 PPV 2 | IT 🇮🇹",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live2",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 4 | IT",
+			"name": "c787898 PPV 4 | IT 🇮🇹",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live4",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 5 | PT",
+			"name": "c787898 PPV 5 | PT 🇮🇹",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 6 | UK",
+			"name": "c787898 PPV 6 | UK 🇬🇧",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 7 | UK",
+			"name": "c787898 PPV 7 | UK 🇬🇧",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live7",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 8 | UK",
+			"name": "c787898 PPV 8 | UK 🇬🇧",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live8",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 9 | UK",
+			"name": "c787898 PPV 9 | UK 🇬🇧",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live9",
             "isHost" : "true"
@@ -100,7 +100,7 @@
 			"url":"https://c787898.com/embed.php?id=live10",
             "isHost" : "true"
             }, {
-			"name": "c787898 PPV 11 | UK",
+			"name": "c787898 PPV 11 | UK 🇬🇧",
 			"image": "https://i.imgur.com/QVaPPqr.png",
 			"url":"https://c787898.com/embed.php?id=live11",
             "isHost" : "true"
