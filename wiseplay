@@ -110,52 +110,52 @@
            "url" :  "https://www.tutele.sx/online.php?a=8",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN | LAT",
+			"name": "ESPN ARGENTINA | LAT",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://pelotero.net/ver/espn.php",
 	   "referer": "https://cablegratis.online/espn-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN | LAT",
+			"name": "ESPN ARGENTINA | LAT",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://www.tutele.sx/online.php?a=1",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 | LAT",
+			"name": "ESPN 2 ARGENTINA | LAT",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
 	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 | LAT",
+			"name": "ESPN 2 ARGENTINA | LAT",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://www.tutele.sx/online.php?a=2",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 | LAT",
+			"name": "ESPN 3 ARGENTINA | LAT",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://pelotero.net/ver/espn3.php",
 	   "referer": "https://cablegratis.online/espn-3-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 | LAT",
+			"name": "ESPN 3 ARGENTINA | LAT",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS | LAT",
+			"name": "FOX SPORTS ARGENTINA | LAT",
 			"image": "https://i.imgur.com/CF5il5c.png",
 			 "url": "https://iraffletv.com/match/pl5.php",
 			"referer": "https://iraffletv.com",
              "isHost": "true"
                      }, {
-			"name": "FOX SPORTS | LAT",
+			"name": "FOX SPORTS ARGENTINA | LAT",
              "image": "https://i.imgur.com/CF5il5c.png",
            "url" :  "https://pelotero.net/ver/foxsports.php",
 	   "referer": "https://cablegratis.online/fox-sports-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS | LAT",
+			"name": "FOX SPORTS ARGENTINA | LAT",
              "image": "https://i.imgur.com/CF5il5c.png",
            "url" :  "https://www.tutele.sx/online.php?a=132",
 			 "isHost":"true"
@@ -165,13 +165,13 @@
 	        "url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
 		"userAgent" : ""
                     }, {
-			"name": "FOX SPORTS 2 | LAT",
+			"name": "FOX SPORTS 2 ARGENTINA | LAT",
              "image": "https://i.imgur.com/t2Wn2rO.png",
            "url" :  "https://pelotero.net/ver/foxsports2.php",
 	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS 2 | LAT",
+			"name": "FOX SPORTS 2 ARGENTINA | LAT",
              "image": "https://i.imgur.com/t2Wn2rO.png",
            "url" :  "https://www.tutele.sx/online.php?a=133",
 			 "isHost":"true"
@@ -327,17 +327,17 @@
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
                       }, {
-			"name": "BT Sports| UK",
+			"name": "BT Sports | UK",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd2.php",
 			 "isHost":"true"
                       },  {
-			"name": "BT Sports| UK",
+			"name": "BT Sports | UK",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
            "url" :  "https://c787898.com/embed.php?id=live6",
 			 "isHost":"true"
                       },  {
-			"name": "BT Sports| UK",
+			"name": "BT Sports | UK",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",
            "url" :  "https://c787898.com/embed.php?id=live7",
 			 "isHost":"true"
@@ -352,32 +352,32 @@
            "url" :  "https://www.tutele.sx/online.php?a=187",
 			 "isHost":"true"
                       }, {
-			"name": "Super Sport Football| EN",
+			"name": "Super Sport Football | EN",
              "image": "https://i.imgur.com/fveUEaL.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
 			 "isHost":"true"
                       }, {
-			"name": "Super Sport Football| EN",
+			"name": "Super Sport Football | EN",
              "image": "https://i.imgur.com/fveUEaL.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true"
                       }, {
-			"name": "Super Sport Football| EN",
+			"name": "Super Sport Football | EN",
              "image": "https://i.imgur.com/fveUEaL.png",
            "url" :  "https://www.tutele.sx/online.php?a=186",
 			 "isHost":"true"
                       }, {
-			"name": "SKY Sports| IT",
+			"name": "SKY Sports | IT",
              "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
            "url" :  "https://c787898.com/embed.php?id=live1",
 			 "isHost":"true"
                       }, {
-			"name": "SKY Sports| IT",
+			"name": "SKY Sports | IT",
              "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
            "url" :  "https://c787898.com/embed.php?id=live2",
 			 "isHost":"true"
                       }, {
-			"name": "SKY Sports| IT",
+			"name": "SKY Sports | IT",
              "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
            "url" :  "https://c787898.com/embed.php?id=live3",
 			 "isHost":"true"
