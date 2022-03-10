@@ -239,7 +239,13 @@
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
-             }, {
+             },  {
+			"name": "Win Sports Plus | LAT",
+			"image": "https://i.imgur.com/NwKPC6B.png",
+          "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+                     }, {
 			"name": "TUDN | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://www.tutele.sx/online.php?a=17",
