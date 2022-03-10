@@ -434,6 +434,11 @@
            "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
 			 "isHost":"true"
                       }, {
+			"name": "pruebaE",
+             "image": "https://i.imgur.com/jq1s4to.png",
+           "url" :  "https://megatelevisionhd.com/eventos/?r=Ly9tZWdhdGVsZXZpc2lvbmhkLmNvbS9lbWJlZC9mc214Lmh0bWw/Z2V0PUx5OW1iM2d0WldSblpURXRiWGd1ZEdKNFpISnRMbU52YlM5dGVHWnZlSE53YjNKMGN6RXZiV0Z1YVdabGMzUXViWEJr.htlm",
+			 "isHost":"true"
+                      }, {
 			"name": "RMC Sports | FR",
              "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd4.php",
