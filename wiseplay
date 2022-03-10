@@ -2,7 +2,7 @@
 
 "name": "Solo Futbol",
  "author": "Wiseplay 2022",
- "image": "https://st1.uvnimg.com/98/09/e50cc2f040b4b860ad18a0aa19c0/2013-2014-uefa-champions-league-adidas-finale-lisbon-official-final-match-ball.png",
+ "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/gratis2022/canales/main/wiseplay",
 
@@ -357,14 +357,14 @@
            "url" :  "https://c787898.com/embed.php?id=live3",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 | AL",
+			"name": "ESPN 2 | DE",
              "image": "https://i.imgur.com/jq1s4to.png",
-           "url" :  "ttps://v2.sportsonline.to/channels/hd/hd3.php",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
 			 "isHost":"true"
                       }, {
 			"name": "RMC Sports | FR",
              "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
-           "url" :  "ttps://v2.sportsonline.to/channels/hd/hd4.php",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd4.php",
 			 "isHost":"true"
                       }
 
