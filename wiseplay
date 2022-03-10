@@ -1,6 +1,6 @@
 {
 
-"name": "⚽ SOLO FUTBOL ⚽",
+"name": "⚽ SOLO DEPORTES ⚽",
  "author": "📺 Dale Play TV 📺",
  "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
     "info": "Enlaces encontrados en internet",
@@ -377,7 +377,23 @@
                   "url": "https://www.tutele.sx/online.php?a=4303",
                   "referer" : "https://telefullenvivo.com/",
 			"isHost": "true"
-                    }, {
+                    }, {   
+			"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+              "url" : "https://www.tutele.sx/online.php?a=3881",
+			 "referer" : "https://telefullenvivo.com/",
+                    "isHost" : "true"
+        }, {
+			"name": "Formula 1-Inglés",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+            "url" : "http://ufckhabib.com/f1/formula1-stream.php",
+			"isHost": "true"
+		}, {
+			"name": "Formula 1-Inglés",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+            "url" : "http://timesports.cc/skysportsformula1.php",
+			"isHost": "true"
+                     }, {
 			"name": "Sport Tv 1 | BR",
 			"image": "https://i.imgur.com/uHkR0lP.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv1.php",
