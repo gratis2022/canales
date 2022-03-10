@@ -328,7 +328,24 @@
         "url" : "https://maxsport.one/laliga.php",
                "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
-                 }, {
+                 }, { 
+                "name": "Gol Tv | ES",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
+                "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+                "referer":"https://elixx.xyz/", 
+                "desktop": "true",
+                "isHost":"true"
+                
+               
+                
+          }, {
+                "name": "Gol Tv | ES",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
+                "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
+                "referer":"https://sportsonline.to/channels/hd/hd6.php", 
+                "desktop": "true",
+                 "isHost":"true"
+          },{
 			"name": "DAZN Formula 1 | ES",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
 			"url": "https://starlive.xyz/embed.php?id=live30",
