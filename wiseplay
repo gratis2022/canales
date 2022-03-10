@@ -414,6 +414,12 @@
 					"isHost": "true"			
 										
 				}, {
+							"name": ""Super Sport La Liga | EN",
+							"image": "https://i.imgur.com/fveUEaL.png",
+							"url": "http://pepperlive.info/sportp.php?id=11",
+							"isHost": "true"
+
+						}, {
 			"name": "Super Sport Premier League | EN",
              "image": "https://i.imgur.com/fveUEaL.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
