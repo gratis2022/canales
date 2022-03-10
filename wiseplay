@@ -890,17 +890,7 @@
 			    	"referer":"https://c787898.com/",
 					"desktop": "true",
 					"isHost": "true"			
-				}, {
-			"name": "ESPN 2 | DE",
-             "image": "https://i.imgur.com/jq1s4to.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
-			 "isHost":"true"
-                      }, {
-			"name": "RMC Sports | FR",
-             "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd4.php",
-			 "isHost":"true"
-                      }
+				}
 
 
 	     
