@@ -450,6 +450,13 @@
 		    		"desktop": "true",
 					"isHost": "true"
 				}, {
+					"name": "Bein Sport 1 | FR",
+					"image": "https://i.imgur.com/yHencFB.png",
+					"url": "https://www.tutele.sx/online.php?a=3108",
+					"referer":"https://1rowsports.com/online/",
+		    		"desktop": "true",
+					"isHost": "true"
+				}, {
 					"name": "Bein Sport 2 | FR",
 					"image": "https://i.imgur.com/rd26zS1.png",
 					"url": "https://cloudstream.to/e/b8c220941xkgu",
@@ -457,9 +464,23 @@
 		    		"desktop": "true",
 					"isHost": "true"
 				}, {
+					"name": "Bein Sport 2 | FR",
+					"image": "https://i.imgur.com/rd26zS1.png",
+					"url": "https://www.tutele.sx/online.php?a=3109",
+					"referer":"https://1rowsports.com/online/",
+		    		"desktop": "true",
+					"isHost": "true"
+				}, {
 					"name": "Bein Sport 3 | FR",
 					"image": "https://i.imgur.com/zrXyq44.png",
 					"url": "https://cloudstream.to/e/3j14abyh",
+					"referer":"https://1rowsports.com/online/",
+		    		"desktop": "true",
+					"isHost": "true"
+				}, {
+					"name": "Bein Sport 3 | FR",
+					"image": "https://i.imgur.com/zrXyq44.png",
+					"url": "ttps://www.tutele.sx/online.php?a=3110",
 					"referer":"https://1rowsports.com/online/",
 		    		"desktop": "true",
 					"isHost": "true"
