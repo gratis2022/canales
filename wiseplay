@@ -63,6 +63,12 @@
              }, {
 			"name": "Bein Sport Ñ | LAT",
 			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://starlive.xyz/embed.php?id=live10m",
+            "referer" : "https://starlive.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "Bein Sport Ñ | LAT",
+			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://c787898.com/embed.php?id=live10",
             "referer" : "https://c787898.com.html",
              "isHost": "true"
