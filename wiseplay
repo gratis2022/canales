@@ -15,11 +15,6 @@
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
             "isHost" : "true"
             }, {
-			"name": "Estadio TNT Chile | LAT",
-			"image": "https://i.imgur.com/ma78IEH.png",
-			"url": "https://freelive365.nl/player2.php?id=11&code=126&evento=chile",
-			"isHost": "true" 
-             }, {
                 "name": "TNT Sports Chile | LAT",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/cdf.php",
@@ -37,6 +32,11 @@
 			"url":"https://www.tutele.sx/online.php?a=4",
             "isHost" : "true"
             }, {
+			"name": "TNT Sports Chile | LAT",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url": "https://freelive365.nl/player2.php?id=11&code=126&evento=chile",
+			"isHost": "true" 
+             }, {
 			"name": "TNT Sports Argentina | LAT",
              "image": "https://i.imgur.com/TTaCeXw.png",
            "url" :  "https://pelotero.net/ver/tntsports.php",
