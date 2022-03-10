@@ -208,6 +208,11 @@
 			 "isHost":"true"
                       }, {
 			"name": "TYC Sports | LAT",
+			"image": "https://i.imgur.com/I7Lhgej.png",
+	        "url": "https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "TYC Sports | LAT",
              "image": "https://i.imgur.com/I7Lhgej.png",
            "url" :  "https://pelotero.net/ver/tycsports.php",
 	   "referer": "https://cablegratis.online/tyc-sports-en-vivo-gratis.html",
