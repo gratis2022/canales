@@ -241,6 +241,7 @@
 			"name": "Ultra Total | ES",
 			"image": "https://i.imgur.com/F7rt7u0.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
+		"userAgent" : ""
                     }, {
 			"name": "Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
