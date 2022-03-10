@@ -220,6 +220,11 @@
 			 "isHost":"true"
                       }, {
 			"name": "TUDN | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://www.tutele.sx/online.php?a=17",
+			 "isHost":"true"
+                      }, {
+			"name": "TUDN | LAT",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url": "https://starlive.xyz/embed.php?id=live5",
             "referer" : "https://starlive.xyz/",
@@ -235,11 +240,6 @@
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://pelotero.net/ver/tudn.php",
 	   "referer": "https://cablegratis.online/tudn-en-vivo.html",
-			 "isHost":"true"
-                      }, {
-			"name": "TUDN | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://www.tutele.sx/online.php?a=17",
 			 "isHost":"true"
                       }, {
 			"name": "VTV Plus | LAT",
@@ -263,30 +263,30 @@
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "Liga de Campeones | ES",
+			"name": "Movistar Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 	        "url": "http://emb.apl118.me/player/live.php?id=177258&w=728&h=450/",
              "isHost": "true" 
                     }, {
-			"name": "Liga de Campeones | ES",
+			"name": "Movistar Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
              }, {
-			"name": "Liga de Campeones | ES",
+			"name": "Movistar Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 			"url": "https://ragnarp.net/embed/tq24aomq",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
              },  {
-			"name": "Liga de Campeones | ES",
+			"name": "Movistar Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "Liga de Campeones | ES",
+			"name": "Movistar Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
         "url" : "https://maxsport.one/laliga.php",
                "referer" : "http://cdn.livetv507.me/",
