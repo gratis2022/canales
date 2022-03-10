@@ -14,9 +14,57 @@
                               "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
                 "url": "https://wowlive.info/",
                 "embed":"true"  
-          },
-
- {
+          }, {
+			"name": "Sport Online Evento 1",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd1.php",
+            "isHost" : "true"
+            }, {
+			"name": "Sport Online Evento 2",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd2.php",
+            "isHost" : "true"
+            }, {
+			"name": "Sport Online Evento 3",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd3.php",
+            "isHost" : "true"
+            },  {
+			"name": "Sport Online Evento 4",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd4.php",
+            "isHost" : "true"
+            }, {
+			"name": "Sport Online Evento 5",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd5.php",
+            "isHost" : "true"
+            }, {
+			"name": "Sport Online Evento 6",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd6.php",
+            "isHost" : "true"
+            }, {
+			"name": "Sport Online Evento 7",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd7.php",
+            "isHost" : "true"
+            }, {
+			"name": "Sport Online Evento 8",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd8.php",
+            "isHost" : "true"
+            }, {
+			"name": "Sport Online Evento 9",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd9.php",
+            "isHost" : "true"
+            }, {
+			"name": "Sport Online Evento 10",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd10.php",
+            "isHost" : "true"
+            }, {
 			"name": "Estadio TNT Chile | LAT",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
