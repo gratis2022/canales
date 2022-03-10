@@ -238,7 +238,12 @@
            "url" :  "https://www.tutele.sx/online.php?a=4264",
 			 "isHost":"true"
                       }, {
-			"name": "Ultra Total | ES",
+			"name": "PPV Ultra Total | ES",
+			"image": "https://i.imgur.com/X3LlIhz.png",
+	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "PPV Ultra Total | ES",
 			"image": "https://i.imgur.com/F7rt7u0.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
 		"userAgent" : ""
