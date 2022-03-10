@@ -1,9 +1,10 @@
-  
+
+   
 {
 
-"name": "Solo Futbol",
- "author": "Wiseplay 2022",
- "image": "https://st1.uvnimg.com/98/09/e50cc2f040b4b860ad18a0aa19c0/2013-2014-uefa-champions-league-adidas-finale-lisbon-official-final-match-ball.png",
+"name": "⚽ SOLO FUTBOL ⚽",
+ "author": "📺 Dale Play 📺",
+ "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/gratis2022/canales/main/wiseplay",
 
@@ -204,11 +205,6 @@
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://www.tutele.sx/online.php?a=3305",
 			 "isHost":"true"
-                      },  {
-			"name": "TUDN | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://www.tutele.sx/online.php?a=17",
-			 "isHost":"true"
                       }, {
 			"name": "TUDN | LAT",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
@@ -228,6 +224,11 @@
 	   "referer": "https://cablegratis.online/tudn-en-vivo.html",
 			 "isHost":"true"
                       }, {
+			"name": "TUDN | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://www.tutele.sx/online.php?a=17",
+			 "isHost":"true"
+                      }, {
 			"name": "VTV Plus | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
            "url" :  "https://pelotero.net/ver/vtv.php",
@@ -241,12 +242,6 @@
                       }, {
 			"name": "Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
-			"url": "https://ragnarp.net/embed/tq24aomq",
-            "referer" : "https://macron.xyz/",
-             "isHost": "true"
-             }, {
-			"name": "Liga de Campeones | ES",
-			"image": "https://i.imgur.com/6Mnilfu.png",
 	        "url": "http://emb.apl118.me/player/live.php?id=177258&w=728&h=450/",
              "isHost": "true" 
                     }, {
@@ -256,6 +251,12 @@
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
              }, {
+			"name": "Liga de Campeones | ES",
+			"image": "https://i.imgur.com/6Mnilfu.png",
+			"url": "https://ragnarp.net/embed/tq24aomq",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+             },  {
 			"name": "Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
@@ -290,17 +291,17 @@
              }, {
 			"name": "Bein Sport | EN",
              "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://starlive.xyz/embed.php?id=live11",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sport | EN",
+             "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://c787898.com/embed.php?id=live11",
 			 "isHost":"true"
                       }, {
 			"name": "Bein Sport | EN",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
-			 "isHost":"true"
-                      }, {
-			"name": "Bein Sport | EN",
-             "image": "https://i.imgur.com/XpU4D9m.png",
-           "url" :  "https://starlive.xyz/embed.php?id=live11",
 			 "isHost":"true"
                       }, {
 			"name": "BT Sports| UK",
@@ -366,11 +367,6 @@
 			"name": "RMC Sports | FR",
              "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd4.php",
-			 "isHost":"true"
-                      }, {
-			"name": "fox sports mx | FR",
-             "image": "https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",
-           "url" :  "https://megatelevisionhd.com/eventos/?r=Ly9sb2dpMWxhdXQ0cjAuc29sdXRpb25zL2l6emkvY2xhcHByLmh0bWw/Z2V0PUx5OWtNbk0zYkRkbU5XOWtZbWgxT1M1amJHOTFaR1p5YjI1MExtNWxkQzl2ZFhRdmRTOWtZWE5vTDBaUFdDMVRVRTlTVkZNdFNFUXZaR1ZtWVhWc2RDNXRjR1E9",
 			 "isHost":"true"
                       }
 
