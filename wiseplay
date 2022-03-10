@@ -366,9 +366,12 @@
             "referer" : "https://telefullenvivo.com/canales/dazn1/",
 				"desktop": "true",
 				"isHost": "true"
-
-
-		   	}, {
+			}, {
+                    "name": "DAZN 1 | ES",
+                    "image": "https://i.imgur.com/BTAedu6.jpg",
+			   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=sdazn1",
+             "isHost": "true"
+                      }, {
 			"name": "Sport Tv 1 | BR",
 			"image": "https://i.imgur.com/uHkR0lP.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv1.php",
