@@ -511,7 +511,14 @@
 			"image": "https://i.imgur.com/1o92EFs.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
-            }, {
+            },  {
+			"name": "Gol TV | ES",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
+			"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
+			 "referer":"", 
+                            "desktop": "true", 
+			"isHost": "true"
+						}, {
 			"name": "Gol TV | ES",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
 			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
@@ -531,15 +538,7 @@
                 "referer":"https://sportsonline.to/channels/hd/hd6.php", 
                 "desktop": "true",
                  "isHost":"true" 
-		 },  {
-							"name": "Gol TV | ES",
-							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
-							"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
-						    "referer":"", 
-                            "desktop": "true", 
-							"isHost": "true"
-							
-						}, {
+		 }, {
                 "name": "Liga de Campeones por M+ | ES",
                 "image": "https://i.imgur.com/wiLQCUD.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
