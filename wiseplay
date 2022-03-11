@@ -664,6 +664,11 @@
                "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
                  }, {
+			"name": "TDP | ES",
+			"image": "https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",
+	        "url": "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940",
+		"userAgent" : ""
+                    }, {
 			"name": "Deportes por M+ | ES",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://starlive.xyz/embed.php?id=live27",
@@ -672,11 +677,6 @@
 			"name": "Deportes por M+ | ES",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://c787898.com/embed.php?id=live27",
-		"userAgent" : ""
-                    }, {
-			"name": "TDP | ES",
-			"image": "https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",
-	        "url": "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940",
 		"userAgent" : ""
                     }, {
 		   		"name": "DAZN 1 | ES",
