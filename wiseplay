@@ -740,47 +740,7 @@
 			"image": "https://i.imgur.com/0AaObag.png",
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
-                     },  {
-			"name": "ESPN | BR",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-			"url": "https://v2.sportsonline.to/channels/bra/br1.php",
-             "isHost": "true"
-             },  {
-			"name": "ESPN 2 | BR",
-			"image": "https://i.imgur.com/jq1s4to.png",
-			"url": "https://v2.sportsonline.to/channels/bra/br2.php",
-             "isHost": "true"
-             }, {
-			"name": "Sport Tv 1 | PT",
-			"image": "https://i.imgur.com/uHkR0lP.png",
-			"url": "https://v2.sportsonline.to/channels/pt/sporttv1.php",
-             "isHost": "true"
-             }, {
-			"name": "Sport Tv 1 | PT",
-			"image": "https://i.imgur.com/uHkR0lP.png",
-			"url": "https://www.tutele.sx/online.php?a=11",
-             "isHost": "true"
-             }, {
-			"name": "Sport Tv 2 | PT",
-			"image": "https://i.imgur.com/GGVYfbU.png",
-			"url": "https://v2.sportsonline.to/channels/pt/sporttv2.php",
-             "isHost": "true"
-             }, {
-			"name": "Sport Tv 3 | PT",
-			"image": "https://i.imgur.com/tvCMAD0.png",
-			"url": "https://v2.sportsonline.to/channels/pt/sporttv3.php",
-             "isHost": "true"
-             }, {
-			"name": "Sport Tv 4 | PT",
-			"image": "https://i.imgur.com/hsFXLeF.png",
-			"url": "https://v2.sportsonline.to/channels/pt/sporttv4.php",
-             "isHost": "true"
-             }, {
-			"name": "Sport Tv 5 | PT",
-			"image": "https://i.imgur.com/PcK7Dub.png",
-			"url": "https://v2.sportsonline.to/channels/pt/sporttv5.php",
-             "isHost": "true"
-             }, {
+                     }, {
 			"name": "Bein Sports HD | EN",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://starlive.xyz/embed.php?id=live19",
