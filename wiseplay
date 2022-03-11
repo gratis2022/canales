@@ -261,6 +261,11 @@
              "isHost": "true"
              }, {
 			"name": "Bein Sport Ñ | LAT",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+            "url" : "http://timesports.cc/beinsportes.php",
+			"isHost": "true"
+                     }, {
+			"name": "Bein Sport Ñ | LAT",
              "image": "https://i.imgur.com/c4gfwhr.png",
            "url" :  "https://pelotero.net/ver/beinsports.php",
 	   "referer": "https://cablegratis.online/bein-sports-en-vivo.html",
