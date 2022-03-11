@@ -595,6 +595,11 @@
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
+                      },  {
+			"name": "Super La Liga | EN",
+             "image": "https://i.imgur.com/MnZnAPI.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
+			 "isHost":"true"
                       }
 
 
