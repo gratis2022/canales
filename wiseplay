@@ -674,6 +674,11 @@
 	        "url": "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940",
 		"userAgent" : ""
                     }, {
+			"name": "World Padel Tour Tv | ES",
+			"image": "https://i.imgur.com/0r7t82v.jpg",
+	        "url": "https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8",
+		"userAgent" : ""
+                    }, {
 			"name": "Deportes por M+ | ES",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://starlive.xyz/embed.php?id=live27",
