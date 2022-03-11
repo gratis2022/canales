@@ -1,6 +1,6 @@
 {
 
-"name": "⚽DEPORTES EN ESPAÑOL⚽",
+"name": "⚽SOLO DEPORTES⚽",
  "author": "📺Dale Play TV (actualizado 10/03/2022)📺",
  "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
     "info": "Enlaces encontrados en internet",
@@ -678,24 +678,6 @@
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://c787898.com/embed.php?id=live27",
 		"userAgent" : ""
-                    }, {
-		   		"name": "DAZN 1 | ES",
-		   		"image": "https://i.imgur.com/BTAedu6.jpg",
-		   		"url": "https://www.tutele.sx/online.php?a=3829",
-            "referer" : "https://telefullenvivo.com/canales/dazn1/",
-				"desktop": "true",
-				"isHost": "true"
-			}, {
-                    "name": "DAZN 1 | ES",
-                    "image": "https://i.imgur.com/BTAedu6.jpg",
-			   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=sdazn1",
-             "isHost": "true"
-                      }, { 
-                 "name": "DAZN 2 | ES",
-                    "image": "https://i.imgur.com/dc00DUX.png",
-                  "url": "https://www.tutele.sx/online.php?a=4303",
-                  "referer" : "https://telefullenvivo.com/",
-			"isHost": "true"
                     }, {
 			"name": "DAZN Formula 1 | ES",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
