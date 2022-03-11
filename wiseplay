@@ -381,64 +381,64 @@
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "PPV Ultra Total | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
+			"name": "La Liga por M+ 1 | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
 		"userAgent" : ""
                     }, {
-					"name": "La Liga por M+ 1 | ES 🇪🇸",
+					"name": "La Liga por M+ 2 | ES 🇪🇸",
 					"image": "https://i.imgur.com/PoAUHmh.png",
 					"url": "https://wigistream.to/embed/q89fq6f2q",
 			    	"referer":"https://c787898.com/",
 					"desktop": "true",
 					"isHost": "true"
 				}, {
-			"name": "La Liga por M+ 2 | ES 🇪🇸",
+			"name": "La Liga por M+ 3 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 3 | ES 🇪🇸",
+			"name": "La Liga por M+ 4 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 4 | ES 🇪🇸",
+			"name": "La Liga por M+ 5 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 5 | ES 🇪🇸",
+			"name": "La Liga por M+ 6 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 6 | ES 🇪🇸",
+			"name": "La Liga por M+ 7 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 7 | ES 🇪🇸",
+			"name": "La Liga por M+ 8 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 8 | ES 🇪🇸",
+			"name": "La Liga por M+ 9 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd6.php",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 9 | ES 🇪🇸",
+			"name": "La Liga por M+ 10 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=liveliga",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 10 | ES 🇪🇸",
+			"name": "La Liga por M+ 11 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=liveligacamp",
             "isHost" : "true"
             }, {
-							"name": "La Liga por M+ 11 | ES 🇪🇸",
+							"name": "La Liga por M+ 12 | ES 🇪🇸",
 							"image": "https://i.imgur.com/PoAUHmh.png",
 							"url": "http://wigistream.to/embed/tekhw2v",
 				        	"referer":"https://starlive.xyz/",
