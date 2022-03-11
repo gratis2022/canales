@@ -75,7 +75,7 @@
 			"url":"https://c787898.com/embed.php?id=live4",
             "isHost" : "true"
             }, {
-			"name": "PPV 5 | PT 🇵🇹",
+			"name": "PPV 5 | PT - ES 🇵🇹 🇪🇸 ",
 			"image": "https://i.imgur.com/RFEEMTy.png",
 			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
@@ -547,6 +547,11 @@
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
 		"userAgent" : ""
                     }, {
+			"name": "PPV la Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/X3LlIhz.png",
+			"url":"https://starlive.xyz/embed.php?id=live5",
+            "isHost" : "true"
+            }, {
 			"name": "PPV la Liga | ES 🇪🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 			"url":"https://starlive.xyz/embed.php?id=liveliga",
