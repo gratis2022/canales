@@ -563,7 +563,17 @@
             }, {
 			"name": "PPV la Liga | ES 🇪🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
+			"url":"https://starlive.xyz/embed.php?id=live6",
+            "isHost" : "true"
+            }, {
+			"name": "PPV la Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/X3LlIhz.png",
 			"url":"https://c787898.com/embed.php?id=live5",
+            "isHost" : "true"
+            }, {
+			"name": "PPV la Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/X3LlIhz.png",
+			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
 			"name": "PPV la Liga | ES 🇪🇸",
@@ -627,6 +637,11 @@
 			"name": "BAR Tv | ES",
 			"image": "https://i.imgur.com/Y8Ixxx3.png",
 	        "url": "https://c787898.com/embed.php?id=live6",
+		"userAgent" : ""
+                    },  {
+			"name": "BAR Tv | ES",
+			"image": "https://i.imgur.com/Y8Ixxx3.png",
+	        "url": "https://starlive.xyz/embed.php?id=live6",
 		"userAgent" : ""
                     }, {
 			"name": "TDP | ES",
