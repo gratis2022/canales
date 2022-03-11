@@ -245,13 +245,13 @@
              }, {
 			"name": "Bein Sport Ñ | LAT",
 			"image": "https://i.imgur.com/c4gfwhr.png",
-			"url": "https://starlive.xyz/embed.php?id=live10m",
-            "referer" : "https://starlive.xyz/",
+			"url": "https://c787898.com/embed.php?id=live10",
+            "referer" : "https://c787898.com.html",
              "isHost": "true"
              }, {
 			"name": "Bein Sport Ñ | LAT",
 			"image": "https://i.imgur.com/c4gfwhr.png",
-			"url": "https://c787898.com/embed.php?id=live10",
+			"url": "https://c787898.com/embed.php?id=live18",
             "referer" : "https://c787898.com.html",
              "isHost": "true"
              }, {
@@ -514,12 +514,6 @@
              }, {
 			"name": "TUDN | LAT",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url": "https://starlive.xyz/embed.php?id=live5m",
-            "referer" : "https://starlive.xyz/",
-             "isHost": "true"
-             }, {
-			"name": "TUDN | LAT",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url": "https://c787898.com/embed.php?id=live5",
             "referer" : "https://c787898.com",
              "isHost": "true"
@@ -561,33 +555,33 @@
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "PPV la Liga | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
+			"name": "La Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "PPV la Liga | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
+			"name": "La Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "PPV la Liga | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
+			"name": "La Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "PPV la Liga | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
+			"name": "La Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "PPV la Liga | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
+			"name": "La Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://starlive.xyz/embed.php?id=liveliga",
             "isHost" : "true"
             }, {
-			"name": "PPV la Liga | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
+			"name": "La Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://starlive.xyz/embed.php?id=liveligacamp",
             "isHost" : "true"
             }, {
