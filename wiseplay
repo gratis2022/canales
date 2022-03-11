@@ -539,7 +539,15 @@
                     "image": "https://i.imgur.com/U7lLcbT.jpg",
                      "url": "http://emb.x177234.apl118.me/player/live.php?id=177234&w=728&h=450",
                "isHost" : "true"
-                 }, {   
+                 }, {
+							"name": "DAZN Formula 1 | ES",
+							"image": "https://i.imgur.com/U7lLcbT.jpg",
+							"url": "http://www.ciberespaciotv.com/p/dazn-f1-online.html",
+						    "referer":"", 
+                            "desktop": "true", 
+							"isHost": "true"
+							
+						}, {   
 			"name": "DAZN Formula 1 | ES",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
               "url" : "https://www.tutele.sx/online.php?a=3881",
