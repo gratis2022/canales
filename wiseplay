@@ -496,6 +496,44 @@
 				        	"desktop": "true",
 				        	"isHost": "true"
 							},  {
+			"name": "Seguna División(Liga1)",
+			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+         "url": "http://emb.x177655.apl118.me/player/live.php?id=177655&w=728&h=450",
+			"isHost": "true"
+                     },  {
+			"name":"Seguna División(Liga2)",
+			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+           	"url": "https://ragnarp.net/embed/a092om",
+			"referer": "https://1rowsports.com/",
+             "isHost": "true"
+               }, {
+			"name": "Seguna División(Gol)",
+			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+			"url": "http://ciberespaciotv.blogspot.com/p/ver-gol-television-en-directo-online.html",
+			"isHost": "true"
+             }, {
+			"name":"Segunda División(Liga2)",
+			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+           "url": "https://ragnarp.net/embed/a092om",
+			"referer": "https://macron.xyz/",
+             "isHost": "true"
+                }, {
+			"name": "Segunda División(Vamos)",
+			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
+			"referer": "https://1.vecdn.pw/",
+             "isHost": "true"
+               }, 
+
+
+
+							
+							
+							
+							
+							
+							
+							{
 			"name": "la Liga TV Bar| ES",
 			"image": "https://i.imgur.com/1o92EFs.png",
 	        "url": "https://starlive.xyz/embed.php?id=live6",
