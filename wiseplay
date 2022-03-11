@@ -369,9 +369,10 @@
             "referer" : "https://c787898.com",
              "isHost": "true"
              }, {
-			"name": "TUDN | LAT",
+			"name": "TUDN 1 | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://pelotero.net/ver/tudn.php",
+	    "referer" : "https://pelotero.net.html",
 			 "isHost":"true"
                       }, {
 			"name": "VTV Plus | LAT",
