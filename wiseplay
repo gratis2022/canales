@@ -444,22 +444,32 @@
 				        	"referer":"https://starlive.xyz/",
 				        	"desktop": "true",
 				        	"isHost": "true"
-							}, { 
-                "name": "Gol Tv | ES",
+							},  {
+			"name": "la Liga TV Bar| ES",
+			"image": "https://i.imgur.com/1o92EFs.png",
+	        "url": "https://starlive.xyz/embed.php?id=live6",
+		"userAgent" : ""
+                    },  {
+			"name": "la Liga TV Bar| ES",
+			"image": "https://i.imgur.com/1o92EFs.png",
+	        "url": "https://starlive.xyz/embed.php?id=live6m",
+		"userAgent" : ""
+                    }, { 
+                "name": "Gol TV | ES",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
                 "referer":"https://elixx.xyz/", 
                 "desktop": "true",
                 "isHost":"true"
                 }, {
-                "name": "Gol Tv | ES",
+                "name": "Gol TV | ES",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
                 "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
                 "referer":"https://sportsonline.to/channels/hd/hd6.php", 
                 "desktop": "true",
                  "isHost":"true" 
 		 },  {
-							"name": "Gol Tv | ES",
+							"name": "Gol TV | ES",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
 							"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
 						    "referer":"", 
@@ -467,12 +477,12 @@
 							"isHost": "true"
 							
 						}, {
-			"name": "BAR Tv | ES",
+			"name": "BAR TV | ES",
 			"image": "https://i.imgur.com/Y8Ixxx3.png",
 	        "url": "https://c787898.com/embed.php?id=live6",
 		"userAgent" : ""
                     },  {
-			"name": "BAR Tv | ES",
+			"name": "BAR TV | ES",
 			"image": "https://i.imgur.com/Y8Ixxx3.png",
 	        "url": "https://starlive.xyz/embed.php?id=live6",
 		"userAgent" : ""
