@@ -658,6 +658,24 @@
 	        "url": "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940",
 		"userAgent" : ""
                     }, {
+		   		"name": "DAZN 1 | ES",
+		   		"image": "https://i.imgur.com/BTAedu6.jpg",
+		   		"url": "https://www.tutele.sx/online.php?a=3829",
+            "referer" : "https://telefullenvivo.com/canales/dazn1/",
+				"desktop": "true",
+				"isHost": "true"
+			}, {
+                    "name": "DAZN 1 | ES",
+                    "image": "https://i.imgur.com/BTAedu6.jpg",
+			   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=sdazn1",
+             "isHost": "true"
+                      }, { 
+                 "name": "DAZN 2 | ES",
+                    "image": "https://i.imgur.com/dc00DUX.png",
+                  "url": "https://www.tutele.sx/online.php?a=4303",
+                  "referer" : "https://telefullenvivo.com/",
+			"isHost": "true"
+                    }, {
 			"name": "DAZN Formula 1 | ES",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
 			"url": "https://starlive.xyz/embed.php?id=live30",
@@ -679,24 +697,26 @@
 			 "referer" : "https://telefullenvivo.com/",
                     "isHost" : "true"
         }, {
-		   		"name": "DAZN 1 | ES",
-		   		"image": "https://i.imgur.com/BTAedu6.jpg",
-		   		"url": "https://www.tutele.sx/online.php?a=3829",
-            "referer" : "https://telefullenvivo.com/canales/dazn1/",
-				"desktop": "true",
-				"isHost": "true"
-			}, {
-                    "name": "DAZN 1 | ES",
-                    "image": "https://i.imgur.com/BTAedu6.jpg",
-			   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=sdazn1",
-             "isHost": "true"
-                      }, { 
-                 "name": "DAZN 2 | ES",
-                    "image": "https://i.imgur.com/dc00DUX.png",
-                  "url": "https://www.tutele.sx/online.php?a=4303",
-                  "referer" : "https://telefullenvivo.com/",
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/0AaObag.png",
+            "url" : "https://starlive.xyz/embed.php?id=live29m",
 			"isHost": "true"
-                    }, {
+		}, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/0AaObag.png",
+            "url" : "https://starlive.xyz/embed.php?id=live1m",
+			"isHost": "true"
+		}, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/0AaObag.png",
+            "url" : "https://c787898.com/embed.php?id=live1",
+			"isHost": "true"
+		}, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/0AaObag.png",
+            "url" : "https://c787898.com/embed.php?id=live29",
+			"isHost": "true"
+		}, {
 			"name": "SKY Sports Formula 1 | EN",
 			"image": "https://i.imgur.com/0AaObag.png",
             "url" : "http://ufckhabib.com/f1/formula1-stream.php",
