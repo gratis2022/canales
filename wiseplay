@@ -59,7 +59,12 @@
 			"image": "https://i.imgur.com/JjLS5PD.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd8.php",
             "isHost" : "true"
-            }, {
+            }, 
+	    
+	    
+	    
+	    
+	    {
 			"name": "PPV 1 | IT 🇮🇹",
 			"image": "https://i.imgur.com/RFEEMTy.png",
 			"url":"https://c787898.com/embed.php?id=live1",
@@ -114,7 +119,12 @@
 			"image": "https://i.imgur.com/RFEEMTy.png",
 			"url":"https://c787898.com/embed.php?id=live30",
             "isHost" : "true"
-            }, {
+            }, 
+	    
+	    
+	    
+	    
+	    {
 			"name": "Eventos en Vivo PPV 1 | IT 🇮🇹",
 			"image": "https://i.imgur.com/wgkcLJn.png",
 			"url":"https://starlive.xyz/embed.php?id=live1",
@@ -550,6 +560,11 @@
 			"name": "PPV la Liga | ES 🇪🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 			"url":"https://starlive.xyz/embed.php?id=live5",
+            "isHost" : "true"
+            }, {
+			"name": "PPV la Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/X3LlIhz.png",
+			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
 			"name": "PPV la Liga | ES 🇪🇸",
