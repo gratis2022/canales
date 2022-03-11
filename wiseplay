@@ -372,7 +372,6 @@
 			"name": "TUDN | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://pelotero.net/ver/tudn.php",
-	   "referer": "https://cablegratis.online/tudn-en-vivo.html",
 			 "isHost":"true"
                       }, {
 			"name": "VTV Plus | LAT",
