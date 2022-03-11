@@ -507,6 +507,11 @@
 			 "isHost":"true"
                       }, {
 			"name": "TUDN | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd6.php",
+			 "isHost":"true"
+                      }, {
+			"name": "TUDN | LAT",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url": "https://starlive.xyz/embed.php?id=live5",
             "referer" : "https://starlive.xyz/",
@@ -577,6 +582,11 @@
             }, {
 			"name": "La Liga | ES 🇪🇸",
 			"image": "https://i.imgur.com/23ozGEh.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd6.php",
+            "isHost" : "true"
+            }, {
+			"name": "La Liga | ES 🇪🇸",
+			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://starlive.xyz/embed.php?id=liveliga",
             "isHost" : "true"
             }, {
@@ -584,7 +594,7 @@
 			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://starlive.xyz/embed.php?id=liveligacamp",
             "isHost" : "true"
-            },  {
+            }, {
 					"name": "La Liga | ES 🇪🇸",
 					"image": "https://i.imgur.com/23ozGEh.png",
 					"url": "https://wigistream.to/embed/q89fq6f2q",
