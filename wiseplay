@@ -549,12 +549,7 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
 		"userAgent" : ""
-                    },
-		    
-		    
-		    
-		    
-		    {
+                    }, {
 			"name": "PPV Ultra Total | ES 🇪🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
@@ -608,12 +603,11 @@
 				        	"referer":"https://starlive.xyz/",
 				        	"desktop": "true",
 				        	"isHost": "true"
-							}, {
-			"name": "PPV Ultra Total | ES 🇪🇸",
-			"image": "https://i.imgur.com/F7rt7u0.png",
-	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
-		"userAgent" : ""
-                    }, {
+							},
+							
+							
+							
+							{
 			"name": "Movistar Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 	        "url": "http://emb.apl118.me/player/live.php?id=177258&w=728&h=450/",
