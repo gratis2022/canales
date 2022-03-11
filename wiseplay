@@ -369,15 +369,16 @@
             "referer" : "https://c787898.com",
              "isHost": "true"
              }, {
-			"name": "TUDN 2 | LAT",
+			"name": "TUDN 5 | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://pelotero.net/ver/tudn.php",
-	    "referer" : "https://pelotero.net",
+	    "referer" : "https://cablegratis.online/tudn-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "TUDN 3 | LAT",
+			"name": "TUDN 6 | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://pelotero.net/udn.php",
+	      "referer" : "https://cablegratis.online/tudn-en-vivo.html",
 			 "isHost":"true"
                       }, {
 			"name": "VTV Plus | LAT",
