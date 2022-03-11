@@ -60,6 +60,22 @@
               }, {
 			"name": "Bein Sport Ñ | LAT",
 			"image": "https://i.imgur.com/c4gfwhr.png",
+            "url" : "http://timesports.cc/beinsportes.php",
+			"isHost": "true"
+                     }, {
+			"name": "Bein Sport Ñ | LAT",
+             "image": "https://i.imgur.com/c4gfwhr.png",
+           "url" :  "https://pelotero.net/ver/beinsports.php",
+	   "referer": "https://cablegratis.online/bein-sports-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sport Ñ | LAT",
+             "image": "https://i.imgur.com/c4gfwhr.png",
+           "url" :  "https://www.tutele.sx/online.php?a=9",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sport Ñ | LAT",
+			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://starlive.xyz/embed.php?id=live10",
             "referer" : "https://starlive.xyz/",
              "isHost": "true"
@@ -81,22 +97,6 @@
 			"url": "https://starlive.xyz/embed.php?id=live18",
              "isHost": "true"
              }, {
-			"name": "Bein Sport Ñ | LAT",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-            "url" : "http://timesports.cc/beinsportes.php",
-			"isHost": "true"
-                     }, {
-			"name": "Bein Sport Ñ | LAT",
-             "image": "https://i.imgur.com/c4gfwhr.png",
-           "url" :  "https://pelotero.net/ver/beinsports.php",
-	   "referer": "https://cablegratis.online/bein-sports-en-vivo.html",
-			 "isHost":"true"
-                      }, {
-			"name": "Bein Sport Ñ | LAT",
-             "image": "https://i.imgur.com/c4gfwhr.png",
-           "url" :  "https://www.tutele.sx/online.php?a=9",
-			 "isHost":"true"
-                      }, {
 			"name": "Bein Sport Extra Ñ | ES",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	        "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
