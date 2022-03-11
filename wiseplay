@@ -154,6 +154,11 @@
                       }, {
 			"name": "ESPN ARGENTINA | LAT",
              "image": "https://i.imgur.com/MFhpD4D.png",
+           "url" :  "http://timesports.cc/espn1sur.php",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN ARGENTINA | LAT",
+             "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://www.tutele.sx/online.php?a=1",
 			 "isHost":"true"
                       }, {
@@ -196,6 +201,11 @@
                       }, {
 			"name": "ESPN 3 ARGENTINA | LAT",
              "image": "https://i.imgur.com/iFqCpKj.png",
+           "url" :  "http://timesports.cc/espn3sur.php",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN 3 ARGENTINA | LAT",
+             "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
                       }, {
@@ -209,6 +219,11 @@
 	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8",
 		"userAgent" : ""
                     }, {
+			"name": "ESPN EXTRA ARGENTINA | LAT",
+             "image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
+           "url" :  "http://timesports.cc/espn2sur.php",
+			 "isHost":"true"
+                      }, {
 			"name": "FOX SPORTS ARGENTINA | LAT",
 			"image": "https://i.imgur.com/CF5il5c.png",
 	        "url": "http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8",
