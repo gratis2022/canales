@@ -375,6 +375,11 @@
 	    "referer" : "https://pelotero.net",
 			 "isHost":"true"
                       }, {
+			"name": "TUDN 3 | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://pelotero.net/udn.php",
+			 "isHost":"true"
+                      }, {
 			"name": "VTV Plus | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
            "url" :  "https://pelotero.net/ver/vtv.php",
