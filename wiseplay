@@ -134,11 +134,6 @@
 			"image": "https://i.imgur.com/wgkcLJn.png",
 			"url":"https://starlive.xyz/embed.php?id=live30",
             "isHost" : "true"
-            },  {
-			"name": "Estadio TNT Chile | LAT",
-			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
-            "isHost" : "true"
             }, 
 	    
 	    
@@ -203,8 +198,12 @@
 	    
 	    
 	    
-	    
-	    {
+	     {
+			"name": "Estadio TNT Chile | LAT",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
+            "isHost" : "true"
+            }, {
                 "name": "TNT Sports Chile | LAT",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/cdf.php",
