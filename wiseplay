@@ -603,11 +603,31 @@
 				        	"referer":"https://starlive.xyz/",
 				        	"desktop": "true",
 				        	"isHost": "true"
-							},
-							
-							
-							
-							{
+							}, { 
+                "name": "Gol Tv | ES",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
+                "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+                "referer":"https://elixx.xyz/", 
+                "desktop": "true",
+                "isHost":"true"
+                }, {
+                "name": "Gol Tv | ES",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
+                "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
+                "referer":"https://sportsonline.to/channels/hd/hd6.php", 
+                "desktop": "true",
+                 "isHost":"true"
+          },  {
+			"name": "BAR Tv | ES",
+			"image": "https://i.imgur.com/Y8Ixxx3.png",
+	        "url": "https://c787898.com/embed.php?id=live6",
+		"userAgent" : ""
+                    },  {
+			"name": "BAR Tv | ES",
+			"image": "https://i.imgur.com/Y8Ixxx3.png",
+	        "url": "https://starlive.xyz/embed.php?id=live6",
+		"userAgent" : ""
+                    }, {
 			"name": "Movistar Liga de Campeones | ES",
 			"image": "https://i.imgur.com/6Mnilfu.png",
 	        "url": "http://emb.apl118.me/player/live.php?id=177258&w=728&h=450/",
@@ -636,31 +656,7 @@
         "url" : "https://maxsport.one/laliga.php",
                "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
-                 }, { 
-                "name": "Gol Tv | ES",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
-                "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
-                "referer":"https://elixx.xyz/", 
-                "desktop": "true",
-                "isHost":"true"
-                }, {
-                "name": "Gol Tv | ES",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
-                "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
-                "referer":"https://sportsonline.to/channels/hd/hd6.php", 
-                "desktop": "true",
-                 "isHost":"true"
-          },  {
-			"name": "BAR Tv | ES",
-			"image": "https://i.imgur.com/Y8Ixxx3.png",
-	        "url": "https://c787898.com/embed.php?id=live6",
-		"userAgent" : ""
-                    },  {
-			"name": "BAR Tv | ES",
-			"image": "https://i.imgur.com/Y8Ixxx3.png",
-	        "url": "https://starlive.xyz/embed.php?id=live6",
-		"userAgent" : ""
-                    },  {
+                 }, {
 			"name": "Movistar Deportes | ES",
 			"image": "https://i.imgur.com/b2PYwUr.png",
 	        "url": "https://starlive.xyz/embed.php?id=live27",
