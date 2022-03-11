@@ -584,7 +584,21 @@
 			"image": "https://i.imgur.com/23ozGEh.png",
 			"url":"https://starlive.xyz/embed.php?id=liveligacamp",
             "isHost" : "true"
-            }, {
+            },  {
+					"name": "La Liga | ES 🇪🇸",
+					"image": "https://i.imgur.com/23ozGEh.png",
+					"url": "https://wigistream.to/embed/q89fq6f2q",
+			    	"referer":"https://c787898.com/",
+					"desktop": "true",
+					"isHost": "true"
+				}, {
+							"name": "La Liga | ES 🇪🇸",
+							"image": "https://i.imgur.com/23ozGEh.png",
+							"url": "http://wigistream.to/embed/tekhw2v",
+				        	"referer":"https://starlive.xyz/",
+				        	"desktop": "true",
+				        	"isHost": "true"
+							}, {
 			"name": "PPV Ultra Total | ES 🇪🇸",
 			"image": "https://i.imgur.com/F7rt7u0.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
@@ -747,20 +761,6 @@
 			"url": "https://www.tutele.sx/online.php?a=11",
              "isHost": "true"
              }, {
-					"name": "Sport Tv 1 | PT",
-					"image": "https://i.imgur.com/uHkR0lP.png",
-					"url": "https://wigistream.to/embed/q89fq6f2q",
-			    	"referer":"https://c787898.com/",
-					"desktop": "true",
-					"isHost": "true"
-				}, {
-							"name": "Sport Tv 1 | PT",
-							"image": "https://i.imgur.com/uHkR0lP.png",
-							"url": "http://wigistream.to/embed/tekhw2v",
-				        	"referer":"https://starlive.xyz/",
-				        	"desktop": "true",
-				        	"isHost": "true"
-							}, {
 			"name": "Sport Tv 2 | PT",
 			"image": "https://i.imgur.com/GGVYfbU.png",
 			"url": "https://v2.sportsonline.to/channels/pt/sporttv2.php",
