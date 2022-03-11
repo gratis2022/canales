@@ -406,66 +406,73 @@
 					"desktop": "true",
 					"isHost": "true"
 				}, {
-			"name": "La Liga por M+ 5 (RA) | ES 🇪🇸",
+                "name": "La Liga por M+ 5 (WI) | ES 🇪",
+                "image": "https://i.imgur.com/PoAUHmh.png",
+                "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
+                "referer":"https://sportsonline.to/channels/hd/hd6.php", 
+                "desktop": "true",
+                 "isHost":"true" 
+		 }, {
+			"name": "La Liga por M+ 6 (RA) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			 "url" : "https://ragnarp.net/embed/j7z1ypmmxi8p",
               "referer" : "https://macron.xyz/",
               "isHost" : "true"
                      }, {
-			"name": "La Liga por M+ 6 (RA) | ES 🇪🇸",
+			"name": "La Liga por M+ 7 (RA) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
 			 "referer": "https://cdnz.one/",
              "isHost": "true" 
                     },   {
-			"name":"La Liga por M+ 7 (RA) | ES 🇪",
+			"name":"La Liga por M+ 8 (RA) | ES 🇪",
 			"image": "https://i.imgur.com/PoAUHmh.png",
            	"url": "https://ragnarp.net/embed/a092om",
 			"referer": "https://1rowsports.com/",
              "isHost": "true"
                }, {
-			"name": "La Liga por M+ 8 (SP) | ES 🇪🇸",
+			"name": "La Liga por M+ 9 (SP) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			 "url": "https://sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
            }, {
-			"name": "La Liga por M+ 9 (EM) | ES 🇪🇸",
+			"name": "La Liga por M+ 10 (EM) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
              "url": "http://emb.apl118.me/player/live.php?id=177662&w=728&h=450",
 			"isHost" : "true"
                   },  {
-			"name": "La Liga por M+ 10 (EM) | ES 🇪",
+			"name": "La Liga por M+ 11 (EM) | ES 🇪",
 			"image": "https://i.imgur.com/PoAUHmh.png",
          "url": "http://emb.x177655.apl118.me/player/live.php?id=177655&w=728&h=450",
 			"isHost": "true"
                      }, {
-			"name": "La Liga por M+ 11 (ST) | ES 🇪🇸",
+			"name": "La Liga por M+ 12 (ST) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 12 (ST) | ES 🇪🇸",
+			"name": "La Liga por M+ 13 (ST) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 13 (ST) | ES 🇪🇸",
+			"name": "La Liga por M+ 14 (ST) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 14 (ST) | ES 🇪🇸",
+			"name": "La Liga por M+ 15 (ST) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 15 (C7) | ES 🇪🇸",
+			"name": "La Liga por M+ 16 (C7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 16 (C7)| ES 🇪🇸",
+			"name": "La Liga por M+ 17 (C7)| ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
@@ -508,16 +515,6 @@
 							"isHost": "true"
 							
 						}, {
-			"name": "BAR TV | ES",
-			"image": "https://i.imgur.com/Y8Ixxx3.png",
-	        "url": "https://c787898.com/embed.php?id=live6",
-		"userAgent" : ""
-                    },  {
-			"name": "BAR TV | ES",
-			"image": "https://i.imgur.com/Y8Ixxx3.png",
-	        "url": "https://starlive.xyz/embed.php?id=live6",
-		"userAgent" : ""
-                    }, {
                 "name": "Liga de Campeones por M+ | ES",
                 "image": "https://i.imgur.com/wiLQCUD.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
