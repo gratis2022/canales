@@ -449,6 +449,14 @@
                 "desktop": "true",
                  "isHost":"true"
           },  {
+							"name": ""Gol Tv | ES",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
+							"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
+						    "referer":"", 
+                            "desktop": "true", 
+							"isHost": "true"
+							
+						}, {
 			"name": "BAR Tv | ES",
 			"image": "https://i.imgur.com/Y8Ixxx3.png",
 	        "url": "https://c787898.com/embed.php?id=live6",
