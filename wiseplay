@@ -550,7 +550,12 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
 		"userAgent" : ""
-                    }, {
+                    },
+		    
+		    
+		    
+		    
+		    {
 			"name": "PPV Ultra Total | ES 🇪🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
@@ -642,6 +647,11 @@
 			"name": "BAR Tv | ES",
 			"image": "https://i.imgur.com/Y8Ixxx3.png",
 	        "url": "https://starlive.xyz/embed.php?id=live6",
+		"userAgent" : ""
+                    },  {
+			"name": "Movistar Deportes | ES",
+			"image": "https://i.imgur.com/b2PYwUr.png",
+	        "url": "https://starlive.xyz/embed.php?id=live27",
 		"userAgent" : ""
                     }, {
 			"name": "TDP | ES",
