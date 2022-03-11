@@ -788,6 +788,11 @@
                       }, {
 			"name": "Bein Sports HD | EN",
              "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://c787898.com/embed.php?id=live19",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sports HD | EN",
+             "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
 			 "isHost":"true"
                       }, {
@@ -795,155 +800,7 @@
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
-                      }, {
-					"name": "Bein Sports 1 | FR",
-					"image": "https://i.imgur.com/yHencFB.png",
-					"url": "https://cloudstream.to/e/kq2w71id",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 1 | FR",
-					"image": "https://i.imgur.com/yHencFB.png",
-					"url": "https://www.tutele.sx/online.php?a=3108",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 2 | FR",
-					"image": "https://i.imgur.com/rd26zS1.png",
-					"url": "https://cloudstream.to/e/b8c220941xkgu",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 2 | FR",
-					"image": "https://i.imgur.com/rd26zS1.png",
-					"url": "https://www.tutele.sx/online.php?a=3109",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 3 | FR",
-					"image": "https://i.imgur.com/zrXyq44.png",
-					"url": "https://cloudstream.to/e/3j14abyh",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 3 | FR",
-					"image": "https://i.imgur.com/zrXyq44.png",
-					"url": "ttps://www.tutele.sx/online.php?a=3110",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 4 | FR",
-					"image": "https://i.imgur.com/ye0Ik2v.png",
-					"url": "https://cloudstream.to/e/wev0f3",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 5 | FR",
-					"image": "https://i.imgur.com/GDcEcn3.png",
-					"url": "https://cloudstream.to/e/cdmo5oyg",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 6 | FR",
-					"image": "https://i.imgur.com/AxqO0bP.png",
-					"url": "https://cloudstream.to/e/oikvwj54x2gdn",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-					"name": "Bein Sports 7 | FR",
-					"image": "https://i.imgur.com/uGYG1Pf.png",
-					"url": "https://cloudstream.to/e/1h9f6f6fqpsx32",
-					"referer":"https://1rowsports.com/online/",
-		    		"desktop": "true",
-					"isHost": "true"
-				}, {
-							"name": "Super Sport La Liga | EN",
-							"image": "https://supersport.azureedge.net/web-assets/channels/hos/lig.png",
-							"url": "http://pepperlive.info/sportp.php?id=11",
-							"isHost": "true"
-						}, {
-							"name": "Super Sport La Liga | EN",
-							"image": "https://supersport.azureedge.net/web-assets/channels/hos/lig.png",
-							"url": "https://www.tutele.sx/online.php?a=153",
-							"isHost": "true"
-						}, {
-					"name": "Super Sport Premier League | EN",
-					"image": "https://i.imgur.com/fveUEaL.png",
-					"url": "https://wigistream.to/embed/j7z1ypmmxi8p",
-					"referer":"https://1rowsports.com",
-					"isHost": "true"								
-				}, {
-			"name": "Super Sport Premier League | EN",
-             "image": "https://i.imgur.com/fveUEaL.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
-			 "isHost":"true"
-                      }, {
-			"name": "Super Sport Premier League | EN",
-             "image": "https://i.imgur.com/fveUEaL.png",
-           "url" :  "https://www.tutele.sx/online.php?a=187",
-			 "isHost":"true"
-                      }, {
-			"name": "Super Sport Football | EN",
-             "image": "https://i.imgur.com/fveUEaL.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
-			 "isHost":"true"
-                      }, {
-			"name": "Super Sport Football | EN",
-             "image": "https://i.imgur.com/fveUEaL.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
-			 "isHost":"true"
-                      }, {
-			"name": "Super Sport Football | EN",
-             "image": "https://i.imgur.com/fveUEaL.png",
-           "url" :  "https://www.tutele.sx/online.php?a=186",
-			 "isHost":"true"
-                      }, {
-			"name": "SKY Sports | IT",
-             "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
-           "url" :  "https://c787898.com/embed.php?id=live1",
-			 "isHost":"true"
-                      }, {
-			"name": "SKY Sports | IT",
-             "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
-           "url" :  "https://c787898.com/embed.php?id=live2",
-			 "isHost":"true"
-                      }, {
-			"name": "SKY Sports | IT",
-             "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
-           "url" :  "https://c787898.com/embed.php?id=live3",
-			 "isHost":"true"
-                      }, {
-			"name": "SKY Sports | IT",
-             "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
-           "url" :  "https://starlive.xyz/embed.php?id=live4",
-			 "isHost":"true"
-                      }, {
-			"name": "SKY Sports | IT",
-             "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
-           "url" :  "https://c787898.com/embed.php?id=live29",
-			 "isHost":"true"
-                      }, {
-			"name": "SKY Sports | IT",
-             "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/93/Sky_Sports_logo_2015.svg/1280px-Sky_Sports_logo_2015.svg.png",
-           "url" :  "https://c787898.com/embed.php?id=live35",
-			 "isHost":"true"
-                      }, {
-					"name": "Now Sports Premier League| UK",
-					"image": "https://www.nowtv.now.com/media/logo/600-wbg-e.png",
-					"url": "https://wigistream.to/embed/hidv8",
-			    	"referer":"https://c787898.com/",
-					"desktop": "true",
-					"isHost": "true"			
-				}
+                      }
 
 
 	     
