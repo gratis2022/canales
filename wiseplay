@@ -20,9 +20,10 @@
                 "url": "https://starlive.xyz/",
                 "embed":"true"  
           }, {
-			"name": "tu | LAT 🇨🇱",
+			"name": "tu1 | LAT 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://pelotero.net/ver/tudn.php",
+			"referer": "https://www.futbolgratis.online/p/tudn-en-vivo.html",
             "isHost" : "true"
             },
 	  
