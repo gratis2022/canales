@@ -942,6 +942,11 @@
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "http://d2vle8remumhqi.cloudfront.net/stream/MzE5NA==/1080p.m3u8",
 			 "isHost":"true"
+                      }, {
+			"name": "PPV UFC Fight Night psp | PT",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "http://p2pstreams.live/stream-feed-12/",
+			 "isHost":"true"
                       }
 
 
