@@ -6,20 +6,43 @@
 
 "url": "direction de la lista ya sea pastebin o w3ubin ",
 
- "stations": [
-
-{
-
-"name": "",
-
-"image": "",
-
- "url": "",
-
-"isHost": "true"
-
-}
-
- ]
-
-}
+"groups": [{
+                         "name": "agenda",
+            "image": "https://lh3.googleusercontent.com/A0-KdBraWx4L-RgGlLf-EI_sc2jjpsR4vOK_CIgy8ps1BaZS_yAHPNiaXMk6QUOhcA=h500",
+            "info": "",
+            "stations": [{
+                }]
+                   },{  
+            "name": "Estrenos de Cine",
+            "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
+            "info": "",
+               "stations": [{
+                   "name": "Cásate conmigo (2022)(Latino)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/casate_conmigo_92123.jpg",
+                    "url": "https://uqload.com/3vnan6pt12si",
+                    "isHost":"true"
+                 }
+                 
+                 ]
+              }]
+                  },{
+            "name": "Sagas",
+            "image": "https://i.ibb.co/cJBBdnp/Sagas.jpg",
+            "info": "",
+            "stations": [{
+                                    "name": "Ahora me ves",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves..._20844.jpg",
+                    "url": "https://upstream.to/jyj6bp5tzj3l",
+                    "isHost":"true"
+                 },{
+                    "name": "Ahora me ves 2",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves_2_54318.jpg",
+                    "url": "https://cloudvideo.tv/pdmk4j3aglrx",
+                    "isHost":"true"
+                  }
+             
+             
+             
+    }] 
+            }]   
+        }          
