@@ -707,11 +707,23 @@
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv2.php",
 			 "isHost":"true"
                       }, {
+			"name": "Sport Tv 2 | PT",
+			"image": "https://i.imgur.com/GGVYfbU.png",
+			"url": "https://wigistream.to/embed/nhishd",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
+          }, {
 			"name": "Sport Tv 3 | PT",
              "image": "https://i.imgur.com/tvCMAD0.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
 			 "isHost":"true"
-                      }, {
+                      },  {
+			"name": "Sport Tv 3 | PT",
+			"image": "https://i.imgur.com/tvCMAD0.png",
+			"url": "https://wigistream.to/embed/vpowqo76c",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
+         }, {
 			"name": "Bein Sports HD | EN",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://starlive.xyz/embed.php?id=live19",
