@@ -19,56 +19,7 @@
                               "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
                 "url": "https://starlive.xyz/",
                 "embed":"true"  
-          }, {
-			"name": "TUDN 2 | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://futboltv-envivo.com/tudn-en-vivo/",
-			 "isHost":"true"
-                      }, {
-			"name": "TUDN 3 | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://www.futbolgratis.online/p/tudn-en-vivo.html",
-			 "isHost":"true"
-                      }, {
-			"name": "TUDN 4 | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://www.televisiongratishd.com/tudn-en-vivo.html",
-			 "isHost":"true"
-                      }, {
-			"name": "TUDN 5 probar | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://megatelevisionhd.com/en-vivo/tudn-en-vivo/?ver",
-			 "isHost":"true"
-                      }, {
-			"name": "aficionados | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://megatelevisionhd.com/en-vivo/afizzionados/?ver",
-			 "isHost":"true"
-                      },  {
-			"name": "azteca 7 | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://megatelevisionhd.com/en-vivo/azteca7/?ver",
-			 "isHost":"true"
-                      },  {
-			"name": "tudn teler | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://telerium.me/udn.php",
-			 "isHost":"true"
-                      }, 
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      {
+          },  {
 			"name": "Estadio TNT Chile | LAT",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
