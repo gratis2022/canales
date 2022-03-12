@@ -302,7 +302,99 @@
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://www.tutele.sx/online.php?a=5",
 			 "isHost":"true"
-                      }
+                      }, {
+			"name": "TYC Sports | LAT",
+			"image": "https://i.imgur.com/I7Lhgej.png",
+	        "url": "https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "TYC Sports | LAT",
+             "image": "https://i.imgur.com/I7Lhgej.png",
+           "url" :  "https://pelotero.net/ver/tycsports.php",
+	   "referer": "https://cablegratis.online/tyc-sports-en-vivo-gratis.html",
+			 "isHost":"true"
+                      }, {
+			"name": "TYC Sports | LAT",
+             "image": "https://i.imgur.com/I7Lhgej.png",
+           "url" :  "https://www.tutele.sx/online.php?a=1204",
+			 "isHost":"true"
+                      }, {
+			"name": "Win Sports Plus | LAT",
+             "image": "https://i.imgur.com/NwKPC6B.png",
+           "url" :  "https://pelotero.net/ver/winsportsmas.php",
+	   "referer": "https://cablegratis.online/win-sports-mas-premium-cccccc-hd-online-vip-vip.html",
+			 "isHost":"true"
+                      }, {
+			"name": "Win Sports Plus | LAT",
+             "image": "https://i.imgur.com/NwKPC6B.png",
+           "url" :  "https://www.tutele.sx/online.php?a=3305",
+			 "isHost":"true"
+                      }, {
+			"name": "Win Sports Plus | LAT",
+			"image": "https://i.imgur.com/NwKPC6B.png",
+			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
+            "referer" : "https://v2.sportsonline.to.html",
+             "isHost": "true"
+             },  {
+			"name": "Win Sports Plus | LAT",
+			"image": "https://i.imgur.com/NwKPC6B.png",
+          "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+                     }, {
+			"name": "TUDN | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://www.tutele.sx/online.php?a=17",
+			 "isHost":"true"
+                      }, {
+			"name": "TUDN P | LAT",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url" :  "https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
+			"isHost":"true"
+			}, {
+			"name": "TUDN | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
+			 "isHost":"true"
+                      }, {
+			"name": "TUDN | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd6.php",
+			 "isHost":"true"
+                      }, {
+			"name": "TUDN | LAT",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url": "https://starlive.xyz/embed.php?id=live5",
+            "referer" : "https://starlive.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "TUDN | LAT",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url": "https://c787898.com/embed.php?id=live5",
+            "referer" : "https://c787898.com",
+             "isHost": "true"
+             }, {
+			"name": "VTV Plus | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://pelotero.net/ver/vtv.php",
+	   "referer": "https://cablegratis.online/vtv-plus-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "VTV Plus | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://www.tutele.sx/online.php?a=4264",
+			 "isHost":"true"
+                      }, {
+			"name": "Claro Sports | LAT",
+			"image": "https://i.imgur.com/BAHebvo.png",
+	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "Gol Tv Ecuador | LAT",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
+		"userAgent" : ""
+                    }
 
 
 	     
