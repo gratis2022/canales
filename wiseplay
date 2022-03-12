@@ -570,6 +570,23 @@
                 "desktop": "true",
                  "isHost":"true" 
 		 }, {
+			"name": "Vamos | ES 🇪🇸",
+			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+         "url": "https://ragnarp.net/embed/6jv5qrdinf",
+			"referer": "https://macron.xyz/",
+             "isHost": "true"
+                   }, {
+			"name": "Vamos | ES 🇪🇸",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do20",
+			"referer": "https://1.vecdn.pw/",
+             "isHost": "true"
+            }, {
+ 			"name": "Vamos | ES 🇪🇸",
+			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
+            "url": "http://46.105.112.116:80/?watch=NL/vamoshd-esp&lb=1.m3u8&token=RED_mUZT__rECEXJvr9lU9Hpxg==,1647157751.6423232819&t=1&s=2&p=1&c=MA&r=1321&lb=1",
+             "userAgent": "REDLINECLIENT TS4000 V2.4.81"
+              }, {
 			"name": "Liga de Campeones por M+ | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			"url": "https://ragnarp.net/embed/tq24aomq",
