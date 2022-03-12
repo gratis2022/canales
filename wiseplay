@@ -19,16 +19,7 @@
                               "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
                 "url": "https://starlive.xyz/",
                 "embed":"true"  
-          }, {
-			"name": "tu1 | LAT 🇨🇱",
-			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://pelotero.net/ver/tudn.php",
-			"referer": "https://elixx.xyz.html",
-            "isHost" : "true"
-            }, 
-	  
-	  
-	  {
+          },  {
 			"name": "Estadio TNT Chile | LAT 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
@@ -404,7 +395,27 @@
                     },  {
 			"name": "TUDN | LAT 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url":"https://macron.xyz/player/1/113",
+            "isHost" : "true"
+            }, {
+			"name": "TUDN | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"https://www.tutele.sx/online.php?a=17",
+            "isHost" : "true"
+            }, {
+			"name": "TUDN | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url":"https://elixx.xyz/adortmund.html",
+            "isHost" : "true"
+            }, {
+			"name": "TUDN | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url":"https://elixx.xyz/apsg.html",
+            "isHost" : "true"
+            }, {
+			"name": "TUDN | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url":"https://elixx.xyz/adortmund.html",
             "isHost" : "true"
             }, {
 			"name": "TUDN | LAT 🇲🇽",
@@ -425,7 +436,7 @@
 			"name": "TUDN | LAT 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd6.php",
-			 "isHost":"true"
+			 "isHost":"true" 
                       }, {
 			"name": "TUDN | LAT 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
