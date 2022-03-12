@@ -25,6 +25,12 @@
 			"url":"https://pelotero.net/ver/tudn.php",
 			"referer": "https://www.futbolgratis.online/p/tudn-en-vivo.html",
             "isHost" : "true"
+            }, {
+			"name": "tu2 | LAT 🇨🇱",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://pelotero.net/ver/tudn.php",
+			"referer": "https://cablegratis.online/tudn-en-vivo/",
+            "isHost" : "true"
             },
 	  
 	  
