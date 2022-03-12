@@ -743,16 +743,31 @@
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		}, {
+			 "name": "BT Sport 1 | UK",
+			"image": "https://i.imgur.com/og4XWuT.png",
+			"url":"http://timesports.cc/btsport1uk.php",
+            "isHost" : "true"
+		}, {
               "name": "BT Sport 2 | UK",
 			"image": "https://i.imgur.com/pzDve0y.png",
 		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
           }, {
+              "name": "BT Sport 2 | UK",
+			"image": "https://i.imgur.com/pzDve0y.png",
+		"url":"http://timesports.cc/btsport2uk.php",
+            "isHost" : "true"
+          }, {
               "name": "BT Sport 3 | UK",
 			"image": "https://i.imgur.com/66lxeXn.png",
 			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
             "referer" : "https://cdnz.one/",
+            "isHost" : "true"
+		 }, {
+              "name": "BT Sport 3 | UK",
+			"image": "https://i.imgur.com/66lxeXn.png",
+			"url":"http://timesports.cc/btsport3uk.php",
             "isHost" : "true"
 		 }, {
 			"name": "PPV WWE: Friday Night Smackdown | LAT",
