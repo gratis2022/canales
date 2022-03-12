@@ -351,7 +351,7 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url" :  "https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
 			"isHost":"true"
-			},{
+			}, {
 			"name": "TUDN | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
@@ -701,67 +701,6 @@
 			"name": "Bein Sports HD | EN",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
-			 "isHost":"true"
-                      },  {
-			"name": "PPV WWE: Friday Night Smackdown | LAT",
-			"image": "https://i.imgur.com/QVtPPdl.png",
-	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
-		"userAgent" : ""
-                    }, {
-			"name": "PPV WWE: Friday Night Smackdown | LAT",
-			"image": "https://i.imgur.com/QVtPPdl.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "PPV WWE: Friday Night Smackdown | LAT",
-             "image": "https://i.imgur.com/QVtPPdl.png",
-           "url" :  "https://pelotero.net/ver/foxsports2.php",
-	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV WWE: Friday Night Smackdown | LAT",
-             "image": "https://i.imgur.com/QVtPPdl.png",
-           "url" :  "https://www.tutele.sx/online.php?a=133",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV WWE: Friday Night Smackdown | EN",
-             "image": "https://i.imgur.com/QVtPPdl.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
-			 "isHost":"true"
-                      },  {
-			"name": "PPV WWE: Friday Night Smackdown | EN",
-			"image": https://i.imgur.com/QVtPPdl.png",
-	        "url": "http://alllivesportslinks.myftp.biz:80/hls/sonyten1.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "PPV WWE: Friday Night Smackdown | PT",
-             "image": "https://i.imgur.com/QVtPPdl.png",
-           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV UFC Fight Night | EN",
-             "image": "https://i.imgur.com/IXPSmGc.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
-			 "isHost":"true"
-                      },  {
-			"name": "PPV UFC Fight Night | EN",
-             "image": "https://i.imgur.com/IXPSmGc.png",
-           "url" :  "https://elixx.xyz/partizan.html",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV UFC Fight Night | EN",
-             "image": "https://i.imgur.com/IXPSmGc.png",
-           "url" :  "https://elixx.xyz/porto.html",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV UFC Fight Night | PT",
-             "image": "https://i.imgur.com/IXPSmGc.png",
-           "url" :  "https://v2.sportsonline.to/channels/bra/br3.php",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV UFC Fight Night | PT",
-             "image": "https://i.imgur.com/IXPSmGc.png",
-           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
 			 "isHost":"true"
                       }
 
