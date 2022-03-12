@@ -552,27 +552,32 @@
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
             }, {
-			"name": "Gol TV 5 | ES",
+			"name": "Gol TV 5 p | ES",
+			"image": "https://i.imgur.com/kN4OKEp.png",
+			"url":"http://deportesgratis.net/?movies=hd2",
+            "isHost" : "true"
+            }, {
+			"name": "Gol TV 6 | ES",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
 			 "referer":"", 
                             "desktop": "true", 
 			"isHost": "true"
 						}, {
-			"name": "Gol TV 6 | ES",
+			"name": "Gol TV 7 | ES",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
 			"referer": "https://1.vecdn.pw/",
              "isHost": "true"
                }, { 
-                "name": "Gol TV 7 | ES",
+                "name": "Gol TV 8 | ES",
                 "image": "https://i.imgur.com/kN4OKEp.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
                 "referer":"https://elixx.xyz/", 
                 "desktop": "true",
                 "isHost":"true"
                 }, {
-                "name": "Gol TV 8 | ES",
+                "name": "Gol TV 9 | ES",
                 "image": "https://i.imgur.com/kN4OKEp.png",
                 "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
                 "referer":"https://sportsonline.to/channels/hd/hd6.php", 
