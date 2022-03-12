@@ -570,6 +570,12 @@
                 "desktop": "true",
                  "isHost":"true" 
 		 }, {
+			"name": "Liga de Campeones por M+ | ES 🇪🇸",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+			"url": "https://ragnarp.net/embed/tq24aomq",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+             }, {
                 "name": "Liga de Campeones por M+ | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
@@ -586,12 +592,6 @@
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
-             "isHost": "true"
-             }, {
-			"name": "Liga de Campeones por M+ | ES 🇪🇸",
-			"image": "https://i.imgur.com/wiLQCUD.png",
-			"url": "https://ragnarp.net/embed/tq24aomq",
-            "referer" : "https://macron.xyz/",
              "isHost": "true"
              }, {
 			"name": "Liga de Campeones por M+ | ES 🇪🇸",
