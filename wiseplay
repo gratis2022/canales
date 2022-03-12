@@ -113,12 +113,6 @@
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Argentina | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-           "url" :  "https://pelotero.net/ver/directvsports-argentina.php",
-	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
-			 "isHost":"true"
-                      }, {
 			"name": "Direct Tv Sports | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://www.tutele.sx/online.php?a=6",
@@ -127,6 +121,12 @@
 			"name": "Direct Tv Sports | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
            "url" :  "https://futbolfullenvivo.com/ver-channel-directv-en-vivo/",
+			 "isHost":"true"
+                      }, {
+			"name": "Direct Tv Sports Argentina | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+           "url" :  "https://pelotero.net/ver/directvsports-argentina.php",
+	   "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
 			 "isHost":"true"
                       }, {
 			"name": "Direct Tv Sports 2 | LAT",
@@ -155,7 +155,12 @@
              "image": "https://i.imgur.com/ztxH679.png",
            "url" :  "https://www.tutele.sx/online.php?a=8",
 			 "isHost":"true"
-                      },  {
+                      }, {
+			"name": "Direct Tv Sports Plus | LAT",
+             "image": "https://i.imgur.com/ztxH679.png",
+           "url" :  "https://futbolfullenvivo.com/ver-channel-directv-plus-en-vivo/",
+			 "isHost":"true"
+                      }, {
 			"name": "ESPN ARGENTINA | LAT",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 	        "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
@@ -338,6 +343,11 @@
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://pelotero.net/ver/winsportsmas.php",
 	   "referer": "https://cablegratis.online/win-sports-mas-premium-cccccc-hd-online-vip-vip.html",
+			 "isHost":"true"
+                      }, {
+			"name": "Win Sports Plus | LAT",
+             "image": "https://i.imgur.com/NwKPC6B.png",
+           "url" :  "https://futbolfullenvivo.com/ver-channel-win-sports-en-vivo/",
 			 "isHost":"true"
                       }, {
 			"name": "Win Sports Plus | LAT",
