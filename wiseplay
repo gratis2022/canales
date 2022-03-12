@@ -537,6 +537,12 @@
             "isHost" : "true"
             },  {
 			"name": "Gol TV | ES",
+			"image": "ttps://i.imgur.com/kN4OKEp.png",
+          "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+                     }, {
+			"name": "Gol TV | ES",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
 			 "referer":"", 
