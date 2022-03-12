@@ -633,6 +633,24 @@
 	        "url": "https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8",
 		"userAgent" : ""
                     }, {
+                    "name": "Deportes por M+ | ES 🇪🇸",
+                    "image": "https://i.imgur.com/OJqxHKo.png",
+                		"url": "https://fclecteur.com/footy.php?player=desktop&live=ufeed67",
+                      "referer" : "https://casadelfutbol.net/",
+			"isHost": "true"
+                }, {
+                       "name": "Deportes por M+ | ES 🇪🇸",
+                    "image": "https://i.imgur.com/OJqxHKo.png",
+                			"url": "https://ragnarp.net/embed/577d4aefb1y83e",
+			  "referer" : "https://macron.xyz/",
+            "isHost": "true"
+                }, {
+                     "name": "Deportes por M+ | ES 🇪🇸",
+                    "image": "https://i.imgur.com/OJqxHKo.png",
+                 "url": "https://ragnarp.net/embed/6ojgvg",
+                 "referer" : "https://leet365.cc/",
+			 "isHost": "true"
+                      }, {
 			"name": "Deportes por M+ | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://starlive.xyz/embed.php?id=live27",
