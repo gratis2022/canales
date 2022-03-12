@@ -19,27 +19,7 @@
                               "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
                 "url": "https://starlive.xyz/",
                 "embed":"true"  
-          },  {
-			"name": "Tudn 1 | LAT 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url" :  "https://www.futbolgratis.online/p/tudn-en-vivo.html",
-			"isHost":"true"
-			}, {
-			"name": "dtv1  | LAT 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url" :  "https://www.futbolgratis.online/p/directv-sports-en-vivo.html",
-			"isHost":"true"
-			}, {
-			"name": "Tudn | LAT 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url":"https://www.tutele.sx/online.php?a=17",
-            "isHost" : "true"
-            }, {
-			"name": "Tudn 2| LAT 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url":"https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
-            "isHost" : "true"
-            }, {
+          }, {
 			"name": "Estadio TNT Chile | LAT 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
@@ -407,17 +387,17 @@
 			"image": "https://i.imgur.com/BAHebvo.png",
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
 		"userAgent" : ""
-                    }, {
-			"name": "TUDN | LAT 🇲🇽",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://www.tutele.sx/online.php?a=17",
-			 "isHost":"true"
-                      }, {
+                    },  {
 			"name": "TUDN | LAT 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url" :  "https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
-			"isHost":"true"
-			}, {
+			"url":"https://www.tutele.sx/online.php?a=17",
+            "isHost" : "true"
+            }, {
+			"name": "TUDN | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url":"https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
+            "isHost" : "true"
+            }, {
 			"name": "TUDN | LAT 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
