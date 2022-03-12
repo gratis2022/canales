@@ -431,85 +431,71 @@
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-							"name": "La Liga por M+ 3 p (WI) | ES 🇪🇸",
-							"image": "https://i.imgur.com/PoAUHmh.png",
-							"url": "http://wigistream.to/embed/tekhw2v",
-				        	"referer":"https://elixx.xyz/",
-				        	"desktop": "true",
-				        	"isHost": "true"
-							}, {
-					"name": "La Liga por M+ 4 p (WI) | ES 🇪🇸",
-					"image": "https://i.imgur.com/PoAUHmh.png",
-					"url": "https://wigistream.to/embed/q89fq6f2q",
-			    	"referer":"https://elixx.xyz/",
-					"desktop": "true",
-					"isHost": "true"
-				}, {
-			"name": "La Liga por M+ 5 (RA) | ES 🇪🇸",
+			"name": "La Liga por M+ 3 (RA) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			 "url" : "https://ragnarp.net/embed/j7z1ypmmxi8p",
               "referer" : "https://macron.xyz/",
               "isHost" : "true"
                      }, {
-			"name": "La Liga por M+ 6 (RA) | ES 🇪🇸",
+			"name": "La Liga por M+ 4 (RA) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
 			 "referer": "https://cdnz.one/",
              "isHost": "true" 
                     },   {
-			"name":"La Liga por M+ 7 (RA) | ES 🇪",
+			"name":"La Liga por M+ 5 (RA) | ES 🇪",
 			"image": "https://i.imgur.com/PoAUHmh.png",
            	"url": "https://ragnarp.net/embed/a092om",
 			"referer": "https://1rowsports.com/",
              "isHost": "true"
                }, {
-			"name": "La Liga por M+ 8 (SP) | ES 🇪🇸",
+			"name": "La Liga por M+ 6 (SP) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			 "url": "https://sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
            }, {
-			"name": "La Liga por M+ 9 (EM) | ES 🇪🇸",
+			"name": "La Liga por M+ 7 (EM) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
              "url": "http://emb.apl118.me/player/live.php?id=177662&w=728&h=450",
 			"isHost" : "true"
                   },  {
-			"name": "La Liga por M+ 10 (EM) | ES 🇪",
+			"name": "La Liga por M+ 8 (EM) | ES 🇪",
 			"image": "https://i.imgur.com/PoAUHmh.png",
          "url": "http://emb.x177655.apl118.me/player/live.php?id=177655&w=728&h=450",
 			"isHost": "true"
                      }, {
-			"name": "La Liga por M+ 11 (ST) | ES 🇪🇸",
+			"name": "La Liga por M+ 9 (ST) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 12 (ST) | ES 🇪🇸",
+			"name": "La Liga por M+ 10 (ST) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 13 (ST) | ES 🇪🇸",
+			"name": "La Liga por M+ 11 (ST) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 14 (ST) | ES 🇪🇸",
+			"name": "La Liga por M+ 12 (ST) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 15 (C7) | ES 🇪🇸",
+			"name": "La Liga por M+ 13 (C7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 16 (C7)| ES 🇪🇸",
+			"name": "La Liga por M+ 14 (C7)| ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 17 (EL)| ES 🇪🇸",
+			"name": "La Liga por M+ 15 (EL)| ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
@@ -552,7 +538,7 @@
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
             }, {
-			"name": "Gol TV 5 p | ES",
+			"name": "Gol TV 5 | ES",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url":"http://deportesgratis.net/?movies=hd2",
             "isHost" : "true"
