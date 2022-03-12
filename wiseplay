@@ -623,6 +623,28 @@
                "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
                  }, {
+                 "name": "DAZN 1 | ES 🇪🇸",
+                    "image": "https://i.imgur.com/BTAedu6.jpg",
+                  "url": "https://cloudstreams.org/cloud.php?player=desktop&live=wiz43",
+            "referer" : "https://wizhdlive.xyz/",
+			"ishost": "true"
+                       }, {
+                    "name": "DAZN 1 | ES 🇪🇸",
+                    "image": "https://i.imgur.com/BTAedu6.jpg",
+			   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=sdazn1",
+             "isHost": "true"
+                      }, {
+			"name": "DAZN 1 | ES 🇪🇸",
+                    "image": "https://i.imgur.com/BTAedu6.jpg",
+			"url" : "https://ragnarp.net/embed/loofty",
+			 "referer": "https://macron.xyz/",
+             "isHost": "true"
+                    }, {   
+                 "name": "DAZN 1 | ES 🇪🇸",
+                    "image": "https://i.imgur.com/BTAedu6.jpg",
+                     "url": "http://emb.x178323.apl118.me/player/live.php?id=178323&w=728&h=450",
+               "isHost" : "true"
+                 }, {
 			"name": "TDP | ES 🇪🇸",
 			"image": "https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",
 	        "url": "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940",
