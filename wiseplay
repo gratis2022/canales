@@ -702,6 +702,27 @@
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
+                      },  {
+			"name": "PPV WWE: Friday Night Smackdown | LAT",
+			"image": https://i.imgur.com/QVtPPdl.png",
+	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+		"userAgent" : ""
+                    }, {
+			"name": "PPV WWE: Friday Night Smackdown | LAT",
+			"image": "https://i.imgur.com/QVtPPdl.png",
+	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "PPV WWE: Friday Night Smackdown | LAT",
+             "image": "https://i.imgur.com/QVtPPdl.png",
+           "url" :  "https://pelotero.net/ver/foxsports2.php",
+	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV WWE: Friday Night Smackdown | LAT",
+             "image": "https://i.imgur.com/QVtPPdl.png",
+           "url" :  "https://www.tutele.sx/online.php?a=133",
+			 "isHost":"true"
                       }, {
 			"name": "PPV WWE: Friday Night Smackdown | EN",
              "image": "https://i.imgur.com/QVtPPdl.png",
