@@ -738,20 +738,20 @@
 			 "isHost":"true"
                       }, {
 			 "name": "BT Sport 1 | UK",
-			"image": "https://i.ibb.co/THBmVMf/BT-Sport-1.gif",
+			"image": "https://i.imgur.com/og4XWuT.png",
 			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		}, {
               "name": "BT Sport 2 | UK",
-			"image": "https://i.ibb.co/SNTbM4S/BT-Sport-2-HD.jpg",
+			"image": "https://i.imgur.com/pzDve0y.png",
 		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
           }, {
               "name": "BT Sport 3 | UK",
 			"image": "https://ia800809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png",
-			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
+			"url":"https://i.imgur.com/66lxeXn.png",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		 }, {
