@@ -644,6 +644,11 @@
                     "image": "https://i.imgur.com/NcXEpiv.png",
                      "url": "http://emb.x178323.apl118.me/player/live.php?id=178323&w=728&h=450",
                "isHost" : "true"
+                 }, {   
+                 "name": "DAZN 2p | ES 🇪🇸",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+                     "url": "https://futbolfullenvivo.com/ver-channel-dazn-2-online-en-directo/",
+               "isHost" : "true"
                  }, {
 			"name": "TDP | ES 🇪🇸",
 			"image": "https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",
