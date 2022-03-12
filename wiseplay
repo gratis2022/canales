@@ -927,8 +927,17 @@
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
 			 "isHost":"true"
-                      } 
-
+                      }, {
+			"name": "PPV UFC Fight Night ovo | PT",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "http://www.ovostreams.com/ufc-fight-night-santos-vs-ankalaev-live-stream.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV UFC Fight Night bub | PT",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "http://dubznetwork.com/meet/mma/ufc-fight-night-santos-vs-ankalaev-12march/",
+			 "isHost":"true"
+                      }
 
 
 	     
