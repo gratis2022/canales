@@ -20,6 +20,31 @@
                 "url": "https://starlive.xyz/",
                 "embed":"true"  
           },  {
+			"name": "Tudn 1 | LAT 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url" :  "https://www.futbolgratis.online/p/tudn-en-vivo.html",
+			"isHost":"true"
+			}, {
+			"name": "dtv1  | LAT 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url" :  "https://www.futbolgratis.online/p/directv-sports-en-vivo.html",
+			"isHost":"true"
+			}, {
+			"name": "Tudn | LAT 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://www.tutele.sx/online.php?a=17",
+            "isHost" : "true"
+            }, {
+			"name": "Tudn 2| LAT 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://www.tutele.sx/online.php?a=17",
+            "isHost" : "true"https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/"
+            },
+	  
+	  
+	  
+	  
+	  {
 			"name": "Estadio TNT Chile | LAT 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
