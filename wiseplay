@@ -644,46 +644,45 @@
                      "url": "http://emb.x177234.apl118.me/player/live.php?id=177234&w=728&h=450",
                "isHost" : "true"
                  }, {
-							"name": "DAZN Formula 1 | ES",
-							"image": "https://i.imgur.com/U7lLcbT.jpg",
-							"url": "http://www.ciberespaciotv.com/p/dazn-f1-online.html",
-						    "referer":"", 
-                            "desktop": "true", 
-							"isHost": "true"
-							
-						}, {   
+		"name": "DAZN Formula 1 | ES",
+		"image": "https://i.imgur.com/U7lLcbT.jpg",
+		"url": "http://www.ciberespaciotv.com/p/dazn-f1-online.html",
+		 "referer":"", 
+                "desktop": "true", 
+		"isHost": "true"
+		}, {   
 			"name": "DAZN Formula 1 | ES",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
               "url" : "https://www.tutele.sx/online.php?a=3881",
 			 "referer" : "https://telefullenvivo.com/",
                     "isHost" : "true"
         }, {
-			"name": "SKY Sports Formula 1 | EN",
+			"name": "SKY Sports Formula 1 | IT",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://starlive.xyz/embed.php?id=live29m",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 | EN",
+			"name": "SKY Sports Formula 1 | IT",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://starlive.xyz/embed.php?id=live1m",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 | EN",
+			"name": "SKY Sports Formula 1 | IT",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://c787898.com/embed.php?id=live1",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 | EN",
+			"name": "SKY Sports Formula 1 | IT",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://c787898.com/embed.php?id=live29",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 | EN",
+			"name": "SKY Sports Formula 1 | IT",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "http://ufckhabib.com/f1/formula1-stream.php",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 | EN",
+			"name": "SKY Sports Formula 1 | IT",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
