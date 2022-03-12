@@ -560,7 +560,12 @@
 			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
 			 "referer": "https://cdnz.one/",
              "isHost": "true" 
-                    },   {
+                    }, {
+			"name": "Gol TV | ES",
+			"image": "htps://i.imgur.com/kN4OKEp.png",
+			"url":"https://elixx.xyz/apsg.html",
+            "isHost" : "true"
+            }, {
 			"name": "Gol TV | ES",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
