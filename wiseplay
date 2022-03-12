@@ -394,7 +394,316 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
 		"userAgent" : ""
-                    }
+                    },  {
+			"name": "La Liga por M+ 1 (UT) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "La Liga por M+ 2 (WI) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+          "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+                     }, {
+							"name": "La Liga por M+ 3 (WI) | ES 🇪🇸",
+							"image": "https://i.imgur.com/PoAUHmh.png",
+							"url": "http://wigistream.to/embed/tekhw2v",
+				        	"referer":"https://starlive.xyz/",
+				        	"desktop": "true",
+				        	"isHost": "true"
+							}, {
+					"name": "La Liga por M+ 4 (WI) | ES 🇪🇸",
+					"image": "https://i.imgur.com/PoAUHmh.png",
+					"url": "https://wigistream.to/embed/q89fq6f2q",
+			    	"referer":"https://c787898.com/",
+					"desktop": "true",
+					"isHost": "true"
+				}, {
+                "name": "La Liga por M+ 5 (WI) | ES 🇪",
+                "image": "https://i.imgur.com/PoAUHmh.png",
+                "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
+                "referer":"https://sportsonline.to/channels/hd/hd6.php", 
+                "desktop": "true",
+                 "isHost":"true" 
+		 }, {
+			"name": "La Liga por M+ 6 (RA) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			 "url" : "https://ragnarp.net/embed/j7z1ypmmxi8p",
+              "referer" : "https://macron.xyz/",
+              "isHost" : "true"
+                     }, {
+			"name": "La Liga por M+ 7 (RA) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
+			 "referer": "https://cdnz.one/",
+             "isHost": "true" 
+                    },   {
+			"name":"La Liga por M+ 8 (RA) | ES 🇪",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+           	"url": "https://ragnarp.net/embed/a092om",
+			"referer": "https://1rowsports.com/",
+             "isHost": "true"
+               }, {
+			"name": "La Liga por M+ 9 (SP) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			 "url": "https://sportsonline.to/channels/hd/hd6.php",
+			"referer": "http://cnlsport.xyz/",
+			"isHost" : "true"
+           }, {
+			"name": "La Liga por M+ 10 (EM) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+             "url": "http://emb.apl118.me/player/live.php?id=177662&w=728&h=450",
+			"isHost" : "true"
+                  },  {
+			"name": "La Liga por M+ 11 (EM) | ES 🇪",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+         "url": "http://emb.x177655.apl118.me/player/live.php?id=177655&w=728&h=450",
+			"isHost": "true"
+                     }, {
+			"name": "La Liga por M+ 12 (ST) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			"url":"https://starlive.xyz/embed.php?id=live5",
+            "isHost" : "true"
+            }, {
+			"name": "La Liga por M+ 13 (ST) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			"url":"https://starlive.xyz/embed.php?id=live6",
+            "isHost" : "true"
+            }, {
+			"name": "La Liga por M+ 14 (ST) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			"url":"https://starlive.xyz/embed.php?id=live5m",
+            "isHost" : "true"
+            }, {
+			"name": "La Liga por M+ 15 (ST) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			"url":"https://starlive.xyz/embed.php?id=live6m",
+            "isHost" : "true"
+            }, {
+			"name": "La Liga por M+ 16 (C7) | ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			"url":"https://c787898.com/embed.php?id=live5",
+            "isHost" : "true"
+            }, {
+			"name": "La Liga por M+ 17 (C7)| ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			"url":"https://c787898.com/embed.php?id=live6",
+            "isHost" : "true"
+            }, {
+			"name": "La Liga por M+ 18 (EL)| ES 🇪🇸",
+			"image": "https://i.imgur.com/PoAUHmh.png",
+			"url":"https://elixx.xyz/apsg.html",
+            "isHost" : "true"
+            }, {
+			"name": "la Liga TV Bar| ES",
+			"image": "https://i.imgur.com/1o92EFs.png",
+	        "url": "https://starlive.xyz/embed.php?id=live6",
+		"userAgent" : ""
+                    },  {
+			"name": "la Liga TV Bar| ES",
+			"image": "https://i.imgur.com/1o92EFs.png",
+	        "url": "https://starlive.xyz/embed.php?id=live6m",
+		"userAgent" : ""
+                    },  {
+			"name": "la Liga TV Bar| ES",
+			"image": "https://i.imgur.com/1o92EFs.png",
+			"url":"https://c787898.com/embed.php?id=live6",
+            "isHost" : "true"
+            },  {
+			"name": "Gol TV | ES",
+			"image": "https://i.imgur.com/kN4OKEp.png",
+			"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
+			 "referer":"", 
+                            "desktop": "true", 
+			"isHost": "true"
+						}, {
+			"name": "Gol TV | ES",
+			"image": "https://i.imgur.com/kN4OKEp.png",
+			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
+			"referer": "https://1.vecdn.pw/",
+             "isHost": "true"
+               }, { 
+                "name": "Gol TV | ES",
+                "image": "https://i.imgur.com/kN4OKEp.png",
+                "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+                "referer":"https://elixx.xyz/", 
+                "desktop": "true",
+                "isHost":"true"
+                }, {
+                "name": "Gol TV | ES",
+                "image": "https://i.imgur.com/kN4OKEp.png",
+                "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
+                "referer":"https://sportsonline.to/channels/hd/hd6.php", 
+                "desktop": "true",
+                 "isHost":"true" 
+		 }, {
+                "name": "Liga de Campeones por M+ | ES",
+                "image": "https://i.imgur.com/wiLQCUD.png",
+                "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+                "referer":"https://elixx.xyz/", 
+                "desktop": "true",
+                "isHost":"true"
+                }, {
+			"name": "Liga de Campeones por M+ | ES",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+	        "url": "http://emb.apl118.me/player/live.php?id=177258&w=728&h=450/",
+             "isHost": "true" 
+                    }, {
+			"name": "Liga de Campeones por M+ | ES",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
+            "referer" : "https://v2.sportsonline.to.html",
+             "isHost": "true"
+             }, {
+			"name": "Liga de Campeones por M+ | ES",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+			"url": "https://ragnarp.net/embed/tq24aomq",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "Liga de Campeones por M+ | ES",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+          "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+                     }, {
+			"name": "Liga de Campeones por M+ | ES",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+        "url" : "https://maxsport.one/laliga.php",
+               "referer" : "http://cdn.livetv507.me/",
+			  "isHost" : "true"
+                 }, {
+			"name": "TDP | ES",
+			"image": "https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",
+	        "url": "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940",
+		"userAgent" : ""
+                    }, {
+			"name": "World Padel Tour Tv | ES",
+			"image": "https://i.imgur.com/0r7t82v.jpg",
+	        "url": "https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "Deportes por M+ | ES",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+	        "url": "https://starlive.xyz/embed.php?id=live27",
+		"userAgent" : ""
+                    }, {
+			"name": "Deportes por M+ | ES",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+	        "url": "https://c787898.com/embed.php?id=live27",
+		"userAgent" : ""
+                    }, {
+			"name": "Tennis Channel | EN",
+			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
+	        "url": "https://starlive.xyz/embed.php?id=live28",
+		"userAgent" : ""
+                    }, {
+			"name": "Tennis Channel | EN",
+			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
+	        "url": "https://c787898.com/embed.php?id=live28",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN Formula 1 | ES",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+			"url": "https://starlive.xyz/embed.php?id=live30",
+             "isHost": "true"
+             }, {
+			"name": "DAZN Formula 1 | ES",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+			"url": "https://c787898.com/embed.php?id=30",
+             "isHost": "true"
+             }, {   
+                 "name": "DAZN Formula 1 | ES",
+                    "image": "https://i.imgur.com/U7lLcbT.jpg",
+                     "url": "http://emb.x177234.apl118.me/player/live.php?id=177234&w=728&h=450",
+               "isHost" : "true"
+                 }, {
+							"name": "DAZN Formula 1 | ES",
+							"image": "https://i.imgur.com/U7lLcbT.jpg",
+							"url": "http://www.ciberespaciotv.com/p/dazn-f1-online.html",
+						    "referer":"", 
+                            "desktop": "true", 
+							"isHost": "true"
+							
+						}, {   
+			"name": "DAZN Formula 1 | ES",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+              "url" : "https://www.tutele.sx/online.php?a=3881",
+			 "referer" : "https://telefullenvivo.com/",
+                    "isHost" : "true"
+        }, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/nRPJtmu.jpg",
+            "url" : "https://starlive.xyz/embed.php?id=live29m",
+			"isHost": "true"
+		}, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/nRPJtmu.jpg",
+            "url" : "https://starlive.xyz/embed.php?id=live1m",
+			"isHost": "true"
+		}, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/nRPJtmu.jpg",
+            "url" : "https://c787898.com/embed.php?id=live1",
+			"isHost": "true"
+		}, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/nRPJtmu.jpg",
+            "url" : "https://c787898.com/embed.php?id=live29",
+			"isHost": "true"
+		}, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/nRPJtmu.jpg",
+            "url" : "http://ufckhabib.com/f1/formula1-stream.php",
+			"isHost": "true"
+		}, {
+			"name": "SKY Sports Formula 1 | EN",
+			"image": "https://i.imgur.com/nRPJtmu.jpg",
+            "url" : "http://timesports.cc/skysportsformula1.php",
+			"isHost": "true"
+                     }, {
+			"name": "Sport Tv 1 | PT",
+             "image": "https://i.imgur.com/uHkR0lP.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Sport Tv 2 | PT",
+             "image": "https://i.imgur.com/GGVYfbU.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv2.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Sport Tv 3 | PT",
+             "image": "https://i.imgur.com/tvCMAD0.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sports HD | EN",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://starlive.xyz/embed.php?id=live19",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sports HD | EN",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://c787898.com/embed.php?id=live19",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sports HD | EN",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
+			 "isHost":"true"
+                      },  {
+			"name": "Bein Sports HD | EN",
+			"image": "https://i.imgur.com/XpU4D9m.png",
+            "url" : "http://timesports.cc/beinsportusa.php",
+			"isHost": "true"
+                     }, {
+			"name": "Bein Sports HD | EN",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://www.tutele.sx/online.php?a=76",
+			 "isHost":"true"
+                      }
+
 
 
 	     
