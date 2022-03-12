@@ -20,6 +20,22 @@
                 "url": "https://starlive.xyz/",
                 "embed":"true"  
           }, {
+			"name": "TUDN 2 | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://futboltv-envivo.com/tudn-en-vivo/",
+			 "isHost":"true"
+                      }, {
+			"name": "TUDN 3 | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://www.futbolgratis.online/p/tudn-en-vivo.html",
+			 "isHost":"true"
+                      }, 
+		      
+		      
+		      
+		      
+		      
+		      {
 			"name": "Estadio TNT Chile | LAT",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
@@ -367,11 +383,6 @@
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "TUDN 2 | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://futboltv-envivo.com/tudn-en-vivo/",
-			 "isHost":"true"
-                      }, {
 			"name": "TUDN | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://www.tutele.sx/online.php?a=17",
