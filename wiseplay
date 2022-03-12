@@ -937,6 +937,11 @@
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "http://dubznetwork.com/meet/mma/ufc-fight-night-santos-vs-ankalaev-12march/",
 			 "isHost":"true"
+                      }, {
+			"name": "PPV UFC Fight Night d2 | PT",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "http://d2vle8remumhqi.cloudfront.net/stream/MzE5NA==/1080p.m3u8",
+			 "isHost":"true"
                       }
 
 
