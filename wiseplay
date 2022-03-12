@@ -409,6 +409,11 @@
             "isHost" : "true"
             }, {
 			"name": "TUDN | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url":"https://elixx.xyz/adortmund.html",
+            "isHost" : "true"
+            }, {
+			"name": "TUDN | LAT 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
 			 "isHost":"true"
