@@ -339,6 +339,22 @@
            "url" :  "https://www.tutele.sx/online.php?a=1204",
 			 "isHost":"true"
                       }, {
+			"name": "Gol Tv Ecuador | LAT",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "VTV Plus | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://pelotero.net/ver/vtv.php",
+	   "referer": "https://cablegratis.online/vtv-plus-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "VTV Plus | LAT",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://www.tutele.sx/online.php?a=4264",
+			 "isHost":"true"
+                      }, {
 			"name": "Win Sports Plus | LAT",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://pelotero.net/ver/winsportsmas.php",
@@ -367,6 +383,11 @@
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
+			"name": "Claro Sports | LAT",
+			"image": "https://i.imgur.com/BAHebvo.png",
+	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
+		"userAgent" : ""
+                    }, {
 			"name": "TUDN | LAT",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://www.tutele.sx/online.php?a=17",
@@ -399,27 +420,6 @@
             "referer" : "https://c787898.com",
              "isHost": "true"
              }, {
-			"name": "VTV Plus | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
-           "url" :  "https://pelotero.net/ver/vtv.php",
-	   "referer": "https://cablegratis.online/vtv-plus-en-vivo.html",
-			 "isHost":"true"
-                      }, {
-			"name": "VTV Plus | LAT",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
-           "url" :  "https://www.tutele.sx/online.php?a=4264",
-			 "isHost":"true"
-                      }, {
-			"name": "Claro Sports | LAT",
-			"image": "https://i.imgur.com/BAHebvo.png",
-	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "Gol Tv Ecuador | LAT",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
-	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
-		"userAgent" : ""
-                    },  {
 			"name": "La Liga por M+ 1 (UT) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
@@ -431,17 +431,17 @@
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-							"name": "La Liga por M+ 3 (WI) | ES 🇪🇸",
+							"name": "La Liga por M+ 3 p (WI) | ES 🇪🇸",
 							"image": "https://i.imgur.com/PoAUHmh.png",
 							"url": "http://wigistream.to/embed/tekhw2v",
-				        	"referer":"https://starlive.xyz/",
+				        	"referer":"https://elixx.xyz/",
 				        	"desktop": "true",
 				        	"isHost": "true"
 							}, {
-					"name": "La Liga por M+ 4 (WI) | ES 🇪🇸",
+					"name": "La Liga por M+ 4 p (WI) | ES 🇪🇸",
 					"image": "https://i.imgur.com/PoAUHmh.png",
 					"url": "https://wigistream.to/embed/q89fq6f2q",
-			    	"referer":"https://c787898.com/",
+			    	"referer":"https://elixx.xyz/",
 					"desktop": "true",
 					"isHost": "true"
 				}, {
