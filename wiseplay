@@ -777,6 +777,11 @@
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
                      }, {
+			"name": "SKY Sports Formula 1 | IT 🇮🇹",
+			"image": "https://i.imgur.com/nRPJtmu.jpg",
+            "url" : "https://cdnz.one/ch49.php",
+			"isHost": "true"
+                     }, {
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
