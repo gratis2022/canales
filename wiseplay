@@ -10,55 +10,55 @@
  "stations": [
 
  {
-                "name": "AGENDA DEPORTIVA 1",
+                "name": "AGENDA DEPORTIVA 1 🟢",
                               "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
                 "url": "https://wowlive.info/",
                 "embed":"true"  
           }, {
-                "name": "AGENDA DEPORTIVA 2",
+                "name": "AGENDA DEPORTIVA 2 🟢",
                               "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
                 "url": "https://starlive.xyz/",
                 "embed":"true"  
           },  {
-			"name": "Estadio TNT Chile | LAT",
+			"name": "Estadio TNT Chile | LAT 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
             "isHost" : "true"
             }, {
-                "name": "TNT Sports Chile | LAT",
+                "name": "TNT Sports Chile | LAT 🇨🇱",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/cdf.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
           }, {
-                "name": "TNT Sports Chile | LAT",
+                "name": "TNT Sports Chile | LAT 🇨🇱",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/ver/cdfpremium.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
           }, {
-			"name": "TNT Sports Chile | LAT",
+			"name": "TNT Sports Chile | LAT 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=4",
             "isHost" : "true"
             }, {
-			"name": "TNT Sports Chile | LAT",
+			"name": "TNT Sports Chile | LAT 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url" :  "https://futbolfullenvivo.com/ver-channel-tnt-sports-chile-en-vivo/",
 			"isHost":"true"
 			}, {
-			"name": "TNT Sports Chile | LAT",
+			"name": "TNT Sports Chile | LAT 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://freelive365.nl/player2.php?id=11&code=126&evento=chile",
 			"isHost": "true" 
              }, {
-			"name": "TNT Sports Argentina | LAT",
+			"name": "TNT Sports Argentina | LAT 🇦🇷",
              "image": "https://i.imgur.com/TTaCeXw.png",
            "url" :  "https://pelotero.net/ver/tntsports.php",
 	   "referer": "https://cablegratis.online/tnt-sports-en-vivo-argentina-vip-tu-casa.html",
 			 "isHost":"true"
                       }, {
-			"name": "TNT Sports Argentina | LAT",
+			"name": "TNT Sports Argentina | LAT 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
             "isHost" : "true"
@@ -161,23 +161,23 @@
            "url" :  "https://futbolfullenvivo.com/ver-channel-directv-plus-en-vivo/",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN ARGENTINA | LAT",
+			"name": "ESPN ARGENTINA | LAT 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 	        "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "ESPN ARGENTINA | LAT",
+			"name": "ESPN ARGENTINA | LAT 🇦🇷",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://pelotero.net/ver/espn.php",
 	   "referer": "https://cablegratis.online/espn-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN ARGENTINA | LAT",
+			"name": "ESPN ARGENTINA | LAT 🇦🇷",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "http://timesports.cc/espn1sur.php",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN ARGENTINA | LAT",
+			"name": "ESPN ARGENTINA | LAT 🇦🇷",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://www.tutele.sx/online.php?a=1",
 			 "isHost":"true"
@@ -187,18 +187,18 @@
 	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "ESPN 2 ARGENTINA | LAT",
+			"name": "ESPN 2 ARGENTINA | LAT 🇦🇷",
 			"image": "https://i.imgur.com/jq1s4to.png",
 	        "url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "ESPN 2 ARGENTINA | LAT",
+			"name": "ESPN 2 ARGENTINA | LAT 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
 	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 ARGENTINA | LAT",
+			"name": "ESPN 2 ARGENTINA | LAT 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://www.tutele.sx/online.php?a=2",
 			 "isHost":"true"
@@ -208,38 +208,38 @@
 	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "ESPN 3 ARGENTINA | LAT",
+			"name": "ESPN 3 ARGENTINA | LAT 🇦🇷",
 			"image": "https://i.imgur.com/iFqCpKj.png",
 	        "url": "http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "ESPN 3 ARGENTINA | LAT",
+			"name": "ESPN 3 ARGENTINA | LAT 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://pelotero.net/ver/espn3.php",
 	   "referer": "https://cablegratis.online/espn-3-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 ARGENTINA | LAT",
+			"name": "ESPN 3 ARGENTINA | LAT 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "http://timesports.cc/espn3sur.php",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 ARGENTINA | LAT",
+			"name": "ESPN 3 ARGENTINA | LAT 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 4 ARGENTINA | LAT",
+			"name": "ESPN 4 ARGENTINA | LAT 🇦🇷",
 			"image": "https://i.imgur.com/G9nJy7y.png",
 	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "ESPN EXTRA ARGENTINA | LAT",
+			"name": "ESPN EXTRA ARGENTINA | LAT 🇦🇷",
 			"image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
 	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "ESPN EXTRA ARGENTINA | LAT",
+			"name": "ESPN EXTRA ARGENTINA | LAT 🇦🇷",
              "image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
            "url" :  "http://timesports.cc/espn2sur.php",
 			 "isHost":"true"
