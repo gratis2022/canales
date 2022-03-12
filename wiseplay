@@ -730,7 +730,7 @@
 			 "isHost":"true"
                       }, {
 			"name": "PPV WWE: Friday Night Smackdown | EN",
-			"image": https://i.imgur.com/QVtPPdl.png",
+			"image": "https://i.imgur.com/QVtPPdl.png",
 	        "url": "http://alllivesportslinks.myftp.biz:80/hls/sonyten1.m3u8",
 		"userAgent" : ""
                     }, {
