@@ -410,10 +410,15 @@
             }, {
 			"name": "TUDN 4 | LAT 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url":"https://cdnz.one/ch40.php",
+            "isHost" : "true"
+            }, {
+			"name": "TUDN 5 | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "TUDN 5 | LAT 🇲🇽",
+			"name": "TUDN 6 | LAT 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd6.php",
 			 "isHost":"true" 
