@@ -542,132 +542,132 @@
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
             }, {
-			"name": "Gol TV 1 | ES 🇪🇸",
+			"name": "Gol TV (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "Gol TV 2 | ES 🇪🇸",
+			"name": "Gol TV (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			 "url": "https://sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
            }, {
-			"name": "Gol TV 3 | ES 🇪🇸",
+			"name": "Gol TV (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
 			 "referer": "https://cdnz.one/",
              "isHost": "true" 
                     }, {
-			"name": "Gol TV 4 | ES 🇪🇸",
+			"name": "Gol TV (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
             }, {
-			"name": "Gol TV 5 | ES 🇪🇸",
+			"name": "Gol TV (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url":"http://deportesgratis.net/?movies=hd2",
             "isHost" : "true"
             }, {
-			"name": "Gol TV 6 | ES 🇪🇸",
+			"name": "Gol TV (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
 			 "referer":"", 
                             "desktop": "true", 
 			"isHost": "true"
 						}, {
-			"name": "Gol TV 7 | ES 🇪🇸",
+			"name": "Gol TV (opc.7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
 			"referer": "https://1.vecdn.pw/",
              "isHost": "true"
                }, { 
-                "name": "Gol TV 8 | ES 🇪🇸",
+                "name": "Gol TV (opc.8) | ES 🇪🇸",
                 "image": "https://i.imgur.com/kN4OKEp.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
                 "referer":"https://elixx.xyz/", 
                 "desktop": "true",
                 "isHost":"true"
                 }, {
-                "name": "Gol TV 9 | ES 🇪🇸",
+                "name": "Gol TV (opc.9) | ES 🇪🇸",
                 "image": "https://i.imgur.com/kN4OKEp.png",
                 "url": "https://wigistream.to/embed/eviy3tp9sa8v04t",
                 "referer":"https://sportsonline.to/channels/hd/hd6.php", 
                 "desktop": "true",
                  "isHost":"true" 
 		 }, {
-			"name": "Vamos por M+ | ES 🇪🇸",
+			"name": "Vamos por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
          "url": "https://ragnarp.net/embed/6jv5qrdinf",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
                    }, {
-			"name": "Vamos por M+ | ES 🇪🇸",
+			"name": "Vamos por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
 			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do20",
 			"referer": "https://1.vecdn.pw/",
              "isHost": "true"
             }, {
- 			"name": "Vamos por M+ | ES 🇪🇸",
+ 			"name": "Vamos por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",    
             "url": "http://46.105.112.116:80/?watch=NL/vamoshd-esp&lb=1.m3u8&token=RED_mUZT__rECEXJvr9lU9Hpxg==,1647157751.6423232819&t=1&s=2&p=1&c=MA&r=1321&lb=1",
              "userAgent": "REDLINECLIENT TS4000 V2.4.81"
               }, {
-			"name": "Liga de Campeones por M+ | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			"url": "https://ragnarp.net/embed/tq24aomq",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
              }, {
-			"name": "Liga de Campeones por M+ | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			 "url": "https://ragnarp.net/embed/405ppgjssim1wf",
                     "referer":"https://macron.xyz/",
                     "isHost":"true"
           }, {
-                "name": "Liga de Campeones por M+ | ES 🇪🇸",
+                "name": "Liga de Campeones por M+ (opc.3) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
                 "referer":"https://elixx.xyz/", 
                 "desktop": "true",
                 "isHost":"true"
                 }, {
-			"name": "Liga de Campeones por M+ | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 	        "url": "http://emb.apl118.me/player/live.php?id=177258&w=728&h=450/",
              "isHost": "true" 
                     }, {
-			"name": "Liga de Campeones por M+ | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
              }, {
-			"name": "Liga de Campeones por M+ | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
         "url" : "https://maxsport.one/laliga.php",
                "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
                  }, {
-                 "name": "DAZN 1 | ES 🇪🇸",
+                 "name": "DAZN 1 (opc.1) | ES 🇪🇸",
                     "image": "https://i.imgur.com/NcXEpiv.png",
                   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=wiz43",
             "referer" : "https://wizhdlive.xyz/",
 			"ishost": "true"
                        }, {
-                    "name": "DAZN 1 | ES 🇪🇸",
+                    "name": "DAZN 1 (opc.2) | ES 🇪🇸",
                     "image": "https://i.imgur.com/NcXEpiv.png",
 			   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=sdazn1",
              "isHost": "true"
                       }, {
-			"name": "DAZN 1 | ES 🇪🇸",
+			"name": "DAZN 1 (opc.3) | ES 🇪🇸",
                     "image": "https://i.imgur.com/NcXEpiv.png",
 			"url" : "https://ragnarp.net/embed/loofty",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
                     }, {   
-                 "name": "DAZN 1 | ES 🇪🇸",
+                 "name": "DAZN 1 (opc.4) | ES 🇪🇸",
                     "image": "https://i.imgur.com/NcXEpiv.png",
                      "url": "http://emb.x178323.apl118.me/player/live.php?id=178323&w=728&h=450",
                "isHost" : "true"
@@ -687,50 +687,50 @@
 	        "url": "https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8",
 		"userAgent" : ""
                     }, {
-                    "name": "Deportes por M+ | ES 🇪🇸",
+                    "name": "Deportes por M+ (opc.1) | ES 🇪🇸",
                     "image": "https://i.imgur.com/OJqxHKo.png",
                 		"url": "https://fclecteur.com/footy.php?player=desktop&live=ufeed67",
                       "referer" : "https://casadelfutbol.net/",
 			"isHost": "true"
                 }, {
-                       "name": "Deportes por M+ | ES 🇪🇸",
+                       "name": "Deportes por M+ (opc.2) | ES 🇪🇸",
                     "image": "https://i.imgur.com/OJqxHKo.png",
                 			"url": "https://ragnarp.net/embed/577d4aefb1y83e",
 			  "referer" : "https://macron.xyz/",
             "isHost": "true"
                 }, {
-                     "name": "Deportes por M+ | ES 🇪🇸",
+                     "name": "Deportes por M+ (opc.3) | ES 🇪🇸",
                     "image": "https://i.imgur.com/OJqxHKo.png",
                  "url": "https://ragnarp.net/embed/6ojgvg",
                  "referer" : "https://leet365.cc/",
 			 "isHost": "true"
                       }, {
-			"name": "Deportes por M+ | ES 🇪🇸",
+			"name": "Deportes por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://starlive.xyz/embed.php?id=live27",
 		"userAgent" : ""
                     }, {
-			"name": "Deportes por M+ | ES 🇪🇸",
+			"name": "Deportes por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://starlive.xyz/embed.php?id=live27",
 		"userAgent" : ""
                     }, {
-			"name": "Deportes por M+ | ES 🇪🇸",
+			"name": "Deportes por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://c787898.com/embed.php?id=live27m",
 		"userAgent" : ""
                     }, {
-			"name": "Tennis Channel | EN",
+			"name": "Tennis Channel (opc.1) | EN",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://starlive.xyz/embed.php?id=live28",
 		"userAgent" : ""
                     }, {
-			"name": "Tennis Channel | EN",
+			"name": "Tennis Channel (opc.2) | EN",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://starlive.xyz/embed.php?id=live28m",
 		"userAgent" : ""
                     }, {
-			"name": "Tennis Channel | EN",
+			"name": "Tennis Channel (opc.3) | EN",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://c787898.com/embed.php?id=live28",
 		"userAgent" : ""
