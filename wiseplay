@@ -905,6 +905,11 @@
 			"url":"https://cdnz.one/ch47.php",
             "isHost" : "true"
 		 }, {
+              "name": "Sky Sports Premier League | UK 🇬🇧",
+			"image": "https://i.imgur.com/PeCJr2n.png",
+			"url":"http://timesports.cc/skysportspremierleague.php",
+            "isHost" : "true"
+		 }, {
               "name": "Super Sport Premier League | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"http://timesports.cc/supersportspremier.php",
