@@ -920,6 +920,11 @@
 			"url":"https://www.tutele.sx/online.php?a=144",
             "isHost" : "true"
 		 }, {
+              "name": "Sky Sports Premier League | UK 🇬🇧",
+			"image": "https://i.imgur.com/PeCJr2n.png",
+			"url":"https://futbolfullenvivo.com/ver-channel-sky-premier-league-en-vivo/",
+            "isHost" : "true"
+		 }, {
               "name": "Super Sport Premier League | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"http://timesports.cc/supersportspremier.php",
