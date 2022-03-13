@@ -825,76 +825,76 @@
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
          }, {
-			"name": "Bein Sports HD | EN 🇺🇸",
+			"name": "Bein Sports HD (opc.1) | EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://starlive.xyz/embed.php?id=live19",
 			 "isHost":"true"
                       }, {
-			"name": "Bein Sports HD | EN 🇺🇸",
+			"name": "Bein Sports HD (opc.2) | EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://c787898.com/embed.php?id=live19",
 			 "isHost":"true"
                       }, {
-			"name": "Bein Sports HD | EN 🇺🇸",
+			"name": "Bein Sports HD (opc.3) | EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
 			 "isHost":"true"
                       },  {
-			"name": "Bein Sports HD | EN 🇺🇸",
+			"name": "Bein Sports HD (opc.4) | EN 🇺🇸",
 			"image": "https://i.imgur.com/XpU4D9m.png",
             "url" : "http://timesports.cc/beinsportusa.php",
 			"isHost": "true"
                      }, {
-			"name": "Bein Sports HD | EN 🇺🇸",
+			"name": "Bein Sports HD |(opc.5)  EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
                       }, {
-			 "name": "BT Sport 1 | UK 🇬🇧",
+			 "name": "BT Sport 1 (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/og4XWuT.png",
 			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		}, {
-			 "name": "BT Sport 1 | UK 🇬🇧",
+			 "name": "BT Sport 1 (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/og4XWuT.png",
 			"url":"http://timesports.cc/btsport1uk.php",
             "isHost" : "true"
 		}, {
-			 "name": "BT Sport 1 | UK 🇬🇧",
+			 "name": "BT Sport 1 (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/og4XWuT.png",
 			"url":"https://cdnz.one/ch41.php",
             "isHost" : "true"
 		}, {
-              "name": "BT Sport 2 | UK 🇬🇧",
+              "name": "BT Sport 2 (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/pzDve0y.png",
 		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
           }, {
-              "name": "BT Sport 2 | UK 🇬🇧",
+              "name": "BT Sport 2 (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/pzDve0y.png",
 		"url":"http://timesports.cc/btsport2uk.php",
             "isHost" : "true"
           }, {
-              "name": "BT Sport 2 | UK 🇬🇧",
+              "name": "BT Sport 2 (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/pzDve0y.png",
 		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
             "referer" : "https://cdnz.one/ch42.php",
             "isHost" : "true"
           }, {
-              "name": "BT Sport 3 | UK 🇬🇧",
+              "name": "BT Sport 3 (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/66lxeXn.png",
 			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		 }, {
-              "name": "BT Sport 3 | UK 🇬🇧",
+              "name": "BT Sport 3 (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/66lxeXn.png",
 			"url":"http://timesports.cc/btsport3uk.php",
             "isHost" : "true"
 		 }, {
-              "name": "BT Sport 3 | UK 🇬🇧",
+              "name": "BT Sport 3 (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/66lxeXn.png",
 			"url":"https://cdnz.one/ch43.php",
             "isHost" : "true"
@@ -904,27 +904,27 @@
 			"url":"https://cdnz.one/ch47.php",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Premier League | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"http://timesports.cc/skysportspremierleague.php",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Premier League | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"https://www.tutele.sx/online.php?a=144",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Premier League | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"https://futbolfullenvivo.com/ver-channel-sky-premier-league-en-vivo/",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier League | UK 🇬🇧",
+              "name": "Super Sport Premier League (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"http://timesports.cc/supersportspremier.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier League | UK 🇬🇧",
+              "name": "Super Sport Premier League (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"https://www.tutele.sx/online.php?a=187",
             "isHost" : "true"
@@ -933,100 +933,96 @@
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"https://www.tutele.sx/online.php?a=153",
             "isHost" : "true"
-		 },
-		 
-		 
-		 
-		 {
-			"name": "PPV WWE: Friday Night Smackdown | MX 🇲🇽",
+		 }, {
+			"name": "PPV WWE: Friday Night Smackdown (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/QVtPPdl.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
 		"userAgent" : ""
                     }, {
-			"name": "PPV WWE: Friday Night Smackdown | LAT 🇦🇷",
+			"name": "PPV WWE: Friday Night Smackdown (opc.2) | LAT 🇦🇷",
 			"image": "https://i.imgur.com/QVtPPdl.png",
 	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "PPV WWE: Friday Night Smackdown | LAT 🇦🇷",
+			"name": "PPV WWE: Friday Night Smackdown (opc.3) | LAT 🇦🇷",
              "image": "https://i.imgur.com/QVtPPdl.png",
            "url" :  "https://pelotero.net/ver/foxsports2.php",
 	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "PPV WWE: Friday Night Smackdown | LAT 🇦🇷",
+			"name": "PPV WWE: Friday Night Smackdown (opc.4) | LAT 🇦🇷",
              "image": "https://i.imgur.com/QVtPPdl.png",
            "url" :  "https://www.tutele.sx/online.php?a=133",
 			 "isHost":"true"
                       },  {
-			"name": "PPV WWE: Friday Night Smackdown | PT 🇵🇹",
+			"name": "PPV WWE: Friday Night Smackdown (opc.5) | PT 🇵🇹",
              "image": "https://i.imgur.com/QVtPPdl.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV WWE: Friday Night Smackdown | EN 🇬🇧",
+			"name": "PPV WWE: Friday Night Smackdown (opc.6) | EN 🇬🇧",
              "image": "https://i.imgur.com/QVtPPdl.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV WWE: NXT | PT 🇵🇹",
+			"name": "PPV WWE: NXT (opc.1) | PT 🇵🇹",
              "image": "https://i.imgur.com/BL8lXDh.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV WWE: NXT | EN 🇬🇧",
+			"name": "PPV WWE: NXT (opc.2) | EN 🇬🇧",
              "image": "https://i.imgur.com/BL8lXDh.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV UFC Fight Night | MX 🇲🇽",
+			"name": "PPV UFC Fight Night (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/IXPSmGc.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
 		"userAgent" : ""
                     }, {
-			"name": "PPV UFC Fight Night | LAT 🇦🇷",
+			"name": "PPV UFC Fight Night (opc.2) | LAT 🇦🇷",
 			"image": "https://i.imgur.com/IXPSmGc.png",
 	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
 		"userAgent" : ""
                     },{
-			"name": "PPV UFC Fight Night | LAT 🇦🇷",
+			"name": "PPV UFC Fight Night (opc.3) | LAT 🇦🇷",
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://pelotero.net/ver/foxsports2.php",
 	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "PPV UFC Fight Night | LAT 🇦🇷",
+			"name": "PPV UFC Fight Night (opc.4) | LAT 🇦🇷",
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://www.tutele.sx/online.php?a=133",
 			 "isHost":"true"
                       }, {
-			"name": "PPV UFC Fight Night | PT 🇵🇹",
+			"name": "PPV UFC Fight Night (opc.5) | PT 🇵🇹",
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV UFC Fight Night | PT 🇵🇹",
+			"name": "PPV UFC Fight Night (opc.6) | PT 🇵🇹",
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://v2.sportsonline.to/channels/bra/br3.php",
 			 "isHost":"true"
                       }, {
-			 "name": "PPV UFC Fight Night | UK 🇬🇧",
+			 "name": "PPV UFC Fight Night (opc.7) | UK 🇬🇧",
 			"image": "https://i.imgur.com/IXPSmGc.png",
 			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		}, {
-			 "name": "PPV UFC Fight Night | UK 🇬🇧",
+			 "name": "PPV UFC Fight Night (opc.8) | UK 🇬🇧",
 			"image": "https://i.imgur.com/IXPSmGc.png",
 			"url":"http://timesports.cc/btsport1uk.php",
             "isHost" : "true"
 		}, {
-			 "name": "PPV UFC Fight Night | UK 🇬🇧",
+			 "name": "PPV UFC Fight Night (opc.9) | UK 🇬🇧",
 			"image": "https://i.imgur.com/IXPSmGc.png",
 			"url":"https://cdnz.one/ch41.php",
             "isHost" : "true"
 		}, {
-			"name": "PPV UFC Fight Night | UK 🇬🇧",
+			"name": "PPV UFC Fight Night (opc.10) | UK 🇬🇧",
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true"
