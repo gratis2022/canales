@@ -344,11 +344,6 @@
            "url" :  "https://www.tutele.sx/online.php?a=1204",
 			 "isHost":"true"
                       }, {
-			"name": "Gol Tv Uruguay | LAT 🇺🇾",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
-	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
-		"userAgent" : ""
-                    }, {
 			"name": "VTV Plus | LAT 🇺🇾",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
            "url" :  "https://pelotero.net/ver/vtv.php",
@@ -360,6 +355,11 @@
            "url" :  "https://www.tutele.sx/online.php?a=4264",
 			 "isHost":"true"
                       }, {
+			"name": "Gol Tv Ecuador | LAT 🇪🇨",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
+		"userAgent" : ""
+                    }, {
 			"name": "Win Sports Plus | LAT 🇪🇨",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://pelotero.net/ver/winsportsmas.php",
