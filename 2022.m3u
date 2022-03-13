@@ -3863,7 +3863,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w1139996119.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",SONY SPORTS
 http://alllivesportslinks.myftp.biz:80/hls/sonyten1.m3u8?mvk
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",O Porto Sports FHD
+https://cdn-lineup-redundancy.vos360.video/Content/HLS/Live/channel(e3d2e8ee-a55c-a0e2-287a-bbb3dade38ea)/05_1p1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",O Porto Sports HD
+https://cdn-lineup-redundancy.vos360.video/Content/HLS/Live/channel(e3d2e8ee-a55c-a0e2-287a-bbb3dade38ea)/04_1p1.m3u8
 
 
 
