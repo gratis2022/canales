@@ -882,15 +882,19 @@
 			"image": "https://i.imgur.com/66lxeXn.png",
 			"url":"https://cdnz.one/ch43.php",
             "isHost" : "true"
-		 }, {
+		 }, 
+		 
+		 
+		 
+		 {
 			"name": "PPV WWE: Friday Night Smackdown | LAT",
 			"image": "https://i.imgur.com/QVtPPdl.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
+	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
 		"userAgent" : ""
                     }, {
 			"name": "PPV WWE: Friday Night Smackdown | LAT",
 			"image": "https://i.imgur.com/QVtPPdl.png",
-	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
 		"userAgent" : ""
                     }, {
 			"name": "PPV WWE: Friday Night Smackdown | LAT",
@@ -913,7 +917,11 @@
              "image": "https://i.imgur.com/QVtPPdl.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
 			 "isHost":"true"
-                      }, {
+                      }, 
+		      
+		      
+		      
+		      {
 			"name": "PPV WWE: NXT | EN",
              "image": "https://i.imgur.com/BL8lXDh.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
@@ -923,12 +931,41 @@
              "image": "https://i.imgur.com/BL8lXDh.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
 			 "isHost":"true"
+                      },
+		      
+		      
+		      {
+			"name": "PPV UFC Fight Night | LAT",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
+	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+		"userAgent" : ""
+                    }, {
+			"name": "PPV UFC Fight Night | LAT",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
+	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
+		"userAgent" : ""
+                    },{
+			"name": "PPV UFC Fight Night | LAT",
+             "image": "https://i.imgur.com/t2Wn2rO.png",
+           "url" :  "https://pelotero.net/ver/foxsports2.php",
+	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV UFC Fight Night | LAT",
+             "image": "https://i.imgur.com/t2Wn2rO.png",
+           "url" :  "https://www.tutele.sx/online.php?a=133",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV UFC Fight Night ovo | PT",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "http://www.ovostreams.com/ufc-fight-night-santos-vs-ankalaev-live-stream.php",
+			 "isHost":"true"
                       }, {
 			"name": "PPV UFC Fight Night sp | EN",
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true"
-                      },  {
+                      }, {
 			"name": "PPV UFC Fight Night  pa| EN",
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://elixx.xyz/partizan.html",
@@ -948,12 +985,7 @@
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
 			 "isHost":"true"
-                      }, {
-			"name": "PPV UFC Fight Night ovo | PT",
-             "image": "https://i.imgur.com/IXPSmGc.png",
-           "url" :  "http://www.ovostreams.com/ufc-fight-night-santos-vs-ankalaev-live-stream.php",
-			 "isHost":"true"
-                      }, {
+                      },  {
 			"name": "PPV UFC Fight Night bub | PT",
              "image": "https://i.imgur.com/IXPSmGc.png",
            "url" :  "http://dubznetwork.com/meet/mma/ufc-fight-night-santos-vs-ankalaev-12march/",
