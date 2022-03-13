@@ -442,77 +442,77 @@
            "url" :  "https://macron.xyz/player/1/114",
 			 "isHost":"true" 
                       }, {
-			"name": "La Liga por M+ (opc.2) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "La Liga por M+ (opc.3) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			 "url" : "https://ragnarp.net/embed/j7z1ypmmxi8p",
               "referer" : "https://macron.xyz/",
               "isHost" : "true"
                      }, {
-			"name": "La Liga por M+ (opc.4) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
 			 "referer": "https://cdnz.one/",
              "isHost": "true" 
                     },   {
-			"name":"La Liga por M+ (opc.5) | ES 🇪🇸",
+			"name":"La Liga por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
            	"url": "https://ragnarp.net/embed/a092om",
 			"referer": "https://1rowsports.com/",
              "isHost": "true"
                }, {
-			"name": "La Liga por M+ (opc.6) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			 "url": "https://sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
            }, {
-			"name": "La Liga por M+ (opc.7) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
              "url": "http://emb.apl118.me/player/live.php?id=177662&w=728&h=450",
 			"isHost" : "true"
                   },  {
-			"name": "La Liga por M+ (opc.8) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
          "url": "http://emb.x177655.apl118.me/player/live.php?id=177655&w=728&h=450",
 			"isHost": "true"
                      }, {
-			"name": "La Liga por M+ (opc.9) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.8) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.10) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.9) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.11) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.10) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.12) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.11) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.13) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.12) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.14) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.13) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.15) | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.14) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
@@ -537,12 +537,12 @@
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
             }, {
-			"name": "PPV La Liga  (opc.1) | ES 🇪🇸",
+			"name": "PPV La Liga  (solo partidos) | ES 🇪🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "PPV La Liga (opc.2) | EN 🇺🇸",
+			"name": "PPV La Liga (solo partidos) | EN 🇺🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8",
 		"userAgent" : ""
