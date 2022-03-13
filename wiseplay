@@ -20,6 +20,16 @@
                 "url": "https://starlive.xyz/",
                 "embed":"true"  
         	  }, {
+			"name": "Estadio TNT Chile p (opc.1) | LAT 🇨🇱",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://es6.sportplus.live/football/28298/3297070/",
+         	   "isHost" : "true"
+           	 }, {
+			"name": "Estadio TNT Chile pp (opc.1) | LAT 🇨🇱",
+			"image": "https://i.imgur.com/ma78IEH.png",
+			"url":"https://m.sportsbay.sx/ver/chile-primera-division-audax-vs-palestino.html",
+         	   "isHost" : "true"
+           	 }, {
 			"name": "Estadio TNT Chile (opc.1) | LAT 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
