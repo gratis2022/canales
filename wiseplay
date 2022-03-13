@@ -488,7 +488,7 @@
              "url": "http://emb.apl118.me/player/live.php?id=177662&w=728&h=450",
 			"isHost" : "true"
                   },  {
-			"name": "La Liga por M+ 8| ES 🇪🇸",
+			"name": "La Liga por M+ 8 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
          "url": "http://emb.x177655.apl118.me/player/live.php?id=177655&w=728&h=450",
 			"isHost": "true"
@@ -508,7 +508,7 @@
 			"url":"https://starlive.xyz/embed.php?id=live5m",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ 12  | ES 🇪🇸",
+			"name": "La Liga por M+ 12 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6m",
             "isHost" : "true"
@@ -528,21 +528,26 @@
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
             }, {
-			"name": "la Liga TV Bar| ES 🇪🇸",
+			"name": "la Liga TV Bar | ES 🇪🇸",
 			"image": "https://i.imgur.com/1o92EFs.png",
 	        "url": "https://starlive.xyz/embed.php?id=live6",
 		"userAgent" : ""
                     },  {
-			"name": "la Liga TV Bar| ES 🇪🇸",
+			"name": "la Liga TV Bar | ES 🇪🇸",
 			"image": "https://i.imgur.com/1o92EFs.png",
 	        "url": "https://starlive.xyz/embed.php?id=live6m",
 		"userAgent" : ""
                     },  {
-			"name": "la Liga TV Bar| ES 🇪🇸",
+			"name": "la Liga TV Bar | ES 🇪🇸",
 			"image": "https://i.imgur.com/1o92EFs.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             },  {
+			"name": "la Liga TV Bar | UK 🇬🇧",
+			"image": "https://i.imgur.com/1o92EFs.png",
+			"url":"http://timesports.cc/laligauk.php",
+            "isHost" : "true"
+            }, {
 			"name": "Gol TV 1 | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
