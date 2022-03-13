@@ -423,6 +423,31 @@
            "url" :  "https://v2.sportsonline.to/channels/hd/hd6.php",
 			 "isHost":"true" 
                       }, {
+			"name": "TUDN 7 | LAT 🇲🇽",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://macron.xyz/player/1/47",
+			 "isHost":"true" 
+                      }, {
+			"name": "TUDN 8 | LAT 🇲🇽",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://macron.xyz/player/1/100",
+			 "isHost":"true" 
+                      }, {
+			"name": "TUDN 9 | LAT 🇲🇽",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://macron.xyz/player/1/111",
+			 "isHost":"true" 
+                      }, {
+			"name": "TUDN 10 | LAT 🇲🇽",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://macron.xyz/player/1/113",
+			 "isHost":"true" 
+                      }, {
+			"name": "TUDN 11 | LAT 🇲🇽",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+           "url" :  "https://macron.xyz/player/1/114",
+			 "isHost":"true" 
+                      }, {
 			"name": "La Liga por M+ 1 | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 	        "url": "http://ultratotal.ddns.net/xls/champiota/index.m3u8",
