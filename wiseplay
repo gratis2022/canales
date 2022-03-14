@@ -354,35 +354,40 @@
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "Win Sports Plus (opc.1) | LAT 🇪🇨",
+			"name": "Gol Tv Ecuador | LAT 🇪🇨",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://macron.xyz/player/1/102",
+		"userAgent" : ""
+                    }, {
+			"name": "Win Sports Plus (opc.1) | LAT 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://pelotero.net/ver/winsportsmas.php",
 	   "referer": "https://cablegratis.online/win-sports-mas-premium-cccccc-hd-online-vip-vip.html",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus (opc.2) | LAT 🇪🇨",
+			"name": "Win Sports Plus (opc.2) | LAT 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://futbolfullenvivo.com/ver-channel-win-sports-en-vivo/",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus (opc.3) | LAT 🇪🇨",
+			"name": "Win Sports Plus (opc.3) | LAT 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://www.tutele.sx/online.php?a=3305",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus (opc.4) | LAT 🇪🇨",
+			"name": "Win Sports Plus (opc.4) | LAT 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
              },  {
-			"name": "Win Sports Plus (opc.5) | LAT 🇪🇨",
+			"name": "Win Sports Plus (opc.5) | LAT 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "Win Sports Plus (opc.6) | LAT 🇪🇨",
+			"name": "Win Sports Plus (opc.6) | LAT 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://macron.xyz/player/1/120",
 			 "isHost":"true"
