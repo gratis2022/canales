@@ -822,11 +822,16 @@
 			 "isHost":"true"
                       },  {
 			"name": "Bein Sports HD (opc.4) | EN 🇺🇸",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sports HD (opc.5) | EN 🇺🇸",
 			"image": "https://i.imgur.com/XpU4D9m.png",
             "url" : "http://timesports.cc/beinsportusa.php",
 			"isHost": "true"
                      }, {
-			"name": "Bein Sports HD |(opc.5)  EN 🇺🇸",
+			"name": "Bein Sports HD |(opc.6)  EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
