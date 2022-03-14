@@ -905,6 +905,21 @@
 			"url":"http://timesports.cc/skysportsfootball.php",
             "isHost" : "true"
 		 }, {
+              "name": "Sky Sports Football (opc.3) | UK 🇬🇧",
+			"image": "https://i.imgur.com/ALTPlpT.png",
+			"url":"https://www.tutele.sx/online.php?a=145",
+            "isHost" : "true"
+		 }, {
+			"name": "Sky Sport Uno | EN 🇺🇸",
+			"image": "https://i.imgur.com/8eGsFAe.png",
+	        "url": "https://starlive.xyz/embed.php?id=live1",
+		"userAgent" : ""
+                    }, {
+			"name": "Sky Sport Uno | EN 🇺🇸",
+			"image": "https://i.imgur.com/8eGsFAe.png",
+	        "url": "https://starlive.xyz/embed.php?id=live1",
+		"userAgent" : ""
+                    }, {
               "name": "Super Sport Premier League (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"http://timesports.cc/supersportspremier.php",
@@ -975,16 +990,6 @@
 			"name": "Tennis Channel (opc.3) | EN 🇺🇸",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://c787898.com/embed.php?id=live28",
-		"userAgent" : ""
-                    }, {
-			"name": "Sky Sport Uno | EN 🇺🇸",
-			"image": "https://i.imgur.com/8eGsFAe.png",
-	        "url": "https://starlive.xyz/embed.php?id=live1",
-		"userAgent" : ""
-                    }, {
-			"name": "Sky Sport Uno | EN 🇺🇸",
-			"image": "https://i.imgur.com/8eGsFAe.png",
-	        "url": "https://starlive.xyz/embed.php?id=live1",
 		"userAgent" : ""
                     }, {
 			"name": "PPV WWE: Friday Night Smackdown (opc.1) | MX 🇲🇽",
