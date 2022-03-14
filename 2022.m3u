@@ -41,8 +41,10 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="LA LIGA",•●★-- 📺 LA LIGA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",PPV ULTRA TOTAL | ES
-http://ultratotal.ddns.net/xls/champiota/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",PPV la Liga (solo partidos) | ES
+http://loga.ultratotal.ml/xls/ligota/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",PPV la Liga (solo partidos) | EN
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="LA LIGA",ESPN 2 | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="LA LIGA",ESPN 2 | AR
@@ -53,8 +55,7 @@ http://50.7.34.155:2201/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3V
 http://154.62.74.11:1935/live/realmadridnntv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://statics.proyectoclubes.com/images/header/logo-las-palmas.png?20211130091706" group-title="LA LIGA",UD Las Palmas
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",PPV la Liga (solo partidos) | EN
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
+
 
 #EXTINF:1,-CHAMPIONS LEAGUE-
 
