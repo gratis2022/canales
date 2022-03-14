@@ -326,7 +326,7 @@
            "url" :  "https://c787898.com/embed.php?id=livefoxpremium",
 			 "isHost":"true"
                       }, {
-			"name": "FOX SPORTS PREMIUM (opc.2) | LAT 🇦🇷",
+			"name": "FOX SPORTS PREMIUM (opc.3) | LAT 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://starlive.xyz/embed.php?id=livefoxpremium",
 			 "isHost":"true"
@@ -539,16 +539,6 @@
             }, {
 			"name": "La Liga por M+ (opc.12) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://starlive.xyz/embed.php?id=live5m",
-            "isHost" : "true"
-            }, {
-			"name": "La Liga por M+ (opc.13) | ES 🇪🇸",
-			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://starlive.xyz/embed.php?id=live6m",
-            "isHost" : "true"
-            },  {
-			"name": "La Liga por M+ (opc.14) | ES 🇪🇸",
-			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
             }, {
@@ -561,13 +551,8 @@
 			"image": "https://i.imgur.com/1o92EFs.png",
 	        "url": "https://starlive.xyz/embed.php?id=live6",
 		"userAgent" : ""
-                    },  {
-			"name": "la Liga TV Bar (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/1o92EFs.png",
-	        "url": "https://starlive.xyz/embed.php?id=live6m",
-		"userAgent" : ""
                     }, {
-			"name": "la Liga TV Bar (opc.4) | UK 🇬🇧",
+			"name": "la Liga TV Bar (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/1o92EFs.png",
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
@@ -778,11 +763,6 @@
 	        "url": "https://starlive.xyz/embed.php?id=live28",
 		"userAgent" : ""
                     }, {
-			"name": "Tennis Channel (opc.3) | EN 🇺🇸",
-			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
-	        "url": "https://starlive.xyz/embed.php?id=live28m",
-		"userAgent" : ""
-                    }, {
 			"name": "Sky Sport Uno Tennis (opc.1) | EN 🇺🇸",
 			"image": "https://i.imgur.com/8eGsFAe.png",
 	        "url": "https://c787898.com/embed.php?id=live1",
@@ -833,12 +813,12 @@
 		}, {
 			"name": "SKY Sports Formula 1 (opc.3) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://starlive.xyz/embed.php?id=live29m",
+            "url" : "https://starlive.xyz/embed.php?id=live29",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.4) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://starlive.xyz/embed.php?id=live1m",
+            "url" : "https://starlive.xyz/embed.php?id=live1",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.5) | IT 🇮🇹",
