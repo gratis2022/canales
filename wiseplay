@@ -1057,6 +1057,46 @@
 	        "url": "https://c787898.com/embed.php?id=live28",
 		"userAgent" : ""
                     }, {
+			"name": "PPV NBA  (opc.1) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.2) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd2.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.3) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.4) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.5) | BR 🇧🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.6) | BR 🇧🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv2.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.7) | BR 🇧🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.8) | BR 🇧🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv4.php",
+			 "isHost":"true"
+                      }, {
 			"name": "PPV WWE: Friday Night Smackdown (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/QVtPPdl.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
