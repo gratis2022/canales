@@ -382,6 +382,11 @@
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
+			"name": "Win Sports Plus (opc.6) | LAT 🇪🇨",
+             "image": "https://i.imgur.com/NwKPC6B.png",
+           "url" :  "https://macron.xyz/player/1/120",
+			 "isHost":"true"
+                      }, {
 			"name": "Claro Sports | LAT 🇲🇽",
 			"image": "https://i.imgur.com/BAHebvo.png",
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
