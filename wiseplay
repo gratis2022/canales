@@ -738,16 +738,6 @@
 	        "url": "https://c787898.com/embed.php?id=live27m",
 		"userAgent" : ""
                     }, {
-			"name": "Tennis Channel (opc.1) | EN 🇺🇸",
-			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
-	        "url": "https://starlive.xyz/embed.php?id=live28",
-		"userAgent" : ""
-                    }, {
-			"name": "Tennis Channel (opc.2) | EN 🇺🇸",
-			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
-	        "url": "https://starlive.xyz/embed.php?id=live28m",
-		"userAgent" : ""
-                    }, {
 			"name": "Tennis Channel (opc.3) | EN 🇺🇸",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://c787898.com/embed.php?id=live28",
@@ -967,6 +957,26 @@
 			"url": "https://v2.sportsonline.to/channels/bra/br3.php",
              "isHost": "true"
          }, {
+			"name": "Tennis Channel (opc.1) | EN 🇺🇸",
+			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
+	        "url": "https://starlive.xyz/embed.php?id=live28",
+		"userAgent" : ""
+                    }, {
+			"name": "Tennis Channel (opc.2) | EN 🇺🇸",
+			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
+	        "url": "https://starlive.xyz/embed.php?id=live28m",
+		"userAgent" : ""
+                    }, {
+			"name": "Sky Sport Uno | EN 🇺🇸",
+			"image": "https://i.imgur.com/8eGsFAe.png",
+	        "url": "https://starlive.xyz/embed.php?id=live1",
+		"userAgent" : ""
+                    }, {
+			"name": "Sky Sport Uno | EN 🇺🇸",
+			"image": "https://i.imgur.com/8eGsFAe.png",
+	        "url": "https://starlive.xyz/embed.php?id=live1",
+		"userAgent" : ""
+                    }, {
 			"name": "PPV WWE: Friday Night Smackdown (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/QVtPPdl.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
