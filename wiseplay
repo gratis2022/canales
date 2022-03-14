@@ -67,6 +67,11 @@
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
           	  "isHost" : "true"
+           	   },  {
+			"name": "TNT Sports Argentina (opc.3) | LAT 🇦🇷",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://c787898.com/embed.php?id=tntsports",
+          	  "isHost" : "true"
            	   }, {
 			"name": "TNT Sports Argentina (opc.3) | LAT 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
@@ -89,18 +94,18 @@
           	 "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
                       }, {
-			"name": "Bein Sport Ñ (opc.4) | LAT 🇺🇸",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-			"url": "https://starlive.xyz/embed.php?id=live10",
-           	 "referer" : "https://starlive.xyz/",
-           	  "isHost": "true"
-           	  }, {
 			"name": "Bein Sport Ñ (opc.5) | LAT 🇺🇸",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://c787898.com/embed.php?id=live10",
           	  "referer" : "https://c787898.com.html",
           	   "isHost": "true"
           	   }, {
+			"name": "Bein Sport Ñ (opc.4) | LAT 🇺🇸",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://starlive.xyz/embed.php?id=live10",
+           	 "referer" : "https://starlive.xyz/",
+           	  "isHost": "true"
+           	  },  {
 			"name": "Bein Sport Ñ (opc.6) | LAT 🇺🇸",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://c787898.com/embed.php?id=live18",
@@ -313,6 +318,11 @@
                     }, {
 			"name": "FOX SPORTS PREMIUM (opc.2) | LAT 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
+           "url" :  "https://c787898.com/embed.php?id=livefoxpremium",
+			 "isHost":"true"
+                      }, {
+			"name": "FOX SPORTS PREMIUM (opc.2) | LAT 🇦🇷",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://starlive.xyz/embed.php?id=livefoxpremium",
 			 "isHost":"true"
                       }, {
@@ -504,34 +514,34 @@
                      }, {
 			"name": "La Liga por M+ (opc.8) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://starlive.xyz/embed.php?id=live5",
+			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
 			"name": "La Liga por M+ (opc.9) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://starlive.xyz/embed.php?id=live6",
+			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
 			"name": "La Liga por M+ (opc.10) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://starlive.xyz/embed.php?id=live5m",
+			"url":"https://starlive.xyz/embed.php?id=live5",
             "isHost" : "true"
             }, {
 			"name": "La Liga por M+ (opc.11) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://starlive.xyz/embed.php?id=live6m",
+			"url":"https://starlive.xyz/embed.php?id=live6",
             "isHost" : "true"
             }, {
 			"name": "La Liga por M+ (opc.12) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://c787898.com/embed.php?id=live5",
+			"url":"https://starlive.xyz/embed.php?id=live5m",
             "isHost" : "true"
             }, {
 			"name": "La Liga por M+ (opc.13) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://c787898.com/embed.php?id=live6",
+			"url":"https://starlive.xyz/embed.php?id=live6m",
             "isHost" : "true"
-            }, {
+            },  {
 			"name": "La Liga por M+ (opc.14) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://elixx.xyz/apsg.html",
@@ -539,19 +549,19 @@
             }, {
 			"name": "la Liga TV Bar (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/1o92EFs.png",
-	        "url": "https://starlive.xyz/embed.php?id=live6",
-		"userAgent" : ""
-                    },  {
+			"url":"https://c787898.com/embed.php?id=live6",
+            "isHost" : "true"
+            }, {
 			"name": "la Liga TV Bar (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/1o92EFs.png",
-	        "url": "https://starlive.xyz/embed.php?id=live6m",
+	        "url": "https://starlive.xyz/embed.php?id=live6",
 		"userAgent" : ""
                     },  {
 			"name": "la Liga TV Bar (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/1o92EFs.png",
-			"url":"https://c787898.com/embed.php?id=live6",
-            "isHost" : "true"
-            },  {
+	        "url": "https://starlive.xyz/embed.php?id=live6m",
+		"userAgent" : ""
+                    }, {
 			"name": "la Liga TV Bar (opc.4) | UK 🇬🇧",
 			"image": "https://i.imgur.com/1o92EFs.png",
 			"url":"http://timesports.cc/laligauk.php",
@@ -745,7 +755,7 @@
                       }, {
 			"name": "Deportes por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
-	        "url": "https://starlive.xyz/embed.php?id=live27",
+	        "url": "https://c787898.com/embed.php?id=live27",
 		"userAgent" : ""
                     }, {
 			"name": "Deportes por M+ (opc.5) | ES 🇪🇸",
@@ -753,46 +763,41 @@
 	        "url": "https://starlive.xyz/embed.php?id=live27",
 		"userAgent" : ""
                     }, {
-			"name": "Deportes por M+ (opc.6) | ES 🇪🇸",
-			"image": "https://i.imgur.com/OJqxHKo.png",
-	        "url": "https://c787898.com/embed.php?id=live27m",
-		"userAgent" : ""
-                    },  {
 			"name": "Tennis Channel (opc.1) | EN 🇺🇸",
-			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
-	        "url": "https://starlive.xyz/embed.php?id=live28",
-		"userAgent" : ""
-                    }, {
-			"name": "Tennis Channel (opc.2) | EN 🇺🇸",
-			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
-	        "url": "https://starlive.xyz/embed.php?id=live28m",
-		"userAgent" : ""
-                    }, {
-			"name": "Tennis Channel (opc.3) | EN 🇺🇸",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://c787898.com/embed.php?id=live28",
 		"userAgent" : ""
                     }, {
-			"name": "Sky Sport Uno Tennis (opc.1) | EN 🇺🇸",
-			"image": "https://i.imgur.com/8eGsFAe.png",
-	        "url": "https://starlive.xyz/embed.php?id=live1",
+			"name": "Tennis Channel (opc.2) | EN 🇺🇸",
+			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
+	        "url": "https://starlive.xyz/embed.php?id=live28",
 		"userAgent" : ""
                     }, {
-			"name": "Sky Sport Uno Tennis (opc.2) | EN 🇺🇸",
+			"name": "Tennis Channel (opc.3) | EN 🇺🇸",
+			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
+	        "url": "https://starlive.xyz/embed.php?id=live28m",
+		"userAgent" : ""
+                    }, {
+			"name": "Sky Sport Uno Tennis (opc.1) | EN 🇺🇸",
 			"image": "https://i.imgur.com/8eGsFAe.png",
 	        "url": "https://c787898.com/embed.php?id=live1",
 		"userAgent" : ""
                     }, {
+			"name": "Sky Sport Uno Tennis (opc.2) | EN 🇺🇸",
+			"image": "https://i.imgur.com/8eGsFAe.png",
+	        "url": "https://starlive.xyz/embed.php?id=live1",
+		"userAgent" : ""
+                    }, {
 			"name": "DAZN Formula 1 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
-			"url": "https://starlive.xyz/embed.php?id=live30",
+			"url": "https://c787898.com/embed.php?id=30",
              "isHost": "true"
              }, {
 			"name": "DAZN Formula 1 (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
-			"url": "https://c787898.com/embed.php?id=30",
+			"url": "https://starlive.xyz/embed.php?id=live30",
              "isHost": "true"
-             }, {   
+             },  {   
                  "name": "DAZN Formula 1 (opc.3) | ES 🇪🇸",
                     "image": "https://i.imgur.com/U7lLcbT.jpg",
                      "url": "http://emb.x177234.apl118.me/player/live.php?id=177234&w=728&h=450",
@@ -813,22 +818,22 @@
         }, {
 			"name": "SKY Sports Formula 1 (opc.1) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://starlive.xyz/embed.php?id=live29m",
+            "url" : "https://c787898.com/embed.php?id=live1",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.2) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://starlive.xyz/embed.php?id=live1m",
+            "url" : "https://c787898.com/embed.php?id=live29",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.3) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://c787898.com/embed.php?id=live1",
+            "url" : "https://starlive.xyz/embed.php?id=live29m",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.4) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://c787898.com/embed.php?id=live29",
+            "url" : "https://starlive.xyz/embed.php?id=live1m",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.5) | IT 🇮🇹",
@@ -845,15 +850,15 @@
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://cdnz.one/ch49.php",
 			"isHost": "true"
-                     }, {
+                     },  {
 			"name": "Bein Sports HD (opc.1) | EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
-           "url" :  "https://starlive.xyz/embed.php?id=live19",
+           "url" :  "https://c787898.com/embed.php?id=live19",
 			 "isHost":"true"
                       }, {
 			"name": "Bein Sports HD (opc.2) | EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
-           "url" :  "https://c787898.com/embed.php?id=live19",
+           "url" :  "https://starlive.xyz/embed.php?id=live19",
 			 "isHost":"true"
                       }, {
 			"name": "Bein Sports HD (opc.3) | EN 🇺🇸",
@@ -913,24 +918,24 @@
 		 }, {
               "name": "Now Sports Premier League (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/d0PItKo.png",
-			"url":"https://starlive.xyz/embed.php?id=live11",
+			"url":"https://c787898.com/embed.php?id=live11",
             "isHost" : "true"
 		 }, {
               "name": "Now Sports Premier League (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/d0PItKo.png",
-			"url":"https://c787898.com/embed.php?id=live11",
+			"url":"https://starlive.xyz/embed.php?id=live11",
             "isHost" : "true"
-		 }, {
+		 },  {
               "name": "Sky Sports Football (opc.1) | UK 🇬🇧",
-			"image": "https://i.imgur.com/ALTPlpT.png",
-			"url":"https://starlive.xyz/embed.php?id=live2",
-            "isHost" : "true"
-		 }, {
-              "name": "Sky Sports Football (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/ALTPlpT.png",
 			"url":"https://c787898.com/embed.php?id=live2",
             "isHost" : "true"
 		 }, {
+              "name": "Sky Sports Football (opc.2) | UK 🇬🇧",
+			"image": "https://i.imgur.com/ALTPlpT.png",
+			"url":"https://starlive.xyz/embed.php?id=live2",
+            "isHost" : "true"
+		 },   {
               "name": "Sky Sports Football (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/ALTPlpT.png",
 			"url":"http://timesports.cc/skysportsfootball.php",
@@ -943,14 +948,14 @@
 		 }, {
               "name": "Super Sport Football (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
-			"url":"https://starlive.xyz/embed.php?id=live10m",
+			"url":"https://c787898.com/embed.php?id=live10",
             "isHost" : "true"
 		 }, {
               "name": "Super Sport Football (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
-			"url":"https://c787898.com/embed.php?id=live10",
+			"url":"https://starlive.xyz/embed.php?id=live10m",
             "isHost" : "true"
-		 }, {
+		 },  {
               "name": "Super Sport Football (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"http://timesports.cc/supersportsfootball.php",
