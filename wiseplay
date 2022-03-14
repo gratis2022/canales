@@ -357,7 +357,12 @@
 			"name": "Gol Tv Ecuador | LAT 🇪🇨",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 	        "url": "https://macron.xyz/player/1/102",
-		"userAgent" : ""
+		 "isHost":"true"
+                    }, {
+			"name": "Star+ Ecuador | LAT 🇪🇨",
+			"image": "https://i.imgur.com/ZesPLU3.png",
+	        "url": "https://macron.xyz/player/1/121",
+		 "isHost":"true"
                     }, {
 			"name": "Win Sports Plus (opc.1) | LAT 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
