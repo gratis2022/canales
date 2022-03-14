@@ -902,22 +902,27 @@
 		 }, {
               "name": "Sky Sports Football (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/ALTPlpT.png",
-			"url":"http://timesports.cc/skysportsfootball.php",
+			"url":"https://c787898.com/embed.php?id=live2",
             "isHost" : "true"
 		 }, {
               "name": "Sky Sports Football (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/ALTPlpT.png",
+			"url":"http://timesports.cc/skysportsfootball.php",
+            "isHost" : "true"
+		 }, {
+              "name": "Sky Sports Football (opc.4) | UK 🇬🇧",
+			"image": "https://i.imgur.com/ALTPlpT.png",
 			"url":"https://www.tutele.sx/online.php?a=145",
             "isHost" : "true"
 		 }, {
-			"name": "Sky Sport Uno | EN 🇺🇸",
+			"name": "Sky Sport Uno (opc.1) | EN 🇺🇸",
 			"image": "https://i.imgur.com/8eGsFAe.png",
 	        "url": "https://starlive.xyz/embed.php?id=live1",
 		"userAgent" : ""
                     }, {
-			"name": "Sky Sport Uno | EN 🇺🇸",
+			"name": "Sky Sport Uno (opc.2) | EN 🇺🇸",
 			"image": "https://i.imgur.com/8eGsFAe.png",
-	        "url": "https://starlive.xyz/embed.php?id=live1",
+	        "url": "https://c787898.com/embed.php?id=live1",
 		"userAgent" : ""
                     }, {
               "name": "Super Sport Football (opc.1) | UK 🇬🇧",
@@ -927,10 +932,15 @@
 		 }, {
               "name": "Super Sport Football (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
-			"url":"http://timesports.cc/supersportsfootball.php",
+			"url":"https://c787898.com/embed.php?id=live10",
             "isHost" : "true"
 		 }, {
               "name": "Super Sport Football (opc.3) | UK 🇬🇧",
+			"image": "https://i.imgur.com/8pKu1bh.png",
+			"url":"http://timesports.cc/supersportsfootball.php",
+            "isHost" : "true"
+		 }, {
+              "name": "Super Sport Football (opc.4) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"https://www.tutele.sx/online.php?a=186",
             "isHost" : "true"
@@ -945,14 +955,24 @@
 			"url":"https://www.tutele.sx/online.php?a=187",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier La Liga | UK 🇬🇧",
+              "name": "Super Sport Premier La Liga (opc.1) | UK 🇬🇧",
+			"image": "https://i.imgur.com/MnZnAPI.png",
+			"url":"http://timesports.cc/laligauk.php",
+            "isHost" : "true"
+		 }, {
+              "name": "Super Sport Premier La Liga (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"https://www.tutele.sx/online.php?a=153",
             "isHost" : "true"
 		 }, {
-              "name": "Now Sport Premiers League | UK 🇬🇧",
+              "name": "Now Sport Premiers League (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/d0PItKo.png",
 			"url":"https://starlive.xyz/embed.php?id=live11",
+            "isHost" : "true"
+		 }, {
+              "name": "Now Sport Premiers League (opc.2) | UK 🇬🇧",
+			"image": "https://i.imgur.com/d0PItKo.png",
+			"url":"https://c787898.com/embed.php?id=live11",
             "isHost" : "true"
 		 }, {
 			"name": "Sport Tv 1 | PT 🇵🇹",
