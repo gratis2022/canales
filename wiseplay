@@ -1002,6 +1002,16 @@
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
          }, {
+			"name": "Sport Tv 4 | PT 🇵🇹",
+             "image": "https://i.imgur.com/hsFXLeF.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv4.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Sport Tv 5 | PT 🇵🇹",
+             "image": "https://i.imgur.com/PcK7Dub.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv5.php",
+			 "isHost":"true"
+                      }, {
 			"name": "PPV Futbol Brasileño 1 | BR 🇧🇷",
 			"image": "https://i.imgur.com/AFN3H0m.png",
 			"url": "https://v2.sportsonline.to/channels/bra/br1.php",
