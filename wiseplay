@@ -960,12 +960,17 @@
 			"url":"https://www.tutele.sx/online.php?a=187",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier La Liga (opc.1) | UK 🇬🇧",
+              "name": "Super Sport La Liga (opc.1) | UK 🇬🇧",
+			"image": "https://i.imgur.com/MnZnAPI.png",
+			"url":"https://v2.sportsonline.to/channels/hd/hd5.php",
+            "isHost" : "true"
+		 }, {
+              "name": "Super Sport La Liga (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier La Liga (opc.2) | UK 🇬🇧",
+              "name": "Super Sport La Liga (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"https://www.tutele.sx/online.php?a=153",
             "isHost" : "true"
