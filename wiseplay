@@ -1083,44 +1083,44 @@
 	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "PPV NBA  (opc.5) | UK 🇬🇧",
-             "image": "https://i.imgur.com/Z4rLQC8.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV NBA  (opc.6) | UK 🇬🇧",
-             "image": "https://i.imgur.com/Z4rLQC8.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd2.php",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV NBA  (opc.7) | UK 🇬🇧",
-             "image": "https://i.imgur.com/Z4rLQC8.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV NBA  (opc.8) | UK 🇬🇧",
-             "image": "https://i.imgur.com/Z4rLQC8.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
-			 "isHost":"true"
-                      }, {
-			"name": "PPV NBA  (opc.9) | BR 🇧🇷",
+			"name": "PPV NBA  (opc.5) | BR 🇧🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.10) | BR 🇧🇷",
+			"name": "PPV NBA  (opc.6) | BR 🇧🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv2.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.11) | BR 🇧🇷",
+			"name": "PPV NBA  (opc.7) | BR 🇧🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.12) | BR 🇧🇷",
+			"name": "PPV NBA  (opc.8) | BR 🇧🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv4.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.9) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.10) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd2.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.11) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.12) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
 			 "isHost":"true"
                       }, {
 			"name": "PPV WWE: Friday Night Smackdown (opc.1) | MX 🇲🇽",
