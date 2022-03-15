@@ -7,8 +7,13 @@
 "url": "https://raw.githubusercontent.com/gratis2022/canales/main/wiseplay",
 
     
- "stations": [
+ "stations": [ 
  {
+			"name": "Bein Sport Extra Ñ | LAT 🇲🇽",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
+			"userAgent" : ""
+                    }, {
 			"name": "Bein Sport Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
            	 "url" : "http://timesports.cc/beinsportes.php",
@@ -54,11 +59,11 @@
 			"url": "https://starlive.xyz/embed.php?id=live18",
           	   "isHost": "true"
            	  }, {
-			"name": "Bein Sport Extra Ñ | LAT 🇲🇽",
-			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
-			"userAgent" : ""
-                    },  {
+			"name": "Bein Sport Ñ (opc.9) | LAT 🇲🇽",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://cdnz.one/ch40.php",
+          	   "isHost": "true"
+           	  }, {
 			"name": "Bein Sports HD (opc.1) | EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://c787898.com/embed.php?id=live19",
