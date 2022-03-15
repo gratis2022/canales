@@ -8,7 +8,18 @@
 
     
  "stations": [ 
- {
+
+{
+			"name": "Manchester Utd vs Atl. Madrid FHD | EN 🇺🇸",
+			"image": "https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",
+           	 "url" : "http://www.ovostreams.com/manchester-utd-vs-atl-madrid-games1.php",
+			"isHost": "true"
+                     }, {
+			"name": "Ajax vs Benfica FHD | EN 🇺🇸",
+			"image": "https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",
+           	 "url" : "http://www.ovostreams.com/manchester-utd-vs-atl-madrid-games2.php",
+			"isHost": "true"
+                     }, {
 			"name": "Bein Sport Extra Ñ | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
