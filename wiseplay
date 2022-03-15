@@ -602,6 +602,11 @@
 			"url":"https://www.tutele.sx/online.php?a=153",
             "isHost" : "true"
 		 }, {
+              "name": "Super Sport La Liga (opc.4) | UK 🇬🇧",
+			"image": "https://i.imgur.com/MnZnAPI.png",
+			"url":"https://futbolfullenvivo.com/ver-channel-laligatv-uk-en-vivo/",
+            "isHost" : "true"
+		 }, {
 			"name": "Gol TV (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
@@ -725,7 +730,12 @@
                      "url": "http://emb.x178323.apl118.me/player/live.php?id=178323&w=728&h=450",
                "isHost" : "true"
                  }, {   
-                 "name": "DAZN 1 (opc.5) | IT 🇮🇹",
+                 "name": "DAZN 1 (opc.5) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+                     "url": "https://futbolfullenvivo.com/ver-channel-dazn-1-online-en-directo/",
+               "isHost" : "true"
+                 }, {   
+                 "name": "DAZN 1 (opc.6) | IT 🇮🇹",
                     "image": "https://i.imgur.com/NcXEpiv.png",
                      "url": "https://v2.sportsonline.to/channels/hd/hd7.php",
                "isHost" : "true"
