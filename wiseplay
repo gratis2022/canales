@@ -681,6 +681,11 @@
              }, {
 			"name": "Liga de Campeones por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
+        "url" : "https://macron.xyz/player/1/64",
+			  "isHost" : "true"
+                 }, {
+			"name": "Liga de Campeones por M+ (opc.7) | ES 🇪🇸",
+			"image": "https://i.imgur.com/wiLQCUD.png",
         "url" : "https://cdnz.one/ch10.php",
 			  "isHost" : "true"
                  }, {
