@@ -363,6 +363,11 @@
            "url" :  "https://www.tutele.sx/online.php?a=1204",
 			 "isHost":"true"
                       }, {
+			"name": "Gol Peru | LAT 🇵🇪🇷",
+             "image": "https://i.imgur.com/xvHtnbT.jpg",
+           "url" :  "https://futbolfullenvivo.com/ver-channel-gol-peru-en-vivo/",
+			 "isHost":"true"
+                      }, {
 			"name": "VTV Plus (opc.1) | LAT 🇺🇾",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
            "url" :  "https://pelotero.net/ver/vtv.php",
