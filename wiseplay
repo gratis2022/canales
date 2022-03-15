@@ -174,10 +174,20 @@
                     "image": "https://i.imgur.com/NcXEpiv.png",
                      "url": "https://v2.sportsonline.to/channels/hd/hd7.php",
                "isHost" : "true"
+                 },  {   
+                 "name": "DAZN 1 (opc.7) | IT 🇮🇹",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+                     "url": "https://cdnz.one/ch29.php",
+               "isHost" : "true"
                  }, {   
-                 "name": "DAZN 2 | ES 🇪🇸",
+                 "name": "DAZN 2 (opc.1) | ES 🇪🇸",
                     "image": "https://i.imgur.com/N5mzib9.png",
                      "url": "https://futbolfullenvivo.com/ver-channel-dazn-2-online-en-directo/",
+               "isHost" : "true"
+                 }, {   
+                 "name": "DAZN 2 (opc.2) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/N5mzib9.png",
+                     "url": "https://cdnz.one/ch30.php",
                "isHost" : "true"
                  }, {
 			"name": "DAZN Formula 1 (opc.1) | ES 🇪🇸",
