@@ -10,12 +10,12 @@
  "stations": [ 
 
 {
-			"name": "PPV Champions League FHD 1 | EN 🇺🇸",
+			"name": "PPV Champions League FHD 1 | AR 🇦🇷",
 			"image": "https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",
            	 "url" : "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8",
 			"userAgent" : ""
                      }, {
-			"name": "PPV Champions League FHD 2 | EN 🇺🇸",
+			"name": "PPV Champions League FHD 2 | AR 🇦🇷",
 			"image": "https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",
            	 "url" : "http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8",
 			"userAgent" : ""
