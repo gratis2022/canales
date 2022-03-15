@@ -379,14 +379,19 @@
            "url" :  "https://futbolfullenvivo.com/ver-channel-vtv-en-vivo/",
 			 "isHost":"true"
                       }, {
-			"name": "Gol Tv Ecuador | LAT 🇪🇨",
+			"name": "Gol Tv Ecuador (opc.1) | LAT 🇪🇨",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "Gol Tv Ecuador | LAT 🇪🇨",
+			"name": "Gol Tv Ecuador (opc.2) | LAT 🇪🇨",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 	        "url": "https://macron.xyz/player/1/102",
+		 "isHost":"true"
+                    }, {
+			"name": "Gol Tv Ecuador (opc.3) | LAT 🇪🇨",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://futbolfullenvivo.com/ver-channel-goltv-en-vivo/",
 		 "isHost":"true"
                     }, {
 			"name": "Star+ Ecuador | LAT 🇪🇨",
