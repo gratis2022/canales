@@ -1009,11 +1009,6 @@
            "url" :  "https://macron.xyz/player/1/114",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.12) | MX 🇲🇽",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://maxsport.one/stream66.php",
-			 "isHost":"true" 
-                      }, {
 			"name": "TYC Sports (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/I7Lhgej.png",
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8",
