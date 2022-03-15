@@ -665,6 +665,11 @@
                "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
                  }, {
+			"name": "Liga de Campeones por M+ (opc.7) | ES 🇪🇸",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+        "url" : "https://cdnz.one/ch10.php",
+			  "isHost" : "true"
+                 }, {
               "name": "Now Sports Premier League (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/d0PItKo.png",
 			"url":"https://c787898.com/embed.php?id=live11",
