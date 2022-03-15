@@ -12,24 +12,12 @@
 {
 			"name": "PPV Champions League FHD 1 | EN 🇺🇸",
 			"image": "https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",
-           	 "url" : "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vmgVT-TxDhkv8XF3Inkfc_li_4OMOOa9yRUzFs5bD81yTDT5BIy_XPWG0zUOiSKhMP4R3WBrlhSoktA7j72uUw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+           	 "url" : "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8",
 			"userAgent" : ""
                      }, {
 			"name": "PPV Champions League FHD 2 | EN 🇺🇸",
 			"image": "https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",
-           	 "url" : "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/yKcfV65VfnwyPUOu_9Lx_4QPRi4b23SsCSD_YebVBNsAoFH2zZhRhZDwTaAEbFnWmdatWQ7GikJbXBL-R8Mzzw/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-			"userAgent" : ""
-                     }, 
-		     
-		     {
-			"name": "PPV Champions League FHD 1 | EN 🇺🇸",
-			"image": "https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",
-           	 "url" : "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/gQdrhKpbLDgdgyoXwAvTvhBnN9T4V7ieCYTgCT7-dSmhWzu5_S3Oo7EAy9u9kSPM7PPdwLmPvJqlVUPA5SaGgA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8",
-			"userAgent" : ""
-                     }, {
-			"name": "PPV Champions League FHD 2 | EN 🇺🇸",
-			"image": "https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",
-           	 "url" : "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/J98cdz0RH0dFUr1WX8AwHMc_6818VYke2Lh0zW4gINbIeAhT57LTCyOspam8Q3edGQvQnrj_Hsm2MQmzuuCSyA/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live",
+           	 "url" : "http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8",
 			"userAgent" : ""
                      }, {
 			"name": "Bein Sport Extra Ñ | LAT 🇲🇽",
