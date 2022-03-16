@@ -10,12 +10,7 @@
     
   "stations": [ 
 
- {
-			"name": "PPV Juventus vs Villarreal FHD | ES 🇪🇸",
-			"image": "https://i.imgur.com/F7rt7u0.png",
-           	 "url" : "https://v2.sportsonline.to/channels/hd/hd6.php",
-			"isHost": "true"
-                     }, {
+  {
 			"name": "PPV Juventus vs Villarreal FHD | ES 🇪🇸",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "https://cdnz.one/ch10.php",
@@ -28,7 +23,7 @@
                      },  {
 			"name": "PPV Juventus vs Villarreal FHD | ES 🇪🇸",
 			"image": "https://i.imgur.com/F7rt7u0.png",
-           	 "url" : "https://macron.xyz/player/1/107",
+           	 "url" : "https://v2.sportsonline.to/channels/hd/hd6.php",
 			"isHost": "true"
                      }, {
 			"name": "PPV Juventus vs Villarreal FHD | LAT 🇦🇷",
