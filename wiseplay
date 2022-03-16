@@ -16,10 +16,20 @@
            	 "url" : "https://v2.sportsonline.to/channels/hd/hd6.php",
 			"isHost": "true"
                      }, {
+			"name": "PPV Juventus vs Villarreal FHD | ES 🇪🇸",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "https://cdnz.one/ch10.php",
+			"isHost": "true"
+                     }, {
 			"name": "PPV Juventus vs Villarreal FHD | LAT 🇦🇷",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
 			"userAgent" : ""
+                     }, {
+			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "https://cdnz.one/ch19.php",
+			"isHost": "true"
                      }, {
 			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
 			"image": "https://i.imgur.com/F7rt7u0.png",
