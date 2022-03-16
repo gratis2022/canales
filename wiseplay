@@ -31,6 +31,16 @@
            	 "url" : "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
 			"userAgent" : ""
                      }, {
+			"name": "PPV Juventus vs Villarreal FHD p | LAT 🇦🇷",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "http://127.0.0.1:6878/ace/m/0d6064355c92b04acca1982e3c9a81c719d0ecca/04edb2092e1b6a0ab0279e0023e6edb9.m3u8",
+			"userAgent" : ""
+                     },  {
+			"name": "PPV Juventus vs Villarreal FHD pp | ES 🇪🇸",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "http://127.0.0.1:6878/ace/m/0d6064355c92b04acca1982e3c9a81c719d0ecca/04edb2092e1b6a0ab0279e0023e6edb9.m3u8",
+			"isHost": "true"
+                     }, {
 			"name": "PPV Lille vs Celsea FHD 1 | MX 🇲🇽",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "https://cdnz.one/ch19.php",
