@@ -11,42 +11,37 @@
   "stations": [ 
 
   {
-			"name": "PPV Juventus vs Villarreal FHD | ES 🇪🇸",
+			"name": "PPV Juventus vs Villarreal FHD 1 | ES 🇪🇸",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "https://cdnz.one/ch10.php",
 			"isHost": "true"
                      }, {
-			"name": "PPV Juventus vs Villarreal FHD | ES 🇪🇸",
+			"name": "PPV Juventus vs Villarreal FHD 2 | ES 🇪🇸",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "https://macron.xyz/player/1/64",
 			"isHost": "true"
                      },  {
-			"name": "PPV Juventus vs Villarreal FHD | ES 🇪🇸",
+			"name": "PPV Juventus vs Villarreal FHD 3 | ES 🇪🇸",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "https://v2.sportsonline.to/channels/hd/hd6.php",
 			"isHost": "true"
                      }, {
-			"name": "PPV Juventus vs Villarreal FHD | LAT 🇦🇷",
+			"name": "PPV Juventus vs Villarreal FHD 4 | LAT 🇦🇷",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
 			"userAgent" : ""
                      }, {
-			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
+			"name": "PPV Lille vs Celsea FHD 1 | MX 🇲🇽",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "https://cdnz.one/ch19.php",
 			"isHost": "true"
                      }, {
-			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
+			"name": "PPV Lille vs Celsea FHD 2 | ES 🇪🇸",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "https://macron.xyz/player/1/65",
 			"isHost": "true"
                      }, {
-			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
-			"image": "https://i.imgur.com/F7rt7u0.png",
-           	 "url" : "https://macron.xyz/player/1/83",
-			"isHost": "true"
-                     }, {
-			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
+			"name": "PPV Lille vs Celsea FHD 3 | LAT 🇦🇷",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
 			"userAgent" : ""
