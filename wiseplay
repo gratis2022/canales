@@ -1,30 +1,15 @@
+  
 {
 
-"name": "⚽ "SOLO DEPORTES" ⚽",
+"name": "⚽ SOLO DEPORTES ⚽",
  "author": "📺 "Play TV" (Actualizado 16/03/2022) 📺",
  "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/gratis2022/canales/main/wiseplay",
 
     
- "stations": [ 
-
-{
-			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
-			"image": "https://i.imgur.com/F7rt7u0.png",
-           	 "url" : "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8",
-			"userAgent" : ""
-                     }, {
-			"name": "PPV Juventus vs Villarreal FHD | LAT 🇦🇷",
-			"image": "https://i.imgur.com/F7rt7u0.png",
-           	 "url" : "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
-			"userAgent" : ""
-                     }, {
-			"name": "Bein Sport Extra Ñ | LAT 🇲🇽",
-			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
-			"userAgent" : ""
-                    }, {
+ "stations": [
+ {
 			"name": "Bein Sport Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
            	 "url" : "http://timesports.cc/beinsportes.php",
@@ -70,11 +55,11 @@
 			"url": "https://starlive.xyz/embed.php?id=live18",
           	   "isHost": "true"
            	  }, {
-			"name": "Bein Sport Ñ (opc.9) | LAT 🇲🇽",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-			"url": "https://cdnz.one/ch40.php",
-          	   "isHost": "true"
-           	  }, {
+			"name": "Bein Sport Extra Ñ | LAT 🇲🇽",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
+			"userAgent" : ""
+                    },  {
 			"name": "Bein Sports HD (opc.1) | EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://c787898.com/embed.php?id=live19",
@@ -190,20 +175,10 @@
                     "image": "https://i.imgur.com/NcXEpiv.png",
                      "url": "https://v2.sportsonline.to/channels/hd/hd7.php",
                "isHost" : "true"
-                 },  {   
-                 "name": "DAZN 1 (opc.7) | IT 🇮🇹",
-                    "image": "https://i.imgur.com/NcXEpiv.png",
-                     "url": "https://cdnz.one/ch29.php",
-               "isHost" : "true"
                  }, {   
-                 "name": "DAZN 2 (opc.1) | ES 🇪🇸",
+                 "name": "DAZN 2 | ES 🇪🇸",
                     "image": "https://i.imgur.com/N5mzib9.png",
                      "url": "https://futbolfullenvivo.com/ver-channel-dazn-2-online-en-directo/",
-               "isHost" : "true"
-                 }, {   
-                 "name": "DAZN 2 (opc.2) | ES 🇪🇸",
-                    "image": "https://i.imgur.com/N5mzib9.png",
-                     "url": "https://cdnz.one/ch30.php",
                "isHost" : "true"
                  }, {
 			"name": "DAZN Formula 1 (opc.1) | ES 🇪🇸",
@@ -265,11 +240,6 @@
 			"name": "Deportes por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://macron.xyz/player/1/67",
-		"userAgent" : ""
-                    }, {
-			"name": "Deportes por M+ (opc.7) | ES 🇪🇸",
-			"image": "https://i.imgur.com/OJqxHKo.png",
-	        "url": "https://cdnz.one/ch21.php",
 		"userAgent" : ""
                     }, {
 			"name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
@@ -692,12 +662,8 @@
              }, {
 			"name": "Liga de Campeones por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
-        "url" : "https://macron.xyz/player/1/64",
-			  "isHost" : "true"
-                 }, {
-			"name": "Liga de Campeones por M+ (opc.7) | ES 🇪🇸",
-			"image": "https://i.imgur.com/wiLQCUD.png",
-        "url" : "https://cdnz.one/ch10.php",
+        "url" : "https://maxsport.one/laliga.php",
+               "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
                  }, {
               "name": "Now Sports Premier League (opc.1) | UK 🇬🇧",
