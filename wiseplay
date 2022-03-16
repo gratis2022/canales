@@ -10,17 +10,17 @@
     
   "stations": [ 
 
-{
-			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
-			"image": "https://i.imgur.com/F7rt7u0.png",
-           	 "url" : "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
-			"userAgent" : ""
-                     }, {
+ {
 			"name": "PPV Juventus vs Villarreal FHD | LAT 🇦🇷",
 			"image": "https://i.imgur.com/F7rt7u0.png",
            	 "url" : "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
 			"userAgent" : ""
                      }, {
+			"name": "PPV Lille vs Celsea FHD | LAT 🇦🇷",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
+			"userAgent" : ""
+                     },{
 			"name": "Bein Sport Extra Ñ | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
