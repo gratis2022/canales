@@ -332,71 +332,41 @@
            "url" :  "https://www.tutele.sx/online.php?a=1",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN Paraguay (opc.5) | PA 🇵🇾",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8",
-		"userAgent" : ""
-                    }, {
 			"name": "ESPN 2 Argentina (opc.1) | AR 🇦🇷",
-			"image": "https://i.imgur.com/jq1s4to.png",
-	        "url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "ESPN 2 Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
 	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
+			"name": "ESPN 2 Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://www.tutele.sx/online.php?a=2",
 			 "isHost":"true"
-                      },  {
-			"name": "ESPN 2 Paraguay (opc.4) | PA 🇵🇾",
-			"image": "https://i.imgur.com/jq1s4to.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "ESPN 3 Argentina |(opc.1)  AR 🇦🇷",
-			"image": "https://i.imgur.com/iFqCpKj.png",
-	        "url": "http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "ESPN 3 Argentina (opc.2) | AR 🇦🇷",
+                      }, {
+			"name": "ESPN 3 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://pelotero.net/ver/espn3.php",
 	   "referer": "https://cablegratis.online/espn-3-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 Argentina (opc.3) | AR 🇦🇷",
+			"name": "ESPN 3 Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "http://timesports.cc/espn3sur.php",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 Argentina (opc.4) | AR 🇦🇷",
+			"name": "ESPN 3 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 4 Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/G9nJy7y.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "ESPN Extra Argentina (opc.1) | AR 🇦🇷",
-			"image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "ESPN Extra Argentina (opc.2) | AR 🇦🇷",
+			"name": "ESPN Extra Argentina | AR 🇦🇷",
              "image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
            "url" :  "http://timesports.cc/espn2sur.php",
 			 "isHost":"true"
                       }, {
 			"name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/CF5il5c.png",
-	        "url": "http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8",
 		"userAgent" : ""
                     }, {
 			"name": "Fox Sports Argentina (opc.2) | AR 🇦🇷",
@@ -423,7 +393,7 @@
                     }, {
 			"name": "Fox Sports 2 Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/t2Wn2rO.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
 		"userAgent" : ""
                     }, {
 			"name": "Fox Sports 2 Argentina (opc.2) | AR 🇦🇷",
@@ -444,7 +414,7 @@
                     }, {
 			"name": "Fox Sports 3 Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/VxIZXH9.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8",
 		"userAgent" : ""
                     }, {
 			"name": "Fox Sports 3 Mexico (opc.2) | MX 🇲🇽",
@@ -453,27 +423,22 @@
 		"userAgent" : ""
                     }, {
 			"name": "Fox Sports Premium (opc.1) | AR 🇦🇷",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "Fox Sports Premium (opc.2) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://c787898.com/embed.php?id=livefoxpremium",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Premium (opc.3) | AR 🇦🇷",
+			"name": "Fox Sports Premium (opc.2) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://starlive.xyz/embed.php?id=livefoxpremium",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Premium (opc.4) | AR 🇦🇷",
+			"name": "Fox Sports Premium (opc.3) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://pelotero.net/ver/foxsportspremium.php",
 	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Premium (opc.5) | AR 🇦🇷",
+			"name": "Fox Sports Premium (opc.4) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://www.tutele.sx/online.php?a=5",
 			 "isHost":"true"
@@ -947,27 +912,22 @@
 			"isHost": "true" 
            	  }, {
 			"name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "TNT Sports Argentina (opc.2) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
          	  "url" :  "https://pelotero.net/ver/tntsports.php",
 	  	 "referer": "https://cablegratis.online/tnt-sports-en-vivo-argentina-vip-tu-casa.html",
 			 "isHost":"true"
                       }, {
-			"name": "TNT Sports Argentina (opc.3) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
           	  "isHost" : "true"
            	   },  {
-			"name": "TNT Sports Argentina (opc.4) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.3) | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://c787898.com/embed.php?id=tntsports",
           	  "isHost" : "true"
            	   }, {
-			"name": "TNT Sports Argentina (opc.5) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.4) | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://starlive.xyz/embed.php?id=livetntsport",
           	  "isHost" : "true"
@@ -1120,62 +1080,52 @@
 		"userAgent" : ""
                     }, {
 			"name": "PPV NBA  (opc.1) | LAT 🇦🇷",
-			"image": "https://i.imgur.com/Z4rLQC8.png",
-	        "url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "PPV NBA  (opc.2) | LAT 🇦🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
 	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.3) | LAT 🇦🇷",
+			"name": "PPV NBA  (opc.2) | LAT 🇦🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://www.tutele.sx/online.php?a=2",
 			 "isHost":"true"
                       },  {
-			"name": "PPV NBA  (opc.4) | LAT 🇵🇾",
-			"image": "https://i.imgur.com/Z4rLQC8.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "PPV NBA  (opc.5) | BR 🇧🇷",
+			"name": "PPV NBA  (opc.3) | BR 🇧🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.6) | BR 🇧🇷",
+			"name": "PPV NBA  (opc.4) | BR 🇧🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv2.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.7) | BR 🇧🇷",
+			"name": "PPV NBA  (opc.5) | BR 🇧🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.8) | BR 🇧🇷",
+			"name": "PPV NBA  (opc.6) | BR 🇧🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv4.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.9) | UK 🇬🇧",
+			"name": "PPV NBA  (opc.7) | UK 🇬🇧",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.10) | UK 🇬🇧",
+			"name": "PPV NBA  (opc.8) | UK 🇬🇧",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd2.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.11) | UK 🇬🇧",
+			"name": "PPV NBA  (opc.9) | UK 🇬🇧",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
 			 "isHost":"true"
                       }, {
-			"name": "PPV NBA  (opc.12) | UK 🇬🇧",
+			"name": "PPV NBA  (opc.10) | UK 🇬🇧",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
 			 "isHost":"true"
@@ -1187,7 +1137,7 @@
                     }, {
 			"name": "PPV WWE: Friday Night Smackdown (opc.2) | LAT 🇦🇷",
 			"image": "https://i.imgur.com/QVtPPdl.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
 		"userAgent" : ""
                     }, {
 			"name": "PPV WWE: Friday Night Smackdown (opc.3) | LAT 🇦🇷",
@@ -1228,7 +1178,7 @@
                     }, {
 			"name": "PPV UFC Fight Night (opc.2) | LAT 🇦🇷",
 			"image": "https://i.imgur.com/IXPSmGc.png",
-	        "url": "http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
 		"userAgent" : ""
                     },{
 			"name": "PPV UFC Fight Night (opc.3) | LAT 🇦🇷",
