@@ -424,23 +424,23 @@
                     }, {
 			"name": "Fox Sports Premium (opc.1) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
-           "url" :  "https://c787898.com/embed.php?id=livefoxpremium",
+           "url" :  "https://www.tutele.sx/online.php?a=5",
 			 "isHost":"true"
                       }, {
 			"name": "Fox Sports Premium (opc.2) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
-           "url" :  "https://starlive.xyz/embed.php?id=livefoxpremium",
+           "url" :  "https://c787898.com/embed.php?id=livefoxpremium",
 			 "isHost":"true"
                       }, {
 			"name": "Fox Sports Premium (opc.3) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
-           "url" :  "https://pelotero.net/ver/foxsportspremium.php",
-	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
+           "url" :  "https://starlive.xyz/embed.php?id=livefoxpremium",
 			 "isHost":"true"
                       }, {
 			"name": "Fox Sports Premium (opc.4) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
-           "url" :  "https://www.tutele.sx/online.php?a=5",
+           "url" :  "https://pelotero.net/ver/foxsportspremium.php",
+	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
 			 "isHost":"true"
                       }, {
 			"name": "Futbol Brasileño PPV 1 | BR 🇧🇷",
