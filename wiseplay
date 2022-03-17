@@ -353,11 +353,6 @@
            "url" :  "https://pelotero.net/ver/espn2.php",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 Argentina (opc.3) ppfl | AR 🇦🇷",
-             "image": "https://i.imgur.com/jq1s4to.png",
-           "url" :  "https://futbollatam.com/en-vivo/espn-2/",
-			 "isHost":"true"
-                      }, {
 			"name": "ESPN 3 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://pelotero.net/ver/espn3.php",
@@ -1098,7 +1093,11 @@
 			"image": "https://i.imgur.com/0r7t82v.jpg",
 	        "url": "https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8",
 		"userAgent" : ""
-                    }, {
+                    }, 
+		    
+		    
+		    
+		    {
 			"name": "PPV NBA  (opc.1) | LAT 🇦🇷",
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
@@ -1149,7 +1148,11 @@
              "image": "https://i.imgur.com/Z4rLQC8.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
 			 "isHost":"true"
-                      }, {
+                      }, 
+		      
+		      
+		      
+		      {
 			"name": "PPV WWE: Friday Night Smackdown (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/QVtPPdl.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
@@ -1180,7 +1183,11 @@
              "image": "https://i.imgur.com/QVtPPdl.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true"
-                      }, {
+                      }, 
+		      
+		      
+		      
+		      {
 			"name": "PPV WWE: NXT (opc.1) | PT 🇵🇹",
              "image": "https://i.imgur.com/BL8lXDh.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
@@ -1190,7 +1197,11 @@
              "image": "https://i.imgur.com/BL8lXDh.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true"
-                      }, {
+                      }, 
+		      
+		      
+		      
+		      {
 			"name": "PPV UFC Fight Night (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/IXPSmGc.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
