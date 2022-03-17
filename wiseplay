@@ -327,7 +327,12 @@
            "url" :  "http://timesports.cc/espn1sur.php",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN Argentina |(opc.4)  AR 🇦🇷",
+			"name": "ESPN Argentina (opc.4) | AR 🇦🇷",
+             "image": "https://i.imgur.com/MFhpD4D.png",
+           "url" :  "https://pelotero.net/ver/espn.php",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN Argentina |(opc.5)  AR 🇦🇷",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://www.tutele.sx/online.php?a=1",
 			 "isHost":"true"
@@ -343,9 +348,14 @@
            "url" :  "https://www.tutele.sx/online.php?a=2",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 Argentina (opc.3) p | AR 🇦🇷",
+			"name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN 2 Argentina (opc.3) pp | AR 🇦🇷",
+             "image": "https://i.imgur.com/jq1s4to.png",
+           "url" :  "https://maxsport.one/stream150.php",
 			 "isHost":"true"
                       }, {
 			"name": "ESPN 3 Argentina (opc.1) | AR 🇦🇷",
@@ -362,6 +372,11 @@
 			"name": "ESPN 3 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://www.tutele.sx/online.php?a=3",
+			 "isHost":"true"
+                      },{
+			"name": "ESPN 3 Argentina (opc.4) | AR 🇦🇷",
+             "image": "https://i.imgur.com/iFqCpKj.png",
+           "url" :  "https://pelotero.net/ver/espn3.php",
 			 "isHost":"true"
                       }, {
 			"name": "ESPN Extra Argentina | AR 🇦🇷",
