@@ -343,12 +343,18 @@
 	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 Argentina (opc.2) | AR 🇦🇷",
+                  "name": "ESPN 2 Argentina (opc.2) | AR 🇦🇷",
+                    "image": "https://i.imgur.com/jq1s4to.png",
+                    "url": "https://cloudstream.to/e/olq87c7ym5a",
+                      "referer" : "https://pelotero.net/",
+                     "isHost" : "true"
+                 }, {
+			"name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://www.tutele.sx/online.php?a=2",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
+			"name": "ESPN 2 Argentina (opc.4) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
 			 "isHost":"true"
